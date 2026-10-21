@@ -1,0 +1,2390 @@
+{
+ "zone": 14,
+ "zone_name": "Perungudi",
+ "zonal_office": null,
+ "officials": [
+  {
+   "designation": "Zonal Officer",
+   "name": null,
+   "wards": "41,42,43/181-191",
+   "phones": [
+    "9445190014"
+   ],
+   "category": "zone"
+  },
+  {
+   "designation": "Executive Engineer–I",
+   "name": null,
+   "wards": "14",
+   "phones": [
+    "9445190034"
+   ],
+   "category": "zone"
+  },
+  {
+   "designation": "Executive Engineer–II",
+   "name": null,
+   "wards": "14",
+   "phones": [
+    "9445026083"
+   ],
+   "category": "zone"
+  },
+  {
+   "designation": "Assistant Executive Engineer",
+   "name": null,
+   "wards": "41",
+   "phones": [
+    "9445190141"
+   ],
+   "category": "ward"
+  },
+  {
+   "designation": "Assistant Executive Engineer",
+   "name": null,
+   "wards": "42",
+   "phones": [
+    "9445190142"
+   ],
+   "category": "ward"
+  },
+  {
+   "designation": "Assistant Executive Engineer",
+   "name": null,
+   "wards": "43",
+   "phones": [
+    "9445190143"
+   ],
+   "category": "ward"
+  },
+  {
+   "designation": "Assistant Executive Engineer",
+   "name": null,
+   "wards": "SWM",
+   "phones": [
+    "9445910971"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Assistant Executive Engineer",
+   "name": null,
+   "wards": "Special Projects",
+   "phones": [
+    "9445026079"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Additional Divisional Engineer, Electrical",
+   "name": null,
+   "wards": "14",
+   "phones": [
+    "9445190054"
+   ],
+   "category": "electrical"
+  },
+  {
+   "designation": "Assistant Executive Engineer, Mechanical",
+   "name": null,
+   "wards": "14",
+   "phones": [
+    "9445190484",
+    "9445190490",
+    "9094046132"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Conservancy Supervisor",
+   "name": null,
+   "wards": "U-41",
+   "phones": [
+    "9445191441"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Conservancy Supervisor",
+   "name": null,
+   "wards": "U-42",
+   "phones": [
+    "9445191442"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Conservancy Supervisor",
+   "name": null,
+   "wards": "U-43",
+   "phones": [
+    "9445191443"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Zonal Health Officer",
+   "name": null,
+   "wards": "14",
+   "phones": [
+    "9445190074"
+   ],
+   "category": "health"
+  },
+  {
+   "designation": "Sanitary Officer",
+   "name": null,
+   "wards": "U-41",
+   "phones": [
+    "9445025985"
+   ],
+   "category": "health"
+  },
+  {
+   "designation": "Sanitary Officer",
+   "name": null,
+   "wards": "U-42",
+   "phones": [
+    "9445191400"
+   ],
+   "category": "health"
+  },
+  {
+   "designation": "Sanitary Officer",
+   "name": null,
+   "wards": "U-43",
+   "phones": [
+    "9445190841"
+   ],
+   "category": "health"
+  },
+  {
+   "designation": "Vetinary surgeon",
+   "name": null,
+   "wards": "Z-14",
+   "phones": [
+    "9445026043"
+   ],
+   "category": "health"
+  },
+  {
+   "designation": "Junior Entomologist",
+   "name": null,
+   "wards": "Z-14",
+   "phones": [
+    "9445190475"
+   ],
+   "category": "health"
+  },
+  {
+   "designation": "Park Overseer",
+   "name": null,
+   "wards": "Entire Perungudi Zone",
+   "phones": [
+    "9445071062"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Assistant Engineer (Transport Equipments & Lorries)",
+   "name": null,
+   "wards": null,
+   "phones": [
+    "9445026115"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "The Commandant, 04, Battalion (NDRF), Suraksha Campus, Takkolam, Arakkonam, Vellore District – 631 152",
+   "name": null,
+   "wards": null,
+   "phones": [
+    "04177-246594",
+    "04177-246269"
+   ],
+   "category": "other"
+  }
+ ],
+ "inundation_streets": [
+  {
+   "ward": 181,
+   "street": "L.P Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area, it is an Aquifer area",
+   "page": 729
+  },
+  {
+   "ward": 181,
+   "street": "Jaganathan Street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area, it is an Aquifer area",
+   "page": 729
+  },
+  {
+   "ward": 181,
+   "street": "Lakshmi Vathana Street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "7.5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area, it is an Aquifer area",
+   "page": 729
+  },
+  {
+   "ward": 181,
+   "street": "Sri Venkateshwara Nagar 9th St",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area, it is an Aquifer area",
+   "page": 729
+  },
+  {
+   "ward": 181,
+   "street": "KalyaniNimalan Street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area, it is an Aquifer area",
+   "page": 729
+  },
+  {
+   "ward": 181,
+   "street": "Kaveri Nagar 6th Street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "45 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area, it is an Aquifer area",
+   "page": 729
+  },
+  {
+   "ward": 181,
+   "street": "Kaveri Nagar 5th Street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "45 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area, it is an Aquifer area",
+   "page": 729
+  },
+  {
+   "ward": 181,
+   "street": "Bay Watch Road",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "100 HP / Elec, 45 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area, it is an Aquifer area",
+   "page": 729
+  },
+  {
+   "ward": 181,
+   "street": "Swaminathan Nagar Streets",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Due to raising of B Canal Water level back flow",
+   "page": 729
+  },
+  {
+   "ward": 181,
+   "street": "Natco Colony",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Due to raising of B Canal Water level back flow",
+   "page": 729
+  },
+  {
+   "ward": 182,
+   "street": "Maruthi Nagar 1st main road",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "SWD Issue",
+   "page": 729
+  },
+  {
+   "ward": 182,
+   "street": "Maruthi Nagar 2nd main road",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "SWD Issue",
+   "page": 729
+  },
+  {
+   "ward": 182,
+   "street": "Maruthi Nagar 5th cross street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "SWD Issue",
+   "page": 729
+  },
+  {
+   "ward": 182,
+   "street": "Senthil Nagar 5th cross street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "2 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "SWD Issue",
+   "page": 729
+  },
+  {
+   "ward": 182,
+   "street": "OMR(Junction of MGR Salai)",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "45 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low Lying area",
+   "page": 729
+  },
+  {
+   "ward": 183,
+   "street": "VGP Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 HP / Elec",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low Lying area",
+   "page": 729
+  },
+  {
+   "ward": 183,
+   "street": "Palakalai Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "50 HP /Tractor",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "SWD Issue",
+   "page": 729
+  },
+  {
+   "ward": 183,
+   "street": "Jaishanakar Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "10 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "SWD Issue",
+   "page": 729
+  },
+  {
+   "ward": 183,
+   "street": "Govindhan Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 HP / Diesel, 50 HP / Tractor",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "SWD Issue",
+   "page": 729
+  },
+  {
+   "ward": 183,
+   "street": "Kandasamy Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "4 / HP",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low Lying area",
+   "page": 730
+  },
+  {
+   "ward": 183,
+   "street": "Mayana Salai",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "50 / HP",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low Lying area",
+   "page": 730
+  },
+  {
+   "ward": 184,
+   "street": "Panchayat office road",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low Lying area",
+   "page": 730
+  },
+  {
+   "ward": 184,
+   "street": "Thirumalai Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low Lying area",
+   "page": 730
+  },
+  {
+   "ward": 184,
+   "street": "Saravananagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low Lying area",
+   "page": 730
+  },
+  {
+   "ward": 184,
+   "street": "Kumaran Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low Lying area",
+   "page": 730
+  },
+  {
+   "ward": 184,
+   "street": "Seevaram 1st and 2nd street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low Lying area",
+   "page": 730
+  },
+  {
+   "ward": 184,
+   "street": "Selvaganapathy avenue",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low Lying area",
+   "page": 730
+  },
+  {
+   "ward": 184,
+   "street": "Rajiv nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low Lying area",
+   "page": 730
+  },
+  {
+   "ward": 184,
+   "street": "Janakiraman Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low Lying area",
+   "page": 730
+  },
+  {
+   "ward": 184,
+   "street": "Kamarajar Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low Lying area",
+   "page": 730
+  },
+  {
+   "ward": 184,
+   "street": "Periyar Salai",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low Lying area",
+   "page": 730
+  },
+  {
+   "ward": 184,
+   "street": "Nethaji Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low Lying area",
+   "page": 730
+  },
+  {
+   "ward": 184,
+   "street": "Kallukuttai",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Canal Blockage",
+   "page": 730
+  },
+  {
+   "ward": 185,
+   "street": "Kuberan Munusamy Street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "50 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "SWD Disposal",
+   "page": 730
+  },
+  {
+   "ward": 185,
+   "street": "Lakshmi Nagar 5th Street Extn",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low Lying area",
+   "page": 730
+  },
+  {
+   "ward": 185,
+   "street": "Balaji Avenue",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low Lying area",
+   "page": 730
+  },
+  {
+   "ward": 185,
+   "street": "Giri Street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": null,
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low Lying area",
+   "page": 730
+  },
+  {
+   "ward": 185,
+   "street": "Kasturibai street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": null,
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low Lying area",
+   "page": 730
+  },
+  {
+   "ward": 185,
+   "street": "Balaji Nagar 10th street Extn",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "No Storm Water Drain",
+   "page": 730
+  },
+  {
+   "ward": 186,
+   "street": "New India Colony",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "50 HP / Tractor",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Disposal end of Veerangal odai overflow",
+   "page": 730
+  },
+  {
+   "ward": 186,
+   "street": "Mageswari Avenue",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "10 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Disposal end of Veerangal odai overflow",
+   "page": 730
+  },
+  {
+   "ward": 186,
+   "street": "Jaya Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "10 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "No Storm Water Drain",
+   "page": 730
+  },
+  {
+   "ward": 186,
+   "street": "Ram Nagar (North)",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 HP / Diesel (2 no’s)",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Disposal end of Veerangal odai overflow",
+   "page": 730
+  },
+  {
+   "ward": 186,
+   "street": "Balaji Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Disposal end of Veerangal odai overflow",
+   "page": 731
+  },
+  {
+   "ward": 187,
+   "street": "Deivanai Nagar 2nd street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 187,
+   "street": "Deivanai Nagar 3rd street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "50 HP / Tractor",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 187,
+   "street": "Bharath Street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 188,
+   "street": "Anna Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 188,
+   "street": "Meenakshi Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "50 HP / Tractor",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 188,
+   "street": "Arumugam Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 188,
+   "street": "Kuberan nagar Extn",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 188,
+   "street": "Ram Nagar (south)",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 188,
+   "street": "LIC Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 188,
+   "street": "Sadasivam Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 188,
+   "street": "Lakshmi Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "10 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 189,
+   "street": "Rajesh Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 189,
+   "street": "Nageswari Amman Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 189,
+   "street": "Ma Po Si Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 189,
+   "street": "Kamakotti Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 189,
+   "street": "SaiBalaj Nagar Part – 1",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "50 HP / Tractor",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 189,
+   "street": "Veppampattu",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "50 HP / Tractor",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 189,
+   "street": "Sai Baba Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "50 HP / Tractor",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 189,
+   "street": "Pudhuthangal",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "50HP / Tractor",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 189,
+   "street": "Malligeswaran Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "50HP / Tractor",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 189,
+   "street": "Anna M.G.R Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "50HP / Tractor",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 189,
+   "street": "Dr. Ambedkar street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "50HP / Tractor",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 189,
+   "street": "Labour colony",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "50HP / Tractor",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 189,
+   "street": "NagathammanKoil Street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "50HP / Tractor",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 189,
+   "street": "Troppical colony",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 189,
+   "street": "Seevas Avenue",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 189,
+   "street": "AGS Colony",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 189,
+   "street": "Dhanam Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 189,
+   "street": "Arun Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "50HP / Tractor",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 731
+  },
+  {
+   "ward": 189,
+   "street": "Kamatchiyamman Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "50HP / Tractor",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 732
+  },
+  {
+   "ward": 189,
+   "street": "Quidemillath Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "50HP / Tractor",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 732
+  },
+  {
+   "ward": 190,
+   "street": "SaiBalaji Nagar 2nd to 4th Part (21Roads",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "50HP / Tractor",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 732
+  },
+  {
+   "ward": 190,
+   "street": "Pasumpon Nagar (3 Roads)",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "10 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 732
+  },
+  {
+   "ward": 190,
+   "street": "PampanSamy Nagar (3Roads)",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "10 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 732
+  },
+  {
+   "ward": 190,
+   "street": "Sri Nagar (3 Roads)",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "7.5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 732
+  },
+  {
+   "ward": 190,
+   "street": "VallalPari Nagar (4 Roads)",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "10 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 732
+  },
+  {
+   "ward": 190,
+   "street": "Rajalakshmi Nagar 7th Street extn (Ranganathapuram) (1 Road)",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "10 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Near Marsh land",
+   "page": 732
+  },
+  {
+   "ward": 191,
+   "street": "Sai Ganesh Nagar (35Nos Cross street & 6 main road) 41 streets",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "50HP / Tractor",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Near Marsh land",
+   "page": 732
+  },
+  {
+   "ward": 191,
+   "street": "Pandiyan Nagar (2Nos Main road & 7Nos cross street) 9 streets",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "50HP / Tractor",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Lake",
+   "page": 732
+  },
+  {
+   "ward": 191,
+   "street": "Nesavalar Nagar (12 Streets)",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Lake",
+   "page": 732
+  },
+  {
+   "ward": 191,
+   "street": "Padmavathi Nagar (6 streets)",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 732
+  },
+  {
+   "ward": 191,
+   "street": "Masuthi street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 732
+  },
+  {
+   "ward": 191,
+   "street": "Manickam street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 732
+  },
+  {
+   "ward": 191,
+   "street": "Quaide Millath street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "6.5 HP / Diesel",
+   "pump_location": null,
+   "disposal_point": null,
+   "reason": "Low lying area",
+   "page": 732
+  }
+ ],
+ "water_stagnation": [],
+ "relief_centres": [
+  {
+   "ward": 185,
+   "name": "ST Thomas Primary School (Nanganallur)",
+   "capacity": 200,
+   "streets_to_shift": "Madhialagan street, Kamaraj street, Gandhi street, kannagi street, Nehru street",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI",
+     "responsibility": "Sanitation, Medicine",
+     "phones": [
+      "9445025983"
+     ]
+    },
+    {
+     "designation": "AE",
+     "responsibility": "Evacuation",
+     "phones": [
+      "9445190781"
+     ]
+    },
+    {
+     "designation": "ARO",
+     "responsibility": "Food & Drinking water",
+     "phones": [
+      "9445190094"
+     ]
+    },
+    {
+     "designation": "AE",
+     "responsibility": "Relief Materials",
+     "phones": [
+      "9445190781"
+     ]
+    }
+   ],
+   "page": 736
+  },
+  {
+   "ward": 186,
+   "name": "ST Thomas Primary School",
+   "capacity": 300,
+   "streets_to_shift": "Pillayar Koil street, Easwaran koil street, Mandaveli street, Gangai amman koil street",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI",
+     "responsibility": "Sanitation, Medicine",
+     "phones": [
+      "9445025983"
+     ]
+    },
+    {
+     "designation": "AE",
+     "responsibility": "Evacuation",
+     "phones": [
+      "9445190781"
+     ]
+    },
+    {
+     "designation": "ARO",
+     "responsibility": "Food & Drinking water",
+     "phones": [
+      "9445190094"
+     ]
+    },
+    {
+     "designation": "AE",
+     "responsibility": "Relief Materials",
+     "phones": [
+      "9445190781"
+     ]
+    }
+   ],
+   "page": 737
+  },
+  {
+   "ward": 186,
+   "name": "Thanthai Periyar Hi Sec School",
+   "capacity": 700,
+   "streets_to_shift": "Sarathi nagar, Ravanan nagar, Balaji Nagar",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI",
+     "responsibility": "Sanitation, Medicine",
+     "phones": [
+      "9445025986"
+     ]
+    },
+    {
+     "designation": "AE",
+     "responsibility": "Evacuation",
+     "phones": [
+      "9445190782"
+     ]
+    },
+    {
+     "designation": "ARO",
+     "responsibility": "Food & Drinking water",
+     "phones": [
+      "9445190094"
+     ]
+    },
+    {
+     "designation": "AE",
+     "responsibility": "Relief Materials",
+     "phones": [
+      "9445190782"
+     ]
+    }
+   ],
+   "page": 737
+  },
+  {
+   "ward": 181,
+   "name": "Nellai Nadar School",
+   "capacity": 1500,
+   "streets_to_shift": "Kottivakkam kuppam, New colony,",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI",
+     "responsibility": "Sanitation, Medicine",
+     "phones": [
+      "9445025983"
+     ]
+    },
+    {
+     "designation": "AE",
+     "responsibility": "Evacuation",
+     "phones": [
+      "9445190783"
+     ]
+    },
+    {
+     "designation": "ARO",
+     "responsibility": "Food & Drinking water",
+     "phones": [
+      "9499937314"
+     ]
+    },
+    {
+     "designation": "AE",
+     "responsibility": "Relief Materials",
+     "phones": [
+      "9445190783"
+     ]
+    }
+   ],
+   "page": 737
+  },
+  {
+   "ward": 181,
+   "name": "St Antony School",
+   "capacity": 1500,
+   "streets_to_shift": "Swaminadhan nagar, enkatesapuram, Ilango nagar",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI",
+     "responsibility": "Sanitation, Medicine",
+     "phones": [
+      "9445025986"
+     ]
+    },
+    {
+     "designation": "AE",
+     "responsibility": "Evacuation",
+     "phones": [
+      "9445190784"
+     ]
+    },
+    {
+     "designation": "ARO",
+     "responsibility": "Food & Drinking water",
+     "phones": [
+      "9445190094"
+     ]
+    },
+    {
+     "designation": "AE",
+     "responsibility": "Relief Materials",
+     "phones": [
+      "9445190784"
+     ]
+    }
+   ],
+   "page": 737
+  },
+  {
+   "ward": 182,
+   "name": "Kuppam Primary School",
+   "capacity": 300,
+   "streets_to_shift": "Kottivakkam Kuppam",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI",
+     "responsibility": "Sanitation, Medicine",
+     "phones": [
+      "9445025990"
+     ]
+    },
+    {
+     "designation": "AE",
+     "responsibility": "Evacuation",
+     "phones": [
+      "9445190785"
+     ]
+    },
+    {
+     "designation": "ARO",
+     "responsibility": "Food & Drinking water",
+     "phones": [
+      "9445190094"
+     ]
+    },
+    {
+     "designation": "AE",
+     "responsibility": "Relief Materials",
+     "phones": [
+      "9445190785"
+     ]
+    }
+   ],
+   "page": 738
+  },
+  {
+   "ward": 183,
+   "name": "Govt Hr Sec School",
+   "capacity": 1000,
+   "streets_to_shift": "Kallukuttai area",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI",
+     "responsibility": "Sanitation, Medicine",
+     "phones": [
+      "9445025990"
+     ]
+    },
+    {
+     "designation": "AE",
+     "responsibility": "Evacuation",
+     "phones": [
+      "9445190786"
+     ]
+    },
+    {
+     "designation": "ARO",
+     "responsibility": "Food & Drinking water",
+     "phones": [
+      "9445190094"
+     ]
+    },
+    {
+     "designation": "AE",
+     "responsibility": "Relief Materials",
+     "phones": [
+      "9445190786"
+     ]
+    }
+   ],
+   "page": 738
+  },
+  {
+   "ward": 183,
+   "name": "ECR Adi Dravidar School",
+   "capacity": 1500,
+   "streets_to_shift": "Kandasamy nagar, periyar salai & Maniyammai street",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI",
+     "responsibility": "Sanitation, Medicine",
+     "phones": [
+      "9445025988"
+     ]
+    },
+    {
+     "designation": "AE",
+     "responsibility": "Evacuation",
+     "phones": [
+      "9445190787"
+     ]
+    },
+    {
+     "designation": "ARO",
+     "responsibility": "Food & Drinking water",
+     "phones": [
+      "9499937314"
+     ]
+    },
+    {
+     "designation": "AE",
+     "responsibility": "Relief Materials",
+     "phones": [
+      "9445190788"
+     ]
+    }
+   ],
+   "page": 738
+  },
+  {
+   "ward": 184,
+   "name": "Kandasamy Nagar Adi Dravidar Primary School",
+   "capacity": 500,
+   "streets_to_shift": "Kandasamy nagar , periyar salai, Maniyammai street",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI",
+     "responsibility": "Sanitation, Medicine",
+     "phones": [
+      "9445025987"
+     ]
+    },
+    {
+     "designation": "AE",
+     "responsibility": "Evacuation",
+     "phones": [
+      "9445190788"
+     ]
+    },
+    {
+     "designation": "ARO",
+     "responsibility": "Food & Drinking water",
+     "phones": [
+      "9499937314"
+     ]
+    },
+    {
+     "designation": "AE",
+     "responsibility": "Relief Materials",
+     "phones": [
+      "9445190788"
+     ]
+    }
+   ],
+   "page": 738
+  },
+  {
+   "ward": 188,
+   "name": "Panchayat Union Primary School",
+   "capacity": 500,
+   "streets_to_shift": "Selvaganapathu avenue",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI",
+     "responsibility": "Sanitation, Medicine",
+     "phones": [
+      "9445025989"
+     ]
+    },
+    {
+     "designation": "AE",
+     "responsibility": "Evacuation",
+     "phones": [
+      "9445190789"
+     ]
+    },
+    {
+     "designation": "ARO",
+     "responsibility": "Food & Drinking water",
+     "phones": [
+      "9499937314"
+     ]
+    },
+    {
+     "designation": "AE",
+     "responsibility": "Relief Materials",
+     "phones": [
+      "9445190789"
+     ]
+    }
+   ],
+   "page": 739
+  },
+  {
+   "ward": 188,
+   "name": "Jay Jay Sankara Kalayana Mandapam",
+   "capacity": 1800,
+   "streets_to_shift": "Interior of Madipakkam",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI",
+     "responsibility": "Sanitation, Medicine",
+     "phones": [
+      "9445025989"
+     ]
+    },
+    {
+     "designation": "AE",
+     "responsibility": "Evacuation",
+     "phones": [
+      "9445190790"
+     ]
+    },
+    {
+     "designation": "ARO",
+     "responsibility": "Food & Drinking water",
+     "phones": [
+      "9499937314"
+     ]
+    },
+    {
+     "designation": "AE",
+     "responsibility": "Relief Materials",
+     "phones": [
+      "9445190790"
+     ]
+    }
+   ],
+   "page": 739
+  },
+  {
+   "ward": 188,
+   "name": "Mylai Balaji nagar Block II",
+   "capacity": 700,
+   "streets_to_shift": "Mylai Balaji nagar",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI",
+     "responsibility": "Sanitation, Medicine",
+     "phones": [
+      "9445025991"
+     ]
+    },
+    {
+     "designation": "AE",
+     "responsibility": "Evacuation",
+     "phones": [
+      "9445190789"
+     ]
+    },
+    {
+     "designation": "ARO",
+     "responsibility": "Food & Drinking water",
+     "phones": [
+      "9499937314"
+     ]
+    },
+    {
+     "designation": "AE",
+     "responsibility": "Relief Materials",
+     "phones": [
+      "9445190791"
+     ]
+    }
+   ],
+   "page": 739
+  }
+ ],
+ "subways": [],
+ "evacuation_streets": [
+  {
+   "ward": 185,
+   "area": null,
+   "streets": "M.G.R street, Erikkarai Salai, Kamarajar Street, Mathiazhagan Street",
+   "persons": 400,
+   "year": "Dec-15",
+   "relief_centre": "CPS School, Ullagaram",
+   "needs_evacuation": true,
+   "page": 745
+  },
+  {
+   "ward": null,
+   "area": null,
+   "streets": "Eswaran Koil street, Puzhuthivakkam bus stand, Maheswari Avenue, Ram nagar 1 to 5 streets, Kaveri street, Brindhavan street, Gangai street, Yamunai street, Sivaraman street, Sundarajan salai, Sadasiva nagar 1 & 2 streets, Sivaprakasam nagar 2nd street,",
+   "persons": 1370,
+   "year": "Dec-15",
+   "relief_centre": "St Thomas Primary School, Puzhuthivakkam,. Thanthai Periyar school, Puzhuthivakkam",
+   "needs_evacuation": true,
+   "page": 745
+  },
+  {
+   "ward": 183,
+   "area": null,
+   "streets": "MGR Nagar, Anna nagar, Sathya nagar, Elango nagar, Vengadesapuram, New Colony, Kuppam",
+   "persons": 4000,
+   "year": "Dec-15",
+   "relief_centre": "Amma Unavagam (ECR), Division Office -183 (ECR), Amma Unavagam (Taramani)",
+   "needs_evacuation": true,
+   "page": 745
+  },
+  {
+   "ward": 184,
+   "area": null,
+   "streets": "Santhiya nagar, J.J.Nagar, Annal Ambedkar nagar, K.P.K nagar West, Anjugam Ammaiyar nagar, Kallukuttai,",
+   "persons": 10000,
+   "year": "Dec-15",
+   "relief_centre": "Amma Unavagam (Anna nedunchalai), Amma Unavagam (MGR Salai),. Amma Unavagam (ECR)",
+   "needs_evacuation": true,
+   "page": 745
+  },
+  {
+   "ward": 185,
+   "area": null,
+   "streets": "Maniyammai street, M.G.R nagar, Kolavziyamman street, Krishnan nagar, Ambedhakar street, Periyar street, Cholan nagar,",
+   "persons": 3200,
+   "year": "Dec-15",
+   "relief_centre": "Division Office -185 (ECR)",
+   "needs_evacuation": true,
+   "page": 745
+  },
+  {
+   "ward": 186,
+   "area": null,
+   "streets": "Maruthi nagar, Senthil nagar, Saravana nagar, Selvaganapathy Avenue,",
+   "persons": 1500,
+   "year": "Dec-15",
+   "relief_centre": ".Amma Unavagam (Corporation Road), Amma Unavagam (Division off Road)",
+   "needs_evacuation": true,
+   "page": 746
+  },
+  {
+   "ward": 187,
+   "area": null,
+   "streets": "Karthikeyapuram 12th Street, Madipakkam Main Road, New Kubera Nagar 5th Street,",
+   "persons": 400,
+   "year": null,
+   "relief_centre": "Karthikeyapuram Building Cooperative Society - Madipakkam",
+   "needs_evacuation": true,
+   "page": 746
+  },
+  {
+   "ward": 188,
+   "area": null,
+   "streets": "Thanthai Periyar Nagar, Nageshwariamman Nagar, Rajesh Nagar, Anna Nagar West, Sri Nagar, Ram Nagar South Extn, Kuberan Nagar Extn,",
+   "persons": 1200,
+   "year": "Dec-15",
+   "relief_centre": "CMS School (Block 2 Myllai balaji nagar), Indumathi Kalyana Mandabam Rajesh Nagar, CMS School (Madipakkam Kulakarai Street), Jay Jay Sankara (Periyar Nagar 7th street)",
+   "needs_evacuation": true,
+   "page": 746
+  },
+  {
+   "ward": 189,
+   "area": null,
+   "streets": "Kamatchi Nagar, Quide Millth Nagar, Anna M.G.R Nagar, Sai Balaji Nagar, Thangam Nagar,",
+   "persons": 800,
+   "year": "Dec-15",
+   "relief_centre": ".Babpammal Kalyana Mandapam, Church Avenue, Mother School, Sembagathammal Mandapam",
+   "needs_evacuation": true,
+   "page": 746
+  },
+  {
+   "ward": 190,
+   "area": null,
+   "streets": "Sai balaji nagar, Pasumpon nagar, Vallal pari nagar, Immanuvel street, Barathidasan street ,",
+   "persons": 1000,
+   "year": "Dec-15",
+   "relief_centre": "Panchayat Union Middle School, Jalladampet",
+   "needs_evacuation": true,
+   "page": 746
+  },
+  {
+   "ward": 191,
+   "area": null,
+   "streets": "Padmavathi Nagar, Pallavan Nagar, Neswallar Nagar, Ancheneyar Nagar, Sai Ganesh Nagar,",
+   "persons": 1250,
+   "year": "Dec-15",
+   "relief_centre": "Panchayat Union Middle School, Jalladampet",
+   "needs_evacuation": true,
+   "page": 746
+  }
+ ],
+ "water_entered_houses": [
+  {
+   "ward": 185,
+   "street": "Nanganallur 6th main road, Nanganallur 2nd main road, Mac Millan main road, Giri street NSC Bose road Mathiyazhagan street, Kamaraj Street",
+   "page": 742
+  },
+  {
+   "ward": 186,
+   "street": "Balaji Nagar 29-39 Streets, Balaji Nagar 40th Street Cross, Balaji Nagar 41st Street, Balaji Nagar Extn., 1st Street, Balaji Nagar Extn., 2nd Street, AG’s Colony 1- 3 streets, AG’s Colony 1st Cross Street, AG’s Colony 2nd Cross Street Kaveri nagar, Bay blue watch Road, Jaganathan street, Kaveri nagar 5th street, kaveri nagar 2nd street, Lakshmana perumal nagar 4th street, Lakshmana perumal nagar 5th street, Thulukanathamman koil street, Kalathumedu 4th street, Selvaraj avenue",
+   "page": 742
+  },
+  {
+   "ward": 181,
+   "street": "Vengadesapuram main road, Elango nagar (South), Elango nagar (North), Puratchi Thalaivi main road, Puratchi Thalaivi 1st cross to 13 th cross, Anna nagar, Swaminathan nagar 5th street, Swaminathan nagar 6th street, MGR Salaiannai, sandhiya nagar, J.J.Nagar, Ambedkar puratchi nagar, kamaraj salai, sempon nagar, Thiruvallar nagar, Annai sandhiya nagar Extn, Mullai street, Kambar street, anjugam ammaiyar nagar, kodikatha kumaran street, karikalan street, va.voo.si nagar, kakkan street, anna street, nagamani adiglar street, annai abirami street, k.p.k nagar west, k.p.k nagar north, sai ayush pooja avenue, Thiruvallar salai",
+   "page": 742
+  },
+  {
+   "ward": 182,
+   "street": "MGR Salaiannai, sandhiya nagar, J.J.Nagar,Ambedkar puratchi nagar, Maniammai street, Kandasamy nagar 1st street, Kandasamy nagar 2nd street, Kandasamy nagar 3rd street, Kandasamy nagar 4th street,Gandhi nagar, Gandhi nagar 1- 3 streets, Kolavizhiamman nagar, Maniammai street, Kolavizhiamman nagar 1 -15 streets, Krishna nagar 1 – 8 cross street, M.G.R nagar 1- 4 cross streets, Ambedkar salai, Veeramani salai main road, Veeramani salai 1 – 4 cross street, Krishna Nagar Main Road.",
+   "page": 742
+  },
+  {
+   "ward": null,
+   "street": "Jeevanandham street, Jeevanandham 1st cross street, Thiru.vi.ka 1st cross street, Thiru.vi.ka 2nd cross street, Thiruvalluvar 1 - 3 main roads, Thiruvalluvar 1-10 cross street, Vembuli amman koil street, Vembuli amman 1 – 3 streets,",
+   "page": 743
+  },
+  {
+   "ward": 184,
+   "street": "Maruthi nagar 1st main road, Maruthi nagar 1- 5 cross street, Senthil nagar main road 8th cross, Selvaganapthy avenue extn, Selvaganapthy avenue 3rd main road,Selvaganapthy avenue 2nd street, Selvaganapthy avenue 3rd street,",
+   "page": 743
+  },
+  {
+   "ward": 187,
+   "street": "New kubera nagar 5th streetNew kubera nagar 3rd street",
+   "page": 743
+  },
+  {
+   "ward": 188,
+   "street": "Nageswariamman Nagar,Arumugam Nagar 1st Street, Arumugam Nagar 2nd Street, Arumugam Nagar 3rd Street, Salban Kuttai Main Road, Rajesh Nagar 1st Main Road Cross Street, Rajesh Nagar 2nd Main Road Cross Street, Rajesh Nagar 3rd Main Road Cross Street, Rajesh Nagar 5th Main Road 2nd Cross Street,VGP Rajesh Nagar 1st Main Road, Myllai Balaji Nagar 1st block 1st Street, Myllai Balaji Nagar 3rd block 2nd Street, Myllai Balaji Nagar 2rd block 5th Street",
+   "page": 743
+  },
+  {
+   "ward": 188,
+   "street": "Rajesh Nagar 4th Main Road Cross Street, West Anna Nagar 1-3 Street, West Anna Nagar 6th.Street, West Anna Nagar 7th Street, West Anna Nagar 9th Cross Street,",
+   "page": 743
+  },
+  {
+   "ward": 188,
+   "street": "Kamatchiyamman Nagar 1st street to 5th street, Quide –Millath Nagar 1st street to 5th street, Ma.Po.Si Nagar 1- 3 streets, Ma.Po.Si Nagar cross street, Anna MGR Nagar, Gandhi St, Anna M.G.R Nagar Indira Gandhi St, Anna MGR Nagar Pari St, Anna MGR Nagar Rajiv Gandhi St, Poongavanathamman koil street, Nehru street, N.S.K street, Moovender Street,Bharathidasan street, Bharathiyar street, Sathyamoorthy street, Thangam Nagar 1st Street, Thangam Nagar Main Road, Sai baba Nagar 1st Cross Street, Sai baba Nagar 1st Street, Sai baba Nagar 2nd Main Road, Sai baba Nagar 2nd Main Road 1st Street, Sai baba Nagar 3rd Main Road, Sai baba Nagar 4th Main Road, Sai baba Nagar 5th Main Road,",
+   "page": 743
+  },
+  {
+   "ward": 190,
+   "street": "Quide – Millath Nagar 1st street to 5th street, Ma.Po.Si Nagar cross street, Trobical Avenue 1st Main Road, Trobical Avenue 2nd Main Road Krishna Nagar Main Road, Krishna Nagar 1st Cross St, Krishna Nagar 2nd Cross St, Sai Balaji Nagar 1st Main Road, Sai Balaji Nagar 1st Street, Sai Balaji Nagar 2nd Main Road, Sai Balaji Nagar 2nd Street, Sai Balaji Nagar 3rd 1st Cross Street, Sai Balaji Nagar 3rd 2nd Cross Street, Sai Balaji Nagar 3rd Main Road, Sai Balaji Nagar 3rd Street, Sivas Avenue, Jayabal Nagar, Kamokotti Nagar 1st main road, 2nd main road, 3rd main road, Kamokotti Nagar 1st street to 10th street, Meru Nagar 1st street to 5th street, A.G.S Colony 1st street to 11th street, Sai Balaji Nagar Part-II 1st street to 6th street",
+   "page": 744
+  },
+  {
+   "ward": null,
+   "street": "Bharathidasan street, Carmel street, Kamarajar street, Rajiv Gandhi street, Moovendar street,",
+   "page": 744
+  },
+  {
+   "ward": 191,
+   "street": "Pallavan Nagar 1-6 streets, Nethaji Street, Nagathamman koil street, Padmavathy Nagar Main road, pagavath singh street, Rajeshwari street",
+   "page": 744
+  },
+  {
+   "ward": 191,
+   "street": "Pallavan street, Rajiv Ganthi street, Indira Ganthi street, Vivekanandar street, kannaki street, kambar street, manimeglai street, kovalan street, Indira Ganthi street, Rajiv Ganthi street, vaidyalingam street, valmigi street, kumakurubarar street, pachayamman koil street, moopanar street, logammal street, Mahaveerar street, mahaveerar 1st cross street, Mahaveerar 2nd cross street, Mahaveerar 3rd cross street, subash Chandra bose street, vanchinathan street, parivallal street, cholan street, Sai ganesh Nagar 2nd main Road, Sai ganesh Nagar 20 – 28 cross street, Quiathey millath street, masuti street, Green court Main Road, Jayachandran Nagar 3rd main road,",
+   "page": 744
+  }
+ ],
+ "tree_fall": [
+  {
+   "ward": 185,
+   "street": "Vinayaga Nagar 3rd street"
+  },
+  {
+   "ward": 186,
+   "street": "Hindu Colony 2nd main road"
+  },
+  {
+   "ward": 186,
+   "street": "Puzhithvakkam Bus stand"
+  },
+  {
+   "ward": 181,
+   "street": "New Colony"
+  },
+  {
+   "ward": 181,
+   "street": "AGS Colony"
+  },
+  {
+   "ward": 181,
+   "street": "Bay watch road"
+  },
+  {
+   "ward": 181,
+   "street": "Kaveri Nagar"
+  },
+  {
+   "ward": 181,
+   "street": "Kalyani Nagar (Nellai Nadar School)"
+  },
+  {
+   "ward": 181,
+   "street": "Journalist Colony"
+  },
+  {
+   "ward": 182,
+   "street": "Church road"
+  },
+  {
+   "ward": 182,
+   "street": "Ramappa Nagar"
+  },
+  {
+   "ward": 182,
+   "street": "CBI Colony"
+  },
+  {
+   "ward": 183,
+   "street": "VGP Layout 1st main road"
+  },
+  {
+   "ward": 183,
+   "street": "Palkalai nagar"
+  },
+  {
+   "ward": 183,
+   "street": "Anna Salai (Sea Shell Avenue)"
+  },
+  {
+   "ward": 184,
+   "street": "Kurinji Nagar 8th cross street"
+  },
+  {
+   "ward": 188,
+   "street": "Govindasamy Nagar 7th street"
+  },
+  {
+   "ward": 188,
+   "street": "Sadasivam nagar 4th main road"
+  },
+  {
+   "ward": 188,
+   "street": "Dr. Ramamoorthy Nagar Main road"
+  },
+  {
+   "ward": 188,
+   "street": "Tendulkar street"
+  },
+  {
+   "ward": 189,
+   "street": "VGP Shanthi nagar Lakshmi 1st street"
+  },
+  {
+   "ward": 189,
+   "street": "Radial Road"
+  },
+  {
+   "ward": 190,
+   "street": "Bharathidasan 1st cross street"
+  },
+  {
+   "ward": 191,
+   "street": "Jayachandran nagar 1st main road"
+  },
+  {
+   "ward": 191,
+   "street": "Jayachandran nagar 5th main road"
+  }
+ ],
+ "ndrf_boats": [
+  {
+   "ward": 189,
+   "location": "IIT Colony Community Hall",
+   "kind": "ndrf",
+   "details": "Where NDRF to be stationed and deployed"
+  },
+  {
+   "ward": 186,
+   "location": "Ram Nagar",
+   "kind": "boat",
+   "details": "Boats required with location / evacuation areas: Ram Nagar. Contact: AE- 9445190786"
+  },
+  {
+   "ward": 190,
+   "location": "Sai Balaji Nagar",
+   "kind": "boat",
+   "details": "Boats required with location / evacuation areas: Sai Balaji Nagar. Contact: AE- 9445190790"
+  },
+  {
+   "ward": 181,
+   "location": "Venkatesapuram",
+   "kind": "boat",
+   "details": "Boats required with location / evacuation areas: Venkatesapuram. Contact: JE-9445190781"
+  },
+  {
+   "ward": 181,
+   "location": "Swaminathan Nagar",
+   "kind": "boat",
+   "details": "Boats required with location / evacuation areas: Swaminathan Nagar. Contact: JE-9445190781"
+  },
+  {
+   "ward": 181,
+   "location": "Elango Nagar",
+   "kind": "boat",
+   "details": "Boats required with location / evacuation areas: Elango Nagar. Contact: JE-9445190781"
+  },
+  {
+   "ward": 188,
+   "location": "Narayanapuram Lake",
+   "kind": "boat",
+   "details": "Boats required with location / evacuation areas: Narayanapuram Lake. Contact: AE-9445190788"
+  },
+  {
+   "ward": 189,
+   "location": "Sai Baaba Nagar",
+   "kind": "boat",
+   "details": "Boats required with location / evacuation areas: Sai Baba Nagar. Contact: AE-9445190789"
+  },
+  {
+   "ward": 190,
+   "location": "Sai Balaji Nagar",
+   "kind": "boat",
+   "details": "Boats required with location / evacuation areas: Sai Balaji Nagar. Contact: AE-9445190790"
+  },
+  {
+   "ward": 190,
+   "location": "Kamatchiamman Nagar",
+   "kind": "boat",
+   "details": "Boats required with location / evacuation areas: Kamatchiamman Nagar. Contact: AE-9445190790"
+  },
+  {
+   "ward": 191,
+   "location": "Sai Ganesh Nagar",
+   "kind": "boat",
+   "details": "Boats required with location / evacuation areas: Sai Ganesh Nagar. Contact: AE-9445190791"
+  },
+  {
+   "ward": 191,
+   "location": "Nesavalar Nagar",
+   "kind": "boat",
+   "details": "Boats required with location / evacuation areas: Nesavalar Nagar. Contact: AE-9445190791"
+  }
+ ],
+ "parks_assembly": [
+  {
+   "ward": 181,
+   "name": "Karpagambal Nagar 3rd Street",
+   "location": null
+  },
+  {
+   "ward": 181,
+   "name": "Netco colony",
+   "location": null
+  },
+  {
+   "ward": 182,
+   "name": "Thiruvalluvar street",
+   "location": null
+  },
+  {
+   "ward": 182,
+   "name": "Ramappa nagar 1st cross street",
+   "location": null
+  },
+  {
+   "ward": 182,
+   "name": "CBI Colony 2nd main road",
+   "location": null
+  },
+  {
+   "ward": 182,
+   "name": "Anna nedunsalai ferrai house park",
+   "location": null
+  },
+  {
+   "ward": 182,
+   "name": "Anna nedunsalai twin court park",
+   "location": null
+  },
+  {
+   "ward": 182,
+   "name": "MGR Salai (Ramaniyan Kudirupu)",
+   "location": null
+  },
+  {
+   "ward": 182,
+   "name": "Sathyamoorthy road Lakshmanan Nagar",
+   "location": null
+  },
+  {
+   "ward": 182,
+   "name": "Anna Nedunsalai",
+   "location": null
+  },
+  {
+   "ward": 182,
+   "name": "Jain House",
+   "location": null
+  },
+  {
+   "ward": 182,
+   "name": "RMZ Phase I",
+   "location": null
+  },
+  {
+   "ward": 183,
+   "name": "Vgp layout 4th main road",
+   "location": null
+  },
+  {
+   "ward": 183,
+   "name": "Palavakka ECR (amara) park",
+   "location": null
+  },
+  {
+   "ward": 183,
+   "name": "Kandasamy Nagar 3rd street",
+   "location": null
+  },
+  {
+   "ward": 183,
+   "name": "Govindhan Nagar 1st street (Poomalai Street)",
+   "location": null
+  },
+  {
+   "ward": 184,
+   "name": "Omathurai park",
+   "location": null
+  },
+  {
+   "ward": 184,
+   "name": "Thirumalai nagar Park",
+   "location": null
+  },
+  {
+   "ward": 184,
+   "name": "Vengateswara nagar park",
+   "location": null
+  },
+  {
+   "ward": 184,
+   "name": "Rajiv nagar",
+   "location": null
+  },
+  {
+   "ward": 184,
+   "name": "Anna nedunchalai",
+   "location": null
+  },
+  {
+   "ward": 184,
+   "name": "Telephone nagar 2nd cross street",
+   "location": null
+  },
+  {
+   "ward": 184,
+   "name": "Rajiv Nagar 1st Main Road Doshi flat park",
+   "location": null
+  },
+  {
+   "ward": 184,
+   "name": "Panchayat road jain anumitha flat park",
+   "location": null
+  },
+  {
+   "ward": 184,
+   "name": "Corporation road park",
+   "location": null
+  },
+  {
+   "ward": 185,
+   "name": "Lakshmi nagar 10th street",
+   "location": null
+  },
+  {
+   "ward": 186,
+   "name": "Balaji nagar extn south",
+   "location": null
+  },
+  {
+   "ward": 186,
+   "name": "Iyyan thiruvalluvar park",
+   "location": null
+  },
+  {
+   "ward": 186,
+   "name": "Balaji nagar 19th street",
+   "location": null
+  },
+  {
+   "ward": 186,
+   "name": "Ags colony 2nd Street",
+   "location": null
+  },
+  {
+   "ward": 186,
+   "name": "Annai therasa 14th street",
+   "location": null
+  },
+  {
+   "ward": 186,
+   "name": "Epr nagar",
+   "location": null
+  },
+  {
+   "ward": 186,
+   "name": "Hindu colony 2nd Main Road park",
+   "location": null
+  },
+  {
+   "ward": 186,
+   "name": "Velachery Innering Road",
+   "location": null
+  },
+  {
+   "ward": 186,
+   "name": "Andavar street",
+   "location": null
+  },
+  {
+   "ward": 186,
+   "name": "Balaji Nagar 24th Street",
+   "location": null
+  },
+  {
+   "ward": 187,
+   "name": "Park square colony park",
+   "location": null
+  },
+  {
+   "ward": 187,
+   "name": "Karhtikeyapuram 6th street",
+   "location": null
+  },
+  {
+   "ward": 187,
+   "name": "Mahatma ganthi park",
+   "location": null
+  },
+  {
+   "ward": 188,
+   "name": "Rajalakshmi nagar 1st Main Road",
+   "location": null
+  },
+  {
+   "ward": 188,
+   "name": "Anna nagar 5th main road",
+   "location": null
+  },
+  {
+   "ward": 188,
+   "name": "Dr Ramamoorthy nagar park 1st Main Road",
+   "location": null
+  },
+  {
+   "ward": 188,
+   "name": "JV Nagar",
+   "location": null
+  },
+  {
+   "ward": 188,
+   "name": "Ram Nagar 8th cross street",
+   "location": null
+  },
+  {
+   "ward": 188,
+   "name": "Bajanai Kovil Street",
+   "location": null
+  },
+  {
+   "ward": 188,
+   "name": "Naickar Kuttai Mahalakshmi Nagar Main Road",
+   "location": null
+  },
+  {
+   "ward": 188,
+   "name": "Senthil Nagar Main Road",
+   "location": null
+  },
+  {
+   "ward": 189,
+   "name": "Astalakshmi avenune",
+   "location": null
+  },
+  {
+   "ward": 189,
+   "name": "VGP shanthi nagar",
+   "location": null
+  },
+  {
+   "ward": 189,
+   "name": "Arumugam nagar",
+   "location": null
+  },
+  {
+   "ward": 189,
+   "name": "IIT colony 3rd main road",
+   "location": null
+  },
+  {
+   "ward": 189,
+   "name": "Kamakotti nagar 1st main road",
+   "location": null
+  },
+  {
+   "ward": 189,
+   "name": "Thamaraikulam park",
+   "location": null
+  },
+  {
+   "ward": 189,
+   "name": "Herbal park",
+   "location": null
+  },
+  {
+   "ward": 189,
+   "name": "Chettinadu housing park1",
+   "location": null
+  },
+  {
+   "ward": 189,
+   "name": "Chettinadu housing park3",
+   "location": null
+  },
+  {
+   "ward": 189,
+   "name": "Kamakoti Nagar 4th & 5th Street Junction",
+   "location": null
+  },
+  {
+   "ward": 189,
+   "name": "Kamakotti Nagar 9th cross Street",
+   "location": null
+  },
+  {
+   "ward": 189,
+   "name": "Rajesh nagar",
+   "location": null
+  },
+  {
+   "ward": 189,
+   "name": "Kamakoti Nagar 6th Street North",
+   "location": null
+  },
+  {
+   "ward": 189,
+   "name": "Jones foundation east (near Max worth Nagar)",
+   "location": null
+  },
+  {
+   "ward": 189,
+   "name": "Chetti Nadu Housing Park – 2",
+   "location": null
+  },
+  {
+   "ward": 189,
+   "name": "Jones foundation west (near Max worth Nagar)",
+   "location": null
+  },
+  {
+   "ward": 189,
+   "name": "Chettinad Enclave",
+   "location": null
+  },
+  {
+   "ward": 190,
+   "name": "Dr ambedkar park",
+   "location": null
+  },
+  {
+   "ward": 191,
+   "name": "Jayachandran nagar 5th main road",
+   "location": null
+  },
+  {
+   "ward": 191,
+   "name": "Jayachandran nagar 1st main road",
+   "location": null
+  },
+  {
+   "ward": 191,
+   "name": "Selene Estate",
+   "location": null
+  },
+  {
+   "ward": 191,
+   "name": "Krishna Nagar 3rd Cross street",
+   "location": null
+  },
+  {
+   "ward": 191,
+   "name": "Muthu Nagar OSR Park",
+   "location": null
+  }
+ ],
+ "hospitals": [],
+ "pumping_stations": [],
+ "notes": [
+  "Zone 14 = Perungudi. Tables use old ward numbers 181-191 (profile text maps old 183 -> new 181, old 186 -> new 184). Map legends (pp. 740, 748) use yet another numbering (e.g. relief R1 'ST Thomas Primary School' = ward 168 on map vs 185 in table); map wards not used.",
+  "Zonal office address/phone not given. Zonal Officer listed twice (admin and engineering tables), kept once. AEE Mechanical cell prints '9445190484,9445190490, 9094046132,9094046132' - duplicate 9094046132 kept once. Designations 'ExecutiveEngineer–I/II' etc. given word spacing.",
+  "Transport AE 9445026115 is the 'Assistant Engineer contact No.' for JCB/Bobcat/lorries (p. 749); designation context added in parentheses.",
+  "Heavy-rain water-stagnation table (pp. 729-732; text says 86 spots, table has 88 rows) has motor/pump details, so it is recorded under inundation_streets with an extra 'reason' field (reason for inundation). Rows 37 (Giri Street) and 38 (Kasturibai street) have no motor details. Row 20/21 motor cells read '4 / HP' and '50 / HP' as printed. No mild/moderate tables; no sewer blocks in this zone ('There is no sewer Blocks').",
+  "Relief centres: text says 12 centres with total capacity 3250, but the 12 printed capacities sum to 10500. Column order is Drinking water, Toilets, Cooking facilities: all centres YES/YES/NO. Each row has its own 4 contacts (SI/AE/ARO/AE by responsibility); 'responsibility' added to each contact. Row 5 streets printed 'enkatesapuram' (likely Venkatesapuram) - kept as printed.",
+  "Relief-centre map legend (p. 740) also lists Athiparasakthi Kalyana Mandabam, Indhumathi Kalyana Mandapam, St.Antony, Govt Hr Sec School and St.Thomas Panchayat Union Middle School (R7, R12, R14-R16) not in the table; not added.",
+  "Evacuation table (pp. 745-746, NEM Dec 2015, 19100 people evacuated): second row has no ward printed (streets are in Puzhuthivakkam, probably 186) - ward null; the streets cell may span rows 1-2 - split at the row line (row 1 ends 'Mathiazhagan Street'). Ward 187 row has no year. Wards 190 and 191 share relief centre 'Panchayat Union Middle School, Jalladampet' (merged cell). 'area' not given.",
+  "Water entered houses (pp. 742-744): text says 10 locations; table has 14 rows (two rows numbered 11). Each entry is a whole table row (comma lists not split, because several items are not standalone street names, e.g. '2nd main road'). Row 5 and the second row 11 have no ward printed (null) - by content probably 183 and 190.",
+  "NDRF: table lists only ward 189 IIT Colony Community Hall; map p. 748 legend lists 6 NDRF points (Zonal Office-14 Puzhuthivakkam, AGS Colony Indoor Stadium, School Road Unit Office, Division Office ECR Main Road, Holy Prince Matri.Hr.Sec School, Sri Neelambal Mahal) and 19 boat points - not added (map numbering).",
+  "Parks: split on commas from one cell per ward; 70 entries vs 75 stated in text. Some entries are roads, kept as printed. 'location' not given (null).",
+  "Sewage pumping stations: only 'Pumping stations available at Dn 184', no list. No TNSCB tenements, no subway, no battery-powered lighting, no hospital/UPHC/police/fire lists in this appendix.",
+  "The 'Less than 2.5 m streets/lanes that cannot be accessed by vehicles' table (pp. 750-751) is not in the schema and continues past the end of zone_14.txt (p. 752+ not included in the text file)."
+ ]
+}

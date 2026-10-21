@@ -1,0 +1,1561 @@
+{
+  "zone": 5,
+  "zone_name": "Royapuram",
+  "zonal_office": {
+    "address": "Zonal office-5, No:61, Basin Bridge Road, Royapuram",
+    "phones": null
+  },
+  "officials": [
+    {
+      "designation": "Chairman",
+      "name": null,
+      "wards": "49 to 63",
+      "phones": [
+        "9445467054"
+      ],
+      "category": "zone"
+    },
+    {
+      "designation": "Zonal Officer",
+      "name": null,
+      "wards": "49 to 63",
+      "phones": [
+        "9445190005"
+      ],
+      "category": "zone"
+    },
+    {
+      "designation": "Executive Engineer-1",
+      "name": null,
+      "wards": "49 to 57 & 60",
+      "phones": [
+        "9445190025"
+      ],
+      "category": "zone"
+    },
+    {
+      "designation": "Executive Engineer-2",
+      "name": null,
+      "wards": "58,59,61 to 63",
+      "phones": [
+        "9445190461"
+      ],
+      "category": "zone"
+    },
+    {
+      "designation": "Assistant Executive Engineer",
+      "name": null,
+      "wards": "Unit-12",
+      "phones": [
+        "9445190112"
+      ],
+      "category": "zone"
+    },
+    {
+      "designation": "Assistant Executive Engineer",
+      "name": null,
+      "wards": "Unit-13",
+      "phones": [
+        "9445190113"
+      ],
+      "category": "zone"
+    },
+    {
+      "designation": "Assistant Executive Engineer",
+      "name": "Vacant",
+      "wards": "Addl. AEE",
+      "phones": null,
+      "category": "zone"
+    },
+    {
+      "designation": "Assistant Executive Engineer",
+      "name": null,
+      "wards": "Unit -14",
+      "phones": [
+        "9445190114"
+      ],
+      "category": "zone"
+    },
+    {
+      "designation": "Assistant Executive Engineer",
+      "name": null,
+      "wards": "SWM / Z - 5",
+      "phones": [
+        "9445190465"
+      ],
+      "category": "other"
+    },
+    {
+      "designation": "Conservany supervisor",
+      "name": null,
+      "wards": "49 to 53 (Royapuram)",
+      "phones": [
+        "9445191412"
+      ],
+      "category": "other"
+    },
+    {
+      "designation": "Conservany supervisor",
+      "name": null,
+      "wards": "54 to 57 &60 (Harbour)",
+      "phones": [
+        "9445191413"
+      ],
+      "category": "other"
+    },
+    {
+      "designation": "Conservany supervisor",
+      "name": null,
+      "wards": "58,59 to 62 & 63 (Egmore)",
+      "phones": [
+        "9445191414"
+      ],
+      "category": "other"
+    },
+    {
+      "designation": "Conservany supervisor",
+      "name": null,
+      "wards": "Zone-5 / Night",
+      "phones": [
+        "8438487470"
+      ],
+      "category": "other"
+    },
+    {
+      "designation": "Conservany supervisor",
+      "name": null,
+      "wards": "Zone-5/Dn-57 i/c",
+      "phones": [
+        "9710714193"
+      ],
+      "category": "other"
+    },
+    {
+      "designation": "Zonal Health Officer",
+      "name": null,
+      "wards": "49 to 63",
+      "phones": [
+        "9445190065"
+      ],
+      "category": "health"
+    },
+    {
+      "designation": "Veterinary Surgeon",
+      "name": null,
+      "wards": "49 to 63",
+      "phones": [
+        "8778139385"
+      ],
+      "category": "health"
+    },
+    {
+      "designation": "Senior Entomologist",
+      "name": null,
+      "wards": "49 to 63",
+      "phones": [
+        "9444509293"
+      ],
+      "category": "health"
+    },
+    {
+      "designation": "Sanitary Officer",
+      "name": "Vacant",
+      "wards": "49 to 53",
+      "phones": null,
+      "category": "health"
+    },
+    {
+      "designation": "Sanitary Officer",
+      "name": null,
+      "wards": "54 to 57 & 60",
+      "phones": [
+        "9444138148"
+      ],
+      "category": "health"
+    },
+    {
+      "designation": "Sanitary Officer",
+      "name": null,
+      "wards": "58,59 & 61 to 63",
+      "phones": [
+        "9790978174"
+      ],
+      "category": "health"
+    },
+    {
+      "designation": "Park Overseer",
+      "name": null,
+      "wards": "49 to 63",
+      "phones": [
+        "7299519348"
+      ],
+      "category": "other"
+    },
+    {
+      "designation": "Area Engineer-5, Water Supply & Sewage / CMWSSB",
+      "name": null,
+      "wards": "49 to 63",
+      "phones": [
+        "8144930905"
+      ],
+      "category": "other"
+    },
+    {
+      "designation": "Assistant Engineer, Water Supply & Sewage / CMWSSB (printed as 'Asst. Engineer-49 to 63 8144930049 to 8144930063')",
+      "name": null,
+      "wards": "49 to 63",
+      "phones": null,
+      "category": "other"
+    },
+    {
+      "designation": "Executive Engineer, TNSCB",
+      "name": null,
+      "wards": "49 to 63",
+      "phones": [
+        "9445074776"
+      ],
+      "category": "other"
+    },
+    {
+      "designation": "Assistant Engineer (Lighting)",
+      "name": null,
+      "wards": "58&61",
+      "phones": [
+        "9445190922"
+      ],
+      "category": "electrical"
+    },
+    {
+      "designation": "Junior Engineer (Lighting)",
+      "name": null,
+      "wards": "59 P,58P,57",
+      "phones": [
+        "9445190923"
+      ],
+      "category": "electrical"
+    },
+    {
+      "designation": "Junior Engineer (Lighting)",
+      "name": null,
+      "wards": "62,63 & 59 P",
+      "phones": [
+        "9445190924"
+      ],
+      "category": "electrical"
+    },
+    {
+      "designation": "Junior Engineer (Lighting)",
+      "name": null,
+      "wards": "56 &60",
+      "phones": [
+        "9445190920"
+      ],
+      "category": "electrical"
+    },
+    {
+      "designation": "Assistant Engineer (Lighting)",
+      "name": null,
+      "wards": "53,54, 55",
+      "phones": [
+        "9445190921"
+      ],
+      "category": "electrical"
+    },
+    {
+      "designation": "Junior Engineer (Lighting)",
+      "name": null,
+      "wards": "49,50,51,52",
+      "phones": [
+        "9445190919"
+      ],
+      "category": "electrical"
+    },
+    {
+      "designation": "Additional divisional Engineer (Zone)",
+      "name": null,
+      "wards": "49 to 63",
+      "phones": [
+        "9445190045"
+      ],
+      "category": "electrical"
+    },
+    {
+      "designation": "Divisional Engineer (HQ)",
+      "name": null,
+      "wards": "49 to 63",
+      "phones": [
+        "9445190751",
+        "9445190753"
+      ],
+      "category": "electrical"
+    },
+    {
+      "designation": "The Commandant, 04 Battalion (NDRF), Suraksha Campus, Takkolam, Arakkonam, Vellore District – 631 152",
+      "name": null,
+      "wards": null,
+      "phones": [
+        "04177-246594",
+        "04177-246269"
+      ],
+      "category": "other"
+    }
+  ],
+  "inundation_streets": [
+    {
+      "ward": 53,
+      "street": "Walltax Road",
+      "max_depth": null,
+      "days_to_drain": null,
+      "pump": "5 HP",
+      "pump_location": "(Police Quarters, Kondithoppe)",
+      "disposal_point": "Pumped out to B Canal",
+      "page": 372
+    },
+    {
+      "ward": 53,
+      "street": "Vijayaragavalu Roundana",
+      "max_depth": null,
+      "days_to_drain": null,
+      "pump": "10 HP",
+      "pump_location": "(Zone-5 Office)",
+      "disposal_point": "Pumped out to B Canal",
+      "page": 372
+    },
+    {
+      "ward": 54,
+      "street": "Walltax Road",
+      "max_depth": null,
+      "days_to_drain": null,
+      "pump": "5 HP",
+      "pump_location": "Thirupalli Street junction",
+      "disposal_point": "Pumped out to B Canal",
+      "page": 372
+    },
+    {
+      "ward": 54,
+      "street": "Walltax Road and",
+      "max_depth": null,
+      "days_to_drain": null,
+      "pump": "2-HP",
+      "pump_location": "Amman Koil Street Junction",
+      "disposal_point": "Pumped out to B Canal",
+      "page": 372
+    },
+    {
+      "ward": 58,
+      "street": "EVK Sampath Salai",
+      "max_depth": null,
+      "days_to_drain": null,
+      "pump": "5 HP",
+      "pump_location": "Vepery Road",
+      "disposal_point": "B Canal drain pipe provided to connect SWD",
+      "page": 372
+    },
+    {
+      "ward": 58,
+      "street": "Sydnams Road",
+      "max_depth": null,
+      "days_to_drain": null,
+      "pump": "5 HP",
+      "pump_location": "Near Taluk office",
+      "disposal_point": "Coovam River drain pipe provided and connected to SWD for Quick draing",
+      "page": 372
+    },
+    {
+      "ward": 59,
+      "street": "VOC Salai",
+      "max_depth": null,
+      "days_to_drain": null,
+      "pump": "5 HP",
+      "pump_location": "Near Railway Office",
+      "disposal_point": null,
+      "page": 372
+    },
+    {
+      "ward": 61,
+      "street": "Ghandhi Irwan Bridge Road",
+      "max_depth": null,
+      "days_to_drain": null,
+      "pump": "5 HP",
+      "pump_location": "Opp.to Ramada Hotel",
+      "disposal_point": "Pumped out to near by SWD",
+      "page": 372
+    },
+    {
+      "ward": 61,
+      "street": "Egmore High Road",
+      "max_depth": null,
+      "days_to_drain": null,
+      "pump": "5 HP",
+      "pump_location": "Near Veeraswamy Street",
+      "disposal_point": "Centre Median opened for draining ,New drain provided",
+      "page": 372
+    },
+    {
+      "ward": 62,
+      "street": "Singanna Chetty Street",
+      "max_depth": null,
+      "days_to_drain": null,
+      "pump": "5 HP",
+      "pump_location": "Jn.of East Coovam Road",
+      "disposal_point": null,
+      "page": 372
+    },
+    {
+      "ward": 62,
+      "street": "Arunachalam Road",
+      "max_depth": null,
+      "days_to_drain": null,
+      "pump": "5 HP",
+      "pump_location": "Near Zion Church",
+      "disposal_point": "Pumped out to near by SWD",
+      "page": 372
+    },
+    {
+      "ward": 63,
+      "street": "Chella pillayar Koil Street",
+      "max_depth": null,
+      "days_to_drain": null,
+      "pump": "5 HP",
+      "pump_location": "Jn of Bharathi Salai.",
+      "disposal_point": "Pumped out to near by SWD",
+      "page": 372
+    },
+    {
+      "ward": 63,
+      "street": "G.P. Road",
+      "max_depth": null,
+      "days_to_drain": null,
+      "pump": "5 HP",
+      "pump_location": "Opp.to Sarmany Hotel",
+      "disposal_point": "Pumped out to near by SWD",
+      "page": 372
+    }
+  ],
+  "water_stagnation": [
+    {
+      "ward": "49 to 63",
+      "street": "Parasuraman street",
+      "rain": "mild",
+      "page": 377
+    },
+    {
+      "ward": 49,
+      "street": "Solaiappan Street",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 49,
+      "street": "Kothandaraman Street",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 50,
+      "street": "G.M.Pettah",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 50,
+      "street": "Venkatasan Street",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 51,
+      "street": "Cemetry Road Jn of T.H. Road",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 52,
+      "street": "Modal Lane 1to 5",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 52,
+      "street": "Thoppai Street",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 53,
+      "street": "Kannan Roundana",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 53,
+      "street": "Jayaraman Street",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 53,
+      "street": "Stanly Nagar",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 53,
+      "street": "Boojaraja Nagar",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 53,
+      "street": "Sajjamunusamy Street",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 53,
+      "street": "Peddu Street",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 53,
+      "street": "North Wall Road",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 54,
+      "street": "PKG Garden",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 55,
+      "street": "Prakasam Salai",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 55,
+      "street": "Sevenwells Street",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 55,
+      "street": "Amman Koil Street",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 56,
+      "street": "Prakasam Salai",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 57,
+      "street": "Stringer Street",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 57,
+      "street": "Devidson Street",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 58,
+      "street": "Bakkers Street",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 58,
+      "street": "General Collins road",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 61,
+      "street": "Velayudam Street",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 62,
+      "street": "West Coovum Road",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 63,
+      "street": "South Coovum Road",
+      "rain": "moderate",
+      "page": 377
+    },
+    {
+      "ward": 49,
+      "street": "Solaiappan Street",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 49,
+      "street": "Kothandaraman Street",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 49,
+      "street": "Old AmaranjiPuram",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 50,
+      "street": "S.N .Chetty Street",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 50,
+      "street": "Andiyappan Street",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 50,
+      "street": "G.M.Pettai",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 50,
+      "street": "Shiek Masitery Street",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 51,
+      "street": "Manikandan 6th Street",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 51,
+      "street": "Nainiyappan Street",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 52,
+      "street": "O.S.H.Road",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 52,
+      "street": "Modal Lane Slum",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 52,
+      "street": "M.S.Koil Street",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 53,
+      "street": "Sajja Munusamy Street",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 53,
+      "street": "Balasubramani Street",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 53,
+      "street": "Muthiyamasitery Street",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 54,
+      "street": "Amman Koil Street",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 54,
+      "street": "Tenapet Ramasamy St",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 55,
+      "street": "Amman Koil St",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 55,
+      "street": "Sevenwells St",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 55,
+      "street": "St.XavierSt",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 55,
+      "street": "Thiyagaraya Street",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 55,
+      "street": "MuthuNayakan St",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 55,
+      "street": "Kumarappa Street",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 56,
+      "street": "Prakasam Salai",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 56,
+      "street": "Poniyamman Koil Street",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 56,
+      "street": "Shanmugarayan Street",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 57,
+      "street": "Adiyappanayakan Street",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 57,
+      "street": "Chandrapa St",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 57,
+      "street": "Gentral Muthiya St",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 57,
+      "street": "Manikandan St",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 57,
+      "street": "Devidson St",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 57,
+      "street": "Acharappan St",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 57,
+      "street": "Thathamuthiyapan",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 57,
+      "street": "Annapillai",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 57,
+      "street": "Mint Street",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 58,
+      "street": "R.T. (m) street",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 58,
+      "street": "Kalathiappa street",
+      "rain": "sewer_block",
+      "page": 378
+    },
+    {
+      "ward": 59,
+      "street": "Thanchai Murugapa Street",
+      "rain": "sewer_block",
+      "page": 379
+    },
+    {
+      "ward": 59,
+      "street": "Mint Street",
+      "rain": "sewer_block",
+      "page": 379
+    },
+    {
+      "ward": 59,
+      "street": "Boomu Street",
+      "rain": "sewer_block",
+      "page": 379
+    },
+    {
+      "ward": 59,
+      "street": "Frazer Bridge Road",
+      "rain": "sewer_block",
+      "page": 379
+    },
+    {
+      "ward": 60,
+      "street": "Jones St",
+      "rain": "sewer_block",
+      "page": 379
+    },
+    {
+      "ward": 60,
+      "street": "Mookarnala muthu Street",
+      "rain": "sewer_block",
+      "page": 379
+    },
+    {
+      "ward": 60,
+      "street": "Philipes St",
+      "rain": "sewer_block",
+      "page": 379
+    },
+    {
+      "ward": 60,
+      "street": "Moor St",
+      "rain": "sewer_block",
+      "page": 379
+    },
+    {
+      "ward": 60,
+      "street": "Mannady",
+      "rain": "sewer_block",
+      "page": 379
+    },
+    {
+      "ward": 60,
+      "street": "Post office St",
+      "rain": "sewer_block",
+      "page": 379
+    },
+    {
+      "ward": 62,
+      "street": "Bala Krishna St",
+      "rain": "sewer_block",
+      "page": 379
+    },
+    {
+      "ward": 62,
+      "street": "Palaniandavar Koil st",
+      "rain": "sewer_block",
+      "page": 379
+    },
+    {
+      "ward": 62,
+      "street": "Kalavai Street",
+      "rain": "sewer_block",
+      "page": 379
+    },
+    {
+      "ward": 62,
+      "street": "Singanna St",
+      "rain": "sewer_block",
+      "page": 379
+    },
+    {
+      "ward": 62,
+      "street": "Wallers Street",
+      "rain": "sewer_block",
+      "page": 379
+    },
+    {
+      "ward": 63,
+      "street": "Pantheon Road",
+      "rain": "sewer_block",
+      "page": 379
+    },
+    {
+      "ward": 63,
+      "street": "Egmore High Road",
+      "rain": "sewer_block",
+      "page": 379
+    }
+  ],
+  "relief_centres": [
+    {
+      "ward": 53,
+      "name": "Chennai Middle School Padavattamman Koil Street",
+      "capacity": 150,
+      "streets_to_shift": "BB Road Slum",
+      "cooking": false,
+      "drinking_water": true,
+      "toilets": true,
+      "contacts": [
+        {
+          "designation": "SI (Sanitation, Medicine)",
+          "phones": [
+            "7904861562"
+          ]
+        },
+        {
+          "designation": "AE (Evacuation & Relief Materials)",
+          "phones": [
+            "9445190353"
+          ]
+        },
+        {
+          "designation": "ARO (Food & Drinking water)",
+          "phones": [
+            "9677211155"
+          ]
+        }
+      ],
+      "page": 379
+    },
+    {
+      "ward": 53,
+      "name": "Boojaraja Nagar Multipurpose Hall",
+      "capacity": 50,
+      "streets_to_shift": "Corporation Colony",
+      "cooking": false,
+      "drinking_water": true,
+      "toilets": true,
+      "contacts": [
+        {
+          "designation": "SI (Sanitation, Medicine)",
+          "phones": [
+            "7904861562"
+          ]
+        },
+        {
+          "designation": "AE (Evacuation & Relief Materials)",
+          "phones": [
+            "9445190353"
+          ]
+        },
+        {
+          "designation": "ARO (Food & Drinking water)",
+          "phones": [
+            "9677211155"
+          ]
+        }
+      ],
+      "page": 380
+    },
+    {
+      "ward": 54,
+      "name": "Chennai Middel School Padavattamman Koil Street Boojaraja Nagar - Multipurpose Hall CMS Amman koil Street Kondithoppu Chennai-79",
+      "capacity": 70,
+      "streets_to_shift": "Chidambaram Nagar",
+      "cooking": false,
+      "drinking_water": true,
+      "toilets": true,
+      "contacts": [
+        {
+          "designation": "SI (Sanitation, Medicine)",
+          "phones": [
+            "9941812368"
+          ]
+        },
+        {
+          "designation": "AE (Evacuation & Relief Materials)",
+          "phones": [
+            "9445190354"
+          ]
+        },
+        {
+          "designation": "ARO (Food & Drinking water)",
+          "phones": [
+            "7010123899"
+          ]
+        }
+      ],
+      "page": 380
+    },
+    {
+      "ward": 55,
+      "name": "Boojaraja Nagar - Multipurpose Hall CMS Amman koil Street Kondithoppu Chennai-79 Corporation Community Centre St.Xavier Street Sevenwells St Ch-79",
+      "capacity": 100,
+      "streets_to_shift": "Thideer Nagar and Natesan Nagar",
+      "cooking": false,
+      "drinking_water": true,
+      "toilets": true,
+      "contacts": [
+        {
+          "designation": "SI (Sanitation, Medicine)",
+          "phones": [
+            "9976935501"
+          ]
+        },
+        {
+          "designation": "AE (Evacuation & Relief Materials)",
+          "phones": [
+            "9445190355"
+          ]
+        },
+        {
+          "designation": "ARO (Food & Drinking water)",
+          "phones": [
+            "9789033020"
+          ]
+        }
+      ],
+      "page": 380
+    },
+    {
+      "ward": 57,
+      "name": "Corporation Community Centre Anna Pillai Street Chennai Middel School Padavattamman Koil Street Boojaraja Nagar - Multipurpose Hall",
+      "capacity": 150,
+      "streets_to_shift": "Gandhi Nagar",
+      "cooking": false,
+      "drinking_water": true,
+      "toilets": true,
+      "contacts": [
+        {
+          "designation": "SI (Sanitation, Medicine)",
+          "phones": [
+            "9941812368"
+          ]
+        },
+        {
+          "designation": "AE (Evacuation & Relief Materials)",
+          "phones": [
+            "9445190357"
+          ]
+        },
+        {
+          "designation": "ARO (Food & Drinking water)",
+          "phones": [
+            "9789033020"
+          ]
+        }
+      ],
+      "page": 380
+    },
+    {
+      "ward": 58,
+      "name": "Corporation Community Centre Sydenhams Road Kannapar Thidal Moormarket Ch-3 Chennai Middel School Mint Street Chennai Middle School Varadharaja Puram Egmore",
+      "capacity": 200,
+      "streets_to_shift": null,
+      "cooking": false,
+      "drinking_water": true,
+      "toilets": true,
+      "contacts": [
+        {
+          "designation": "SI (Sanitation, Medicine)",
+          "phones": [
+            "9629987460"
+          ]
+        },
+        {
+          "designation": "AE (Evacuation & Relief Materials)",
+          "phones": [
+            "9445190358"
+          ]
+        },
+        {
+          "designation": "ARO (Food & Drinking water)",
+          "phones": [
+            "9677211155"
+          ]
+        }
+      ],
+      "page": 380
+    },
+    {
+      "ward": 59,
+      "name": "CHS- West Coovam Road Corporation Community Centre Sydenhams Road Kannapar Thidal Moormarket Ch-3 Chennai Middel School Mint Street",
+      "capacity": 40,
+      "streets_to_shift": null,
+      "cooking": false,
+      "drinking_water": true,
+      "toilets": true,
+      "contacts": [
+        {
+          "designation": "SI (Sanitation, Medicine)",
+          "phones": [
+            "9840094340"
+          ]
+        },
+        {
+          "designation": "AE (Evacuation & Relief Materials)",
+          "phones": [
+            "9445190359"
+          ]
+        },
+        {
+          "designation": "ARO (Food & Drinking water)",
+          "phones": [
+            "7010123899"
+          ]
+        }
+      ],
+      "page": 380
+    },
+    {
+      "ward": 61,
+      "name": "Chennai Middle School Varadharaja Puram Egmore Corporation Community Centre Sydenhams Road Kannapar Thidal Moormarket Ch-3",
+      "capacity": 100,
+      "streets_to_shift": null,
+      "cooking": false,
+      "drinking_water": true,
+      "toilets": true,
+      "contacts": [
+        {
+          "designation": "SI (Sanitation, Medicine)",
+          "phones": [
+            "8072680350"
+          ]
+        },
+        {
+          "designation": "AE (Evacuation & Relief Materials)",
+          "phones": [
+            "9445190361"
+          ]
+        },
+        {
+          "designation": "ARO (Food & Drinking water)",
+          "phones": [
+            "9677211155"
+          ]
+        }
+      ],
+      "page": 381
+    },
+    {
+      "ward": 62,
+      "name": "Chennai Middle School Mint Street",
+      "capacity": 200,
+      "streets_to_shift": "West Coovum road",
+      "cooking": false,
+      "drinking_water": true,
+      "toilets": true,
+      "contacts": [
+        {
+          "designation": "SI (Sanitation, Medicine)",
+          "phones": [
+            "9629987460"
+          ]
+        },
+        {
+          "designation": "AE (Evacuation & Relief Materials)",
+          "phones": [
+            "9445190362"
+          ]
+        },
+        {
+          "designation": "ARO (Food & Drinking water)",
+          "phones": [
+            "7010123899"
+          ]
+        }
+      ],
+      "page": 381
+    },
+    {
+      "ward": 63,
+      "name": "Corporation Community Centr Veerpathiran Street Pudupet CH-2",
+      "capacity": 100,
+      "streets_to_shift": "South Coovum road",
+      "cooking": false,
+      "drinking_water": true,
+      "toilets": true,
+      "contacts": [
+        {
+          "designation": "SI (Sanitation, Medicine)",
+          "phones": [
+            "8072680350"
+          ]
+        },
+        {
+          "designation": "AE (Evacuation & Relief Materials)",
+          "phones": [
+            "9445190363"
+          ]
+        },
+        {
+          "designation": "ARO (Food & Drinking water)",
+          "phones": [
+            "7010123899"
+          ]
+        }
+      ],
+      "page": 381
+    }
+  ],
+  "subways": [
+    {
+      "ward": 60,
+      "name": "R.B.I. Subway",
+      "length_m": 600,
+      "disposal_point": "Canal",
+      "pumps": "10-HP-6, 25 HP-2 (Ele), 10 HP-3, 5 HP-1",
+      "page": 383
+    },
+    {
+      "ward": 61,
+      "name": "Gengu Reddy Subway",
+      "length_m": 400,
+      "disposal_point": "Canal",
+      "pumps": "15 HP-1-(Ele), 12.5-HP-2 (Ele), 5HP-2, 5 HP - 1 (Electrical)",
+      "page": 383
+    },
+    {
+      "ward": 52,
+      "name": "M.C.Road Subway",
+      "length_m": 382,
+      "disposal_point": "Canal",
+      "pumps": "12.5 H.P - 4, 7.5 H.P - 2",
+      "page": 383
+    },
+    {
+      "ward": 53,
+      "name": "C.B.Road Subway",
+      "length_m": 50,
+      "disposal_point": "Canal",
+      "pumps": "5 HP-1",
+      "page": 383
+    },
+    {
+      "ward": 60,
+      "name": "Rajaji Salai Subway near Beach railway station",
+      "length_m": 60,
+      "disposal_point": "B- Canal",
+      "pumps": "10 HP - 1",
+      "page": 383
+    }
+  ],
+  "evacuation_streets": [],
+  "water_entered_houses": [
+    {
+      "ward": 53,
+      "street": "Srinivasan Street",
+      "page": 385
+    },
+    {
+      "ward": 53,
+      "street": "Boojaraja Nagar",
+      "page": 385
+    },
+    {
+      "ward": 53,
+      "street": "Kannan Street",
+      "page": 385
+    },
+    {
+      "ward": 53,
+      "street": "Sajja Munusamy Street",
+      "page": 385
+    },
+    {
+      "ward": 53,
+      "street": "Stanley Nagar Canal Street",
+      "page": 385
+    },
+    {
+      "ward": 53,
+      "street": "P.P.Amman Koil Street Slum in Dn-53",
+      "page": 385
+    }
+  ],
+  "tree_fall": [
+    {
+      "ward": 49,
+      "street": "Solaiappan Street Near CWC."
+    },
+    {
+      "ward": 49,
+      "street": "New Thandavarayan St., (Near market)"
+    },
+    {
+      "ward": 49,
+      "street": "M.C.Road (Near Arihant Showroom)"
+    },
+    {
+      "ward": 51,
+      "street": "Cemetery Road (Near Classic Apartment)"
+    },
+    {
+      "ward": 51,
+      "street": "East Cemetery road (Hosing Board )"
+    },
+    {
+      "ward": 51,
+      "street": "Selva Vinayaga Street"
+    },
+    {
+      "ward": 52,
+      "street": "B.C.Press Road"
+    },
+    {
+      "ward": 52,
+      "street": "Cemetry Road (Near RSRM Hospital)"
+    },
+    {
+      "ward": 53,
+      "street": "Peddu St.,(Near Police Quarters)"
+    },
+    {
+      "ward": 53,
+      "street": "Basin Bridge Road (Near Mint Bridge)"
+    },
+    {
+      "ward": 56,
+      "street": "Thiruvalluvan Nagar"
+    },
+    {
+      "ward": 59,
+      "street": "E.V.R.Salai (Near MMC Ground)"
+    },
+    {
+      "ward": 59,
+      "street": "Issac Street (Near Women Police hostel)"
+    }
+  ],
+  "ndrf_boats": [
+    {
+      "ward": 53,
+      "location": "Greater Chennai Middle School Basin Bridge road, Chennai-600 021",
+      "kind": "ndrf",
+      "details": null
+    }
+  ],
+  "parks_assembly": [
+    {
+      "ward": 49,
+      "name": "Sivagami ammal park MC Road Royapuram",
+      "location": null
+    },
+    {
+      "ward": 50,
+      "name": "Kamaraj Park",
+      "location": "M.S Koil Street Royapuram"
+    },
+    {
+      "ward": 50,
+      "name": "Sundaramoorthy Park",
+      "location": "Venkatesan Nagar, Royapuram"
+    },
+    {
+      "ward": 50,
+      "name": "N.R.T Bridge Under Park NRT Road Raoypapuram",
+      "location": null
+    },
+    {
+      "ward": 52,
+      "name": "Basement Park MC Road Royapuram",
+      "location": null
+    },
+    {
+      "ward": 52,
+      "name": "Anna Park",
+      "location": "Cementry Road, Royapuram"
+    },
+    {
+      "ward": 53,
+      "name": "Mint Model City Park",
+      "location": "Model City Washermenpet"
+    },
+    {
+      "ward": 53,
+      "name": "Old Andra Bus Stand Park",
+      "location": "Basin Bridge"
+    },
+    {
+      "ward": 54,
+      "name": "Sivagnanam Park",
+      "location": "Peddu Street"
+    },
+    {
+      "ward": 56,
+      "name": "Terrace Garden Park",
+      "location": "Bharathi Arts College"
+    },
+    {
+      "ward": 58,
+      "name": "Jermiah Park",
+      "location": "Doveton"
+    },
+    {
+      "ward": 58,
+      "name": "Thirumalai Park",
+      "location": "Jermaiah Road"
+    },
+    {
+      "ward": 58,
+      "name": "My Ladies Garden",
+      "location": "Near Ripon Building"
+    },
+    {
+      "ward": 58,
+      "name": "Doveton Clock Towers Park",
+      "location": "Doveton"
+    },
+    {
+      "ward": 58,
+      "name": "Ragavendra Park",
+      "location": "Choolai Post Bus Stand"
+    },
+    {
+      "ward": 58,
+      "name": "Dinathanthi Office Near Park",
+      "location": "Dinathanthi office"
+    },
+    {
+      "ward": 60,
+      "name": "Secretariate Park- Old Secretariate",
+      "location": null
+    },
+    {
+      "ward": 60,
+      "name": "Sathya Nagar Park",
+      "location": "War Memorial"
+    },
+    {
+      "ward": 61,
+      "name": "Gandhi Irwin Park",
+      "location": "CMDA Building"
+    },
+    {
+      "ward": 61,
+      "name": "Mayor Sundar rao Park",
+      "location": "Rukmani Lakshmi pathy salai, Egmore"
+    },
+    {
+      "ward": 61,
+      "name": "Ethiraj lane Park",
+      "location": "Ethiraj college"
+    },
+    {
+      "ward": 61,
+      "name": "L G Road Park (DN-61)",
+      "location": null
+    },
+    {
+      "ward": 63,
+      "name": "L G Road Park (DN-63)",
+      "location": null
+    },
+    {
+      "ward": 62,
+      "name": "May Day Park",
+      "location": null
+    },
+    {
+      "ward": 63,
+      "name": "Raheja Complex Park",
+      "location": "Tenampet Congress office"
+    },
+    {
+      "ward": 63,
+      "name": "Adithanar Salai Park",
+      "location": "D’"
+    }
+  ],
+  "hospitals": [],
+  "pumping_stations": [
+    {
+      "ward": null,
+      "name": "Pumping Station Road",
+      "capacity_mld": 30
+    },
+    {
+      "ward": null,
+      "name": "East Kalmandapan Road",
+      "capacity_mld": 30
+    },
+    {
+      "ward": null,
+      "name": "Ibhrahim Salai",
+      "capacity_mld": 30
+    },
+    {
+      "ward": null,
+      "name": "North Wall Road, K.H. Road",
+      "capacity_mld": 30
+    },
+    {
+      "ward": null,
+      "name": "Malayappan Street",
+      "capacity_mld": 30
+    },
+    {
+      "ward": null,
+      "name": "Jatkapuram",
+      "capacity_mld": 30
+    },
+    {
+      "ward": null,
+      "name": "Rajamuthiah road (Rippon building annex road)",
+      "capacity_mld": 30
+    },
+    {
+      "ward": null,
+      "name": "Iyyasamy Street",
+      "capacity_mld": 30
+    },
+    {
+      "ward": null,
+      "name": "S.M.Nagar, N.S.C.Bose Road",
+      "capacity_mld": 30
+    }
+  ],
+  "notes": [
+    "zonal_office address comes only from the relief-centre legend of the map on p.382 (R2, ward 53); no office phone is printed. No hospital/UPHC list, police or fire contacts are given in this zone's appendix.",
+    "Assistant Executive Engineer 'Addl. AEE' and Sanitary Officer for wards 49 to 53 are printed as 'Vacant' (no phone).",
+    "CMWSSB contact (p.367) is printed as 'Area Engineer-5 8144930905 Asst. Engineer-49 to 63 8144930049 to 8144930063'. Only the Area Engineer number is stored as a phone; the Assistant Engineer per-ward numbers are given only as that range and were not expanded.",
+    "Divisional Engineer (HQ) phone printed as '9445190751 & 753'; the second number is recorded as 9445190753 (same 7-digit prefix). NDRF Commandant phone printed as '04177 – 246594/246269'; second number recorded with the shared 04177 prefix.",
+    "Conservancy supervisor is printed 'Conservany supervisor' (kept). The p.367 contact table repeats the three ward-range supervisors with area names (Royapuram/Harbour/Egmore), merged into the wards field.",
+    "inundation_streets = 'Water stagnated streets in the previous monsoon - heavy rain' table (p.372, 13 rows); no depth/days columns. Disposal point is blank in the source for rows 7 (VOC Salai) and 10 (Singanna Chetty Street). Trailing commas after street names dropped. Text says 13 spots.",
+    "Mild-rain table (p.377) has a single row with ward '49 to 63'.",
+    "Sewer-block table (pp.378-379) also gives 'No. of manholes' per street (total 154), not captured by the schema.",
+    "Relief centres: text says 11 centres / capacity 2250 but the table (pp.379-381) has 10 rows. Facility columns are ordered Drinking water | Toilets | Cooking facilities (verified on the page image); every row reads Yes | Yes | NO, i.e. cooking = false. Several 'Name & Address' cells list two or three venues run together (rows 3-8); kept as one entry per row as printed. Rows 6-8 have no streets listed. Contact designations are printed as SI / AE / ARO; the Responsibilities column is added in brackets.",
+    "The relief/evacuation map (p.382, labels omitted in the text file) carries a DIFFERENT legend, not used for the arrays: R1 50 Community Hall at Shaik Mastiry Street; R2 53 Zonal office-5, No:61, Basin Bridge Road, Royapuram; R3 58 Coummunity Hall Kannapar thidal Sydenhams Road; R4 59 Coummunity Hall, SMNager; R5 62 MRTS Railway Station Chinthardripet; R6 61 Anthoneyar School Adithanar Salai, Egmore; R7 61 Chennai Middle School, Varatharaja Puram, Egmore; R8 62 Chennai High School,West Coovum Road, Pudupet; R9 62 Corporation Gym, Ulagappa Street Chinthadripet; R10 63 Chennai Primary School, Goyathoppu Street, Pudupet; R11 63 Veerapatheran Street Coummunity Hall, Pudupet. Streets to be shifted (E1-E11): 50 Corporation Colony; 53 Chidambaram Nagar; 58 Thideer Nagar and Natesan Nagar; 59 Gandhi Nagar; 59 Pallavan Nagar; 61 Transport Lane; 61 Varatharajapuram; 62 Rex Street, Five huts; 62 West Coovum road; 63 South Coovum road; 63 Boothaperumal koil street. (Read from the page image.)",
+    "Streets that require evacuation: the source states there was no evacuation in Royapuram zone in 2015, so evacuation_streets is empty.",
+    "Water-entered-houses (p.385): one row, ward 53 ('Dr.Vijaya Rahavalu Road'), whose cell lists 6 streets; split into 6 entries (text says 6 locations).",
+    "Tree fall (p.385): each ward cell lists several locations on separate lines; split into 13 entries (text says 13).",
+    "Rescue boats: source says no rescue boats were needed in this zone. Only one NDRF location is given.",
+    "Parks (p.365): text says 25 parks but 26 rows are listed. 'Name / Location' split at the first comma into name and location; row 26 location is truncated in the source ('D’').",
+    "Pumping stations (p.366): ward not given; all 9 are 30 MLD. Two-line names joined with a comma.",
+    "The zone text ends partway through 'Transport Equipments & Lorries' (p.386); the lorry table is not in the file."
+  ]
+}

@@ -1,0 +1,2307 @@
+{
+ "zone": 8,
+ "zone_name": "Anna Nagar",
+ "zonal_office": null,
+ "officials": [
+  {
+   "designation": "Chairman",
+   "name": null,
+   "wards": "94 to 108",
+   "phones": [
+    "9445467094",
+    "9283184848"
+   ],
+   "category": "zone"
+  },
+  {
+   "designation": "Zonal Officer",
+   "name": null,
+   "wards": "94 to 108",
+   "phones": [
+    "9445190008"
+   ],
+   "category": "zone"
+  },
+  {
+   "designation": "Executive Engineer-1",
+   "name": null,
+   "wards": "94 to 100",
+   "phones": [
+    "9445467320"
+   ],
+   "category": "zone"
+  },
+  {
+   "designation": "Executive Engineer-2",
+   "name": null,
+   "wards": "101 to 108",
+   "phones": [
+    "9445190028"
+   ],
+   "category": "zone"
+  },
+  {
+   "designation": "Assistant Executive Engineer",
+   "name": null,
+   "wards": "Unit -21",
+   "phones": [
+    "9445190121"
+   ],
+   "category": "ward"
+  },
+  {
+   "designation": "Assistant Executive Engineer",
+   "name": null,
+   "wards": "Unit -22",
+   "phones": [
+    "9445190122"
+   ],
+   "category": "ward"
+  },
+  {
+   "designation": "Assistant Executive Engineer",
+   "name": null,
+   "wards": "Unit -23",
+   "phones": [
+    "9445190123"
+   ],
+   "category": "ward"
+  },
+  {
+   "designation": "Additional Divisional Engineer, Electrical",
+   "name": null,
+   "wards": "94 to 108",
+   "phones": [
+    "9445190048"
+   ],
+   "category": "electrical"
+  },
+  {
+   "designation": "Assistant Executive Engineer, Mechanical",
+   "name": null,
+   "wards": "94 to 108",
+   "phones": [
+    "9445190489"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Conservany supervisor",
+   "name": null,
+   "wards": "Unit -21",
+   "phones": [
+    "9445191421"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Conservany supervisor",
+   "name": null,
+   "wards": "Unit -22",
+   "phones": [
+    "9445190422"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Conservany supervisor",
+   "name": null,
+   "wards": "Unit -23",
+   "phones": [
+    "9445191423"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Conservancy Supervisor (Conservancy/GCC)",
+   "name": null,
+   "wards": "U-22",
+   "phones": [
+    "9445190606"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Assistant Engineer (Water Supply& Sewage / CMWSSB)",
+   "name": null,
+   "wards": "Area Engineer",
+   "phones": [
+    "8144930908"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Executive Engineer (TNSCB)",
+   "name": null,
+   "wards": "Zone VIII",
+   "phones": [
+    "9445074764"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Zonal Health Officer",
+   "name": null,
+   "wards": "Zone VIII",
+   "phones": [
+    "9445190068"
+   ],
+   "category": "health"
+  },
+  {
+   "designation": "Veterinary Surgeon",
+   "name": null,
+   "wards": "Zone VIII",
+   "phones": [
+    "9445200612"
+   ],
+   "category": "health"
+  },
+  {
+   "designation": "Junior Entomologist",
+   "name": null,
+   "wards": "Zone VIII",
+   "phones": [
+    "9841320440"
+   ],
+   "category": "health"
+  },
+  {
+   "designation": "Sanitary Officer",
+   "name": null,
+   "wards": "Unit 21",
+   "phones": [
+    "9444231076"
+   ],
+   "category": "health"
+  },
+  {
+   "designation": "Sanitary Officer",
+   "name": null,
+   "wards": "Unit 22",
+   "phones": [
+    "9962526363"
+   ],
+   "category": "health"
+  },
+  {
+   "designation": "Sanitary Officer",
+   "name": null,
+   "wards": "Unit 23",
+   "phones": [
+    "9445190708"
+   ],
+   "category": "health"
+  },
+  {
+   "designation": "Park Oversear",
+   "name": null,
+   "wards": "Anna Nagar, Shenoy Nagar, Villivakkam, Ayanavaram, Kilpauk, Purasaiwalkam, Chetpet, Aminjikarai, Metha Nagar, Arumbakkam, MMDA Colony and Thirumangalam.",
+   "phones": [
+    "9445467388"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Assistant Engineer",
+   "name": null,
+   "wards": "94, 95,104",
+   "phones": [
+    "9445190935"
+   ],
+   "category": "electrical"
+  },
+  {
+   "designation": "Assistant Engineer",
+   "name": null,
+   "wards": "96,97,98",
+   "phones": [
+    "9444577697"
+   ],
+   "category": "electrical"
+  },
+  {
+   "designation": "Assistant Engineer",
+   "name": null,
+   "wards": "99,100",
+   "phones": [
+    "9445191462"
+   ],
+   "category": "electrical"
+  },
+  {
+   "designation": "Junior Engineer",
+   "name": null,
+   "wards": "101,108",
+   "phones": [
+    "9445190938"
+   ],
+   "category": "electrical"
+  },
+  {
+   "designation": "Assistant Engineer",
+   "name": null,
+   "wards": "102,103",
+   "phones": [
+    "9445190937"
+   ],
+   "category": "electrical"
+  },
+  {
+   "designation": "Assistant Engineer",
+   "name": null,
+   "wards": "105,106,107",
+   "phones": [
+    "9445190936"
+   ],
+   "category": "electrical"
+  },
+  {
+   "designation": "Additional divisional Engineer (Zone)",
+   "name": null,
+   "wards": "94 to 108",
+   "phones": [
+    "9445190048"
+   ],
+   "category": "electrical"
+  },
+  {
+   "designation": "Divisional Engineer (HQ)",
+   "name": null,
+   "wards": "94 to 108",
+   "phones": [
+    "9445190754"
+   ],
+   "category": "electrical"
+  },
+  {
+   "designation": "Assistant Engineer (rescue boats, stationed at MTH Road)",
+   "name": null,
+   "wards": "94",
+   "phones": [
+    "9445190394"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Assistant Engineer (rescue boats, stationed at 3rd Avenue)",
+   "name": null,
+   "wards": "102",
+   "phones": [
+    "9445190402"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Assistant Engineer (rescue boats, stationed at Kilpauk Garden)",
+   "name": null,
+   "wards": "101",
+   "phones": [
+    "9445190401"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "The Commandant, 04, Battalion(NDRF), Suraksha Campus, Takkolam, Arakkonam, Vellore District – 631 152",
+   "name": null,
+   "wards": null,
+   "phones": [
+    "04177-246594",
+    "04177-246269"
+   ],
+   "category": "other"
+  }
+ ],
+ "inundation_streets": [
+  {
+   "ward": 95,
+   "street": "Thanthoniamman Koil Street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "7.5 HP",
+   "pump_location": "Thanthoniamman Koil Street",
+   "disposal_point": "SWD",
+   "page": 488
+  },
+  {
+   "ward": 95,
+   "street": "Welcome Colony",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "7.5 HP",
+   "pump_location": "Welcome Colony",
+   "disposal_point": "SWD",
+   "page": 488
+  },
+  {
+   "ward": 95,
+   "street": "Vijayalakshmipuram 1 to 3 Streets & Thanthoniamman Extn., lane",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "7.5 HP",
+   "pump_location": "Vijayalakshmipuram 1 to 3 Streets & Thanthoniamman Extn., lane",
+   "disposal_point": "SWD",
+   "page": 488
+  },
+  {
+   "ward": 95,
+   "street": "Bajanai Koil Street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "7.5 HP",
+   "pump_location": "Bajanai Koil Street",
+   "disposal_point": "SWD",
+   "page": 488
+  },
+  {
+   "ward": 96,
+   "street": "Konnur High Road",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": null,
+   "pump_location": "Konnur High Road",
+   "disposal_point": "SWD",
+   "page": 488
+  },
+  {
+   "ward": 96,
+   "street": "Kakkanji Nagar & Gandhi Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "10 HP",
+   "pump_location": "Kakkanji Nagar & Gandhi Nagar",
+   "disposal_point": "SWD",
+   "page": 488
+  },
+  {
+   "ward": 97,
+   "street": "Veerasamy Main Street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "7.5 HP",
+   "pump_location": "Veerasamy Main Street",
+   "disposal_point": "SWD",
+   "page": 488
+  },
+  {
+   "ward": 97,
+   "street": "P.E.Koil West Mada Street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "3 HP",
+   "pump_location": "P.E.Koil West Mada Street",
+   "disposal_point": "SWD",
+   "page": 488
+  },
+  {
+   "ward": 103,
+   "street": "AD Block",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": null,
+   "pump_location": "AD Block",
+   "disposal_point": "SWD",
+   "page": 488
+  },
+  {
+   "ward": 102,
+   "street": "C Block",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "7.5 HP",
+   "pump_location": "C Block",
+   "disposal_point": "SWD",
+   "page": 488
+  },
+  {
+   "ward": 102,
+   "street": "W Block",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": null,
+   "pump_location": "W Block",
+   "disposal_point": "SWD",
+   "page": 488
+  },
+  {
+   "ward": 102,
+   "street": "Bharathipuram Main Street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "7.5 HP - 2",
+   "pump_location": "Bharathipuram Main Street",
+   "disposal_point": "SWD",
+   "page": 488
+  },
+  {
+   "ward": 102,
+   "street": "Bharathipuram 4th Street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "7.5 HP - 2",
+   "pump_location": "Bharathipuram 4th Street",
+   "disposal_point": "SWD",
+   "page": 488
+  },
+  {
+   "ward": 102,
+   "street": "F Block 2nd & 4th Street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "7.5 HP - 2",
+   "pump_location": "F Block 2nd & 4th Street",
+   "disposal_point": "SWD",
+   "page": 488
+  },
+  {
+   "ward": 102,
+   "street": "Muthumariamman Colony",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "7.5 HP -2",
+   "pump_location": "Muthumariamman Colony",
+   "disposal_point": "SWD",
+   "page": 488
+  },
+  {
+   "ward": 100,
+   "street": "Millers Road",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "10 HP, 17.5 HP",
+   "pump_location": "Millers Road",
+   "disposal_point": "SWD",
+   "page": 488
+  },
+  {
+   "ward": 100,
+   "street": "Purasaiwalkam High Road (near Law College)",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "7.5 HP, 7.5 HP - 3",
+   "pump_location": "Purasaiwalkam High Road (near Law College)",
+   "disposal_point": "SWD",
+   "page": 488
+  },
+  {
+   "ward": 100,
+   "street": "Rajarathinam Street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "7.5 HP",
+   "pump_location": "Rajarathinam Street",
+   "disposal_point": "SWD",
+   "page": 488
+  },
+  {
+   "ward": 100,
+   "street": "Kellys Road",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "7.5 HP – 2, 5 HP",
+   "pump_location": "Kellys Road",
+   "disposal_point": "SWD",
+   "page": 488
+  },
+  {
+   "ward": 99,
+   "street": "Sundaram Lane",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "7.5 HP",
+   "pump_location": "Sundaram Lane",
+   "disposal_point": "SWD",
+   "page": 488
+  },
+  {
+   "ward": 99,
+   "street": "Osone Kulam Tenements",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "40 HP",
+   "pump_location": "Osone Kulam Tenements",
+   "disposal_point": "SWD",
+   "page": 489
+  },
+  {
+   "ward": 99,
+   "street": "New Bhoopathy Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "7.5 HP",
+   "pump_location": "New Bhoopathy Nagar 7th street",
+   "disposal_point": "SWD",
+   "page": 489
+  },
+  {
+   "ward": 99,
+   "street": "Sastri Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "7.5 HP",
+   "pump_location": "Sastri Nagar",
+   "disposal_point": "SWD",
+   "page": 489
+  },
+  {
+   "ward": 99,
+   "street": "Lawders Gate Main Road",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP",
+   "pump_location": "Lawders Gate Main Road",
+   "disposal_point": "SWD",
+   "page": 489
+  },
+  {
+   "ward": 99,
+   "street": "Shanmugarayan Street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP",
+   "pump_location": "Shanmugarayan Street",
+   "disposal_point": "SWD",
+   "page": 489
+  },
+  {
+   "ward": 105,
+   "street": "Water Tank Road",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "10 HP - 2",
+   "pump_location": "Water Tank Road",
+   "disposal_point": "SWD",
+   "page": 489
+  },
+  {
+   "ward": 108,
+   "street": "MC Nichols 3rd Lane",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP",
+   "pump_location": "MC Nichols 3rd Lane",
+   "disposal_point": "SWD",
+   "page": 489
+  },
+  {
+   "ward": 106,
+   "street": "Iyyappa Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP",
+   "pump_location": "Iyyappa Nagar",
+   "disposal_point": "SWD",
+   "page": 489
+  },
+  {
+   "ward": 106,
+   "street": "Periyar Pathai",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "3 HP",
+   "pump_location": "Periyar Pathai",
+   "disposal_point": "SWD",
+   "page": 489
+  }
+ ],
+ "water_stagnation": [
+  {
+   "ward": 95,
+   "street": "Ishwarya Kudiruppu",
+   "rain": "mild",
+   "page": 494
+  },
+  {
+   "ward": 95,
+   "street": "Seeyalam Street",
+   "rain": "mild",
+   "page": 494
+  },
+  {
+   "ward": 97,
+   "street": "P.E Koil West Mada street",
+   "rain": "mild",
+   "page": 494
+  },
+  {
+   "ward": 102,
+   "street": "Bharathipuram 4th Street",
+   "rain": "mild",
+   "page": 494
+  },
+  {
+   "ward": 102,
+   "street": "F Block 2nd & 4th Street",
+   "rain": "mild",
+   "page": 494
+  },
+  {
+   "ward": 102,
+   "street": "Muthumariamman Colony",
+   "rain": "mild",
+   "page": 494
+  },
+  {
+   "ward": 101,
+   "street": "New Avadi Road",
+   "rain": "mild",
+   "page": 494
+  },
+  {
+   "ward": 101,
+   "street": "Pulla Avenue (from PH road to 1st cross street)",
+   "rain": "mild",
+   "page": 494
+  },
+  {
+   "ward": 100,
+   "street": "Kellys road",
+   "rain": "mild",
+   "page": 494
+  },
+  {
+   "ward": 100,
+   "street": "Taylors Road",
+   "rain": "mild",
+   "page": 494
+  },
+  {
+   "ward": 100,
+   "street": "Umayal Street",
+   "rain": "mild",
+   "page": 494
+  },
+  {
+   "ward": 100,
+   "street": "Temple Street",
+   "rain": "mild",
+   "page": 494
+  },
+  {
+   "ward": 99,
+   "street": "Sundaram Lane",
+   "rain": "mild",
+   "page": 494
+  },
+  {
+   "ward": 99,
+   "street": "Ozone Kulam Tenements",
+   "rain": "mild",
+   "page": 494
+  },
+  {
+   "ward": 95,
+   "street": "Narayana Maistry 2nd street",
+   "rain": "moderate",
+   "page": 494
+  },
+  {
+   "ward": 96,
+   "street": "Kakkanji Nagar & Gandhi nagar",
+   "rain": "moderate",
+   "page": 494
+  },
+  {
+   "ward": 97,
+   "street": "Veerasamy main street",
+   "rain": "moderate",
+   "page": 494
+  },
+  {
+   "ward": 97,
+   "street": "Solai 3rd street",
+   "rain": "moderate",
+   "page": 494
+  },
+  {
+   "ward": 101,
+   "street": "1st Main Road East",
+   "rain": "moderate",
+   "page": 494
+  },
+  {
+   "ward": 101,
+   "street": "Kilpauk Garden Road",
+   "rain": "moderate",
+   "page": 494
+  },
+  {
+   "ward": 102,
+   "street": "1st Avenue",
+   "rain": "moderate",
+   "page": 494
+  },
+  {
+   "ward": 105,
+   "street": "Water Tank Road",
+   "rain": "moderate",
+   "page": 494
+  },
+  {
+   "ward": 96,
+   "street": "Gandhi Nagar",
+   "rain": "sewer_block",
+   "page": 495
+  },
+  {
+   "ward": 97,
+   "street": "Vellala Street",
+   "rain": "sewer_block",
+   "page": 495
+  },
+  {
+   "ward": 98,
+   "street": "Old Burial Ground Road",
+   "rain": "sewer_block",
+   "page": 495
+  },
+  {
+   "ward": 101,
+   "street": "Pullapuram",
+   "rain": "sewer_block",
+   "page": 495
+  },
+  {
+   "ward": 100,
+   "street": "Purasaiwalkam High Road",
+   "rain": "sewer_block",
+   "page": 495
+  },
+  {
+   "ward": 100,
+   "street": "Barnaby Road",
+   "rain": "sewer_block",
+   "page": 495
+  },
+  {
+   "ward": 100,
+   "street": "Flowers Road",
+   "rain": "sewer_block",
+   "page": 495
+  },
+  {
+   "ward": 99,
+   "street": "Sundaram Lane",
+   "rain": "sewer_block",
+   "page": 495
+  },
+  {
+   "ward": 99,
+   "street": "Sastri Nagar",
+   "rain": "sewer_block",
+   "page": 495
+  }
+ ],
+ "relief_centres": [
+  {
+   "ward": 94,
+   "name": "Singaram Pillai school, CMS, West Mada Street, Villivakkam",
+   "capacity": 850,
+   "streets_to_shift": "Annai Sathya Nagar, Amman Kuttai and BharathiNagar",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI (Sanitation, Medicine)",
+     "phones": [
+      "9445025897"
+     ]
+    },
+    {
+     "designation": "AE (Evacuation, Relief Materials)",
+     "phones": [
+      "9445190394"
+     ]
+    },
+    {
+     "designation": "ARO (Food & Drinking water)",
+     "phones": [
+      "9445190088"
+     ]
+    }
+   ],
+   "page": 495
+  },
+  {
+   "ward": 95,
+   "name": "Kangadurga School",
+   "capacity": 500,
+   "streets_to_shift": "Vijayalakshmipuram, Welcome Colony, Bajanai koil street, Thanthoniamman koil street",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI (Sanitation, Medicine)",
+     "phones": [
+      "9791023580"
+     ]
+    },
+    {
+     "designation": "AE (Evacuation, Relief Materials)",
+     "phones": [
+      "9445190395"
+     ]
+    },
+    {
+     "designation": "ARO (Food & Drinking water)",
+     "phones": [
+      "9445190088"
+     ]
+    }
+   ],
+   "page": 495
+  },
+  {
+   "ward": 97,
+   "name": "CPS,Vellala Street",
+   "capacity": 200,
+   "streets_to_shift": "Pachaikal Veeraswamy Housing Board,Periyar Salai Housing Board",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI (Sanitation, Medicine)",
+     "phones": [
+      "9786340231"
+     ]
+    },
+    {
+     "designation": "AE (Evacuation, Relief Materials)",
+     "phones": [
+      "9445190397"
+     ]
+    },
+    {
+     "designation": "ARO (Food & Drinking water)",
+     "phones": [
+      "8825892640"
+     ]
+    }
+   ],
+   "page": 496
+  },
+  {
+   "ward": 98,
+   "name": "CPS,Palavayal Street",
+   "capacity": 200,
+   "streets_to_shift": "Tagore Nagar",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI (Sanitation, Medicine)",
+     "phones": [
+      "9791023580"
+     ]
+    },
+    {
+     "designation": "AE (Evacuation, Relief Materials)",
+     "phones": [
+      "9445190398"
+     ]
+    },
+    {
+     "designation": "ARO (Food & Drinking water)",
+     "phones": [
+      "9884474269"
+     ]
+    }
+   ],
+   "page": 496
+  },
+  {
+   "ward": 99,
+   "name": "Aspiran Garden,",
+   "capacity": 150,
+   "streets_to_shift": "NSK Nagar",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI (Sanitation, Medicine)",
+     "phones": [
+      "9791023580"
+     ]
+    },
+    {
+     "designation": "AE (Evacuation, Relief Materials)",
+     "phones": [
+      "9445190398"
+     ]
+    },
+    {
+     "designation": "ARO (Food & Drinking water)",
+     "phones": [
+      "9884474269"
+     ]
+    }
+   ],
+   "page": 496
+  },
+  {
+   "ward": 98,
+   "name": "Community Hall,Lockma Nagar",
+   "capacity": 200,
+   "streets_to_shift": "Lockma Nagar, Pumping Station",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI (Sanitation, Medicine)",
+     "phones": [
+      "9791023580"
+     ]
+    },
+    {
+     "designation": "AE (Evacuation, Relief Materials)",
+     "phones": [
+      "9445190398"
+     ]
+    },
+    {
+     "designation": "ARO (Food & Drinking water)",
+     "phones": [
+      "9884474269"
+     ]
+    }
+   ],
+   "page": 496
+  },
+  {
+   "ward": 99,
+   "name": "CHSS, Gangadeeshwara Koil Street",
+   "capacity": 200,
+   "streets_to_shift": "Sundram Street,Shasthri Nagar",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI (Sanitation, Medicine)",
+     "phones": [
+      "9600482735"
+     ]
+    },
+    {
+     "designation": "AE (Evacuation, Relief Materials)",
+     "phones": [
+      "9445190399"
+     ]
+    },
+    {
+     "designation": "ARO (Food & Drinking water)",
+     "phones": [
+      "8825892640"
+     ]
+    }
+   ],
+   "page": 496
+  },
+  {
+   "ward": 100,
+   "name": "CHS, Thiyagappa Street",
+   "capacity": 100,
+   "streets_to_shift": "T P Chatiram",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI (Sanitation, Medicine)",
+     "phones": [
+      "9841114261"
+     ]
+    },
+    {
+     "designation": "AE (Evacuation, Relief Materials)",
+     "phones": [
+      "9445190400"
+     ]
+    },
+    {
+     "designation": "ARO (Food & Drinking water)",
+     "phones": [
+      "8825892640"
+     ]
+    }
+   ],
+   "page": 496
+  },
+  {
+   "ward": 101,
+   "name": "Girls Hr Sec School, Pulla Avenue, Manjakollai Kathiravan Colony, Gujji Corporation Middle School",
+   "capacity": 600,
+   "streets_to_shift": "Manjakollai Kathiravan Colony, Gajalakshmi Colony",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI (Sanitation, Medicine)",
+     "phones": [
+      "9445025896"
+     ]
+    },
+    {
+     "designation": "AE (Evacuation)",
+     "phones": [
+      "9600482735"
+     ]
+    },
+    {
+     "designation": "ARO (Food & Drinking water)",
+     "phones": [
+      "9445190088"
+     ]
+    },
+    {
+     "designation": "AE (Relief Materials)",
+     "phones": [
+      "9445190401"
+     ]
+    }
+   ],
+   "page": 496
+  },
+  {
+   "ward": 102,
+   "name": "CPS,Brewery Salai",
+   "capacity": 100,
+   "streets_to_shift": "Bharathipuram,",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI (Sanitation, Medicine)",
+     "phones": [
+      "8072970991"
+     ]
+    },
+    {
+     "designation": "AE (Evacuation, Relief Materials)",
+     "phones": [
+      "9445190402"
+     ]
+    },
+    {
+     "designation": "ARO (Food & Drinking water)",
+     "phones": [
+      "9445190088"
+     ]
+    }
+   ],
+   "page": 497
+  },
+  {
+   "ward": 103,
+   "name": "CPS,Natthamuni Street, Naduvankarai",
+   "capacity": 100,
+   "streets_to_shift": "Moovendar Nagar, MGR Nagar",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI (Sanitation, Medicine)",
+     "phones": [
+      "8072464098"
+     ]
+    },
+    {
+     "designation": "AE (Evacuation, Relief Materials)",
+     "phones": [
+      "9445190403"
+     ]
+    },
+    {
+     "designation": "ARO (Food & Drinking water)",
+     "phones": [
+      "9445190088"
+     ]
+    }
+   ],
+   "page": 497
+  },
+  {
+   "ward": 103,
+   "name": "CPS,NSK Nagar",
+   "capacity": 100,
+   "streets_to_shift": "Nsk Nagar",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI (Sanitation, Medicine)",
+     "phones": [
+      "8072464098"
+     ]
+    },
+    {
+     "designation": "AE (Evacuation, Relief Materials)",
+     "phones": [
+      "9445190403"
+     ]
+    },
+    {
+     "designation": "ARO (Food & Drinking water)",
+     "phones": [
+      "9445190088"
+     ]
+    }
+   ],
+   "page": 497
+  },
+  {
+   "ward": 104,
+   "name": "Evangulate Church,V R Mahal",
+   "capacity": 300,
+   "streets_to_shift": "Sathya Sai Nagar",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI (Sanitation, Medicine)",
+     "phones": [
+      "8072464098"
+     ]
+    },
+    {
+     "designation": "AE (Evacuation, Relief Materials)",
+     "phones": [
+      "9445190404"
+     ]
+    },
+    {
+     "designation": "ARO (Food & Drinking water)",
+     "phones": [
+      "9884474269"
+     ]
+    }
+   ],
+   "page": 497
+  },
+  {
+   "ward": 105,
+   "name": "C Block, MMDA Middle School",
+   "capacity": 150,
+   "streets_to_shift": "Ashoka Street",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI (Sanitation, Medicine)",
+     "phones": [
+      "9543173714"
+     ]
+    },
+    {
+     "designation": "AE (Evacuation, Relief Materials)",
+     "phones": [
+      "9445190405"
+     ]
+    },
+    {
+     "designation": "ARO (Food & Drinking water)",
+     "phones": [
+      "9445190088"
+     ]
+    }
+   ],
+   "page": 497
+  },
+  {
+   "ward": 105,
+   "name": "Community Hall,MMDA Colony",
+   "capacity": 500,
+   "streets_to_shift": "MMDA Colony",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI (Sanitation, Medicine)",
+     "phones": [
+      "9543173714"
+     ]
+    },
+    {
+     "designation": "AE (Evacuation, Relief Materials)",
+     "phones": [
+      "9445190405"
+     ]
+    },
+    {
+     "designation": "ARO (Food & Drinking water)",
+     "phones": [
+      "9445190088"
+     ]
+    }
+   ],
+   "page": 497
+  },
+  {
+   "ward": 108,
+   "name": "CHS, Subburayan Street",
+   "capacity": 200,
+   "streets_to_shift": "Avvai puram,Mayor Sathyamoorthy Salai,Appa rao Garden",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI (Sanitation, Medicine)",
+     "phones": [
+      "9841114261"
+     ]
+    },
+    {
+     "designation": "AE (Evacuation, Relief Materials)",
+     "phones": [
+      "9445190408"
+     ]
+    },
+    {
+     "designation": "ARO (Food & Drinking water)",
+     "phones": [
+      "9884474269"
+     ]
+    }
+   ],
+   "page": 497
+  }
+ ],
+ "subways": [
+  {
+   "ward": 94,
+   "name": "Villivakkam Subway",
+   "length_m": 650,
+   "disposal_point": "SWD",
+   "pumps": "2 – 12 HP, 4 – 10 HP",
+   "page": 499
+  },
+  {
+   "ward": 108,
+   "name": "Harrington Subway",
+   "length_m": 300,
+   "disposal_point": "Coovum River",
+   "pumps": "2– 10.5 HP(Diesel), 4 – 7.5 HP (Submergible) 2 – 10.5 HP (Electrical Monoblock) 1 – 5 HP",
+   "page": 499
+  }
+ ],
+ "evacuation_streets": [
+  {
+   "ward": 94,
+   "area": "Villivakkam",
+   "streets": "Annai sathya nagar, Amman kuttai and Bharathi Nagar",
+   "persons": 1600,
+   "year": "2015-16",
+   "relief_centre": "Singaram Pillai School, Jain Kalyana Mandapam, Chennai Middle School, West Mada Street, Villivakkam)",
+   "needs_evacuation": true,
+   "page": 503
+  },
+  {
+   "ward": 95,
+   "area": "Villivakkam",
+   "streets": "Vijayalakshmipuram, Welcome Colony, Bajanai Koil Street, Thanthoniamman Koil Street",
+   "persons": 1200,
+   "year": "2015-16",
+   "relief_centre": "Kanagadurga School",
+   "needs_evacuation": true,
+   "page": 503
+  },
+  {
+   "ward": 96,
+   "area": "Ayanavaram",
+   "streets": "Kakkanji Nagar, Gandhi Nagar",
+   "persons": 2000,
+   "year": "2015-16",
+   "relief_centre": "Chennai High School, Vellala Street",
+   "needs_evacuation": true,
+   "page": 503
+  },
+  {
+   "ward": 99,
+   "area": "Anna Nagar",
+   "streets": "Sathyasai Nagar",
+   "persons": 300,
+   "year": "2015-16",
+   "relief_centre": "Sathyasai Nagar Church",
+   "needs_evacuation": true,
+   "page": 503
+  },
+  {
+   "ward": 100,
+   "area": "Anna Nagar",
+   "streets": "Dr.Radha Krishnan Nagar, MGR Colony, Melnaduvankarai, Indira Nagar, Brewery Road, NSK Nagar",
+   "persons": 2870,
+   "year": "2015-16",
+   "relief_centre": "Kamalammal Thirumana Mandapam, MGR Colony , Anganwadi, Melnaduvankarai, Anganwadi, Old Age Home,Anna Adarsh College, Chennai Primary School, Nathamuni Street, Chennai Primary School, NSK Nagar)",
+   "needs_evacuation": true,
+   "page": 503
+  },
+  {
+   "ward": 101,
+   "area": "Anna Nagar",
+   "streets": "Bharathipuram, Muthumariamman Colony, Muthumariamman Koil Street, AB Block",
+   "persons": 585,
+   "year": "2015-16",
+   "relief_centre": "Thiru.Vi.Ka Higher Secondary School, Periakoodal Corporation School, Anna Sidha Hospital, Sundaravadanam School, Kandasamy Naidu College",
+   "needs_evacuation": true,
+   "page": 503
+  },
+  {
+   "ward": 102,
+   "area": "Aminjikarai",
+   "streets": "Manjakollai, Kathiravan Colony, Gajalakshmi Colony,",
+   "persons": 8000,
+   "year": "2015-16",
+   "relief_centre": "Girls Higher Secondary School, Pulla Avenue, Manjakollai, Kathiravan Colony Chennai Middle School, Gujji Corporation Middle School",
+   "needs_evacuation": true,
+   "page": 503
+  },
+  {
+   "ward": 105,
+   "area": "Arumbakkam",
+   "streets": "Ashoka Street",
+   "persons": 2000,
+   "year": "2015-16",
+   "relief_centre": "C Block , MMDA Middle School",
+   "needs_evacuation": true,
+   "page": 503
+  },
+  {
+   "ward": 106,
+   "area": "Aminjikarai",
+   "streets": "Kakkan Nagar",
+   "persons": 1000,
+   "year": "2015-16",
+   "relief_centre": "Metha Nagar Higher Secondary School,Corporation Middle School, Aminjikarai, Amman Koil Mandapam",
+   "needs_evacuation": true,
+   "page": 504
+  },
+  {
+   "ward": 107,
+   "area": "Chetpet",
+   "streets": "Apparao Garden, Avvaipuram, Jothiammal Nagar",
+   "persons": 1000,
+   "year": "2015-16",
+   "relief_centre": "CMS, Mc Nichols Road, CHHS, Subbarayan Street",
+   "needs_evacuation": true,
+   "page": 504
+  }
+ ],
+ "water_entered_houses": [
+  {
+   "ward": 97,
+   "street": "Veerasamy Main Street",
+   "page": 502
+  },
+  {
+   "ward": 97,
+   "street": "P.E.Koil West Mada Street",
+   "page": 502
+  },
+  {
+   "ward": 97,
+   "street": "Solai 3rd Street",
+   "page": 502
+  },
+  {
+   "ward": 103,
+   "street": "AD Block",
+   "page": 502
+  },
+  {
+   "ward": 102,
+   "street": "C Block",
+   "page": 502
+  },
+  {
+   "ward": 102,
+   "street": "W Block",
+   "page": 502
+  },
+  {
+   "ward": 102,
+   "street": "Bharathipuram Main Street",
+   "page": 502
+  },
+  {
+   "ward": 102,
+   "street": "Bharathipuram 4th Street",
+   "page": 502
+  },
+  {
+   "ward": 102,
+   "street": "F Block 2nd & 4th Street",
+   "page": 502
+  },
+  {
+   "ward": 102,
+   "street": "Muthumariamman Colony",
+   "page": 502
+  },
+  {
+   "ward": 100,
+   "street": "Millers Road",
+   "page": 502
+  },
+  {
+   "ward": 100,
+   "street": "Purasaiwalkam High Road (near Law College)",
+   "page": 502
+  },
+  {
+   "ward": 100,
+   "street": "Rajarathinam Street",
+   "page": 502
+  },
+  {
+   "ward": 100,
+   "street": "Kellys Road",
+   "page": 502
+  },
+  {
+   "ward": 100,
+   "street": "Taylors Road",
+   "page": 502
+  },
+  {
+   "ward": 100,
+   "street": "Umayal Street",
+   "page": 502
+  },
+  {
+   "ward": 100,
+   "street": "Temple Street",
+   "page": 502
+  },
+  {
+   "ward": 99,
+   "street": "Sundaram Lane",
+   "page": 502
+  },
+  {
+   "ward": 99,
+   "street": "Osone Kulam Tenements",
+   "page": 502
+  },
+  {
+   "ward": 99,
+   "street": "New Bhoopathy Nagar",
+   "page": 502
+  },
+  {
+   "ward": 99,
+   "street": "Sastri Nagar",
+   "page": 502
+  },
+  {
+   "ward": 99,
+   "street": "Lawders Gate Main Road",
+   "page": 502
+  },
+  {
+   "ward": 99,
+   "street": "Shanmugarayan Street",
+   "page": 502
+  },
+  {
+   "ward": 105,
+   "street": "Water Tank Road",
+   "page": 502
+  },
+  {
+   "ward": 108,
+   "street": "MC Nichols 3rd Lane",
+   "page": 502
+  },
+  {
+   "ward": 106,
+   "street": "Iyyappa Nagar",
+   "page": 502
+  },
+  {
+   "ward": 106,
+   "street": "Periyar Pathai",
+   "page": 502
+  }
+ ],
+ "tree_fall": [
+  {
+   "ward": 94,
+   "street": "North Red Hills Road"
+  },
+  {
+   "ward": 94,
+   "street": "Baba Nagar"
+  },
+  {
+   "ward": 94,
+   "street": "M.T.H. Road."
+  },
+  {
+   "ward": 94,
+   "street": "Annai Sathya Nagar"
+  },
+  {
+   "ward": 94,
+   "street": "North Sivan Koil Street"
+  },
+  {
+   "ward": 94,
+   "street": "Baba Nagar 1st Main Road"
+  },
+  {
+   "ward": 94,
+   "street": "North Jaganatha Nagar 2nd Street"
+  },
+  {
+   "ward": 94,
+   "street": "North Jaganatha Nagar 8th Street"
+  },
+  {
+   "ward": 94,
+   "street": "Valliammal Nagar"
+  },
+  {
+   "ward": 94,
+   "street": "Bharathi Nagar"
+  },
+  {
+   "ward": 95,
+   "street": "20th Main Road"
+  },
+  {
+   "ward": 95,
+   "street": "Agathiar Nagar 6th Street"
+  },
+  {
+   "ward": 95,
+   "street": "Agathiar Nagar 3rd Street"
+  },
+  {
+   "ward": 95,
+   "street": "Kumarasamy Nagar"
+  },
+  {
+   "ward": 95,
+   "street": "I Block 36th Street"
+  },
+  {
+   "ward": 95,
+   "street": "Thiruveethiamman Koil Street"
+  },
+  {
+   "ward": 95,
+   "street": "Sannathi Street"
+  },
+  {
+   "ward": 95,
+   "street": "New Avadi Road"
+  },
+  {
+   "ward": 95,
+   "street": "I Block 7th Street"
+  },
+  {
+   "ward": 95,
+   "street": "21st Main Road"
+  },
+  {
+   "ward": 95,
+   "street": "18th Main Road"
+  },
+  {
+   "ward": 95,
+   "street": "Mullai Nagar 3rd Street"
+  },
+  {
+   "ward": 95,
+   "street": "Rajiv Gandhi Nagar 2nd Street"
+  },
+  {
+   "ward": 95,
+   "street": "Thanthoni Amman Koil Street"
+  },
+  {
+   "ward": 95,
+   "street": "Narayana Maistry 2nd Street"
+  },
+  {
+   "ward": 95,
+   "street": "Bajanai Koil Street"
+  },
+  {
+   "ward": 95,
+   "street": "Vasantham Colony 1st Street"
+  },
+  {
+   "ward": 95,
+   "street": "MTH Road"
+  },
+  {
+   "ward": 96,
+   "street": "United India Nagar 1st Cross Street"
+  },
+  {
+   "ward": 96,
+   "street": "V.P.Colony 1st Cross Street"
+  },
+  {
+   "ward": 96,
+   "street": "Konnur High Road near Railway quarters"
+  },
+  {
+   "ward": 96,
+   "street": "Gandhi Nagar"
+  },
+  {
+   "ward": 96,
+   "street": "NMK Street"
+  },
+  {
+   "ward": 97,
+   "street": "Thanthai Periyar Nagar"
+  },
+  {
+   "ward": 97,
+   "street": "P.E.Koil Street"
+  },
+  {
+   "ward": 97,
+   "street": "Palayam pilai Nagar"
+  },
+  {
+   "ward": 97,
+   "street": "Vellala Street"
+  },
+  {
+   "ward": 97,
+   "street": "Kamaraj Street"
+  },
+  {
+   "ward": 97,
+   "street": "Chakravarthy Nagar"
+  },
+  {
+   "ward": 98,
+   "street": "Police Manickam Street"
+  },
+  {
+   "ward": 98,
+   "street": "VP Colony Extn."
+  },
+  {
+   "ward": 98,
+   "street": "Aspiran Garden 1st Street"
+  },
+  {
+   "ward": 99,
+   "street": "J Block 8th Street"
+  },
+  {
+   "ward": 99,
+   "street": "J Block 4th Street"
+  },
+  {
+   "ward": 99,
+   "street": "Z Block 13th Street"
+  },
+  {
+   "ward": 99,
+   "street": "U Block 10th Street"
+  },
+  {
+   "ward": 99,
+   "street": "NVN Nagar"
+  },
+  {
+   "ward": 99,
+   "street": "TV Nagar"
+  },
+  {
+   "ward": 99,
+   "street": "H Block 4th Street"
+  },
+  {
+   "ward": 99,
+   "street": "Mangalam Colony"
+  },
+  {
+   "ward": 99,
+   "street": "PWD Quarters"
+  },
+  {
+   "ward": 99,
+   "street": "H Block 5th Street"
+  },
+  {
+   "ward": 99,
+   "street": "School Road"
+  },
+  {
+   "ward": 100,
+   "street": "5th Avenue"
+  },
+  {
+   "ward": 100,
+   "street": "S Block 21st Street"
+  },
+  {
+   "ward": 100,
+   "street": "S Block 2nd Street"
+  },
+  {
+   "ward": 100,
+   "street": "5th Main Road"
+  },
+  {
+   "ward": 100,
+   "street": "2nd Avenue"
+  },
+  {
+   "ward": 101,
+   "street": "6th Avenue"
+  },
+  {
+   "ward": 101,
+   "street": "2nd Main Road"
+  },
+  {
+   "ward": 101,
+   "street": "Brewary Road"
+  },
+  {
+   "ward": 101,
+   "street": "3rd Avenue"
+  },
+  {
+   "ward": 101,
+   "street": "R Block"
+  },
+  {
+   "ward": 101,
+   "street": "T Block 1st Street"
+  },
+  {
+   "ward": 101,
+   "street": "T Block 8th Street"
+  },
+  {
+   "ward": 101,
+   "street": "F Block 20th Street"
+  },
+  {
+   "ward": 101,
+   "street": "Q Block"
+  },
+  {
+   "ward": 102,
+   "street": "Mandapam Road"
+  },
+  {
+   "ward": 102,
+   "street": "Pulla Avenue"
+  },
+  {
+   "ward": 102,
+   "street": "1st Avenue"
+  },
+  {
+   "ward": 102,
+   "street": "1st Main Road"
+  },
+  {
+   "ward": 102,
+   "street": "Kilpauk Garden Road"
+  },
+  {
+   "ward": 102,
+   "street": "Jothiammal Nagar"
+  },
+  {
+   "ward": 102,
+   "street": "TP Chatram Main Road"
+  },
+  {
+   "ward": 102,
+   "street": "R.V.Nagar Main Road"
+  },
+  {
+   "ward": 102,
+   "street": "RV Nagar 3rd Street"
+  },
+  {
+   "ward": 102,
+   "street": "RV Nagar 4th Street"
+  },
+  {
+   "ward": 102,
+   "street": "RV Nagar 5th Street"
+  },
+  {
+   "ward": 102,
+   "street": "VOC Colony"
+  },
+  {
+   "ward": 103,
+   "street": "Kellys Road"
+  },
+  {
+   "ward": 103,
+   "street": "Millers Road"
+  },
+  {
+   "ward": 103,
+   "street": "Purasaiwalkam High Road (near Law College Hostel)"
+  },
+  {
+   "ward": 103,
+   "street": "Harleys Road (near Bala Vihar School)"
+  },
+  {
+   "ward": 103,
+   "street": "Dhamodaran Street"
+  },
+  {
+   "ward": 104,
+   "street": "Sundaram Lane"
+  },
+  {
+   "ward": 104,
+   "street": "New Bhoopathy Nagar"
+  },
+  {
+   "ward": 104,
+   "street": "Ozone kulam"
+  },
+  {
+   "ward": 104,
+   "street": "Dr.Alagappa Road"
+  },
+  {
+   "ward": 105,
+   "street": "Thirukumarapuram 3rd Street"
+  },
+  {
+   "ward": 105,
+   "street": "Anna Street"
+  },
+  {
+   "ward": 105,
+   "street": "Venkata Krishna Nagar"
+  },
+  {
+   "ward": 105,
+   "street": "Water Tank Road"
+  },
+  {
+   "ward": 105,
+   "street": "Annai Sathya Nagar"
+  },
+  {
+   "ward": 105,
+   "street": "Kalki Nagar"
+  },
+  {
+   "ward": 105,
+   "street": "Ashoka Street"
+  },
+  {
+   "ward": 107,
+   "street": "Metha Nagar"
+  },
+  {
+   "ward": 107,
+   "street": "Vallalar Street"
+  },
+  {
+   "ward": 107,
+   "street": "Indira Gandhi Street"
+  },
+  {
+   "ward": 108,
+   "street": "Dr.Gurusamy Bridge (Opposite to Ega Theatre)"
+  },
+  {
+   "ward": 108,
+   "street": "Mc Nichols Road"
+  },
+  {
+   "ward": 106,
+   "street": "MGR 4th Street & Andavar Street"
+  },
+  {
+   "ward": 106,
+   "street": "Ko.Su.Mani Street"
+  },
+  {
+   "ward": 106,
+   "street": "Periyar Pathai"
+  },
+  {
+   "ward": 106,
+   "street": "Andavar Street"
+  },
+  {
+   "ward": 106,
+   "street": "Kannagi Street"
+  },
+  {
+   "ward": 106,
+   "street": "Kamaraj Nagar 4th Street"
+  },
+  {
+   "ward": 106,
+   "street": "Sidco Street"
+  },
+  {
+   "ward": 106,
+   "street": "Nehru Street"
+  }
+ ],
+ "ndrf_boats": [
+  {
+   "ward": 94,
+   "location": "CMS,North Mada Street, Villivakkam",
+   "kind": "ndrf",
+   "details": "Where NDRF to be stationed and deployed"
+  },
+  {
+   "ward": 102,
+   "location": "Amma Arangam",
+   "kind": "ndrf",
+   "details": "Where NDRF to be stationed and deployed"
+  },
+  {
+   "ward": 94,
+   "location": "MTH Road",
+   "kind": "boat",
+   "details": "Boats required: Sidco Nagar – 5 Nos. Contact: Assistant Engineer 9445190394"
+  },
+  {
+   "ward": 102,
+   "location": "3rd Avenue",
+   "kind": "boat",
+   "details": "Boats required: Bharathipuram, PP Thottam, - 5 Nos. Contact: Assistant Engineer 9445190402"
+  },
+  {
+   "ward": 101,
+   "location": "Kilpauk Garden",
+   "kind": "boat",
+   "details": "Boats required: Kathiravan Colony, Gajalakshmi Colony, Manjakollai, VOC Colony, - 5 Nos. Contact: Assistant Engineer 9445190401"
+  }
+ ],
+ "parks_assembly": [
+  {
+   "ward": 94,
+   "name": "Sidco Nagar 4th Main Road, Villivakkam,Ch-49",
+   "location": "Villivakam"
+  },
+  {
+   "ward": 95,
+   "name": "Thiru Nagar 13th Block 11th Street,Villivakkam, Chennai - 49.",
+   "location": "Villivakam"
+  },
+  {
+   "ward": 96,
+   "name": "United India Nagar (Jeeva Park),Ayanavaram, Chennai - 23.",
+   "location": "Ayanavaram"
+  },
+  {
+   "ward": 97,
+   "name": "Pachaikal Veeraswamy Street, Ayanavaram, Chennai - 23.",
+   "location": "Ayanavaram"
+  },
+  {
+   "ward": 97,
+   "name": "Vellala Street ,Ayanavaram, Chennai - 23.",
+   "location": "Ayanavaram"
+  },
+  {
+   "ward": 98,
+   "name": "Konnur HIGH road (OSR land park), Ayanavaram, Chennai - 23.",
+   "location": "Ayanavaram"
+  },
+  {
+   "ward": 98,
+   "name": "Thiruvallavur Nagar (Solaimman koil st), Ayanavaram, Chennai - 23.",
+   "location": "Ayanavaram"
+  },
+  {
+   "ward": 99,
+   "name": "Nehru Park, PH Road",
+   "location": "Purasaiwalkam"
+  },
+  {
+   "ward": 99,
+   "name": "True Value Homes, Bricklin Road, Purasaiwalkam",
+   "location": "Purasaiwalkam"
+  },
+  {
+   "ward": 99,
+   "name": "True Value Homes, Bricklin Road, Purasaiwalkam",
+   "location": "Purasaiwalkam"
+  },
+  {
+   "ward": 99,
+   "name": "Bricklin Road, Purasaiwalkam",
+   "location": "Purasaiwalkam"
+  },
+  {
+   "ward": 99,
+   "name": "Bank Manickam Park, Purasaiwalkam",
+   "location": "Purasaiwalkam"
+  },
+  {
+   "ward": 100,
+   "name": "Bashyam Park,Junction of Taylors road & Halls Road,Kilpauk, Chennai - 10.",
+   "location": "Kilpauk"
+  },
+  {
+   "ward": 100,
+   "name": "Air india park, Harleys Lane,Kilpauk, Chennai - 10.",
+   "location": "Kilpauk"
+  },
+  {
+   "ward": 100,
+   "name": "Kences Park at EVR Lane,Kilpauk, Chennai - 10.",
+   "location": "Kilpauk"
+  },
+  {
+   "ward": 100,
+   "name": "Prof.Subramaniam Park, Prof. Subramaniam Street, Kilpauk, Chennai - 10.",
+   "location": "Kilpauk"
+  },
+  {
+   "ward": 101,
+   "name": "G-Block Park, Anna Nagar East, Chennai - 102.",
+   "location": "Anna Nagar"
+  },
+  {
+   "ward": 101,
+   "name": "Scatting Park, Pulla Avenue, Shenoy Nagar, Chennai - 30.",
+   "location": "Anna Nagar"
+  },
+  {
+   "ward": 101,
+   "name": "Inner Circular road, Shenoy Nagar, Chennai - 30.",
+   "location": "Anna Nagar"
+  },
+  {
+   "ward": 102,
+   "name": "2nd Main Road,Anna Nagar East ,Chennai - 102.",
+   "location": "Anna Nagar"
+  },
+  {
+   "ward": 102,
+   "name": "Boganvilla Park, 6th Avenue, K Block, Anna Nagar East , Chennai - 102.",
+   "location": "Anna Nagar"
+  },
+  {
+   "ward": 102,
+   "name": "C-Block, Pulla Avenue, Anna Nagar East , Chennai - 102.",
+   "location": "Anna Nagar"
+  },
+  {
+   "ward": 103,
+   "name": "AD-Block Park 3rd Street, Anna Nagar,",
+   "location": "Anna Nagar"
+  },
+  {
+   "ward": 103,
+   "name": "AL-Block 14th Main Road, Anna Nagar, Chennai - 40.",
+   "location": "Anna Nagar"
+  },
+  {
+   "ward": 103,
+   "name": "7th main road, near amma unavagam (OSR Park), Anna Nagar, Chennai - 40.",
+   "location": "Anna Nagar"
+  },
+  {
+   "ward": 103,
+   "name": "Dr.Visweswaraya Tower Park at 3rd Main Road, Anna Nagar, Chennai - 40.",
+   "location": "Anna Nagar"
+  },
+  {
+   "ward": 103,
+   "name": "Tas Chellaiah Road, Anna Nagar, Chennai - 40.",
+   "location": "Anna Nagar"
+  },
+  {
+   "ward": 104,
+   "name": "I-Block 2nd Street, Anna Nagar West, Chennai - 40.",
+   "location": "Anna Nagar"
+  },
+  {
+   "ward": 104,
+   "name": "I-Block 38th Street, Anna Nagar West,Chennai - 40.",
+   "location": "Anna Nagar"
+  },
+  {
+   "ward": 104,
+   "name": "W-Block 'C' Sector 2nd Street, Anna Nagar West,Chennai - 40.",
+   "location": "Anna Nagar"
+  },
+  {
+   "ward": 104,
+   "name": "15th Main Road (BPCL), Ranganathan Garden, Anna Nagar, Chennai - 40.",
+   "location": "Anna Nagar"
+  },
+  {
+   "ward": 104,
+   "name": "15th Main Road (R.B.I), Ranganathan Garden, Anna Nagar, Chennai - 40.",
+   "location": "Anna Nagar"
+  },
+  {
+   "ward": 106,
+   "name": "MMDA Colony R Block",
+   "location": "Aminjikarai"
+  },
+  {
+   "ward": 107,
+   "name": "Metal Factory Road, Aminjikarai",
+   "location": "Aminjikarai"
+  },
+  {
+   "ward": 107,
+   "name": "Nelson Manickkam Road near MGM Health Care",
+   "location": "Aminjikarai"
+  },
+  {
+   "ward": 107,
+   "name": "Nelson Manickam Road Near Sky Walk Building,Aminjikarai",
+   "location": "Aminjikarai"
+  },
+  {
+   "ward": 107,
+   "name": "Nelson Manickam Road (115),Aminjikarai",
+   "location": "Aminjikarai"
+  },
+  {
+   "ward": 107,
+   "name": "Nelson Manickam Road (Krishna building 116),Aminjikarai",
+   "location": "Aminjikarai"
+  },
+  {
+   "ward": 108,
+   "name": "Mayor Sathyamurthy Salai, Chetpet, Chennai - 31.",
+   "location": "Chetpet"
+  },
+  {
+   "ward": 108,
+   "name": "Mayor Ramanathan Salai Eastern Side, Chetpet, Chennai - 31.",
+   "location": "Chetpet"
+  },
+  {
+   "ward": 108,
+   "name": "Mayor Ramanathan Salai(Near TB Hospital), Chetpet, Chennai - 31.",
+   "location": "Chetpet"
+  }
+ ],
+ "hospitals": [],
+ "pumping_stations": [
+  {
+   "ward": 94,
+   "name": "Sidco Nagar 2nd Main Road",
+   "capacity_mld": null
+  },
+  {
+   "ward": 94,
+   "name": "North Jaganatha Nagar",
+   "capacity_mld": null
+  },
+  {
+   "ward": 95,
+   "name": "Chennai Battai Road",
+   "capacity_mld": null
+  },
+  {
+   "ward": 95,
+   "name": "Agathiar Nagar",
+   "capacity_mld": null
+  },
+  {
+   "ward": 98,
+   "name": "Gandhi Nagar",
+   "capacity_mld": null
+  },
+  {
+   "ward": 98,
+   "name": "Konnur High Road",
+   "capacity_mld": null
+  },
+  {
+   "ward": 100,
+   "name": "6th Avenue",
+   "capacity_mld": null
+  },
+  {
+   "ward": 102,
+   "name": "AK Block 10th Main Road",
+   "capacity_mld": null
+  },
+  {
+   "ward": 102,
+   "name": "Cemetry Road",
+   "capacity_mld": null
+  },
+  {
+   "ward": 103,
+   "name": "A Block",
+   "capacity_mld": null
+  },
+  {
+   "ward": 104,
+   "name": "Osanakulam",
+   "capacity_mld": null
+  },
+  {
+   "ward": 105,
+   "name": "Nehru Park",
+   "capacity_mld": null
+  },
+  {
+   "ward": 106,
+   "name": "Sastri Nagar",
+   "capacity_mld": null
+  },
+  {
+   "ward": 107,
+   "name": "Gnana Vinayagar Koil Street",
+   "capacity_mld": null
+  },
+  {
+   "ward": 108,
+   "name": "Vinayagar Koil Street",
+   "capacity_mld": null
+  }
+ ],
+ "notes": [
+  "No zonal office address and no hospital/UPHC table in this zone's appendix.",
+  "Conservancy supervisor Unit-22 has two different numbers: 9445190422 (Solid Waste Management table, p.479) and 9445190606 (TNSCB contact-details table, p.484). Both kept; U-21 and U-23 match across tables, so they were not duplicated.",
+  "inundation_streets = the 29-row 'Water stagnated streets in the previous monsoon - heavy rain' table (pp.488-489). Pump capacity is blank for rows 5 (Konnur High Road), 9 (AD Block) and 11 (W Block). Disposal point is 'SWD' for every row. No depth or days-to-drain columns exist. Photo captions on p.489 say 'Ward 103, Purasaivakkam High Road' / 'Ward 103, Millers Road' whereas the table puts those streets in ward 100.",
+  "Sewer-block table also gives manhole counts (total 30), not in the schema.",
+  "Relief centres: intro says 11 centres with total capacity 8435, but the table lists 16 (capacities sum to 4450). Every row is Drinking water Yes, Toilets Yes, Cooking No. Contacts carry the printed abbreviations SI/AE/ARO with their responsibility; where the 'Evacuation' and 'Relief Materials' AE numbers are identical they were merged into one contact. Centre 9 (ward 101) lists AE (Evacuation) as 9600482735, which is also the SI number of centre 7, while its Relief-Materials AE is 9445190401; copied as printed. Centres 3 and 4 have an AE row with blank responsibility (same number as the Evacuation AE).",
+  "The evacuation/relief map legend (p.498) lists 27 shelter IDs (R1-R11A) and evacuation areas (E1-E11A) with ward numbers that do not always match the table (e.g. R3 'CHS Vellala Street' ward 96, R11 'CMS Mc Nichols Road' ward 107). Shelters only in the legend: Kamalammal Thirumana Mandapam, MGR Colony Anganwadi, Old Age Home, Thiru Vi Ka Higher Sec School, Periakoodal Corporation School, Metha Nagar Hr Sec School, Corporation Middle School Aminjikarai, Amman Koil Mandapam, CMS Mc Nichols Road, CHHS Subbarayan Street, Anganwadi Samidosspuram, Lockma Nagar Church, Sathyasai nagar Church. Not added to relief_centres (no capacity/contacts).",
+  "Evacuation table (2015 flood, 20,555 people) has a 'Ward No./Name' column; the name went into 'area'. Relief-centre cells in rows 1 and 5 end with an unmatched ')' as printed.",
+  "Water-entered-houses intro says 27 spots (NEM 2015, 369 people, 29 pumps of 2-7.5 HP); table has 27 rows. Ward names in the 'Ward No./Name' column were dropped (ward number kept).",
+  "Tree fall: the table has one row per ward with a comma-separated list of streets; split into one entry per street (15 ward rows became 108 entries). 'VP Colony Extn.,,' printed with a double comma. The ward/name pairs in this table look shifted relative to other tables (e.g. 99/Anna Nagar, 103/Kilpauk, 104/Purasaiwalkam, 106/MMDA Colony, 107/Aminjikarai, 108/Chetpet); ward numbers copied as printed. Intro: 138 trees/branches fell.",
+  "Subways: table says Harrington Subway is ward 108 but the photo caption says 'Ward 107, Harrington Road Subway'.",
+  "Sewage pumping stations: intro says 16, table lists 15 (total 34 pumps). The table gives motor HP and number of pumps, not MLD capacity, so capacity_mld is null. Osanakulam (104) and Gnana Vinayagar Koil Street (107) have 'Nil' pumps.",
+  "Parks: 41 rows; the single 'Name / Location of the Park' column went into 'name', and the 'Ward Name' column into 'location'. Rows 9 and 10 are identical as printed.",
+  "Rescue boat Assistant Engineers were also added to officials (designation annotated with the boat station). NDRF Commandant phone printed '04177 – 246594/246269'; second number recorded as 04177-246269 assuming the shared STD code.",
+  "Not captured (no schema field): canals (Otteri Nullah, Virugambakkam canal, Coovum river), ponds/lakes, SWD lengths, TNSCB tenements (15, population 26,984), sewage pump motor details."
+ ]
+}

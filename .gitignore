@@ -1,0 +1,9 @@
+.venv/
+raw/*.pdf
+raw/cdmp.txt
+raw/osm/
+raw/swd/
+build/crops/
+build/streets.pkl
+build/__pycache__/
+web/

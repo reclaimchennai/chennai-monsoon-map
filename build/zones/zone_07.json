@@ -1,0 +1,1959 @@
+{
+ "zone": 7,
+ "zone_name": "Ambattur",
+ "zonal_office": null,
+ "officials": [
+  {
+   "designation": "Zonal Officer Zone – 7 Ambattur",
+   "name": "Mr. Tamilsemvan",
+   "wards": "Unit 18, 18A, 19, 19A, 20 / Division 79 - 93",
+   "phones": [
+    "94451900007"
+   ],
+   "category": "zone"
+  },
+  {
+   "designation": "Executive Engineer- I",
+   "name": "Mr.S.Kumaraswamy",
+   "wards": "U-18,U-19 & U-20",
+   "phones": [
+    "9445194759"
+   ],
+   "category": "zone"
+  },
+  {
+   "designation": "Executive Engineer- II",
+   "name": "Mr.Sathish Kumar.M",
+   "wards": "U-18,U-19",
+   "phones": [
+    "9445190027"
+   ],
+   "category": "zone"
+  },
+  {
+   "designation": null,
+   "name": "Mr. D. Shankaran",
+   "wards": "U-18",
+   "phones": [
+    "9445036501"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Assistant Executive Engineer",
+   "name": "Mr. Sathish Kumar",
+   "wards": "79,80,81",
+   "phones": [
+    "9445036501"
+   ],
+   "category": "ward"
+  },
+  {
+   "designation": "Assistant Executive Engineer (Additional)",
+   "name": "Mr. Raj Mohan",
+   "wards": "U-19",
+   "phones": [
+    "9445190118"
+   ],
+   "category": "ward"
+  },
+  {
+   "designation": "Assistant Executive Engineer",
+   "name": "Mrs.Gomathi",
+   "wards": "U-19 (85,86,87,88)",
+   "phones": [
+    "9445190859"
+   ],
+   "category": "ward"
+  },
+  {
+   "designation": "Assistant Executive Engineer",
+   "name": "Mr.Dilip Kumar",
+   "wards": "U-18 (89, 90, 91, 92, 93)",
+   "phones": [
+    "9445190120"
+   ],
+   "category": "ward"
+  },
+  {
+   "designation": "Assistant Executive Engineer, Electrical",
+   "name": "Mr.Suresh",
+   "wards": "79 to 93",
+   "phones": [
+    "9445190047"
+   ],
+   "category": "electrical"
+  },
+  {
+   "designation": "Assistant Engineer, Mechanical",
+   "name": "Mr.Sekar",
+   "wards": "79 to 93",
+   "phones": [
+    "9445190496"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Conservancy supervisor",
+   "name": null,
+   "wards": "Unit-18 (79,80,81,82,83)",
+   "phones": [
+    "9445191418"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Conservancy supervisor",
+   "name": null,
+   "wards": "Unit-19 (84,85,86,87,88)",
+   "phones": [
+    "9445191419"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Conservancy supervisor",
+   "name": "Mr. Swaminathan",
+   "wards": "Unit 19A (84, 87, 88)",
+   "phones": [
+    "8778045094"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Conservancy supervisor",
+   "name": null,
+   "wards": "Unit-20 (89,90,91,92,93)",
+   "phones": [
+    "9445191420"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Conservancy supervisor (Night CS)",
+   "name": "Mr. Wilson",
+   "wards": "Unit (18,19,20) / 79 - 93",
+   "phones": [
+    "9176368360"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Zonal Health Officer",
+   "name": null,
+   "wards": "Zone VII",
+   "phones": [
+    "9445190067"
+   ],
+   "category": "health"
+  },
+  {
+   "designation": "Veterinary Surgeon",
+   "name": null,
+   "wards": "Zone VII",
+   "phones": [
+    "9841117821"
+   ],
+   "category": "health"
+  },
+  {
+   "designation": "Entomologist Assistant",
+   "name": null,
+   "wards": "Zone VII",
+   "phones": [
+    "9940403337"
+   ],
+   "category": "health"
+  },
+  {
+   "designation": "Sanitary Officer",
+   "name": null,
+   "wards": "Unit-18",
+   "phones": [
+    "9445190687"
+   ],
+   "category": "health"
+  },
+  {
+   "designation": "Sanitary Officer",
+   "name": null,
+   "wards": "Unit-19",
+   "phones": [
+    "9445025885"
+   ],
+   "category": "health"
+  },
+  {
+   "designation": "Sanitary Officer",
+   "name": null,
+   "wards": "Unit-20",
+   "phones": [
+    "9445025892"
+   ],
+   "category": "health"
+  },
+  {
+   "designation": "Park Overseer",
+   "name": null,
+   "wards": "Ambattur",
+   "phones": [
+    "9445194573"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Executive Engineer (TNSCB)",
+   "name": null,
+   "wards": "Area - 7",
+   "phones": [
+    "044-28444973"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Assistant Executive Engineer",
+   "name": null,
+   "wards": "79 to 93",
+   "phones": [
+    "9445190047"
+   ],
+   "category": "electrical"
+  },
+  {
+   "designation": "Assistant Engineer",
+   "name": null,
+   "wards": "79,82",
+   "phones": [
+    "9445477677"
+   ],
+   "category": "electrical"
+  },
+  {
+   "designation": "Assistant Engineer",
+   "name": null,
+   "wards": "83,84,85",
+   "phones": [
+    "9445190934"
+   ],
+   "category": "electrical"
+  },
+  {
+   "designation": "Assistant Engineer",
+   "name": null,
+   "wards": "81,86,87,88",
+   "phones": [
+    "9445191473"
+   ],
+   "category": "electrical"
+  },
+  {
+   "designation": "Assistant Engineer",
+   "name": null,
+   "wards": "89,90,92,93",
+   "phones": [
+    "9445477678"
+   ],
+   "category": "electrical"
+  },
+  {
+   "designation": "Junior Engineer",
+   "name": null,
+   "wards": "80,91",
+   "phones": [
+    "9445036570"
+   ],
+   "category": "electrical"
+  },
+  {
+   "designation": "Boat (stationed at Zonal Office)",
+   "name": null,
+   "wards": "79 to 93",
+   "phones": [
+    "8056250348"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "The Commandant, 04, Battalion(NDRF), Suraksha Campus, Takkolam, Arakkonam, Vellore District – 631 152",
+   "name": null,
+   "wards": null,
+   "phones": [
+    "04177-246594",
+    "04177-246269"
+   ],
+   "category": "other"
+  }
+ ],
+ "inundation_streets": [
+  {
+   "ward": 82,
+   "street": "Indian bank colony",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 Hp",
+   "pump_location": "Indian bank colony",
+   "disposal_point": null,
+   "page": 449
+  },
+  {
+   "ward": 82,
+   "street": "TNEB Colony",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 HP",
+   "pump_location": "TNEB Colony",
+   "disposal_point": null,
+   "page": 449
+  },
+  {
+   "ward": 82,
+   "street": "East Balaji nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "10 HP",
+   "pump_location": "East Balaji nagar",
+   "disposal_point": null,
+   "page": 449
+  },
+  {
+   "ward": 83,
+   "street": "Perumal Koil Pond",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 Hp",
+   "pump_location": "Perumal Koil Pond",
+   "disposal_point": null,
+   "page": 450
+  },
+  {
+   "ward": 84,
+   "street": "Korattur",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 Hp",
+   "pump_location": "Korattur",
+   "disposal_point": null,
+   "page": 450
+  },
+  {
+   "ward": 84,
+   "street": "North Avenue",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 Hp",
+   "pump_location": "North Avenue",
+   "disposal_point": null,
+   "page": 450
+  },
+  {
+   "ward": 85,
+   "street": "CTH Road",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 Hp",
+   "pump_location": "CTH Road",
+   "disposal_point": null,
+   "page": 450
+  },
+  {
+   "ward": 86,
+   "street": "Athipet Road",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "10 Hp",
+   "pump_location": "Athipet Road",
+   "disposal_point": null,
+   "page": 450
+  },
+  {
+   "ward": 88,
+   "street": "North Main Road",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "10 Hp",
+   "pump_location": "North Main Road",
+   "disposal_point": null,
+   "page": 450
+  },
+  {
+   "ward": 89,
+   "street": "Thirumangalam Main Road",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 Hp",
+   "pump_location": "Thirumangalam Main Road",
+   "disposal_point": null,
+   "page": 450
+  },
+  {
+   "ward": 89,
+   "street": "Godlen Colony",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25Ho",
+   "pump_location": "Godlen Colony",
+   "disposal_point": null,
+   "page": 450
+  },
+  {
+   "ward": 90,
+   "street": "Golden Jubliee Flats",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 HP",
+   "pump_location": "Golden Jubliee Flats",
+   "disposal_point": null,
+   "page": 450
+  },
+  {
+   "ward": 91,
+   "street": "Kavimani Salai",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "10 Hp",
+   "pump_location": "Kavimani Salai",
+   "disposal_point": null,
+   "page": 450
+  },
+  {
+   "ward": 92,
+   "street": "Venugopal Street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP",
+   "pump_location": "Venugopal Street",
+   "disposal_point": null,
+   "page": 450
+  },
+  {
+   "ward": 93,
+   "street": "Rathinam Street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP",
+   "pump_location": "Rathinam Street",
+   "disposal_point": null,
+   "page": 450
+  }
+ ],
+ "water_stagnation": [
+  {
+   "ward": 79,
+   "street": "Bank Street",
+   "rain": "mild",
+   "page": 455
+  },
+  {
+   "ward": 80,
+   "street": "Prakasam Street",
+   "rain": "mild",
+   "page": 455
+  },
+  {
+   "ward": 81,
+   "street": "Thiruvengadam Nagar",
+   "rain": "mild",
+   "page": 455
+  },
+  {
+   "ward": 82,
+   "street": "Meenatchi School",
+   "rain": "mild",
+   "page": 455
+  },
+  {
+   "ward": 83,
+   "street": "Perumal Koil Street",
+   "rain": "mild",
+   "page": 455
+  },
+  {
+   "ward": 84,
+   "street": "Station Road",
+   "rain": "mild",
+   "page": 455
+  },
+  {
+   "ward": 85,
+   "street": "Kamarajapuram",
+   "rain": "mild",
+   "page": 455
+  },
+  {
+   "ward": 86,
+   "street": "Ayyanampakkam ROad",
+   "rain": "mild",
+   "page": 455
+  },
+  {
+   "ward": 90,
+   "street": "Balaji Nagar",
+   "rain": "mild",
+   "page": 455
+  },
+  {
+   "ward": 91,
+   "street": "Mogappari eri Scheme",
+   "rain": "mild",
+   "page": 455
+  },
+  {
+   "ward": 92,
+   "street": "Panner Nagar",
+   "rain": "mild",
+   "page": 455
+  },
+  {
+   "ward": 79,
+   "street": "Redhills Main road",
+   "rain": "moderate",
+   "page": 455
+  },
+  {
+   "ward": 79,
+   "street": "Rajendra Prasad, Venkateswara Nagar",
+   "rain": "moderate",
+   "page": 455
+  },
+  {
+   "ward": 80,
+   "street": "Banu Nagar 24th Avenue & Thirumalai priya Nagar",
+   "rain": "moderate",
+   "page": 455
+  },
+  {
+   "ward": 83,
+   "street": "Devi Nagar",
+   "rain": "moderate",
+   "page": 455
+  },
+  {
+   "ward": 85,
+   "street": "Pattravakkam road (SIDCO)",
+   "rain": "moderate",
+   "page": 455
+  },
+  {
+   "ward": 85,
+   "street": "Tass Industrial Estate",
+   "rain": "moderate",
+   "page": 455
+  },
+  {
+   "ward": 86,
+   "street": "TNHB Phase III",
+   "rain": "moderate",
+   "page": 455
+  },
+  {
+   "ward": 87,
+   "street": "Cth road near Shell petrol Bunk",
+   "rain": "moderate",
+   "page": 455
+  },
+  {
+   "ward": 89,
+   "street": "Round Building",
+   "rain": "moderate",
+   "page": 455
+  },
+  {
+   "ward": 82,
+   "street": "DTP Colony",
+   "rain": "sewer_block",
+   "page": 455
+  },
+  {
+   "ward": 84,
+   "street": "Central Avenue",
+   "rain": "sewer_block",
+   "page": 455
+  },
+  {
+   "ward": 91,
+   "street": "Mogappair west TNHB 1st,2nd,3rd,6th & 7th Blocks in div 91",
+   "rain": "sewer_block",
+   "page": 455
+  },
+  {
+   "ward": 92,
+   "street": "10th , 11th, 12th Block",
+   "rain": "sewer_block",
+   "page": 455
+  },
+  {
+   "ward": 93,
+   "street": "Nakeeran salai",
+   "rain": "sewer_block",
+   "page": 455
+  },
+  {
+   "ward": 93,
+   "street": "Industrial estate",
+   "rain": "sewer_block",
+   "page": 455
+  },
+  {
+   "ward": 93,
+   "street": "Pugazhendhi salai",
+   "rain": "sewer_block",
+   "page": 455
+  },
+  {
+   "ward": 93,
+   "street": "Vandiamman Kovil street",
+   "rain": "sewer_block",
+   "page": 455
+  },
+  {
+   "ward": 93,
+   "street": "Periyar street",
+   "rain": "sewer_block",
+   "page": 455
+  }
+ ],
+ "relief_centres": [
+  {
+   "ward": 79,
+   "name": "Chennai Middle School, Gandhi Main Road",
+   "capacity": 1000,
+   "streets_to_shift": "G.K. Street",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "Assistant Engineer (Evacuation & Relief Material)",
+     "phones": [
+      "9445190379"
+     ]
+    },
+    {
+     "designation": "Sanitary Inspector (Sanitation)",
+     "phones": [
+      "9445025879"
+     ]
+    },
+    {
+     "designation": "Assistant Revenue Officer (Food & Drinking Water)",
+     "phones": [
+      "9952936676"
+     ]
+    }
+   ],
+   "page": 456
+  },
+  {
+   "ward": 80,
+   "name": "Chennai Middle School, Chitoragadam",
+   "capacity": 500,
+   "streets_to_shift": "Bathava chalam Street",
+   "cooking": true,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "Assistant Engineer (Evacuation & Relief Material)",
+     "phones": [
+      "9445190380"
+     ]
+    },
+    {
+     "designation": "Sanitary Inspector (Sanitation)",
+     "phones": [
+      "9445025880"
+     ]
+    },
+    {
+     "designation": "Assistant Revenue Officer (Food & Drinking Water)",
+     "phones": [
+      "9952936676"
+     ]
+    }
+   ],
+   "page": 456
+  },
+  {
+   "ward": 81,
+   "name": "Chennai Middle School, Saraswathi Nagar",
+   "capacity": 250,
+   "streets_to_shift": "Panduranga Nagar",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "Assistant Engineer (Evacuation & Relief Material)",
+     "phones": [
+      "9445190381"
+     ]
+    },
+    {
+     "designation": "Sanitary Inspector (Sanitation)",
+     "phones": [
+      "9445025881"
+     ]
+    },
+    {
+     "designation": "Assistant Revenue Officer (Food & Drinking Water)",
+     "phones": [
+      "9952936676"
+     ]
+    }
+   ],
+   "page": 456
+  },
+  {
+   "ward": 82,
+   "name": "Redhills Main Road, Prabavathi mahal Kallikuppam",
+   "capacity": 200,
+   "streets_to_shift": "D.T.P. Colony",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "Assistant Engineer (Evacuation & Relief Material)",
+     "phones": [
+      "9445190382"
+     ]
+    },
+    {
+     "designation": "Sanitary Inspector (Sanitation)",
+     "phones": [
+      "9445025881"
+     ]
+    },
+    {
+     "designation": "Assistant Revenue Officer (Food & Drinking Water)",
+     "phones": [
+      "9952936676"
+     ]
+    }
+   ],
+   "page": 456
+  },
+  {
+   "ward": 83,
+   "name": "CPS & CHS School,NRS road, Agraharam, korattur",
+   "capacity": 100,
+   "streets_to_shift": "NRS cross street",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "Assistant Engineer (Evacuation & Relief Material)",
+     "phones": [
+      "9445190383"
+     ]
+    },
+    {
+     "designation": "Sanitary Inspector (Sanitation)",
+     "phones": [
+      "9445025883"
+     ]
+    },
+    {
+     "designation": "Assistant Revenue Officer (Food & Drinking Water)",
+     "phones": [
+      "9952936676"
+     ]
+    }
+   ],
+   "page": 456
+  },
+  {
+   "ward": 84,
+   "name": "Chennai Primary and High School, Chavadi st, korattur",
+   "capacity": 100,
+   "streets_to_shift": "Korattur",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "Assistant Engineer (Evacuation & Relief Material)",
+     "phones": [
+      "9445190384"
+     ]
+    },
+    {
+     "designation": "Sanitary Inspector (Sanitation)",
+     "phones": [
+      "9445025887"
+     ]
+    },
+    {
+     "designation": "Assistant Revenue Officer (Food & Drinking Water)",
+     "phones": [
+      "9445190087"
+     ]
+    }
+   ],
+   "page": 457
+  },
+  {
+   "ward": 85,
+   "name": "Chennai Primary School, Ramapuram",
+   "capacity": 200,
+   "streets_to_shift": "MKB Nagar",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "Assistant Engineer (Evacuation & Relief Material)",
+     "phones": [
+      "9445190385"
+     ]
+    },
+    {
+     "designation": "Sanitary Inspector (Sanitation)",
+     "phones": [
+      "9445025886"
+     ]
+    },
+    {
+     "designation": "Assistant Revenue Officer (Food & Drinking Water)",
+     "phones": [
+      "9445190087"
+     ]
+    }
+   ],
+   "page": 457
+  },
+  {
+   "ward": 86,
+   "name": "Chennai Primary School, Vanagaram Main Road",
+   "capacity": 500,
+   "streets_to_shift": "Annai Sathya Nagar, Ram Poornam Nagar",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "Assistant Engineer (Evacuation & Relief Material)",
+     "phones": [
+      "9445190386"
+     ]
+    },
+    {
+     "designation": "Sanitary Inspector (Sanitation)",
+     "phones": [
+      "9445025886"
+     ]
+    },
+    {
+     "designation": "Assistant Revenue Officer (Food & Drinking Water)",
+     "phones": [
+      "9444576365"
+     ]
+    }
+   ],
+   "page": 457
+  },
+  {
+   "ward": 87,
+   "name": "Chennai Middle school, Dr.Moorthi Nagar",
+   "capacity": 600,
+   "streets_to_shift": "Moorthy Nagar",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "Assistant Engineer (Evacuation & Relief Material)",
+     "phones": [
+      "9445190387"
+     ]
+    },
+    {
+     "designation": "Sanitary Inspector (Sanitation)",
+     "phones": [
+      "9445025887"
+     ]
+    },
+    {
+     "designation": "Assistant Revenue Officer (Food & Drinking Water)",
+     "phones": [
+      "9444576365"
+     ]
+    }
+   ],
+   "page": 457
+  },
+  {
+   "ward": 88,
+   "name": "Chennai Primary School, Kalaivanar Nagar",
+   "capacity": 100,
+   "streets_to_shift": "Kalaivanar Nagar",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "Assistant Engineer (Evacuation & Relief Material)",
+     "phones": [
+      "9445190388"
+     ]
+    },
+    {
+     "designation": "Sanitary Inspector (Sanitation)",
+     "phones": [
+      "9445025887"
+     ]
+    },
+    {
+     "designation": "Assistant Revenue Officer (Food & Drinking Water)",
+     "phones": [
+      "9444576365"
+     ]
+    }
+   ],
+   "page": 458
+  },
+  {
+   "ward": 89,
+   "name": "Meenakshi School, TVS Colony",
+   "capacity": 850,
+   "streets_to_shift": "Round Building",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "Assistant Engineer (Evacuation & Relief Material)",
+     "phones": [
+      "9445190389"
+     ]
+    },
+    {
+     "designation": "Sanitary Inspector (Sanitation)",
+     "phones": [
+      "9445025887"
+     ]
+    },
+    {
+     "designation": "Assistant Revenue Officer (Food & Drinking Water)",
+     "phones": [
+      "9444576365"
+     ]
+    }
+   ],
+   "page": 458
+  },
+  {
+   "ward": 93,
+   "name": "Chennai High School, Padikuppam Main Road, Anna Nagar West Extn. Ch -101.",
+   "capacity": 850,
+   "streets_to_shift": "Pillaiyar Koil street padikuppam",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "Assistant Engineer (Evacuation & Relief Material)",
+     "phones": [
+      "9445190393"
+     ]
+    },
+    {
+     "designation": "Sanitary Inspector (Sanitation)",
+     "phones": [
+      "9445910929"
+     ]
+    },
+    {
+     "designation": "Assistant Revenue Officer (Food & Drinking Water)",
+     "phones": [
+      "9444576365"
+     ]
+    }
+   ],
+   "page": 458
+  },
+  {
+   "ward": 92,
+   "name": "Velammal mat.Hr.Sec. School",
+   "capacity": 200,
+   "streets_to_shift": "Dr.Ambedkar Nagar",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "Assistant Engineer (Evacuation & Relief Material)",
+     "phones": [
+      "9445190391"
+     ]
+    },
+    {
+     "designation": "Sanitary Inspector (Sanitation)",
+     "phones": [
+      "9445025893"
+     ]
+    },
+    {
+     "designation": "Assistant Revenue Officer (Food & Drinking Water)",
+     "phones": [
+      "9444576365"
+     ]
+    }
+   ],
+   "page": 458
+  },
+  {
+   "ward": 93,
+   "name": "Chennai Higher School, padikuppam",
+   "capacity": 850,
+   "streets_to_shift": "Padikuppam Pillaiyar Koil Street",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "Assistant Engineer (Evacuation & Relief Material)",
+     "phones": [
+      "9445190393"
+     ]
+    },
+    {
+     "designation": "Sanitary Inspector (Sanitation)",
+     "phones": [
+      "9445025893"
+     ]
+    },
+    {
+     "designation": "Assistant Revenue Officer (Food & Drinking Water)",
+     "phones": [
+      "9444576365"
+     ]
+    }
+   ],
+   "page": 459
+  }
+ ],
+ "subways": [
+  {
+   "ward": 84,
+   "name": "Korature subway",
+   "length_m": null,
+   "disposal_point": null,
+   "pumps": null,
+   "page": 461
+  }
+ ],
+ "evacuation_streets": [],
+ "water_entered_houses": [
+  {
+   "ward": 84,
+   "street": "North Avenue Road and TNHB 26th Street to 60th Street",
+   "page": 462
+  },
+  {
+   "ward": 90,
+   "street": "Golden Jubilee Falts Padikuppam Main Road",
+   "page": 462
+  },
+  {
+   "ward": 83,
+   "street": "New Street, Dhathankuppam, Korattur",
+   "page": 462
+  },
+  {
+   "ward": 84,
+   "street": "TNHB 25th Street, Korattur",
+   "page": 462
+  },
+  {
+   "ward": 85,
+   "street": "Mangalapuram (Ambattur)",
+   "page": 462
+  },
+  {
+   "ward": 85,
+   "street": "Bajanai Koil Street",
+   "page": 462
+  },
+  {
+   "ward": 85,
+   "street": "Kullan Street",
+   "page": 462
+  },
+  {
+   "ward": 85,
+   "street": "Nalla Kinaru Street",
+   "page": 462
+  },
+  {
+   "ward": 85,
+   "street": "Padasalai Street",
+   "page": 462
+  },
+  {
+   "ward": 85,
+   "street": "Thulukathamman Koil Street",
+   "page": 462
+  },
+  {
+   "ward": 86,
+   "street": "VGN Nagar",
+   "page": 462
+  },
+  {
+   "ward": 87,
+   "street": "Padasalai Street, Padi",
+   "page": 462
+  },
+  {
+   "ward": 87,
+   "street": "Amman Koil Street, Padi",
+   "page": 462
+  },
+  {
+   "ward": 88,
+   "street": "Rukmani Street, Padi",
+   "page": 462
+  },
+  {
+   "ward": 91,
+   "street": "Bharathi Street, Mogappair East",
+   "page": 462
+  },
+  {
+   "ward": 91,
+   "street": "VGP Panneer Nagar 1st Cross Street, Mogappair East",
+   "page": 462
+  },
+  {
+   "ward": 91,
+   "street": "Burner Salai, Mogappair East",
+   "page": 462
+  },
+  {
+   "ward": 93,
+   "street": "Burner Salai, Mogappair East",
+   "page": 462
+  },
+  {
+   "ward": 91,
+   "street": "Mogappair Block -I 5th and 11th Street, Mogappair East",
+   "page": 462
+  }
+ ],
+ "tree_fall": [
+  {
+   "ward": 79,
+   "street": "V O C Street"
+  },
+  {
+   "ward": 79,
+   "street": "Gandhi Street"
+  },
+  {
+   "ward": 79,
+   "street": "Oragadam Road"
+  },
+  {
+   "ward": 80,
+   "street": "Kuberaganapathi Street"
+  },
+  {
+   "ward": 80,
+   "street": "Banu Nagar 4th Main Road"
+  },
+  {
+   "ward": 80,
+   "street": "Bharathi Nagar 3rd Cross Street"
+  },
+  {
+   "ward": 81,
+   "street": "South Park Street"
+  },
+  {
+   "ward": 81,
+   "street": "M T H Road"
+  },
+  {
+   "ward": 82,
+   "street": "Service Road"
+  },
+  {
+   "ward": 82,
+   "street": "Vittal Street"
+  },
+  {
+   "ward": 82,
+   "street": "Gnanamoorthi Nagar"
+  },
+  {
+   "ward": 83,
+   "street": "Madhanankuppam Main Road"
+  },
+  {
+   "ward": 84,
+   "street": "North Avenue Canal"
+  },
+  {
+   "ward": 86,
+   "street": "Thirupathi Kodai Road"
+  },
+  {
+   "ward": 86,
+   "street": "Kalaivanar main Road"
+  },
+  {
+   "ward": 86,
+   "street": "ICF Colony Ayampakkam main Road"
+  },
+  {
+   "ward": 87,
+   "street": "East Avenue Road"
+  },
+  {
+   "ward": 89,
+   "street": "Golden Colony 1st 2nd 3rd & 7th Main Road"
+  },
+  {
+   "ward": 89,
+   "street": "Akshaya Colony 2nd Street"
+  },
+  {
+   "ward": 89,
+   "street": "TVS Colony 44th, 50th & 53rd Street"
+  },
+  {
+   "ward": 89,
+   "street": "TVS Colony 2nd Main Road"
+  },
+  {
+   "ward": 89,
+   "street": "TVS Avenue Main Road"
+  },
+  {
+   "ward": 91,
+   "street": "Kavimani Salai"
+  },
+  {
+   "ward": 91,
+   "street": "Mugappair Eri Scheme Ist Main Road"
+  },
+  {
+   "ward": 91,
+   "street": "Mogappair Eri Scheme 6th Main Road"
+  },
+  {
+   "ward": 91,
+   "street": "Kambar Street (Part)"
+  },
+  {
+   "ward": 92,
+   "street": "Thiruvallur Salai"
+  },
+  {
+   "ward": 92,
+   "street": "Pari Salai"
+  },
+  {
+   "ward": 92,
+   "street": "Vellalar Street"
+  },
+  {
+   "ward": 92,
+   "street": "Church Street"
+  },
+  {
+   "ward": "92 & 93",
+   "street": "Venugopal Street"
+  },
+  {
+   "ward": 93,
+   "street": "Valayapathi Salai"
+  }
+ ],
+ "ndrf_boats": [
+  {
+   "ward": "79 to 93",
+   "location": "Zonal Office",
+   "kind": "boat",
+   "details": "Boats stationed at Zonal Office; contact 'Boat -8056250348'. Where NDRF to be stationed: Nil (no NDRF stationed locations in Ambattur zone)."
+  }
+ ],
+ "parks_assembly": [
+  {
+   "ward": 79,
+   "name": "Lenin Nagar Park",
+   "location": null
+  },
+  {
+   "ward": 79,
+   "name": "Ram Nagar Park",
+   "location": null
+  },
+  {
+   "ward": 79,
+   "name": "Gandhi Main Road Park",
+   "location": null
+  },
+  {
+   "ward": 79,
+   "name": "Lakshmiamman Nagar Park",
+   "location": null
+  },
+  {
+   "ward": 81,
+   "name": "Thiruvenkadam Nagar Park",
+   "location": null
+  },
+  {
+   "ward": 81,
+   "name": "Krishnapuram Park",
+   "location": null
+  },
+  {
+   "ward": 81,
+   "name": "Secretriate Colony Park",
+   "location": null
+  },
+  {
+   "ward": 82,
+   "name": "Tata Communication Park",
+   "location": null
+  },
+  {
+   "ward": 82,
+   "name": "Dugar Park",
+   "location": null
+  },
+  {
+   "ward": 82,
+   "name": "Narayana Nagar",
+   "location": null
+  },
+  {
+   "ward": 83,
+   "name": "Hindustan Colony Park",
+   "location": null
+  },
+  {
+   "ward": 83,
+   "name": "Ranga Garden Park",
+   "location": null
+  },
+  {
+   "ward": 83,
+   "name": "Sastha Nagar Park",
+   "location": null
+  },
+  {
+   "ward": 83,
+   "name": "Kandigai Street Park",
+   "location": null
+  },
+  {
+   "ward": 83,
+   "name": "Subulakshmi Nagar Park",
+   "location": null
+  },
+  {
+   "ward": 84,
+   "name": "TNHB 61St St Park",
+   "location": null
+  },
+  {
+   "ward": 84,
+   "name": "K T Nagar Park",
+   "location": null
+  },
+  {
+   "ward": 84,
+   "name": "Gangaiamman Koil Street park",
+   "location": null
+  },
+  {
+   "ward": 85,
+   "name": "Rail Vihar Quarters Park - I",
+   "location": null
+  },
+  {
+   "ward": 85,
+   "name": "Rail Vihar Quarters Park - I I",
+   "location": null
+  },
+  {
+   "ward": 86,
+   "name": "Gopal Swamy Nagar Park",
+   "location": null
+  },
+  {
+   "ward": 86,
+   "name": "Gothavari Park (Agni Estate)",
+   "location": null
+  },
+  {
+   "ward": 86,
+   "name": "C T H Road Opp To Kochar Park",
+   "location": null
+  },
+  {
+   "ward": 86,
+   "name": "Icici Bank Park",
+   "location": null
+  },
+  {
+   "ward": 86,
+   "name": "India Land Park",
+   "location": null
+  },
+  {
+   "ward": 86,
+   "name": "Sindhu Nathi Park",
+   "location": null
+  },
+  {
+   "ward": 86,
+   "name": "Chelliamman Nagar Park",
+   "location": null
+  },
+  {
+   "ward": 86,
+   "name": "VGN Shanthi Nagar Park",
+   "location": null
+  },
+  {
+   "ward": 86,
+   "name": "Chelliamman Koil Pond Park",
+   "location": null
+  },
+  {
+   "ward": 86,
+   "name": "VGN Cosmo Polis Park",
+   "location": null
+  },
+  {
+   "ward": 86,
+   "name": "VGN Har;pton Park",
+   "location": null
+  },
+  {
+   "ward": 86,
+   "name": "VGN Brent Park",
+   "location": null
+  },
+  {
+   "ward": 86,
+   "name": "Thamirabarani Street jn of new centuri hospital road",
+   "location": null
+  },
+  {
+   "ward": 86,
+   "name": "Thamirabarani Street jn of Kaveri Street Park",
+   "location": null
+  },
+  {
+   "ward": 86,
+   "name": "TNHB Park Vanagaram Main Road",
+   "location": null
+  },
+  {
+   "ward": 87,
+   "name": "TNHB 4Th St Park",
+   "location": null
+  },
+  {
+   "ward": 88,
+   "name": "AP Flats Childrens Park",
+   "location": null
+  },
+  {
+   "ward": 88,
+   "name": "B-Sector Park",
+   "location": null
+  },
+  {
+   "ward": 88,
+   "name": "C-Sector Park",
+   "location": null
+  },
+  {
+   "ward": 88,
+   "name": "Millienium Park",
+   "location": null
+  },
+  {
+   "ward": 88,
+   "name": "C T H Road Park",
+   "location": null
+  },
+  {
+   "ward": 89,
+   "name": "Officers Colony Park",
+   "location": null
+  },
+  {
+   "ward": 89,
+   "name": "Golden Colony",
+   "location": null
+  },
+  {
+   "ward": 89,
+   "name": "T V S Avenue Main Road Park",
+   "location": null
+  },
+  {
+   "ward": 89,
+   "name": "Akshaya Colony",
+   "location": null
+  },
+  {
+   "ward": 89,
+   "name": "Tvs Colony Park",
+   "location": null
+  },
+  {
+   "ward": 89,
+   "name": "Collector Nagar Park",
+   "location": null
+  },
+  {
+   "ward": 90,
+   "name": "Golden Jubleee Park",
+   "location": null
+  },
+  {
+   "ward": 90,
+   "name": "Welcome Colony Block 49-A & Park Road",
+   "location": null
+  },
+  {
+   "ward": 90,
+   "name": "TNHB Flats Park, Thirumangalam",
+   "location": null
+  },
+  {
+   "ward": 90,
+   "name": "Ongc Park",
+   "location": null
+  },
+  {
+   "ward": 90,
+   "name": "TNHB Park,Padikuppam Road",
+   "location": null
+  },
+  {
+   "ward": 90,
+   "name": "Asiad Colony",
+   "location": null
+  },
+  {
+   "ward": 90,
+   "name": "Emarelds Park",
+   "location": null
+  },
+  {
+   "ward": 90,
+   "name": "Santham Colony Block no.10,14,16",
+   "location": null
+  },
+  {
+   "ward": 91,
+   "name": "Mogappair West Bus Stand",
+   "location": null
+  },
+  {
+   "ward": 91,
+   "name": "Mogappair Eri Scheme 8Th St Park",
+   "location": null
+  },
+  {
+   "ward": 91,
+   "name": "Jaswanth Nagar Phase-I Park",
+   "location": null
+  },
+  {
+   "ward": 91,
+   "name": "Jaswanth Nagar Phase-Ii Park",
+   "location": null
+  },
+  {
+   "ward": 91,
+   "name": "Tri Star Park",
+   "location": null
+  },
+  {
+   "ward": 91,
+   "name": "Aibea Nagar Park",
+   "location": null
+  },
+  {
+   "ward": 91,
+   "name": "Mogappair Eri Scheme 6th Main Road",
+   "location": null
+  },
+  {
+   "ward": 91,
+   "name": "MOGAPPAIR ERI SCHEME 6TH MAIN ROAD",
+   "location": null
+  },
+  {
+   "ward": 91,
+   "name": "Mogappair Eri Scheme 15th cross street park",
+   "location": null
+  },
+  {
+   "ward": 91,
+   "name": "6TH BLOCK 8TH STREET",
+   "location": null
+  },
+  {
+   "ward": 92,
+   "name": "Venugopal Street Park",
+   "location": null
+  },
+  {
+   "ward": 92,
+   "name": "Veeramamunivar Park",
+   "location": null
+  },
+  {
+   "ward": 92,
+   "name": "Church Road Park",
+   "location": null
+  },
+  {
+   "ward": 92,
+   "name": "Varun Apartment Park",
+   "location": null
+  },
+  {
+   "ward": 92,
+   "name": "Anna Park (Mangal Eri Park)",
+   "location": null
+  },
+  {
+   "ward": 92,
+   "name": "Eb Road Park",
+   "location": null
+  },
+  {
+   "ward": 92,
+   "name": "VGN Rakshna Park",
+   "location": null
+  },
+  {
+   "ward": 93,
+   "name": "Veeramamunivar Park",
+   "location": null
+  },
+  {
+   "ward": 93,
+   "name": "Yogakalpattra Park",
+   "location": null
+  },
+  {
+   "ward": 79,
+   "name": "THAMARAI KULAM PARK",
+   "location": null
+  },
+  {
+   "ward": 80,
+   "name": "Thangal Eri Park",
+   "location": null
+  },
+  {
+   "ward": 82,
+   "name": "VANAN KULAM POND PARK",
+   "location": null
+  },
+  {
+   "ward": 82,
+   "name": "MENAMBEDU THANGAL POND PARK",
+   "location": null
+  },
+  {
+   "ward": 83,
+   "name": "NETHAJI NAGAR POND PARK",
+   "location": null
+  },
+  {
+   "ward": 83,
+   "name": "SIVALINGA PURAM POND PARK",
+   "location": null
+  },
+  {
+   "ward": 83,
+   "name": "PERUMAL KOIL POND PARK",
+   "location": null
+  },
+  {
+   "ward": 83,
+   "name": "Madhanankuppam Pond",
+   "location": null
+  },
+  {
+   "ward": 83,
+   "name": "Kandigai Park",
+   "location": null
+  },
+  {
+   "ward": 89,
+   "name": "Jeevan Bheema Nagar 1st Gate",
+   "location": null
+  },
+  {
+   "ward": 90,
+   "name": "Pace Parana Park",
+   "location": null
+  },
+  {
+   "ward": 90,
+   "name": "Maple Orchid Park",
+   "location": null
+  },
+  {
+   "ward": 93,
+   "name": "MMM Hospital Park",
+   "location": null
+  },
+  {
+   "ward": 80,
+   "name": "Bharathi Nagar Park",
+   "location": null
+  },
+  {
+   "ward": 85,
+   "name": "Kochar Park",
+   "location": null
+  },
+  {
+   "ward": 86,
+   "name": "T T MATHEW ROAD",
+   "location": null
+  },
+  {
+   "ward": 88,
+   "name": "Lokmaniya Thilagar Street Park",
+   "location": null
+  },
+  {
+   "ward": 88,
+   "name": "Kavitha Street (Miya Wakkie)",
+   "location": null
+  },
+  {
+   "ward": 89,
+   "name": "Madurai Veeran Street Park",
+   "location": null
+  },
+  {
+   "ward": 89,
+   "name": "TVS Avenue 34th Street",
+   "location": null
+  },
+  {
+   "ward": 90,
+   "name": "Park at Thirumangalam Main Road(HIG flat OSR land)",
+   "location": null
+  },
+  {
+   "ward": 90,
+   "name": "WELCOME COLONY",
+   "location": null
+  },
+  {
+   "ward": 90,
+   "name": "WELCOME COLONY",
+   "location": null
+  },
+  {
+   "ward": 90,
+   "name": "SANTHAM COLONY (to be park include Salient Features)",
+   "location": null
+  },
+  {
+   "ward": 90,
+   "name": "SANTHAM COLONY",
+   "location": null
+  },
+  {
+   "ward": 90,
+   "name": "SANTHAM COLONY",
+   "location": null
+  },
+  {
+   "ward": 90,
+   "name": "WELCOME COLONY",
+   "location": null
+  },
+  {
+   "ward": 90,
+   "name": "WELCOME COLONY",
+   "location": null
+  },
+  {
+   "ward": 90,
+   "name": "PADI KUPPAM MAIN ROAD",
+   "location": null
+  },
+  {
+   "ward": 90,
+   "name": "PADI KUPPAM MAIN ROAD Old Ben Foundation",
+   "location": null
+  },
+  {
+   "ward": 90,
+   "name": "PADI KUPPAM MAIN ROAD parana",
+   "location": null
+  },
+  {
+   "ward": 90,
+   "name": "GOLDEN JUBILEE FLATS NEAR ANNAI FLATS",
+   "location": null
+  },
+  {
+   "ward": 93,
+   "name": "O V Joseph Park",
+   "location": null
+  },
+  {
+   "ward": 93,
+   "name": "GOLDEN JUBILEE FLATS NEAR EB TRANSFORMER",
+   "location": null
+  }
+ ],
+ "hospitals": [],
+ "pumping_stations": [
+  {
+   "ward": null,
+   "name": "Anna Nagar West Extension I Sewage Pumping Station",
+   "capacity_mld": 4.0
+  },
+  {
+   "ward": null,
+   "name": "Anna Nagar West Extension II Sewage Pumping Station",
+   "capacity_mld": 5.5
+  },
+  {
+   "ward": null,
+   "name": "Mogappair Sewage Pumping Station",
+   "capacity_mld": 13.5
+  },
+  {
+   "ward": null,
+   "name": "Korattur Sewage Pumping Station(Old)",
+   "capacity_mld": 5.0
+  },
+  {
+   "ward": null,
+   "name": "Korattur Sewage Pumping Station(New)",
+   "capacity_mld": 0.1
+  },
+  {
+   "ward": null,
+   "name": "Five Star SewagePumping Station",
+   "capacity_mld": 0.33
+  },
+  {
+   "ward": null,
+   "name": "Golden Jubilee SewagePumping Station",
+   "capacity_mld": 0.3
+  },
+  {
+   "ward": null,
+   "name": "Elango Nagar SewagePumping Station",
+   "capacity_mld": 0.18
+  },
+  {
+   "ward": null,
+   "name": "Karukku Sewage Pumping Station",
+   "capacity_mld": 0.9
+  },
+  {
+   "ward": null,
+   "name": "Karpankulam Sewage Pumping Station",
+   "capacity_mld": 0.3
+  },
+  {
+   "ward": null,
+   "name": "Ayyankulam Sewage Pumping Station",
+   "capacity_mld": 0.3
+  },
+  {
+   "ward": null,
+   "name": "Nehru Nagar Sewage Pumping Station",
+   "capacity_mld": 0.05
+  },
+  {
+   "ward": null,
+   "name": "Teachers Colony Sewage Pumping Station",
+   "capacity_mld": 0.03
+  },
+  {
+   "ward": null,
+   "name": "Kulakarai Lift Station",
+   "capacity_mld": 0.03
+  },
+  {
+   "ward": null,
+   "name": "SIDCO Nagar Lift Station",
+   "capacity_mld": 0.15
+  },
+  {
+   "ward": null,
+   "name": "Sangam Street Lift Station",
+   "capacity_mld": 0.05
+  },
+  {
+   "ward": null,
+   "name": "Lenin Nagar Lift Station",
+   "capacity_mld": 0.18
+  },
+  {
+   "ward": null,
+   "name": "Thirumalai Priya Nagar (V.O.C. Street) Lift Station",
+   "capacity_mld": 0.09
+  },
+  {
+   "ward": null,
+   "name": "Pillayar Koil Street Lift Station",
+   "capacity_mld": 0.05
+  },
+  {
+   "ward": null,
+   "name": "Thendral Nagar Lift Station",
+   "capacity_mld": 0.1
+  },
+  {
+   "ward": null,
+   "name": "Pallam Street Sewage Pumping Station",
+   "capacity_mld": 1.18
+  },
+  {
+   "ward": null,
+   "name": "Vivekananda Nagar Pumping Station",
+   "capacity_mld": 1.1
+  },
+  {
+   "ward": null,
+   "name": "S.R.B. Nagar Sewage Pumping Station",
+   "capacity_mld": 0.1
+  }
+ ],
+ "notes": [
+  "Zonal Officer (Mr. Tamilsemvan) mobile is printed with 11 digits as '94451900007' (checked against the PDF page image, p.439). Copied as printed; it is not a dialable mobile number as-is (probably 9445190007) and needs verification before publishing.",
+  "9445036501 is printed for both Mr. D. Shankaran (U-18, no designation given) and Mr. Sathish Kumar, Assistant Executive Engineer (wards 79,80,81).",
+  "Mr.Dilip Kumar (AEE) is printed as 'U-18' with wards 89-93, which belong to Unit-20 elsewhere in the appendix; copied as printed.",
+  "inundation_streets = the 15-row 'Water stagnated streets in the previous monsoon - heavy rain fall' table (pp.449-450), which has pump capacity and pump location. Its 'Disposal of Point' column is blank on every row (verified on page image); no depth or days-to-drain columns exist. Row 11 pump is printed '25Ho' (probably 25 HP).",
+  "Mild-rainfall stagnation table (p.455) has two unlabelled extra columns: '5 HP' on every row and a location that repeats the street name (likely pump capacity/location). Not in the schema, so not carried into water_stagnation.",
+  "Moderate-rainfall table row 1 (ward 79) is printed literally as 'Name of the Street' (a header artefact) and was omitted; 9 real rows kept.",
+  "Sewer-block stagnation table also gives manhole counts (10, 3, 10, 10, 15) which are not in the schema. Its ward-93 row lists 5 streets and was split into one entry per street; the ward-91/92 block rows were kept whole.",
+  "Relief centres: intro text says 15 centres with total capacity 7750, but the table lists only 14 (capacities sum to 6300). Per row, the Assistant Engineer handles Evacuation & Relief Material, the Sanitary Inspector sanitation, and the Assistant Revenue Officer food & drinking water. Centres 12 and 14 (ward 93) share AE 9445190393; centres 3 and 4 share SI 9445025881; centre 12's SI number 9445910929 differs from the 94450259xx pattern but is printed so.",
+  "'Streets that require evacuation' (p.463) has no table; the sentence is cut off: 'During the heavy flood that occurred in 2018, in Ambattur zone there were no one'. evacuation_streets is empty.",
+  "Water-entered-houses: intro says 9 spots but the table has 18 rows. Row 16 (ward 91) has two separate streets on two lines in one cell; split into two entries. Row 18 (ward 91) 'Mogappair Block -I' / '5th and 11th Street, Mogappair East' joined as one entry.",
+  "Tree fall table has an unlabelled count column (total 124; intro text says 50 tree branches fell). Counts are not in the schema.",
+  "NDRF: none stationed in Ambattur zone. Boats stationed at Zonal Office, contact printed 'Boat -8056250348'. NDRF Commandant phone printed '04177 – 246594/246269'; the second number was recorded as 04177-246269 on the assumption that it shares the 04177 STD code.",
+  "No zonal office address and no hospital/UPHC table in this zone's appendix. Pumping stations have no ward given (No. of pumps column dropped). Parks list gives Dn.No/Unit only, no location; duplicates such as 'WELCOME COLONY' x4 are as printed.",
+  "Not captured (no schema field): canals (4, 8.82 km), lakes (Puzhal, Korattur, Ambattur), SWD lengths per ward, TNSCB tenements (Kamarajar Nagar, ICF Colony, Ayanambakkam main Road Athipet), tree-cutting machinery (17 saws)."
+ ]
+}

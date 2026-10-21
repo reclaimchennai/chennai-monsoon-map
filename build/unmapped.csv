@@ -1,0 +1,2401 @@
+layer,text,ward,zone,fallback
+tractor,JJ Nagar,1,1,ward
+tractor,Valluvar Nagar Underpass,2,1,ward
+tractor,Annai Sivagami Nagar,3,1,ward
+tractor,AD Colony,4,1,ward
+tractor,TN Road,5,1,ward
+tractor,Thyagi Sathya Moorthy Nagar 2nd Street,6,1,ward
+tractor,Thyagi Sathya Moorthy Nagar 2nd Street,6,1,ward
+tractor,Anna Nagar,7,1,ward
+tractor,Rajaji Nagar,7,1,ward
+tractor,Nandhi Odai,10,1,ward
+tractor,TH Road,11,1,ward
+tractor,Srinivaspuram-Railway Culvert No-36,12,1,ward
+tractor,Gandhi Nagar,13,1,ward
+tractor,Thiyagarayapuram,14,1,ward
+tractor,CHETTIMEDU,16,2,ward
+tractor,NERHUJI 2ND STREET,19,2,ward
+tractor,NERHUJI 4TH STREET,19,2,ward
+tractor,KOLIKADAI STREET,19,2,ward
+tractor,NERUJI 4TH STREET,19,2,ward
+tractor,MRG 1ST STREET,20,2,ward
+tractor,ABDUL KALAM NAGAR,22,2,ward
+tractor,KANNAPA SWAMY STREET,23,3,ward
+tractor,SITHARAPATHY 15TH STREET,25,3,ward
+tractor,SITHARAPATHY 7 TH STREET,25,3,ward
+tractor,D COLONY,26,3,ward
+tractor,ARUK NAAGR,27,3,ward
+tractor,PERIYAR NAGAR,28,3,ward
+tractor,RED HILLS SIGNAL,30,3,ward
+tractor,SRINIVASAN NAGAR,31,3,ward
+tractor,SRINIVASAN NAGAR,31,3,ward
+tractor,KUTTAGRA GROUND,32,3,ward
+tractor,PANAMA THOTHI STREET,50,5,ward
+tractor,SOUTH MADA CHURCH,50,5,ward
+tractor,SOUTH MADA CHURCH,50,5,ward
+tractor,KAL MANDABAM,50,5,ward
+tractor,MOTTAI THOTATHAM,51,5,ward
+tractor,MP ROAD,52,5,ward
+tractor,BOJA RAJAN NAGAR,53,5,ward
+tractor,MINT,53,5,ward
+tractor,POLICE QUARTERS,53,5,ward
+tractor,BETTU STREET,54,5,ward
+tractor,MUTHALAPETTAI,56,5,ward
+tractor,MUTHALAPETTAI,56,5,ward
+tractor,SRIRAM LOAN SQUARE PARK,57,5,ward
+tractor,PERIYAMEDU,58,5,ward
+tractor,NERHU STADIUM,58,5,ward
+tractor,SULAI,58,5,ward
+tractor,WHALAJA SALAI,59,5,ward
+tractor,WHALAJA SALAI,59,5,ward
+tractor,CHETHUPET,61,5,ward
+tractor,CHERPET PT SCHOOL,61,5,ward
+tractor,THONDAIYARPET,62,5,ward
+tractor,PILLAYAR KOVIL STREET,63,5,ward
+tractor,PILLAYAR KOVIL STREET,63,5,ward
+tractor,PILLAYAR KOVIL STREET,63,5,ward
+tractor,ANJU NAGAR,65,6,ward
+tractor,SAKTHIVEL NAGAR PARK,66,6,ward
+tractor,VELMURUGAN NAGAR,66,6,ward
+tractor,VENUS BUS STAND,67,6,ward
+tractor,JAWHAL NAGAR,68,6,ward
+tractor,LAKSHIMI AMMAN THIRU KOVIL,70,6,ward
+tractor,KASTHURIBA GANDHI NAGAR,71,6,ward
+tractor,LAL SING STREET,73,6,ward
+tractor,NERHU NAGAR,73,6,ward
+tractor,AMBEDKAR THIRUMANA MANDABAM,74,6,ward
+tractor,KILPAK BARAK ROAD,75,6,ward
+tractor,KILPAK BARAK ROAD,75,6,ward
+tractor,KOVIL STREET,100,8,ward
+tractor,L BLOCK 17TH STREET,101,8,ward
+tractor,SBI STAFF COLONY,105,8,ward
+tractor,ARUMBAKKAM METRO,106,8,ward
+tractor,KAMARAJAR NAGAR,107,8,ward
+tractor,KOTTAGARAM PARK,127,10,ward
+tractor,VADAPALANI TEMPLE,127,10,ward
+tractor,KODAMBAKKAM ROAD,128,10,ward
+tractor,KOTTAGARAM PARK,128,10,ward
+tractor,T NAGAR,129,10,ward
+tractor,AMMA UNAVAGAM,130,10,ward
+tractor,VADAPALANI AMMA HOTEL,130,10,ward
+tractor,VADAPALANI AMMA HOTEL,130,10,ward
+tractor,KOTTAGARAM PARK,132,10,ward
+tractor,RANGARAJAPURAM,132,10,ward
+tractor,TNAGAR,133,10,ward
+tractor,TNAGAR,133,10,ward
+tractor,TNAGAR,133,10,ward
+tractor,PADMACHALAM PARK,134,10,ward
+tractor,PADMACHALAM PARK,134,10,ward
+tractor,NERKUNDRAM STREET,135,10,ward
+tractor,KOTTAGARAM PARK,136,10,ward
+tractor,NERKUNDRAM STREET,136,10,ward
+tractor,KK NAGAR,137,10,ward
+tractor,ROHINI THEATER,138,10,ward
+tractor,AMMA PARK,140,10,ward
+tractor,AMMA PARK,141,10,ward
+tractor,TIT NAGAR,141,10,ward
+tractor,KOTTAGARAM PARK,142,10,ward
+tractor,MANTHOPU,142,10,ward
+tractor,7TH MAIN ROAD,143,11,ward
+tractor,DK NAGAR,147,11,ward
+tractor,NEAR THALAPPAKATTI BRIYANI ARCOT ROAD,151,11,ward
+tractor,SUBASRI NAGAR,153,11,ward
+tractor,SHANTHI NAGR,154,11,ward
+tractor,ESWARAN NAGAR,155,11,ward
+tractor,DHANAM NAGAR,156,12,ward
+tractor,AMBETHKAR NAGAR,157,12,ward
+tractor,BALAJI KOVIL ST NANTHAMBAKKAM,158,12,ward
+tractor,APPARAKAS STREET,160,12,ward
+tractor,THIRUVALLUVAR NAGAR,162,12,ward
+tractor,VANDIKARAN STREET,172,13,ward
+tractor,VANDIKARAN STREET,172,13,ward
+tractor,LAKSHMINAGAR 5TH STREET,176,13,ward
+tractor,LAKSHMINAGAR 5TH STREET,176,13,ward
+tractor,PULIYANKENI KULAM,177,13,ward
+tractor,DEVI KARUMARIYAMMAN NAGAR 1ST STREET,177,13,ward
+tractor,GOVERNMENT HR SEC SCHOOL,177,13,ward
+tractor,MG NAGAR MASSODHI STREET,178,13,ward
+tractor,PILLAYAR STREET THANTHAI PERIYAR NAGAR,178,13,ward
+tractor,MG NAGAR KARUMARYAMMAN 4TH STREET,178,13,ward
+tractor,KAMARA NAGAR 2ND EAST STREET,179,13,ward
+tractor,KAMARA! NAGAR 2ND EAST STREET,179,13,ward
+tractor,JAISHANKAR NAGAR MAIN ROAD,183,14,ward
+tractor,KUMARAN NAGAR,184,14,ward
+tractor,MEDAVAKKAM MAIN ROAD,185,14,ward
+tractor,KAMARA STREET OMR,188,14,ward
+tractor,VIMALA NAGAR,189,14,ward
+tractor,PALLIKARANAI MAIN ROAD OIL MILL,190,14,ward
+tractor,ARUMUGAM AVENUE,193,15,ward
+tractor,ARUMUGAM AVENUE THORAPAKKAM,193,15,ward
+tractor,HANUMAN COLONY 1ST STREET,194,15,ward
+tractor,HANUMAN COLONY MAIN ROAD,194,15,ward
+tractor,KARTHIK NAGAR INJAMBAKKAM,194,15,ward
+tractor,ANNA ENCLAVE ROAD,194,15,ward
+tractor,RAJ NAGAR,195,15,ward
+tractor,GANDHI NAGAR,199,15,ward
+tractor,SEMMANJERI,200,15,ward
+tractor,COMMUNITY HALL PAZHATTAI SALAI,200,15,ward
+pump,SADAYAN KUPPAM,4,1,ward
+pump,VETRI VINAYAGAR NAGAR,7,1,ward
+pump,VARATHIRAJA NAGAR,7,1,ward
+pump,KULAKKARAI,16,2,ward
+pump,RL NAGAR MANALI,16,2,ward
+pump,"PERIYAR NAGAR, (ARIYALUR)",17,2,ward
+pump,SRF COMPANY,18,2,ward
+pump,PONNIAMMAN KOIL ST,19,2,ward
+pump,200 FEET ROAD NEAR LOKA BUILDING,30,3,ward
+pump,GANAPATHY SIVA NAGAR,30,3,ward
+pump,MRH - VADAPERUMBAKKAM-MADAVARAM,23,3,ward
+pump,MRH - VADAPERUMBAKKAM-MADAVARAM,23,3,ward
+pump,KADUMBADI AMMAN KOIL ST,34,4,ward
+pump,THENDRAL NAGAR,34,4,ward
+pump,MULLAI NAGAR,37,4,ward
+pump,GOOD SHED ROAD,37,4,ward
+pump,MGR NAGAR,41,4,ward
+pump,NEHRU NAGAR,41,4,ward
+pump,ANNAI SATYA NAGAR (KANNAGI NAGAR),41,4,ward
+pump,AR ROAD,45,4,ward
+pump,VYASARPADI SUBWAY,46,4,ward
+pump,MOOLAKOTHALAM B.G,53,5,ward
+pump,IYYA SAMMY ST,61,5,ward
+pump,THIRUMALAI NAGAR MAINROAD,64,6,ward
+pump,JAWAHAR NAGAR,68,6,ward
+pump,DECOSTAR ROAD,68,6,ward
+pump,DECOSTAR ROAD,68,6,ward
+pump,TNHB 25TH ST,84,7,ward
+pump,TNHB 26 TH ST,84,7,ward
+pump,TNHB 61TH ST,84,7,ward
+pump,RAILWAY BRIDGE PADI,84,7,ward
+pump,KORATTUR SIGNAL EAST EVENUE,87,7,ward
+pump,KORATTUR SIGNAL EAST EVENUE,87,7,ward
+pump,TASS INDUSTRIES,85,7,ward
+pump,SHASTHIRI NAGAR (NEHRU ST),99,8,ward
+pump,NEW BHOOPATHY NAGAR,99,8,ward
+pump,S BLOCK 20TH ST,103,8,ward
+pump,NEHRU STREET,106,8,ward
+pump,UDHAYAM COLONY POND,128,10,ward
+pump,MEENAKSH COLLEGE,132,10,ward
+pump,BHARATHI DASAN COLONY,130,10,ward
+pump,Gajalakshmi nagar,143,11,ward
+pump,Pallavan Nagar,145,11,ward
+pump,Mettukuppam sudailai mada sami koil,147,11,ward
+pump,Singaram Street,155,11,ward
+pump,Ramapuram Lake,155,11,ward
+pump,VGN Lakshmi Nagar Kaveri street TVS Emrolled,156,12,ward
+pump,Ganga Salai,156,12,ward
+pump,Madha nagar chruch,156,12,ward
+pump,Thiruvalluvar nagar,156,12,ward
+pump,CRR puram L & T Colony,157,12,ward
+pump,Krishna court jn,157,12,ward
+pump,River View Colony,157,12,ward
+pump,River View Colony,157,12,ward
+pump,River View Colony,157,12,ward
+pump,Gomathi nagar,176,13,ward
+pump,Kallukuttai lake,178,13,ward
+pump,CSIR disposal point,178,13,ward
+pump,CSIR disposal point,178,13,ward
+pump,Chitheri disposal point (instruction from SE),190,14,ward
+pump,Hanuman colony main rd,194,15,ward
+pump,Royal enclave,194,15,ward
+pump,Ezhil Nagar 1st Main Road,195,15,ward
+pump,nainaar kuppam,197,15,ward
+pump,Classic Farm Main Road,199,15,ward
+pump,Semmanchery tsunami nagar arch,200,15,ward
+pump,Jalladianpet lake(instruction from SE),191,14,ward
+flood,TH Road jn.of MRF Road,5,1,ward
+flood,Kalaignar nagar,6,1,ward
+flood,SVM Nagar I main road,1,1,ward
+flood,SVM Nagar II main road,1,1,ward
+flood,Kamaraj salai,1,1,ward
+flood,"AD Colony, Ernaavoor",4,1,ward
+flood,"SVM Nagar, Ulaganathapuram",1,1,ward
+flood,"Nandhi odai , Sadayankuppam battai",10,1,ward
+flood,"Srinivasapuram, B.K.N Colony",12,1,ward
+flood,Kathivakkam high road,4,1,ward
+flood,T.H. Road (MRF road junction),5,1,ward
+flood,T.H. Road near Liftgate,5,1,ward
+flood,"Manali Express road, (Mullai nagar, Jothi nagar, TKS Nagar)",6,1,ward
+flood,Rajiv Gandhi Nagar from TPP Salai to Andarkuppam Main Road,16,2,ward
+flood,From Kanniammanpet pond to Kadappakkam Lake,16,2,ward
+flood,Mahalakshmi Nagar,22,3,ward
+flood,Punitha Anthoniyar Street,23,3,ward
+flood,Othai vadai Street,23,3,ward
+flood,Ambedhkar Nagar,31,3,ward
+flood,KS Nagar (Thirumalai Nagar),22,3,ward
+flood,Collector Nagar,25,3,ward
+flood,"Aringhar Anna Nagar,",25,3,ward
+flood,Ambattur Redhills road (Highway),24,3,ward
+flood,Carnesh Nagar,41,4,ward
+flood,Sundram Power Lane,45,4,ward
+flood,B.V Colony 19 and 20th Street,45,4,ward
+flood,Annai Sathya Nagar,45,4,ward
+flood,Ganesapuram Main Road,45,4,ward
+flood,KH Road,47,4,ward
+flood,Construction of RCC Open Box type Retaining Wall and Bed including chain link fencing to Kodungaiyur canal North wing from Ch.0.0 to Ch.850m,34,4,ward
+flood,Construction of RCC Open Box type Retaining Wall and Bed including chain link fencing to Kodungaiyur canal North wing from Ch.850 to Ch.1150m,34,4,ward
+flood,Construction of RCC Open Box type Retaining Wall and Bed including chain link fencing to Kodungaiyur canal North wing from Ch.1675 to Ch.2191m,34,4,ward
+flood,Dismantling and Reconstruction of RCC Box type Stormwater drain of size 1200x1200mm along T.H Road from North Terminal road to AE koil st,39,4,ward
+flood,Providing Re-sectioning concrete lining and laying service road in link canal from Ch.2500 to 2940 in Captain Cotton Canal,41,4,ward
+flood,Providing Re-sectioning concrete lining and laying service road in link canal from Ch.2940 to 3360 in Captain Cotton Canal,41,4,ward
+flood,Sathya Moorthy Nagar 24th Block,46,4,ward
+flood,Walltax Road,54,5,ward
+flood,"Chella pillayar Koil Street,",63,5,ward
+flood,"G.P. Road,",63,5,ward
+flood,"Vijayaragavalu Roundana,",53,5,ward
+flood,"Sydnams Road,",58,5,ward
+flood,Walltax Road,53,5,ward
+flood,"Singanna Chetty Street,",62,5,ward
+flood,"VOC Salai,",59,5,ward
+flood,Poombugar Nagar 1st Main Road,64,6,ward
+flood,Poombugar Nagar 2nd Main Road,64,6,ward
+flood,Dhanammal Nagar,64,6,ward
+flood,Samuthirya Colony 1st Street,64,6,ward
+flood,Anjugam Nagar 4th Street,64,6,ward
+flood,Poombugar Nagar 11th Cross Street,64,6,ward
+flood,Gandhi Street,64,6,ward
+flood,MN Nagar,64,6,ward
+flood,Hussain Colony 4th Street,65,6,ward
+flood,Teachers Colonly,65,6,ward
+flood,Gandhimathi Street,66,6,ward
+flood,Jawahar Nagar,66,6,ward
+flood,Andiyappan Street,68,6,ward
+flood,Konnur High Road,71,6,ward
+flood,Doss Nagar Pallam,72,6,ward
+flood,Ammaiyammal Street,73,6,ward
+flood,Sec Colony 1st to 9th Street,74,6,ward
+flood,Demellous Road (Near Haj Committee),77,6,ward
+flood,Maduraiswamy Madam,68,6,ward
+flood,Bharathi Main Road,70,6,ward
+flood,Mohamadin Salai,68,6,ward
+flood,Lal Singh Street,73,6,ward
+flood,Mannarswamy Street,73,6,ward
+flood,Gopal Reddy Colony,67,6,ward
+flood,Gnanamoorthy Nagar & EB Colony,82,7,ward
+flood,NAS Garden & TVS Nagar,83,7,ward
+flood,Cth Road near Petrol Bunk,86,7,ward
+flood,Annai Sathya Nagar,86,7,ward
+flood,Vandiamman Koil st,93,7,ward
+flood,Annai Sathya Nagar from Wheels India Culvert to Padi Bridge Culvert,94,8,ward
+flood,"Kumarasamy Nagar ,Agathiyar canal",95,8,ward
+flood,Kellys Road,103,8,ward
+flood,School Road,110,9,ward
+flood,Kamarajapuram Main Road,110,9,ward
+flood,Maakkis Garden,111,9,ward
+flood,Thideer Nagar,111,9,ward
+flood,Kodambakkam High road,113,9,ward
+flood,C.N.K. Road,114,9,ward
+flood,G.N.C.Road,117,9,ward
+flood,South boug road,117,9,ward
+flood,Sarathapuram Street,113,9,ward
+flood,P.S.Siva Swamy Street,119,9,ward
+flood,K.B.Dasan Road,122,9,ward
+flood,Cresent Road,122,9,ward
+flood,Tankbund Road,122,9,ward
+flood,Sowrastra nagar 5th street,112,9,ward
+flood,Bharathishwarer colony 3rd street,112,9,ward
+flood,Mayor Sundra (rao) road,118,9,ward
+flood,Improvements of Stormwater drain and construction of 3 road crossing culverts Habibullah Road,113,9,ward
+flood,Rajamannar Salai,131,10,ward
+flood,Rangarajapuram,134,10,ward
+flood,North Usman Road,136,10,ward
+flood,Construction of Stormwater drain of size 900x900mm RCC Box type drain along Kaliamman koil street at Koyambedu from Metro Water Office in Dn.111 to 100 ft road in Dn.127,111,10,ward
+flood,Pallavan Nagar,145,11,ward
+flood,Gajalakshmi nagar,143,11,ward
+flood,VGN nagar phase III,143,11,ward
+flood,Sakthi nagar,143,11,ward
+flood,Vembuli amman koil street,143,11,ward
+flood,Krishna nagar,147,11,ward
+flood,Pallavan nagar,147,11,ward
+flood,Mullai street,150,11,ward
+flood,Officers colony,151,11,ward
+flood,Annai sathya nagar,151,11,ward
+flood,Ganesh avenue 1st to 10th street,153,11,ward
+flood,Amman nagar,155,11,ward
+flood,Royala nagar,155,11,ward
+flood,Bakthi vedhandha avenue,155,11,ward
+flood,Construction of Stormwater drain of size 1200x1200mm along IAS Qtrs road and Pachaiamman koil street from Dead End to Virugambakkam Canal,148,11,ward
+flood,Sairam avenue,152,11,ward
+flood,Bhell Nagar,156,12,ward
+flood,"Kaviya Garden, CRR Puram Phase III, Purachi Thalivi Nagar, Bhell Nagar, Dharmarajapuram, Sathiya Nagar, Astalakshmi Avenue and Sedhu Lakshmi Avenue, River view colony",157,12,ward
+flood,"Bharathidasan Nagar,",165,12,ward
+flood,Construction of Stormwater drain along Ganapathi Colony from Thulasingapuram to Adayar river of size 1200x1200mm,158,12,ward
+flood,Income Tax colony Area Back flow of sewage water,165,12,ward
+flood,Mayflower garden,173,13,ward
+flood,R.A Puram IV cross street,173,13,ward
+flood,Valleswaranthottam,173,13,ward
+flood,Srinivasa avenue,173,13,ward
+flood,Mosque street,174,13,ward
+flood,Vallalar street - Annai Indra nagar,179,13,ward
+flood,Sivasakthi street - Annai Indra nagar,179,13,ward
+flood,Kamatchiamman street Annai Indra nagar,179,13,ward
+flood,Sastri street (Part),179,13,ward
+flood,Udayam nagar & extn,179,13,ward
+flood,"Astalakshmi nagar II, III, IV & V streets",177,13,ward
+flood,MRC Nagar,173,13,ward
+flood,Vasantha avenue,173,13,ward
+flood,Kasthuri avenue,173,13,ward
+flood,L.B road,175,13,ward
+flood,Kasthuribai nagar,175,13,ward
+flood,Indra nagar,175,13,ward
+flood,Anna avenue,175,13,ward
+flood,"Sastri nagar II, IX & XV cross street",176,13,ward
+flood,A.G.S Colony,178,13,ward
+flood,V.G.P Selva nagar Extn I to V streets,179,13,ward
+flood,V.G.P Selva nagar I cross street & I main road,179,13,ward
+flood,Bhuvaneshwari nagar I & III cross street & III main road,179,13,ward
+flood,Veenus colony II street,179,13,ward
+flood,Dr.Radhakrishnan nagar,181,13,ward
+flood,Valmigi street,181,13,ward
+flood,C.S.I.R road,180,13,ward
+flood,Nehru nagar - Veerapandiya Kattabomman street,174,13,ward
+flood,Nehru nagar - Periyar street,174,13,ward
+flood,Nehru nagar - Anbil Dharmalingam street,174,13,ward
+flood,Velachery main road,174,13,ward
+flood,Journalist colony,182,13,ward
+flood,Construction of RCC Box type Stormwater drain along EB colony 2nd street from EB colony main road to Radha Nagar extension main road,177,13,ward
+flood,Ganapathy colony,182,13,ward
+flood,"Chitra nagar, Kotturpuram",172,13,ward
+flood,Ambedkar nagar II main road,177,13,ward
+flood,TNHB Colony III main road,177,13,ward
+flood,A.G.S Colony VI street,177,13,ward
+flood,ASK Nagar,177,13,ward
+flood,Ex Service man colony,177,13,ward
+flood,Ambedkar nagar I cross street,177,13,ward
+flood,TNHB Colony - EWS lanes,177,13,ward
+flood,Nethaji colony I to IV cross streets,177,13,ward
+flood,Andal nagar extn I to III streets,177,13,ward
+flood,Venkateswara nagar III main road,177,13,ward
+flood,A.G.S Colony III main road,177,13,ward
+flood,Mahalakshmi nagar III cross street,177,13,ward
+flood,Brindavan nagar II street,177,13,ward
+flood,Seshadripuram I main road,179,13,ward
+flood,Nagi (R ) Thottam,170,13,ward
+flood,Chetti thottam,170,13,ward
+flood,Neruppumedu,170,13,ward
+flood,Vinayagapuram,170,13,ward
+flood,Anusuyamandapam,170,13,ward
+flood,Vijayanagar area,178,13,ward
+flood,Ram Nagar area,178,13,ward
+flood,"Tansi nagar II, III, V, VII & X streets",179,13,ward
+flood,Dhandeeswaram nagar,179,13,ward
+flood,Seetharam nagar,179,13,ward
+flood,Sarathy nagar,179,13,ward
+flood,Velachery Taramani road (100’ road),180,13,ward
+flood,New Kubera Nagar 5th & 7th Street,187,14,ward
+flood,Ram Nagar (North),169,14,ward
+flood,Annai Therasa nagar,169,14,ward
+flood,Puzhuthivakkam Bust Stand,169,14,ward
+flood,"OMR, Jn. of Thirumalai Nagar",186,14,ward
+flood,"ECR, Palgalai Nagar",185,14,ward
+flood,"ECR, Govindan Nagar",185,14,ward
+flood,Rajesh Nagar,188,14,ward
+flood,Ellaiamman koil street,192,15,ward
+flood,OMR - Mettukuppam (VPG Avenue Junction),194,15,ward
+flood,Wipro Salai,197,15,ward
+flood,"Construction of SWD of size 900x900mm along Karpaga Vinayagar Koil Street, Vettuvankeni",193,15,ward
+flood,"Construction of Stormwater drain along Ist Avenue Main Road, Vettuvankeni",196,15,ward
+flood,Lalbahadhur Sasthiri Street,197,15,ward
+flood,Annai sivagami nagar 6th street,3,1,ward
+flood,Thiruveedhiamman koil 5th street,4,1,ward
+flood,Mettu street,4,1,ward
+flood,MRF road junction,5,1,ward
+flood,Jaigopal karodia school,5,1,ward
+flood,Kalaignar nagar 9th street,6,1,ward
+flood,Manali express road,6,1,ward
+flood,Rajaji nagar sathyamootthy street,7,1,ward
+flood,Rajaji nagar Kirubananadavariyar street,7,1,ward
+flood,Rajaji nagar Muthuramalingam street,7,1,ward
+flood,Nandhiodai,10,1,ward
+flood,T.H road (Opp. To Zonal office),11,1,ward
+flood,BKN colony,12,1,ward
+flood,Varadarajan street (Govt. school),13,1,ward
+flood,Gandhi nagar (In railway land),13,1,ward
+flood,Kosappur School,17,2,ward
+flood,All Street,18,2,ward
+flood,MMDA 46TH Street,19,2,ward
+flood,Jalakandamariamman Koil Street,21,2,ward
+flood,Vegetarian Village,22,3,ward
+flood,"Sriram Nagar,",24,3,ward
+flood,Venkateswara Nagar,24,3,ward
+flood,Venkatasai Nagar,24,3,ward
+flood,Vijayalakshmi Nagar,24,3,ward
+flood,Grace Ngr,24,3,ward
+flood,Elisabath Ngr,24,3,ward
+flood,Sathiyamoorthy Ngr,24,3,ward
+flood,Ganapathy Ngr,24,3,ward
+flood,Kamarajar Ngr,24,3,ward
+flood,Krishna Ngr,24,3,ward
+flood,Purushothaman Ngr,24,3,ward
+flood,Velumurugan Ngr,24,3,ward
+flood,Veeraragavan nagar,25,3,ward
+flood,lakshmi Nagar,25,3,ward
+flood,INTUC Nagar,25,3,ward
+flood,Arignar Anna Ng,25,3,ward
+flood,"1.Ganapathy Siva Nagar, Thirupathy thangavel nagar",26,3,ward
+flood,Perumal koil StExtension,29,3,ward
+flood,Kakkan puram cross St,29,3,ward
+flood,Velu St,29,3,ward
+flood,Apparaj St,29,3,ward
+flood,Devarajan 2nd Cross st,29,3,ward
+flood,Gandhi Cross st,29,3,ward
+flood,1.Kannapiran kovil st,31,3,ward
+flood,kalkattashop,31,3,ward
+flood,NANDHA NAGAR,32,3,ward
+flood,VENKATESWARA NAGAR,32,3,ward
+flood,Annapoorna Nagar entire Area(Vacant Land),33,3,ward
+flood,"Ganapathy thottam,",33,3,ward
+flood,Prakash Nagar,33,3,ward
+flood,VIP Ngr,33,3,ward
+flood,Elisabath Ngr,33,3,ward
+flood,Thendral Nagar,34,4,ward
+flood,Gandhi Nagar,35,4,ward
+flood,Krishna Salai,35,4,ward
+flood,Abirami Avenue 14th Street,37,4,ward
+flood,Patel Nagar 3rd Street,38,4,ward
+flood,Nehru Nagar 13th Street,38,4,ward
+flood,Nethaji Nagar 2nd Street,38,4,ward
+flood,Thiruvalluvar Nagar,40,4,ward
+flood,"MGR Nagar 5th, 6th, 7th & 8th Street",41,4,ward
+flood,Parthasarathy Street,41,4,ward
+flood,Marimuthu Street,41,4,ward
+flood,Kasthuribai Street,41,4,ward
+flood,Kamaraj Street,44,4,ward
+flood,Palani andavar Koil Street,44,4,ward
+flood,B.V.Colony 18th Street,45,4,ward
+flood,Palla 2nd & 3rd Street,46,4,ward
+flood,E.H Road ( Moorthingar Opp Eswaran Koil ),46,4,ward
+flood,S.M.Nagar Main Road,46,4,ward
+flood,Meenambal Nagar 5th Street,47,4,ward
+flood,C.B.Road,53,5,ward
+flood,Siva Sakthi Nagar,64,6,ward
+flood,Appasamy Street,64,6,ward
+flood,Ashok Avenue,65,6,ward
+flood,Bunder Garden,69,6,ward
+flood,Secratriate Colony 4nd Street,74,6,ward
+flood,Secratriate Colony 6th Street,74,6,ward
+flood,Manolodai St,79,7,ward
+flood,"Sabari st, Chital st",80,7,ward
+flood,OT Bus stand,81,7,ward
+flood,Singapore complex,,7,zone
+flood,"Sakthi Nagar, Vital st",82,7,ward
+flood,"Vanasakthi Nagar,TVS Nagar,Sastha Nagar,",82,7,ward
+flood,"Kanniamman Koil st,",84,7,ward
+flood,TNHB Phase-III,86,7,ward
+flood,Rampoorna Nagar,86,7,ward
+flood,Akshyacolony,89,7,ward
+flood,H BLOCK 5TH STREET,99,8,ward
+flood,Razak Garden,105,8,ward
+flood,INDRA GANDHI STREET,105,8,ward
+flood,J BLOCK,105,8,ward
+flood,Prakasam Salai,113,9,ward
+flood,Nungambakkm High Road (Near Park Hotel),113,9,ward
+flood,Bazulla Road,136,10,ward
+flood,Burkit Road,136,10,ward
+flood,R.K.Shanmugam Salai,131,10,ward
+flood,PANICHATHAMMAN KOIL,156,12,ward
+flood,IG OFFICE,161,12,ward
+flood,KANNAN COLONY,162,12,ward
+flood,BALAJI NAGAR EXTN.(VACANTLAND to SWD),165,12,ward
+flood,CGHSS - Five furlong road,174,13,ward
+flood,Pandiyan street,174,13,ward
+flood,Venkateswara nagar III street (Vacant land - 1 & Dhandeeswaram disposal - 1),177,13,ward
+flood,TNHB III avenue (Vacant land),177,13,ward
+flood,Park avenue III street,179,13,ward
+flood,V.G.P Selva nagar IV main road,179,13,ward
+flood,Kennady street,180,13,ward
+flood,Giri Street,168,14,ward
+flood,Ram Nager Ist st,169,14,ward
+flood,Sivasubramaniyam st,169,14,ward
+flood,Jaya Nagar,169,14,ward
+flood,Thanthai Periyar School,169,14,ward
+flood,Manikandan street,169,14,ward
+flood,New Kuberan Nagar 5th street,187,14,ward
+flood,New Kuberan Nagar 7th street,187,14,ward
+flood,Vishal Nager Main Road,188,14,ward
+flood,Krishnaveni Ammal Nagar,188,14,ward
+flood,mahalakshmi nagar,188,14,ward
+flood,Govindaswamy Nagar,188,14,ward
+flood,Veeramani Street,188,14,ward
+flood,perumal Nagar,189,14,ward
+flood,meru Nagar Main road,189,14,ward
+flood,kannan thasan Nagar ( park),190,14,ward
+flood,nehru Street ( part),190,14,ward
+flood,Rajiv Street ( part),190,14,ward
+flood,Nagathamman kovil st,191,14,ward
+flood,Mani megali Street,191,14,ward
+flood,Bagavathu Singh Street,191,14,ward
+flood,Kovalan Street,191,14,ward
+flood,Rajeshwari Street,191,14,ward
+flood,Kambar Street,191,14,ward
+flood,Kumarakurubarar Street,191,14,ward
+flood,Vaithiya Lingam Stret,191,14,ward
+flood,Kabaleeswarar Nagar 5th cross street,192,15,ward
+flood,MCN Nagar Extn 3rd Street,193,15,ward
+flood,Raju Nagar 1st and 2nd Street,194,15,ward
+flood,Bethel Nagar,196,15,ward
+flood,Rajaji Nagar,7,1,ward
+flood,Thirumalai nagar,22,3,ward
+flood,Sivaganapathi nagar,26,3,ward
+flood,Perimalum nagar,26,3,ward
+flood,"TVS Nagar East, Balaji Nagar",83,7,ward
+flood,Balaji Nagar,83,7,ward
+flood,Jeswanth Nagar,91,7,ward
+flood,MTH ROAD NEAR VILLIVAKKAM POLICE STATION,94,8,ward
+flood,DR ALAGAPPA ROAD,104,8,ward
+flood,SUNDARAM LANE,104,8,ward
+flood,Ram nagar 1st street,169,14,ward
+flood,Ram nagar2nd street,169,14,ward
+flood,Ram nagar3rd street,169,14,ward
+flood,Ram nagar 5th street,169,14,ward
+flood,Ram nagar 7th street,169,14,ward
+flood,Ram nagar 8th street,169,14,ward
+flood,Sivaprakasham 1st street,169,14,ward
+flood,Balaji nagar 24th street,169,14,ward
+flood,Annai Therasa nagar 7th street,169,14,ward
+flood,Annai Therasa nagar 4st street,169,14,ward
+flood,Annai Therasa nagar 14th street,169,14,ward
+flood,Ramalingam nagar main road,169,14,ward
+flood,Division office,183,14,ward
+flood,Saraswathi street,187,14,ward
+flood,Infront of Maharastra Bank at ECR Road Neelankarai,192,15,ward
+flood,Mahathma Gandhi 2nd Main Road,193,15,ward
+flood,Karpaga Vinayagar Nagar 3rd Street,193,15,ward
+flood,Karpaga Vinayagar Nagar4th Street,193,15,ward
+flood,Karpaga Vinayagar Nagar 5th Street,193,15,ward
+flood,Kasthuribai 10th cross street,193,15,ward
+flood,Karpaga Vinayagar Nagar 7th Street,193,15,ward
+flood,Balaji Nagar,194,15,ward
+flood,Bharathiyar Nagar,194,15,ward
+flood,Saraswathi Nagar 4th Cross Street,195,15,ward
+flood,ECR Road Pilominal School,196,15,ward
+flood,Ramalinga nagar,196,15,ward
+flood,Annai Fathima school,197,15,ward
+flood,Classic Farm Retreat 1st st,197,15,ward
+flood,Ponniyamman koil 5th cross street,198,15,ward
+flood,Jawahar nagar 5th.6th cr st,200,15,ward
+flood,Surapet Main Road,24,3,ward
+flood,"North Avenue, TNHB 27th,28th,42th,49th,50th,61st",83,7,ward
+flood,"P.H Road, Near Arumbakkam and Near Mosque",100,8,ward
+flood,Vellachery Main Road Pheonix Mall Near vijaya nagar junction,174,13,ward
+flood,Quidamillath Street,191,14,ward
+flood,Sadasivam Nagar,169,14,ward
+flood,Jawahar Nagar,200,15,ward
+flood,"3rd Avenue, Anna Nagar",100,8,ward
+flood,Rajammannar Salai & R.K. Shanmugam Salai.,131,10,ward
+flood,Bazullah Road,136,10,ward
+flood,Gajalakshmi Nagar Main Road & Gajalakshmi Nagar 5th Street,143,11,ward
+flood,"City Link Road, Five Furlong Road, Cart Track Road, Pillaiyar Koil Street, Nethaji Road.",174,13,ward
+flood,Velachery AGS Colony 4th Street & 5th Street,177,13,ward
+flood,"MGR Main Road. Periyar Nagar, Tharaman",180,13,ward
+flood,Ram Nagar 10th & 11th Street.,169,14,ward
+flood,Selva Nagar,196,15,ward
+flood,"Semmancheri Housing Board Colony, Semmancheri EzhilmugaNagar, Jawahar Nagar.",200,15,ward
+flood,K.H Road near Vinayakar Kovil,1,1,ward
+flood,S.V M Nagar Burial Ground,1,1,ward
+flood,Valluvar nagar subway,2,1,ward
+flood,Kamaraj Nagar 7th Street,2,1,ward
+flood,Periyar Kupam Barial Ground,2,1,ward
+flood,Etps Colony,3,1,ward
+flood,AD Colony,4,1,ward
+flood,Shanmugapuram 2nd Street,4,1,ward
+flood,Shanmugapuram 12th Cross Street,6,1,ward
+flood,Rajashanmugapuram 2nd Street,6,1,ward
+flood,Annamalai Nagar,7,1,ward
+flood,Ramasamy Nagar,7,1,ward
+flood,Ediyan Chavadi,15,2,ward
+flood,Jenifer Nagar,16,2,ward
+flood,Saraswathi Nagar,17,2,ward
+flood,Bala Subramaniyam Nagar,19,2,ward
+flood,New MGR Nagar,20,2,ward
+flood,Neducheziyan Salai,21,2,ward
+flood,Thiruneelakandar 4th St,22,3,ward
+flood,Valluvar St,22,3,ward
+flood,K.S. Nagar 27th St,22,3,ward
+flood,K.S. Nagar 26th St,22,3,ward
+flood,K.S. Nagar 2nd St,22,3,ward
+flood,Division Office 23,23,3,ward
+flood,NSK Street,23,3,ward
+flood,Warehouse,23,3,ward
+flood,Sarathy Nagar,24,3,ward
+flood,Venkat Sai nagar 8th street,24,3,ward
+flood,Venkat Sai nagar 11 th street,24,3,ward
+flood,Mahalakshmi Nagar,25,3,ward
+flood,David Jeyarel St,25,3,ward
+flood,Sami Nagar,26,3,ward
+flood,Thirumazhai nagar,26,3,ward
+flood,Parimalam nagar,26,3,ward
+flood,Thanikachalam 3rd main road,26,3,ward
+flood,Ponniamman medu,26,3,ward
+flood,Padma nagar,27,3,ward
+flood,AVM Nagar,28,3,ward
+flood,Susilammal St,28,3,ward
+flood,Rajeshwari Ammal St,28,3,ward
+flood,Sasthi nagar,28,3,ward
+flood,Padavattamman Koil St,28,3,ward
+flood,Ayyavu Garden,28,3,ward
+flood,Kumaran street,28,3,ward
+flood,Papathi street,28,3,ward
+flood,"Vazhuthigaimedu St.,(near amma unavagam)",29,3,ward
+flood,Kannabiran Koil Street,29,3,ward
+flood,Devarajan Street,29,3,ward
+flood,Vedagiri street,29,3,ward
+flood,Mahatmagandhi street,29,3,ward
+flood,Perumal koil Extn,29,3,ward
+flood,Adhiraj Street,29,3,ward
+flood,Masilamani Nagar,30,3,ward
+flood,Pandakulam,30,3,ward
+flood,VRB nagar,30,3,ward
+flood,Roja nagar,30,3,ward
+flood,Sarathy Nagar Extn.,32,3,ward
+flood,Narmadha Nagar,32,3,ward
+flood,Venkateshwara Nagar,32,3,ward
+flood,Mookambikai Nagar,32,3,ward
+flood,Dr.Abdul kalam Road,33,3,ward
+flood,Elizabeth Nagar,33,3,ward
+flood,Ganapathy jeeva Thootam,33,3,ward
+flood,Cement godown factory,33,3,ward
+flood,Kasiammal nagar,33,3,ward
+flood,Bharathiyar nagar,33,3,ward
+flood,Ramalinga Colony,33,3,ward
+flood,Annapurana nagar,33,3,ward
+flood,200 ft.road (opp Prasath Hospital),33,3,ward
+flood,Durga Avenue 1st Main Road,34,4,ward
+flood,Sastri Nagar,34,4,ward
+flood,Thendral Nagar 8th Street,34,4,ward
+flood,Muthamiz 8th Block 191,35,4,ward
+flood,Muthamiz 8th Block 197,35,4,ward
+flood,Muthamiz 8th Block 207,35,4,ward
+flood,Nehru 14th St,38,4,ward
+flood,New Venba Nagar 3rd St,38,4,ward
+flood,A.E Koil St ( Thiruvalluvar Nagar),39,4,ward
+flood,Poondithabgammal Street,39,4,ward
+flood,MPT Quarters,39,4,ward
+flood,Thiuruvaluvar Nagar,40,4,ward
+flood,Madha Koil Street,40,4,ward
+flood,Vaidhiyanathan Road,40,4,ward
+flood,MGR Nagar 6th St,41,4,ward
+flood,MGR Nagar 7th St,41,4,ward
+flood,MGR Nagar 8th St,41,4,ward
+flood,Jeeva Street,42,4,ward
+flood,Palaniandavar street,44,4,ward
+flood,Nattal garden,44,4,ward
+flood,Raniammaie st,44,4,ward
+flood,Ganesa puram Subway,45,4,ward
+flood,Ganesan Main Road,45,4,ward
+flood,Chinna Thambi Street,45,4,ward
+flood,Gramiya Street,45,4,ward
+flood,Stephenson Lane,45,4,ward
+flood,Palla Street,46,4,ward
+flood,Balakrishnan St,46,4,ward
+flood,Moorthy St,46,4,ward
+flood,Kannan Road,47,4,ward
+flood,Sigirintha Palayam,47,4,ward
+flood,Subbammal St,48,4,ward
+flood,S.N.Chetty street,50,5,ward
+flood,Nagappa nagar,53,5,ward
+flood,Kannan roundana,53,5,ward
+flood,Ramdoss nagar,53,5,ward
+flood,N.N.Nagar 6th street,53,5,ward
+flood,New Labour Lane,53,5,ward
+flood,Kadpada St,53,5,ward
+flood,Raman road,57,5,ward
+flood,Vetinary hospital,58,5,ward
+flood,Sembu Doss Street,60,5,ward
+flood,Thacker Street,60,5,ward
+flood,Egmore Musium,61,5,ward
+flood,Ayya swamy street,61,5,ward
+flood,Velyutham street,61,5,ward
+flood,Thiruvenkadam street,61,5,ward
+flood,Arumuthu garden,61,5,ward
+flood,Thambu reddy street,61,5,ward
+flood,Pumping station road,62,5,ward
+flood,Pillayar Kovil St,63,5,ward
+flood,Velayutham street,63,5,ward
+flood,Goyathoppu,63,5,ward
+flood,Adhithanar salai,63,5,ward
+flood,Cattle depot,63,5,ward
+flood,Narayana naicken street,63,5,ward
+flood,Perumdeviammal,64,6,ward
+flood,Ashoka Avenue,64,6,ward
+flood,Sivasakthi Nagar,64,6,ward
+flood,Jawahar nagar 1st main road,66,6,ward
+flood,Jawahara Nagar 70 feet road,66,6,ward
+flood,70 feet Road,66,6,ward
+flood,GKM way street 70 feet road,67,6,ward
+flood,Kasturi Bai Chetty 5th street,65,6,ward
+flood,Angalamman Koil,76,6,ward
+flood,Astapujam Road,78,6,ward
+flood,Backthavachalm Street,80,7,ward
+flood,Prakasam Salai,80,7,ward
+flood,VOC Street,82,7,ward
+flood,TNEB Colony 3rd Street,82,7,ward
+flood,Manurpet,86,7,ward
+flood,Indra Street,86,7,ward
+flood,Ethiraj street,86,7,ward
+flood,Golden Jubliee flats,90,7,ward
+flood,Valliammal Nagar,94,8,ward
+flood,Moorthy Nagar,95,8,ward
+flood,Thirumalai Nagar North,95,8,ward
+flood,Thirumalai Nagar South,95,8,ward
+flood,Thirumalai Nagar East,95,8,ward
+flood,V.P Colony,98,8,ward
+flood,Parthasarathy Street,98,8,ward
+flood,Duraiswamy Street,96,8,ward
+flood,Gandhi Nagar,96,8,ward
+flood,Chakravathi nagar,97,8,ward
+flood,Muthuamman nagar,97,8,ward
+flood,Periyar Salai,97,8,ward
+flood,P.E Koil North Mada street,97,8,ward
+flood,Radha Krishnan Nagar,100,8,ward
+flood,BoganVilla Park Inside,101,8,ward
+flood,G Block 10th Street,102,8,ward
+flood,RV Nagar 4th Street,102,8,ward
+flood,D Block 8th Street,102,8,ward
+flood,Thideer Nagar,104,8,ward
+flood,Indira Gandhi street,105,8,ward
+flood,Ashoka Street,105,8,ward
+flood,Gurusamy Bridge,107,8,ward
+flood,MMC School,107,8,ward
+flood,Periyar pathai,108,8,ward
+flood,Annaswamy Street,108,8,ward
+flood,NGO Colony,108,8,ward
+flood,Vinobaji Street,108,8,ward
+flood,40 Feet Scheme Road,110,9,ward
+flood,Gopalapuram Play Ground,111,9,ward
+flood,Beach Service Road,116,9,ward
+flood,Thirumoorthi Street,117,9,ward
+flood,Lakshmi Colony,117,9,ward
+flood,Dr.Thomas Road,117,9,ward
+flood,Venkat Rathinam Salai,118,9,ward
+flood,Saiva Muthai 6th Street,119,9,ward
+flood,Marina Service Road,121,9,ward
+flood,Ganesapuram Rettai Kozhai,121,9,ward
+flood,Ramalinga Eswarar Koil,123,9,ward
+flood,Pattammal Street,126,9,ward
+flood,Saratha Nagar,128,10,ward
+flood,Lambert Nagar,128,10,ward
+flood,Ramaswamy Salai,131,10,ward
+flood,Raja Mannar Salai,131,10,ward
+flood,Parankusampuram,134,10,ward
+flood,Subramaniyam Street,133,10,ward
+flood,18th Avenue,132,10,ward
+flood,16th Avenue,132,10,ward
+flood,19th Avenue,132,10,ward
+flood,47th Avenue,132,10,ward
+flood,48th Avenue,132,10,ward
+flood,9th Avenue,132,10,ward
+flood,Kamaraj Salai,132,10,ward
+flood,Natesan Salai,132,10,ward
+flood,Kannappar Salai,132,10,ward
+flood,Rajaji Street,135,10,ward
+flood,Lake view road,135,10,ward
+flood,Thambaih Road,135,10,ward
+flood,Ramakrishna Puram,135,10,ward
+flood,Babu Rajendra Prasath Road,135,10,ward
+flood,K.K.Nagar ESI Hospital,138,10,ward
+flood,Kamaraj Colony,141,10,ward
+flood,South Dhadabai St,141,10,ward
+flood,Goodwil Road Govt School,143,11,ward
+flood,Pada Salai,143,11,ward
+flood,Phase 1 Nagar 13th Cross street,143,11,ward
+flood,Gajalakshmi nagar 3rd street,143,11,ward
+flood,P.H. Road,144,11,ward
+flood,T.N.H.B Sector II,144,11,ward
+flood,Ganesh Nagar,147,11,ward
+flood,Chokkanathan Nagar,147,11,ward
+flood,Kamarajar High Road Thangalkarai,148,11,ward
+flood,Saravanabhavan Nagar,149,11,ward
+flood,S.V.S Annex,152,11,ward
+flood,Chenna Porur Bajanai kovil street,151,11,ward
+flood,Ambal Nagar Mullai Street,153,11,ward
+flood,Karpagambal 2nd Street,155,11,ward
+flood,Royal Nagar I main Road,155,11,ward
+flood,Royal Nagar II main Road,155,11,ward
+flood,Tamil Nagar,155,11,ward
+flood,MCS Nagar,156,12,ward
+flood,Santhosh Nagar Extn.,156,12,ward
+flood,AGR Garden,156,12,ward
+flood,Thiruvalluvar Nagar,156,12,ward
+flood,Arumugam Street,156,12,ward
+flood,VGN Royal Court,156,12,ward
+flood,Dharmarajapuram,157,12,ward
+flood,Lawyer Jaganadhan street,160,12,ward
+flood,"Madhvapuram(East,West,Sout h,North)",160,12,ward
+flood,Sanjay Gandhi Nagar,161,12,ward
+flood,Samy nathan Street,170,13,ward
+flood,Dhanakotti Street,170,13,ward
+flood,Gandhi mandapam Road,171,13,ward
+flood,Srinivasapuram,173,13,ward
+flood,Dharmampal Park,173,13,ward
+flood,Cart Track Road,174,13,ward
+flood,Ranganathan Street,174,13,ward
+flood,Five Furlong road,174,13,ward
+flood,Dhanalakshmi Avenue,175,13,ward
+flood,KB Nagar 3rd Cross street jn of 2nd main road,175,13,ward
+flood,KB Nagar 3rd main Road,175,13,ward
+flood,Dr Muthulakshmi Salai,175,13,ward
+flood,Parameshwari nagar 2nd Street,176,13,ward
+flood,Sastri Nagar 1st Avenue,176,13,ward
+flood,Karpagam Garden 1st link road,176,13,ward
+flood,Karpagam Garden 2nd link road,176,13,ward
+flood,Lakshmi Nagar 3rd Cross St,177,13,ward
+flood,Srinagar Colony,177,13,ward
+flood,Brindhavan nagar 3rd Extn,177,13,ward
+flood,TNHB 3rd Avenue,177,13,ward
+flood,Nethaji Road,177,13,ward
+flood,Ambedkar nagar,177,13,ward
+flood,Bhashiyam Layout,177,13,ward
+flood,Venkateshwara Nagar 2nd cross street,177,13,ward
+flood,Kalki Nagar,178,13,ward
+flood,Srinivasapuram,178,13,ward
+flood,ACS Colony,178,13,ward
+flood,Orandiamman Avenue,178,13,ward
+flood,Dhandeeshwaram 7th main road,179,13,ward
+flood,Udayam Nagar,179,13,ward
+flood,Anjukammal street,180,13,ward
+flood,Ramasamy Street,180,13,ward
+flood,Kennedy Street,180,13,ward
+flood,Raniammal Street,180,13,ward
+flood,Arundal Beach,181,13,ward
+flood,Kalachetra main road,181,13,ward
+flood,Valmiki Street,181,13,ward
+flood,East Kamarajar 2nd St,181,13,ward
+flood,East Kamarajar 3rd St,181,13,ward
+flood,Dr.Radhakrishinan road,181,13,ward
+flood,Kannapper Nagar,182,13,ward
+flood,Kamarajar Nagar,182,13,ward
+flood,Ganesh Nagar,182,13,ward
+flood,Epr Nagar,168,14,ward
+flood,Sai ram street,168,14,ward
+flood,Ram nagar 1st to 8th Street,169,14,ward
+flood,Ram nagar 11th street,169,14,ward
+flood,Maheshwari Avenue,169,14,ward
+flood,Sundarrajan Salai,169,14,ward
+flood,Arivoli street,169,14,ward
+flood,Sivasubramaniyam Salai,169,14,ward
+flood,Annaitheresa Nagar,169,14,ward
+flood,Vallal Athiyaman Street,169,14,ward
+flood,Vallal Kari Street,169,14,ward
+flood,Vallal Pari Street,169,14,ward
+flood,J K Salai,169,14,ward
+flood,Brindhavan Salai,169,14,ward
+flood,Sadhasivam Nagar,169,14,ward
+flood,Thirunana Sambandhar Street,169,14,ward
+flood,Sivaprakasam nagar,169,14,ward
+flood,Lakshmana Perumal 4th street,183,14,ward
+flood,Lakshmana Perumal 5th street,183,14,ward
+flood,Judges colony,183,14,ward
+flood,Baywatch road,183,14,ward
+flood,"Nehru nagar 10th, 12th & 14th Street",183,14,ward
+flood,Kaveri Nagar 5th Street,183,14,ward
+flood,Kaveri Nagar 6th Street,183,14,ward
+flood,Kaveri Nagar Main Road,183,14,ward
+flood,Jayshankar Nagar,185,14,ward
+flood,Kandasamy Nagar 4th St,185,14,ward
+flood,Govindhan Nagar,185,14,ward
+flood,Palkalai Nagar,185,14,ward
+flood,Mayana Salai,185,14,ward
+flood,VGP 2nd cross street,185,14,ward
+flood,Boss Avenue,185,14,ward
+flood,Kandhasamy Nagar 7th street,185,14,ward
+flood,Senthil Nagar,186,14,ward
+flood,Rathna mani nagar,186,14,ward
+flood,Kamaraj nagar,186,14,ward
+flood,Kumaran Nagar,186,14,ward
+flood,Maruthi Nagar Main Road,186,14,ward
+flood,Arumugam Nagar,188,14,ward
+flood,Kamarajar Street,188,14,ward
+flood,Mahalakshmi nagar main road,188,14,ward
+flood,Mylai kabaleeswarar nagar 2nd street,188,14,ward
+flood,Perumal Street,188,14,ward
+flood,Sathyamurthy Colony,189,14,ward
+flood,Meenachipuram 1st street,189,14,ward
+flood,Vimala Nagar,189,14,ward
+flood,Varadharajan Nagar,189,14,ward
+flood,Chittibabu 4th Cross Street,190,14,ward
+flood,Chittibabu 8th Cross Street,190,14,ward
+flood,Veerasamy Nagar,190,14,ward
+flood,Sree Nagar,190,14,ward
+flood,Pasumpon Nagar,190,14,ward
+flood,Pandiyan Nagar,190,14,ward
+flood,Sai Balaji Nagar,190,14,ward
+flood,Jaladan Pettai 3rd main road,191,14,ward
+flood,CLRI 3rd Cross street,192,15,ward
+flood,CLRI 2nd Main road,192,15,ward
+flood,Ruby complex,192,15,ward
+flood,Kabaleeshwarar Nagar 5th Cross street,192,15,ward
+flood,Chinna Neelangarai Kuppam,192,15,ward
+flood,Madha Kovil street,192,15,ward
+flood,Ellaimman Nagar,193,15,ward
+flood,Raju Nagar 1st Street,194,15,ward
+flood,Raju Nagar 2nd Street,194,15,ward
+flood,Srividhya Avenue,194,15,ward
+flood,Eswaran Street,194,15,ward
+flood,Barathi Avenue,196,15,ward
+flood,Ashok Street Bharat Avenue,196,15,ward
+flood,Royal Enclave,196,15,ward
+flood,Anna Eclave,196,15,ward
+flood,"Vettuvankeni 2nd Avenue, 2nd Main Road",196,15,ward
+flood,ISCKON Temple,196,15,ward
+flood,Hanuman Colony,196,15,ward
+flood,Raja Nagar 1st Cross Street,196,15,ward
+flood,Royal Enclave Extension,196,15,ward
+flood,"Vettuvankeni 2nd Avenue, 7th street",196,15,ward
+flood,Ganesh Nagar,197,15,ward
+flood,Annai Fathima Child Welfare,197,15,ward
+flood,Karapakkam Service Road,197,15,ward
+flood,DevaraJ Nagar,197,15,ward
+flood,Semmozhi Nagar,198,15,ward
+flood,Copper Beach,198,15,ward
+flood,Sea Cliff High Road,198,15,ward
+flood,Seashell Avenue,198,15,ward
+flood,MG Jeevarathinam Street,199,15,ward
+flood,Mazhavarayar Street,199,15,ward
+flood,Neelathirai Street,199,15,ward
+flood,Rajaji Street,199,15,ward
+flood,Karlmark Street,199,15,ward
+flood,Juhu Beach Road,199,15,ward
+flood,Gangai Amman Colony,199,15,ward
+flood,MGR St,199,15,ward
+flood,D.P. Rajan Road,199,15,ward
+flood,Nainar Kuppam,199,15,ward
+flood,Ezhil Mugha Nagar,200,15,ward
+flood,Vairakulam street,80,7,ward
+flood,Highways nagar,83,7,ward
+flood,Ganesh Nagar,83,7,ward
+flood,North Avenue Road,84,7,ward
+flood,TNHB 61st Street,84,7,ward
+flood,Periyar Nagar,84,7,ward
+flood,Central Avenue Road,84,7,ward
+flood,TNHB 26st Street,84,7,ward
+flood,Bajanaikovil Street Pattaravakkam,84,7,ward
+flood,Duraisam street,84,7,ward
+flood,North Jeganathan Nagar Annex,94,8,ward
+flood,V P Colony,98,8,ward
+flood,Police Manickkam Street,98,8,ward
+flood,Parthasarthy Street,98,8,ward
+flood,Royal Enclave,194,15,ward
+flood,Classic Enclave,194,15,ward
+flood,"Kamarajar Nagar, Chinnasamy Nagar",19,2,ward
+flood,KAILASAM STREET,82,7,ward
+flood,BALAVINAYAGAR STREET,82,7,ward
+flood,Battachari Street,97,8,ward
+flood,Kalaignar Nagar,18,2,ward
+flood,Harikrishnapuram Amman Nagar,18,2,ward
+flood,Kavithendral Kalyana Sundaram Nagar (Vacant Land),19,2,ward
+flood,Sivasakthi nagar,65,6,ward
+flood,Stephenson Road,73,6,ward
+flood,Muthamman Nagar,97,8,ward
+flood,Balasubramani Nagar,19,2,ward
+flood,Vetri vinayagar nagar,7,1,ward
+flood,Old Napalayam new colony,15,2,ward
+flood,CMDA Truck Terminal,25,3,ward
+flood,Elizabeth Nagar,30,3,ward
+flood,AE Koil St,40,4,ward
+flood,Thanikachalam nagar,66,6,ward
+flood,Market Street,77,6,ward
+flood,Musuri Subramaniyam Salai,119,9,ward
+flood,Muthahaiya Garden street,119,9,ward
+flood,Pada Salai Street,143,11,ward
+flood,Thangal Karai,145,11,ward
+flood,Ambathkar Nagar,152,11,ward
+flood,Thundalam Tiva Nagar,150,11,ward
+flood,CRR Puram,157,12,ward
+flood,TNHB 3 rd Avenue,175,13,ward
+flood,Maruthi Nagar,182,14,ward
+flood,Pandiyan Nagar,193,15,ward
+flood,Classic Farm,199,15,ward
+flood,SVM Nagar,1,1,ward
+flood,Ulaganadhapuram,1,1,ward
+flood,K.H . Road (Shopping Complex),2,1,ward
+flood,K.H . Road Bus stand,2,1,ward
+flood,Annai sivagami nagar,3,1,ward
+flood,Manali Express Road,4,1,ward
+flood,T.H Road,5,1,ward
+flood,Kalainar Nagar,6,1,ward
+flood,Kalaignar Street,6,1,ward
+flood,Anna Nagar,7,1,ward
+flood,Radhakrishna Nagar,7,1,ward
+flood,Thiruvottiyur kuppam,9,1,ward
+flood,Nandhi odai Kuppam,10,1,ward
+flood,B.K.N Colony (police quarters),12,1,ward
+flood,Thilagar Nagar,12,1,ward
+flood,N.T.O Kuppam,14,1,ward
+flood,Mettu 4th cross street,4,1,ward
+flood,Gandhi nagar,13,1,ward
+flood,police quarters,12,1,ward
+flood,Ponniamman nagar manali new town,15,2,ward
+flood,Kanni koil medu,15,2,ward
+flood,Periya echanguzhi,15,2,ward
+flood,New napalayam,15,2,ward
+flood,Vadugarpalayam,15,2,ward
+flood,Old colony old napalayam,15,2,ward
+flood,Ooru theru,15,2,ward
+flood,New colony new napalayam,15,2,ward
+flood,Kamarajarpuram,16,2,ward
+flood,Kanniammanpet 1,16,2,ward
+flood,Kanniammanpet 2,16,2,ward
+flood,Kullakarai,16,2,ward
+flood,Andarkuppam,16,2,ward
+flood,Rajiv gandhi nagar,16,2,ward
+flood,Vadiudaiamman nagar,16,2,ward
+flood,R L nagar,16,2,ward
+flood,Burma nagar,16,2,ward
+flood,Gandhi nagar,16,2,ward
+flood,Irular colony,16,2,ward
+flood,Thiyagi Vishwanath Dass Nagar,17,2,ward
+flood,Vengadeshwara Nagar,17,2,ward
+flood,Samuvel Nagar Main Road,17,2,ward
+flood,Chelliyamman Nagar,17,2,ward
+flood,Thanalakshmi Nagar,17,2,ward
+flood,Kandasamy Nagar,17,2,ward
+flood,Puzhal Union Road,17,2,ward
+flood,Thanigachalam Nagar Main Road,17,2,ward
+flood,Thanigachalam Nagar 1st Cross Street,17,2,ward
+flood,Thanigachalam Nagar 2nd Cross Street,17,2,ward
+flood,Ambedkar nagar,17,2,ward
+flood,Cpcl nagar,18,2,ward
+flood,Harikrishnapuram,18,2,ward
+flood,Zahier Husain street,18,2,ward
+flood,Salaima nagar,18,2,ward
+flood,Sabapathy street,18,2,ward
+flood,MGR Salai,19,2,ward
+flood,"Arulandham nagar 1st,2nd street",19,2,ward
+flood,"Appollo Armstrong nagar 1st,2nd,3rd ,4th street",19,2,ward
+flood,Kavithendral kalyana sundharam nagar,19,2,ward
+flood,Kamarajar nagar,19,2,ward
+flood,"Chinnasamy nagar 1st, 2nd, 3rd, 4th, 5th, 6th street",19,2,ward
+flood,Balasubramaniyam nagar,19,2,ward
+flood,New MGR Nagar 1st street Extn,20,2,ward
+flood,New MGR Nagar 2nd street,20,2,ward
+flood,J J Nagar,20,2,ward
+flood,Balaraman street,20,2,ward
+flood,Rajiv Gandhi street,20,2,ward
+flood,Kalthottam MGR street,20,2,ward
+flood,Chandran street,20,2,ward
+flood,Otravadai street,20,2,ward
+flood,Jalagandamarriamman Koil Street,21,2,ward
+flood,Thiruvengadam Street,21,2,ward
+flood,Poongavanam Street,21,2,ward
+flood,Sannathy Street,21,2,ward
+flood,Dr. Radhakrishnan Street,21,2,ward
+flood,Ettiyappan Street,21,2,ward
+flood,Ayeeramkathamman Koil Street,21,2,ward
+flood,Thamaraikulam Street,21,2,ward
+flood,Namakkaramuniyan Street,22,2,ward
+flood,EVR Periyar Street,22,2,ward
+flood,Chinnasamy street,22,2,ward
+flood,Chandramman Koil Street,22,2,ward
+flood,Perumal Koil Extension,22,2,ward
+flood,Krishnan Street (baljipalaiyam),22,2,ward
+flood,perumal koil 1st cross street (baljipalaiyam),22,2,ward
+flood,Apparaj street,22,2,ward
+flood,Velu Street,22,2,ward
+flood,Kannabiran koil street,22,2,ward
+flood,Vazhathalaimedu Main Road,22,2,ward
+flood,"Salaima Nagar , Kalaingar nagar , Harikrishnapuram",18,2,ward
+flood,"Apollo Armstrong Nagar , Balasubramanian nagar",19,2,ward
+flood,New MGR Street,20,2,ward
+flood,"Adhiraj street , Mahatma Gandhi street , Bakkiammal street & ponnu samy cross street",22,2,ward
+flood,Mahaveer Garden Main Road,23,3,ward
+flood,Thirumalai Nagar 9th Street,23,3,ward
+flood,200 Feet East & West Service Road,25,3,ward
+flood,Gilburn Nagar,25,3,ward
+flood,Arignar Anna Nagar,25,3,ward
+flood,"Seethapathy Nagar 10, 17 and 20th Streets",25,3,ward
+flood,Alex Nagar D Colony,26,3,ward
+flood,Papathi Ammal Street,27,3,ward
+flood,Ayyavu Garden,27,3,ward
+flood,"Padavattamman Koil 2nd Street, Kesthamman Koil Street",27,3,ward
+flood,"Govindaraj Street, Sundaramurthy Street",27,3,ward
+flood,Sakunthala Street,27,3,ward
+flood,Ambedkar Nagar Main Road,28,3,ward
+flood,Kannabiran Koil Street and Cross Streets,28,3,ward
+flood,Dhansingh Maistry Street,28,3,ward
+flood,Nethaji Street,29,3,ward
+flood,Govindasamy Street,29,3,ward
+flood,Thanikachalam Nagar 5th Main Road,29,3,ward
+flood,Ma. Po. Vedhachalam Street,29,3,ward
+flood,Thirumalai Nagar 2nd Street,30,3,ward
+flood,Swamy Nagar,30,3,ward
+flood,Thangavel Nagar,30,3,ward
+flood,Kanchi Nagar,30,3,ward
+flood,Subramani Nagar,30,3,ward
+flood,Ganesh Nagar,30,3,ward
+flood,Thirumal Nagar,30,3,ward
+flood,"Elizabeth Nagar Main Road & adjoining areas (Devaki Nagar, Mohan Nagar, Chellaiah Nagar, Annapoorna Nagar and Ragavendra Nagar)",30,3,ward
+flood,David Jayavelu Street,31,3,ward
+flood,Srinivasa Nagar Extension,31,3,ward
+flood,Surapet Underpass,32,3,ward
+flood,Ring Road near Reliance Shop,31,3,ward
+flood,Thirumalai Nagar Extn.,26,3,ward
+flood,Thirumalai Nagar,26,3,ward
+flood,Sastri Nagar,26,3,ward
+flood,Devaki Nagar,26,3,ward
+flood,Vajravel Nagar,26,3,ward
+flood,Durgai Avenue,34,4,ward
+flood,Ponnuswamy Nagar,34,4,ward
+flood,Govindaswamy Nagar,34,4,ward
+flood,Muthamil Nagar 7th Block,35,4,ward
+flood,Muthamil Nagar 8th Block,35,4,ward
+flood,Indra Nagar 2nd Cross Street,36,4,ward
+flood,Thiruvalluvar Nagar 8th Main Road,36,4,ward
+flood,RR Nagar 3rd &4th Main Road,37,4,ward
+flood,"RR Nagar 5th,6th and 2nd Main Road",37,4,ward
+flood,Santhiya Nagar,37,4,ward
+flood,Subramani Street,37,4,ward
+flood,Lord Madha Street,37,4,ward
+flood,Srinivasan Street,37,4,ward
+flood,"Ilaya Street, Kamaraj Street in Div - 40",38,4,ward
+flood,Thiruvalluvar Quarters,40,4,ward
+flood,Chelliamman kovil Street,40,4,ward
+flood,SM Nagar 24th Block,46,4,ward
+flood,CB Road & KH Road,47,4,ward
+flood,Annai Therasa Street,34,4,ward
+flood,West Avenue Road,35,4,ward
+flood,TH Road,35,4,ward
+flood,Kamaraj Road,35,4,ward
+flood,Thiruvalluvar Nagar,36,4,ward
+flood,Mosque Street,46,4,ward
+flood,Venkateswara Perumal Koil Street,46,4,ward
+flood,Moorthingar arikarai street (Raveeswarar Koil),46,4,ward
+flood,Muthamil Nagar 6th Blocks,35,4,ward
+flood,Suzhpunal karai,36,4,ward
+flood,Abirami Avenue,37,4,ward
+flood,AE Koil Street,39,4,ward
+flood,VeeraKutty Street,42,4,ward
+flood,CB Road,47,4,ward
+flood,Harbour Colony,34,4,ward
+flood,Ganthi Nagar,35,4,ward
+flood,Suphpunalkarai,36,4,ward
+flood,Poombuhar Nagar,36,4,ward
+flood,Ashok Leyland Quarters,36,4,ward
+flood,Puthu nagar,36,4,ward
+flood,Erukanchery nagar,36,4,ward
+flood,R.R.Nagar,37,4,ward
+flood,Annai Sathya nagar,37,4,ward
+flood,Krishnamurthy Nagar,37,4,ward
+flood,Damother Nagar,37,4,ward
+flood,MGR Nagar,37,4,ward
+flood,Debar Nagar,37,4,ward
+flood,JJR Nagar,37,4,ward
+flood,Samiyar Thottam,37,4,ward
+flood,Golden Complex,37,4,ward
+flood,Nethaji Nagar,38,4,ward
+flood,Nehru Nagar,38,4,ward
+flood,Navalar Nagar,38,4,ward
+flood,Ilaya Street,38,4,ward
+flood,Aziz Nagar,41,4,ward
+flood,Kumaran Nagar,41,4,ward
+flood,Coronation Nagar,41,4,ward
+flood,Gopal Reddy Nagar,41,4,ward
+flood,Muneeswaran Nagar I & II Street,41,4,ward
+flood,MGR Nagar,41,4,ward
+flood,Karumaiamman Nagar,41,4,ward
+flood,Kannaki Nagar,41,4,ward
+flood,Annai Sathya nagar,41,4,ward
+flood,Rikshaw Colony,41,4,ward
+flood,YMCA Kuppam,43,4,ward
+flood,Vinayakapuram Main Road,45,4,ward
+flood,Kakkanji colony,45,4,ward
+flood,Anna Nagar,45,4,ward
+flood,Kamaraj Nagar,45,4,ward
+flood,Ganeshapuram,45,4,ward
+flood,vyasar nagar main road,45,4,ward
+flood,Balakrishnan Street,45,4,ward
+flood,Sundaram 6th Street,45,4,ward
+flood,Kennedy Nagar,46,4,ward
+flood,Samanthipoo colony,46,4,ward
+flood,Mallipoo Colony,46,4,ward
+flood,Nehru Nagar,46,4,ward
+flood,C Kalyanapuram,46,4,ward
+flood,Meenambal Nagar,47,4,ward
+flood,Jeeva Nagar,47,4,ward
+flood,Ananda Mathaji Nagar,47,4,ward
+flood,Sikkinder Palayam,47,4,ward
+flood,Parasuraman street,49,5,ward
+flood,G.M.Pettah,50,5,ward
+flood,Modal Lane 1to 5,52,5,ward
+flood,Thoppai Street,52,5,ward
+flood,Jayaraman Street,53,5,ward
+flood,Sajjamunusamy Street,53,5,ward
+flood,PKG Garden,54,5,ward
+flood,Sevenwells Street,55,5,ward
+flood,Velayudam Street,61,5,ward
+flood,West Coovum Road,62,5,ward
+flood,South Coovum Road,63,5,ward
+flood,G.M.Pettai,50,5,ward
+flood,Shiek Masitery Street,50,5,ward
+flood,Manikandan 6th Street,51,5,ward
+flood,O.S.H.Road,52,5,ward
+flood,Modal Lane Slum,52,5,ward
+flood,M.S.Koil Street,52,5,ward
+flood,Balasubramani Street,53,5,ward
+flood,Muthiyamasitery Street,53,5,ward
+flood,Tenapet Ramasamy St,54,5,ward
+flood,Thiyagaraya Street,55,5,ward
+flood,MuthuNayakan St,55,5,ward
+flood,Adiyappanayakan Street,57,5,ward
+flood,Manikandan St,57,5,ward
+flood,Thathamuthiyapan,57,5,ward
+flood,Annapillai,57,5,ward
+flood,R.T. (m) street,58,5,ward
+flood,Bala Krishna St,62,5,ward
+flood,Palaniandavar Koil st,62,5,ward
+flood,Pantheon Road,63,5,ward
+flood,Egmore High Road,63,5,ward
+flood,Papermills Road,68,6,ward
+flood,Papermills Road,67,6,ward
+flood,PH Road South Jamaliya,71,6,ward
+flood,Subburayan Street,75,6,ward
+flood,mgr nagar,65,6,ward
+flood,Thillai nagar 2nd street,64,6,ward
+flood,Thillai nagar 4th street,64,6,ward
+flood,Selvi nagar,64,6,ward
+flood,Gopal reddy colony,69,6,ward
+flood,Doss Nagar,72,6,ward
+flood,Natcharyammal street,73,6,ward
+flood,Demellows road,77,6,ward
+flood,Srinagar colony,65,6,ward
+flood,School road,65,6,ward
+flood,Adhiyaman street,64,6,ward
+flood,Rajiv gandhi street,64,6,ward
+flood,70 feet road,68,6,ward
+flood,SRP Koil street,69,6,ward
+flood,munsusamy street,69,6,ward
+flood,madurai samy madam,67,6,ward
+flood,watkin street,67,6,ward
+flood,mohammaedean street,67,6,ward
+flood,Bandergarden main street,70,6,ward
+flood,thirunavakarasu street,70,6,ward
+flood,jawahar road,70,6,ward
+flood,arunthathi nagar,71,6,ward
+flood,Chandrayogi samathi st,74,6,ward
+flood,Krishnadass st,74,6,ward
+flood,Thiru VI Ka Nagar,72,6,ward
+flood,ramasamy street,73,6,ward
+flood,Narayanasamy street,73,6,ward
+flood,Newferrance road,73,6,ward
+flood,Medavakam 2nd street,74,6,ward
+flood,Aksamy 9th street,75,6,ward
+flood,SS Puram A Block 7th street,75,6,ward
+flood,Sachithananthan street,76,6,ward
+flood,CS Garden,76,6,ward
+flood,Bashyam Reddy Street,74,6,ward
+flood,"Periyar Nagar Housing Board, Ammaiyammal Street, Near D.No.71, Kutty Thambiran Street , Narayanasamy Street , Ramasamy Street, Prakash Rao Colony",73,6,ward
+flood,"No.1, Ranganathapuram (Old Amma Unavagam), 46/170, Baracca Main Road , 42/172, Baracca Main Road , B-Block, SVM Nagar",75,6,ward
+flood,"Sachithanandam Street ,.Kandasamy Koil Street",77,6,ward
+flood,Indian bank colony,82,7,ward
+flood,TNEB Colony,82,7,ward
+flood,Perumal Koil Pond,83,7,ward
+flood,North Avenue,84,7,ward
+flood,CTH Road,85,7,ward
+flood,North Main Road,88,7,ward
+flood,Godlen Colony,89,7,ward
+flood,Rathinam Street,93,7,ward
+flood,Prakasam Street,80,7,ward
+flood,Meenatchi School,82,7,ward
+flood,Perumal Koil Street,83,7,ward
+flood,Kamarajapuram,85,7,ward
+flood,Mogappari eri Scheme,91,7,ward
+flood,Panner Nagar,92,7,ward
+flood,Redhills Main road,79,7,ward
+flood,Cth road near Shell petrol Bunk,87,7,ward
+flood,Round Building,89,7,ward
+flood,DTP Colony,82,7,ward
+flood,Central Avenue,84,7,ward
+flood,"Mogappair west TNHB 1st,2nd,3rd,6th & 7th Blocks in div 91",91,7,ward
+flood,"10th , 11th, 12th Block",92,7,ward
+flood,Nakeeran salai,93,7,ward
+flood,Industrial estate,93,7,ward
+flood,Pugazhendhi salai,93,7,ward
+flood,Thanthoniamman Koil Street,95,8,ward
+flood,"Vijayalakshmipuram 1 to 3 Streets & Thanthoniamman Extn., lane",95,8,ward
+flood,Bajanai Koil Street,95,8,ward
+flood,Kakkanji Nagar & Gandhi Nagar,96,8,ward
+flood,Veerasamy Main Street,97,8,ward
+flood,P.E.Koil West Mada Street,97,8,ward
+flood,AD Block,103,8,ward
+flood,C Block,102,8,ward
+flood,W Block,102,8,ward
+flood,Bharathipuram Main Street,102,8,ward
+flood,F Block 2nd & 4th Street,102,8,ward
+flood,Muthumariamman Colony,102,8,ward
+flood,Osone Kulam Tenements,99,8,ward
+flood,New Bhoopathy Nagar,99,8,ward
+flood,Sastri Nagar,99,8,ward
+flood,Lawders Gate Main Road,99,8,ward
+flood,Iyyappa Nagar,106,8,ward
+flood,Ishwarya Kudiruppu,95,8,ward
+flood,Temple Street,100,8,ward
+flood,Ozone Kulam Tenements,99,8,ward
+flood,Narayana Maistry 2nd street,95,8,ward
+flood,Solai 3rd street,97,8,ward
+flood,1st Main Road East,101,8,ward
+flood,1st Avenue,102,8,ward
+flood,Old Burial Ground Road,98,8,ward
+flood,Pullapuram,101,8,ward
+flood,PasumponMuthu Ramalinga (D) Salai,122,9,ward
+flood,Ramakrishnapuram,124,9,ward
+flood,"School Road, Lake Area",110,9,ward
+flood,Pattulas Road,111,9,ward
+flood,Devaraj Street Back side Amman Koil,115,9,ward
+flood,Bharathi nagar Ist street,117,9,ward
+flood,North Boag Road,117,9,ward
+flood,Irusappan street,120,9,ward
+flood,Cenatoph road,122,9,ward
+flood,Thangavelu Street,115,9,ward
+flood,V.R. Pillai Street,120,9,ward
+flood,Sowrastra Nagar 1st Street,112,9,ward
+flood,Periyar Salai,123,9,ward
+flood,Natton Thottam,124,9,ward
+flood,Sathiyavani Muthu Nagar,124,9,ward
+flood,Sarathapuram,124,9,ward
+flood,Thiruvengadapuaram Main Road,109,9,ward
+flood,Jayalakshmipuram main road,110,9,ward
+flood,Chokalingam Colony,118,9,ward
+flood,RajamannarSalai,131,10,ward
+flood,Lambet Nagar,128,10,ward
+flood,K.K.Salai,129,10,ward
+flood,Nerkundrum pathai east,130,10,ward
+flood,Valliammal street,130,10,ward
+flood,4th Avenu,132,10,ward
+flood,18th Avenu & 19th Avenu,132,10,ward
+flood,4th Avenu,133,10,ward
+flood,21st Avenu,133,10,ward
+flood,Parangusapuram,134,10,ward
+flood,Station Road,135,10,ward
+flood,R.K. Shanmugamsalai,131,10,ward
+flood,Sathyagarden,131,10,ward
+flood,BharaniColony,131,10,ward
+flood,7th Sector 37th street,137,10,ward
+flood,Northusman Road,136,10,ward
+flood,"Thukaram Street, 1st, 2nd street",136,10,ward
+flood,Southusman Road,141,10,ward
+flood,Ambedkar Colony,138,10,ward
+flood,"2nd Avenu,4thAvenu, 6thAvenu, 7th Ashok Nagar,9th Avenu,10th Avenu,12th Avenu,18th Avenu,48th Street &KamarajSalai",132,10,ward
+flood,"Bazulla Road, Usman Road, Ragaviah Road, G.N.ChettyRoad,RangabashyamStreet,Guild street, Natesan Street, Muthu Krishnan Street, Rameshwaram Road & Lakshmi Narasimman Street",136,10,ward
+flood,"Jothiramalingam Nagar, Sarathi Nagar &Muthurangam Block",139,10,ward
+flood,VG-N nagar(Phase-III),143,11,ward
+flood,VGN nagar,143,11,ward
+flood,Nagathamman koil street,144,11,ward
+flood,VGP Amudha nagar,144,11,ward
+flood,MSP nagar,144,11,ward
+flood,Om sakthi nagar,144,11,ward
+flood,PH road,144,11,ward
+flood,Ambiga nagar,145,11,ward
+flood,Palvadi street,145,11,ward
+flood,Alagammal nagar,145,11,ward
+flood,Janakiram colony,145,11,ward
+flood,Ganapathi nagar,146,11,ward
+flood,Dhanalakshmi nagar,146,11,ward
+flood,Pallvan nagar,147,11,ward
+flood,Vetri vinayagar koil,147,11,ward
+flood,Periyar nagar thankal karai,148,11,ward
+flood,Doss main road,150,11,ward
+flood,Natarajan street,150,11,ward
+flood,Thiruveethiamman koil st,150,11,ward
+flood,Sri Parasnath nagar main road,150,11,ward
+flood,Punniyakkotti nagar main road,150,11,ward
+flood,Avvai street,150,11,ward
+flood,Sai karna villa,150,11,ward
+flood,SVS nagar annex,152,11,ward
+flood,Janakiram 6th street,152,11,ward
+flood,Madurai meenatchi nagar,152,11,ward
+flood,Subramaniya swamy nagar,152,11,ward
+flood,RE nagar 1 & III street (East),153,11,ward
+flood,Ekambaram street,153,11,ward
+flood,R.K.Nagar 6th Avenue,153,11,ward
+flood,Suresh nagar 4th street,153,11,ward
+flood,Balambigai nagar 5th street,154,11,ward
+flood,Kulakarai south street,154,11,ward
+flood,Chellammal nagar,155,11,ward
+flood,Michel garden,155,11,ward
+flood,Gangaiya avenue,155,11,ward
+flood,Sivanthi Avenue,145,11,ward
+flood,Thiraviyam Nagar 1st Street,147,11,ward
+flood,27th Street,147,11,ward
+flood,Thundalam Anna Nagar,150,11,ward
+flood,Ponni Nagar,150,11,ward
+flood,Anna Salai (Highways),151,11,ward
+flood,Kuppusamy Street (Highways),151,11,ward
+flood,Arunachalam Nagar,150,11,ward
+flood,Rajeshwari Nagar,150,11,ward
+flood,Padmavathy Nagar,150,11,ward
+flood,Sivaboothamedu,150,11,ward
+flood,Subashree Nagar Main Road,153,11,ward
+flood,Gangaiya avenue 1st St,155,11,ward
+flood,Gangaiya avenue 2nd St,155,11,ward
+flood,KP Nagar 2nd Cross street,155,11,ward
+flood,Sriram Nagar 3rd Street,155,11,ward
+flood,KarpagambalNagar 2nd Street,155,11,ward
+flood,Nolambur Phase-I 13th&14th Cross Stree,143,11,ward
+flood,Ambedkar Nagar,146,11,ward
+flood,DK Nagar 1st Main Road,147,11,ward
+flood,Ganesh Nagar,150,11,ward
+flood,Ekambaram Estate,150,11,ward
+flood,Subhasree Nagar Extn Main Road,153,11,ward
+flood,Bakthivedhantha Avenue,155,11,ward
+flood,Arumugam Nagar,156,12,ward
+flood,VGN Blooming Grden,156,12,ward
+flood,EVP Rageshwari Avenue,156,12,ward
+flood,Bell Nagar,157,12,ward
+flood,Kavya Garden,157,12,ward
+flood,River View Colony,157,12,ward
+flood,ThulasingaPuram,158,12,ward
+flood,Ganapathipuram Colony,158,12,ward
+flood,Vasantham Colony,158,12,ward
+flood,Anna main road,158,12,ward
+flood,Laywer Jeganathan Street,160,12,ward
+flood,Sanjay Gandhi Street,161,12,ward
+flood,Murugan Street,161,12,ward
+flood,Thiruvalluvar Nagar,162,12,ward
+flood,Saraswathi nagar main road 5th to 8th,165,12,ward
+flood,Chetti thottam,168,13,ward
+flood,Neruppumedu,168,13,ward
+flood,Vinayagapuram,168,13,ward
+flood,Anusuyamandapam,168,13,ward
+flood,KB Nagar 3rd Cross street ( Near Nilgiris),173,13,ward
+flood,I Sea Ward road,180,13,ward
+flood,Balakrishna Road JN,180,13,ward
+flood,New Street,170,13,ward
+flood,LakeView Street,170,13,ward
+flood,Sriram Colony Main road,170,13,ward
+flood,Masque Colony New street,172,13,ward
+flood,Lakshmipuram,177,13,ward
+flood,Orandiammankoil Street,177,13,ward
+flood,Celliamman Nagar,177,13,ward
+flood,L.P Nagar,181,14,ward
+flood,Lakshmi Vathana Street,181,14,ward
+flood,KalyaniNimalan Street,181,14,ward
+flood,Bay Watch Road,181,14,ward
+flood,Maruthi Nagar 1st main road,182,14,ward
+flood,Maruthi Nagar 2nd main road,182,14,ward
+flood,Maruthi Nagar 5th cross street,182,14,ward
+flood,Senthil Nagar 5th cross street,182,14,ward
+flood,VGP Nagar,183,14,ward
+flood,Jaishanakar Nagar,183,14,ward
+flood,Mayana Salai,183,14,ward
+flood,Saravananagar,184,14,ward
+flood,Kumaran Nagar,184,14,ward
+flood,Seevaram 1st and 2nd street,184,14,ward
+flood,Selvaganapathy avenue,184,14,ward
+flood,Rajiv nagar,184,14,ward
+flood,Janakiraman Nagar,184,14,ward
+flood,Kamarajar Nagar,184,14,ward
+flood,Periyar Salai,184,14,ward
+flood,Nethaji Nagar,184,14,ward
+flood,Kallukuttai,184,14,ward
+flood,Kuberan Munusamy Street,185,14,ward
+flood,Balaji Avenue,185,14,ward
+flood,Giri Street,185,14,ward
+flood,Kasturibai street,185,14,ward
+flood,New India Colony,186,14,ward
+flood,Mageswari Avenue,186,14,ward
+flood,Jaya Nagar,186,14,ward
+flood,Bharath Street,187,14,ward
+flood,Meenakshi Nagar,188,14,ward
+flood,Lakshmi Nagar,188,14,ward
+flood,Rajesh Nagar,189,14,ward
+flood,Nageswari Amman Nagar,189,14,ward
+flood,Ma Po Si Nagar,189,14,ward
+flood,SaiBalaj Nagar Part – 1,189,14,ward
+flood,Veppampattu,189,14,ward
+flood,Pudhuthangal,189,14,ward
+flood,Malligeswaran Nagar,189,14,ward
+flood,Anna M.G.R Nagar,189,14,ward
+flood,Labour colony,189,14,ward
+flood,NagathammanKoil Street,189,14,ward
+flood,Troppical colony,189,14,ward
+flood,Seevas Avenue,189,14,ward
+flood,AGS Colony,189,14,ward
+flood,Dhanam Nagar,189,14,ward
+flood,Arun Nagar,189,14,ward
+flood,Kamatchiyamman Nagar,189,14,ward
+flood,Quidemillath Nagar,189,14,ward
+flood,SaiBalaji Nagar 2nd to 4th Part (21Roads,190,14,ward
+flood,Pasumpon Nagar (3 Roads),190,14,ward
+flood,PampanSamy Nagar (3Roads),190,14,ward
+flood,Sri Nagar (3 Roads),190,14,ward
+flood,VallalPari Nagar (4 Roads),190,14,ward
+flood,Rajalakshmi Nagar 7th Street extn (Ranganathapuram) (1 Road),190,14,ward
+flood,Sai Ganesh Nagar (35Nos Cross street & 6 main road) 41 streets,191,14,ward
+flood,Pandiyan Nagar (2Nos Main road & 7Nos cross street) 9 streets,191,14,ward
+flood,Masuthi street,191,14,ward
+flood,Rubi complex,192,15,ward
+flood,Pandian Nagar,193,15,ward
+flood,Kudupi complex,194,15,ward
+flood,S.N.Gopinath nagar,194,15,ward
+flood,Wipro Salai,198,15,ward
+relief,"Jayagopal Garodiya Govt. Hr. Sec. School, T.H.Road.",5,1,ward
+relief,"Ready Made School, Raja Shanmugam Nagar.",6,1,ward
+relief,"Kalaimagal School, Saravana Nagar.",7,1,ward
+relief,"CMS School, Market Lane.",11,1,ward
+relief,Andarkuppam School,16,2,ward
+relief,CPS-Kanniammanpet,16,2,ward
+relief,CPS at MMDA 46th Street,19,2,ward
+relief,Dr. Sivanthi adithinar School,20,2,ward
+relief,Govt Higher Sec School.Manali & CPS at padasalai street,21,2,ward
+relief,CPS at padasalai street,22,2,ward
+relief,Gandhi Main Road Middle School,22,3,ward
+relief,"Poppili Raja Higher Sec. School, Ambattur Redhills Road, Near Camp",24,3,ward
+relief,"CHSS, Patel Nagar 4th Street",38,4,ward
+relief,"Chennai Primary School, No103, Cornaton Nagar",41,4,ward
+relief,"Chennai Middle School, MGR Nagar 3rd Street",41,4,ward
+relief,"CHSS, C Kalayanapuram",46,4,ward
+relief,Boojaraja Nagar Multipurpose Hall,53,5,ward
+relief,Boojaraja Nagar - Multipurpose Hall CMS Amman koil Street Kondithoppu Chennai-79 Corporation Community Centre St.Xavier Street Sevenwells St Ch-79,55,5,ward
+relief,Corporation Community Centre Anna Pillai Street Chennai Middel School Padavattamman Koil Street Boojaraja Nagar - Multipurpose Hall,57,5,ward
+relief,Corporation Community Centre Sydenhams Road Kannapar Thidal Moormarket Ch-3 Chennai Middel School Mint Street Chennai Middle School Varadharaja Puram Egmore,58,5,ward
+relief,CHS- West Coovam Road Corporation Community Centre Sydenhams Road Kannapar Thidal Moormarket Ch-3 Chennai Middel School Mint Street,59,5,ward
+relief,Chennai Middle School Varadharaja Puram Egmore Corporation Community Centre Sydenhams Road Kannapar Thidal Moormarket Ch-3,61,5,ward
+relief,Chennai Middle School Mint Street,62,5,ward
+relief,School Road CHS,64,6,ward
+relief,KCGarden CMS,66,6,ward
+relief,"Madurai Samy Madam Urdu School, Gopala puram School",67,6,ward
+relief,"CMS, Adithravida Boys Hr.Sec School, Adithravida Girls Hr.Sec School, TVK, Corporation Primary School",72,6,ward
+relief,"CMS, CPS",75,6,ward
+relief,"Chennai Middle School, Saraswathi Nagar",81,7,ward
+relief,"Chennai Primary School, Ramapuram",85,7,ward
+relief,"Chennai Primary School, Vanagaram Main Road",86,7,ward
+relief,"Chennai Primary School, Kalaivanar Nagar",88,7,ward
+relief,"Chennai Higher School, padikuppam",93,7,ward
+relief,Kangadurga School,95,8,ward
+relief,"CPS,Palavayal Street",98,8,ward
+relief,"Aspiran Garden,",99,8,ward
+relief,"Community Hall,Lockma Nagar",98,8,ward
+relief,"CPS,Natthamuni Street, Naduvankarai",103,8,ward
+relief,"Evangulate Church,V R Mahal",104,8,ward
+relief,"C Block, MMDA Middle School",105,8,ward
+relief,"Rani Mahal, Nerkundram, Chennai-107",148,11,ward
+relief,"1. Govt. High School, Padasalai Street 2. Corporation Primary School, Padasalai Street 3. Corporation Middle School, Madananadhapuram Main Road Ch- 600125",156,12,ward
+relief,2.Community Hall,157,12,ward
+relief,Community Hall & Gym Building,162,12,ward
+relief,Corporation School Nanganallur 8th street -,165,12,ward
+relief,Corporation Primary school,166,12,ward
+relief,Model Higher secondary school,169,13,ward
+relief,"CPS, New street",170,13,ward
+relief,Chennai School Kamaraj Avenue,170,13,ward
+relief,CPS- Housing Board,175,13,ward
+relief,"Govt Higher Secondary School,",177,13,ward
+relief,ST Thomas Primary School (Nanganallur),185,14,ward
+relief,Govt Hr Sec School,183,14,ward
+relief,Kandasamy Nagar Adi Dravidar Primary School,184,14,ward
+relief,Panchayat Union Primary School,188,14,ward
+relief,"Tsunami Centre, Kudumiyandithoppu",197,15,ward
+relief,"Govt. Hr School, Sozhanganallur",199,15,ward
+relief,Panchayat Union Primary School - Chemmenchery,200,15,ward
+evac,A.D Colony,4,1,ward
+evac,"Sathyamoorthy nagar, TKP nagar",6,1,ward
+houses,VP Nagar,4,1,ward
+houses,"Sathyamoorthy nagar, Kalaignar nagar",6,1,ward
+houses,"Annamalai nagar, MGR nagar, Rajiv Gandhi nagar",7,1,ward
+houses,"Gandhi nagar, Srinivasapuram",12,1,ward
+evac,"Kanniammanpet , Kamarajapuram, Andarkuppam, Elandhanoor, Gandhi Nagar and Jenifer Nagar",16,2,ward
+evac,Govt. High school at Padasalai street,20,2,ward
+houses,Lakshmi Nagar,15,2,ward
+houses,Kullakarai vichur high road,16,2,ward
+houses,Saraswathi Nagar Kosapur,17,2,ward
+houses,Harikrishnan puram amman nagart,18,2,ward
+houses,Balasubramaniyam nagar,19,2,ward
+houses,New MRG street Balaraman Street JJ nagar,20,2,ward
+houses,Jalakanda mariamman koil 3rd lane,21,2,ward
+houses,"Velu street, Adhiraj street",22,2,ward
+evac,Aringnar Anna Nagar,31,3,ward
+houses,Thirumalai Nagar,23,3,ward
+houses,Thamizhan Nagar,23,3,ward
+houses,Kanchi Arul Nagar,23,3,ward
+houses,Mahalakshmi Nagar,23,3,ward
+houses,Anthoniar Koil St Area,24,3,ward
+houses,Velmurugan Nagar,32,3,ward
+houses,Madhavan Nagar,32,3,ward
+houses,Venkata Sai Nagar,32,3,ward
+houses,Vijayalakshmi Nagar,32,3,ward
+houses,Elizabeth nagar,32,3,ward
+houses,Grace Nagar,32,3,ward
+houses,David Jayavelu Nagar,31,3,ward
+houses,Aringnar Anna Nagar,31,3,ward
+houses,Veeraragavalu Nagar,31,3,ward
+houses,Lingam Street,31,3,ward
+houses,Ganesh Nagar,30,3,ward
+houses,Secretariat Colony,30,3,ward
+houses,Seethapathy Street,30,3,ward
+houses,Samy Nagar,30,3,ward
+houses,Thattankulam Road,30,3,ward
+houses,Krishna Nagar Extn.,26,3,ward
+houses,Edaima Nagar Area,26,3,ward
+houses,Mandaveli 5th Street,26,3,ward
+houses,South Telephone Cly Mn Rd,26,3,ward
+houses,North Telephone Cly 1st St,26,3,ward
+houses,Ganesh Nagar & Extn.,26,3,ward
+houses,Ramana Avenue,26,3,ward
+houses,SSV Koil Street,26,3,ward
+houses,Roja Street,26,3,ward
+houses,Mookambigai Street,27,3,ward
+houses,Pukraj Nagar (Partly),25,3,ward
+houses,VS Mani Nagar,25,3,ward
+houses,Ambedkar Nagar,28,3,ward
+houses,sarathi nagar 1 to 4 street,33,3,ward
+houses,sarathi nagar extension,33,3,ward
+houses,nandha nagar,33,3,ward
+houses,venkateshwara nagar,33,3,ward
+houses,arul nagar,33,3,ward
+houses,shankar nagar,33,3,ward
+houses,bharathi nagar,33,3,ward
+houses,kalai magal nagar 1 to 4 street,33,3,ward
+houses,moogambigai nagar,33,3,ward
+houses,balakrishna nagar,29,3,ward
+houses,sri vishnu nagar,29,3,ward
+houses,ganapathy nagar,29,3,ward
+houses,mohan nagar,29,3,ward
+houses,chellaia nagar,29,3,ward
+houses,munusamy nagar,29,3,ward
+houses,gandhi nagar,29,3,ward
+houses,karpagam nagar,29,3,ward
+houses,v.p.c nagar,29,3,ward
+houses,srinivasa nagar,29,3,ward
+houses,prakash nagar 1-12 street,29,3,ward
+houses,vidya nagar,29,3,ward
+houses,vgp nagar main road,29,3,ward
+houses,indra nagar,29,3,ward
+houses,vedhachalam street,29,3,ward
+houses,vasudeva thottam,29,3,ward
+evac,Durgai Avenue,34,4,ward
+evac,Muthamil Nagar 7th Block,35,4,ward
+evac,Muthamil Nagar 8th Block,35,4,ward
+evac,Indra Nagar 2nd Cross Street,36,4,ward
+evac,Thiruvalluvar Nagar 8th Main Road,36,4,ward
+evac,RR Nagar 3rd &4th Main Road,37,4,ward
+evac,"RR Nagar 5th,6th and 2nd Main Road",37,4,ward
+evac,Santhiya Nagar,37,4,ward
+evac,Subramani Street,37,4,ward
+evac,Lord Madha Street,37,4,ward
+evac,Srinivasan Street,37,4,ward
+evac,Patel Nagar,38,4,ward
+evac,Nedunchelian Nagar,38,4,ward
+evac,New Vinobha Nagar,38,4,ward
+evac,Sanjay Gandhi Nagar,38,4,ward
+evac,Annai Sandhya Nagar,38,4,ward
+evac,Nehru Nagar,38,4,ward
+evac,Nethaji Nagar,38,4,ward
+evac,Tamizhar Nagar,38,4,ward
+evac,Chelliamman Koil Street,40,4,ward
+evac,Thiruvalluvar Nagar,40,4,ward
+evac,Cross Road,40,4,ward
+evac,MGR Nagar Canal Road,41,4,ward
+evac,Veerakutty Street,42,4,ward
+evac,Moorthinagr Street Aerikarai Slum (HOUSING BOARD HAS BEEN BUILD AND HAND OVER TO RESPECTIVE PEOPLE),46,4,ward
+evac,Rajiv Gandhi Nagar,47,4,ward
+houses,Singarvelan Nagar Palla Paguthi,43,4,ward
+houses,Muthamil Nagar 6th Blocks,35,4,ward
+houses,Muthamil Nagar 7th Blocks,35,4,ward
+houses,Muthamil Nagar 8th Blocks,35,4,ward
+houses,"Patel Nagar 3rd Street, Nehru Nagar 13th Street",38,4,ward
+houses,Chelliamman kovil Street,40,4,ward
+houses,MGR Nagar Canal Road,41,4,ward
+houses,Sanjay Nagar,45,4,ward
+houses,SM Nagar 24th Block,46,4,ward
+houses,Mosque Street,46,4,ward
+houses,Samanthipoo Colnoy,46,4,ward
+houses,Mallipoo Colony,46,4,ward
+houses,"A,B,C Kalyanapuram",46,4,ward
+houses,Meenambal Nagar,47,4,ward
+houses,KH Road,47,4,ward
+houses,Srinivasan Street,53,5,ward
+evac,Jawahar Nagar,66,6,ward
+evac,GKM Colony,67,6,ward
+evac,Mettupalayam,70,6,ward
+evac,Rajiv Gandhi Nagar,74,6,ward
+evac,Doss Nagar Pallam,72,6,ward
+evac,"SVM Nagar, Subburayan Street",74,6,ward
+evac,SS Puram A Block,75,6,ward
+evac,Thattankulam,77,6,ward
+houses,"Selvi Nagar 5th Street,Thirumalai Nagar 3rd St",64,6,ward
+houses,Jawahar Nagar 1 to 24 Street,68,6,ward
+houses,Jamaliya Housing Board,67,6,ward
+houses,Gowthamapuram Slum,70,6,ward
+houses,Arunthathi Nagar,71,6,ward
+houses,Ammaiyammall Street,73,6,ward
+houses,Natcharammall Street,73,6,ward
+houses,Subburayan Street,75,6,ward
+houses,Choolaimedu Street,75,6,ward
+houses,SS Puram A & B Block,75,6,ward
+houses,Kattur Nalla Muthu Street,77,6,ward
+houses,North Avenue Road and TNHB 26th Street to 60th Street,84,7,ward
+houses,Kullan Street,85,7,ward
+houses,Nalla Kinaru Street,85,7,ward
+houses,Padasalai Street,85,7,ward
+houses,Thulukathamman Koil Street,85,7,ward
+houses,VGN Nagar,86,7,ward
+houses,"Padasalai Street, Padi",87,7,ward
+houses,"Amman Koil Street, Padi",87,7,ward
+houses,"VGP Panneer Nagar 1st Cross Street, Mogappair East",91,7,ward
+houses,"Burner Salai, Mogappair East",91,7,ward
+houses,"Mogappair Block -I 5th and 11th Street, Mogappair East",91,7,ward
+evac,"Kakkanji Nagar, Gandhi Nagar",96,8,ward
+evac,Sathyasai Nagar,99,8,ward
+evac,"Dr.Radha Krishnan Nagar, MGR Colony, Melnaduvankarai, Indira Nagar, Brewery Road, NSK Nagar",100,8,ward
+evac,Kakkan Nagar,106,8,ward
+houses,Veerasamy Main Street,97,8,ward
+houses,P.E.Koil West Mada Street,97,8,ward
+houses,Solai 3rd Street,97,8,ward
+houses,AD Block,103,8,ward
+houses,C Block,102,8,ward
+houses,W Block,102,8,ward
+houses,Bharathipuram Main Street,102,8,ward
+houses,F Block 2nd & 4th Street,102,8,ward
+houses,Muthumariamman Colony,102,8,ward
+houses,Temple Street,100,8,ward
+houses,Osone Kulam Tenements,99,8,ward
+houses,New Bhoopathy Nagar,99,8,ward
+houses,Sastri Nagar,99,8,ward
+houses,Lawders Gate Main Road,99,8,ward
+houses,Iyyappa Nagar,106,8,ward
+evac,Hanumanthapuram,120,9,ward
+houses,Gangaikaraipuram,113,9,ward
+houses,Kodambakkam High road,113,9,ward
+houses,South Bogh Road,117,9,ward
+houses,North Bogh Road,117,9,ward
+houses,Thomas Road,117,9,ward
+houses,North Giriappa Road,117,9,ward
+houses,Dr.Radhakrishnapuram,122,9,ward
+houses,Namachivayapuram in Dn -109,109,9,ward
+houses,Seethamal Main road,123,9,ward
+houses,Makkies Garden,111,9,ward
+houses,Thideer Nagar,111,9,ward
+houses,Nehru Street,112,9,ward
+houses,Subethar Garden,112,9,ward
+evac,Choolaipallam,137,10,ward
+evac,Khau Nagar,137,10,ward
+evac,"Jothiramalingam Nagar, Muthurangam block &Sarathinagar",139,10,ward
+houses,RajamannarSalai,131,10,ward
+houses,Bharani Colony,131,10,ward
+houses,K.R.Koil street,140,10,ward
+houses,Modal House Road,141,10,ward
+houses,Pallavan nagar,145,11,ward
+houses,Palvadi street,145,11,ward
+houses,"Krishna nagar 1st , 10th, 28th 7th street",147,11,ward
+houses,Pallvan nagar ext,147,11,ward
+houses,Pallvan nagar 1st main road,147,11,ward
+houses,Doss main road,150,11,ward
+houses,Natarajan street,150,11,ward
+houses,MGR salai,150,11,ward
+houses,Thiruvalliamman koil st,150,11,ward
+houses,Mullai st,150,11,ward
+houses,Kadambadiamman koil sannathi st,152,11,ward
+houses,Sairam avenue,152,11,ward
+houses,Gangai amman koil street,154,11,ward
+houses,Chinna street,154,11,ward
+houses,Gangaiya avenue,155,11,ward
+houses,Amman nagar,155,11,ward
+houses,Royala nagar,155,11,ward
+houses,Michel garden,155,11,ward
+houses,Bakthi vedhandha avenue,155,11,ward
+evac,Thiruvalluvar nagar,156,12,ward
+evac,MCS nagar,156,12,ward
+evac,"Dharmarajapuram, Puratchi Thalaivi Nagar",157,12,ward
+evac,Dr. Ambedkar Nagar,157,12,ward
+evac,Kamarajar street,159,12,ward
+evac,V.O.C. Nagar,161,12,ward
+evac,Kannan colony,162,12,ward
+evac,Indra nagar 1st and 2nd streets,165,12,ward
+evac,K.K. Nagar,166,12,ward
+houses,"ThiruvalluvarNagar,ArumugamNagar, GowriNagarandCRRPuram",156,12,ward
+houses,"KrishnaNagar,AmbedkarNagar,IndiraNagar",157,12,ward
+houses,"KrishnaNagar,AmbedkarNagar,IndiraNagar",158,12,ward
+houses,"Ganapathypuram,Thulasingapuram",159,12,ward
+houses,"BharathiyarStreet,AnnaStreetandThiru-Vi-KaStreet",161,12,ward
+houses,"KannanColony,Bharathiyar2ndStreet,ThiruvalluvarNagar2ndStreet, 3rd Street, 4th Street ,Marizon 1st Street and Marizon2ndStreet",162,12,ward
+houses,Erikarai Street,168,12,ward
+houses,Nanganallur21ststreet,164,12,ward
+houses,"Vallalarstreet,Bharathidasanstreet,Saraswathistreet",165,12,ward
+houses,B.V.Nagar13thStreet.,166,12,ward
+houses,"Jainstaffcolony,Kannigacolony,EastMainroad",167,12,ward
+evac,"Santhiya nagar, J.J.Nagar, Annal Ambedkar nagar, K.P.K nagar West, Anjugam Ammaiyar nagar, Kallukuttai,",184,14,ward
+evac,"Maruthi nagar, Senthil nagar, Saravana nagar, Selvaganapathy Avenue,",186,14,ward
+evac,"Sai balaji nagar, Pasumpon nagar, Vallal pari nagar, Immanuvel street, Barathidasan street ,",190,14,ward
+houses,"Maruthi nagar 1st main road, Maruthi nagar 1- 5 cross street, Senthil nagar main road 8th cross, Selvaganapthy avenue extn, Selvaganapthy avenue 3rd main road,Selvaganapthy avenue 2nd street, Selvaganapthy avenue 3rd street,",184,14,ward
+houses,New kubera nagar 5th streetNew kubera nagar 3rd street,187,14,ward
+evac,"Karpagavinayagar nagar, Mahathma Gandhi nagar, Ganesh nagar",193,15,ward
+evac,Gandhi nagar,199,15,ward
+evac,Kudumiyandithoppu,197,15,ward
+evac,"Jawahar nagar, Ezhilmuga nagar, Rajiv Gandi nagar",200,15,ward
+houses,Sivan koil street,192,15,ward
+houses,Bethel nagar,196,15,ward
+houses,Ghandi Nagar,199,15,ward
+subway,Manickkam Nagar subway,5,1,ward
+subway,"Pedestrian Subway opposite to CDH ,T.H Road",43,4,ward
+subway,M.C.Road Subway,52,5,ward
+subway,C.B.Road Subway,53,5,ward
+subway,Ganesa puram,70,6,ward
+subway,Korature subway,84,7,ward
+subway,Harrington Subway,108,8,ward
+subway,Uzhaipalar Statue (Pedestrian Subway),114,9,ward
+subway,Rangarajapuram,134,10,ward
+subway,Madley,135,10,ward
+subway,Duraisamy,136,10,ward
+subway-city,Dheeran Sivalingam Subway,,,
+subway-city,Rangarajapuram Subway,,,
+assembly,Tsunami Quarters Park-2,3,1,ward
+assembly,Tsunami Quarters Park-4,3,1,ward
+assembly,TNSCB Land Park 1,3,1,ward
+assembly,TNSCB Land Park 2,3,1,ward
+assembly,TNSCB Land Park 3,3,1,ward
+assembly,TNSCB Land Park 5,3,1,ward
+assembly,TNSCB Land Park 6,3,1,ward
+assembly,TNSCB Land Park 7,3,1,ward
+assembly,TNSCB Land Park 8,3,1,ward
+assembly,TNSCB Land Park 9,3,1,ward
+assembly,TNSCB Land Park 10,3,1,ward
+assembly,TNSCB Land Park 12,3,1,ward
+assembly,TNSCB Land Park 13,3,1,ward
+assembly,TNSCB Land Park 14,3,1,ward
+assembly,TNSCB Land Park 15,3,1,ward
+assembly,TNSCB Land Park 16,3,1,ward
+assembly,Hansa Garden Park,5,1,ward
+assembly,Sakthipuram Park,5,1,ward
+assembly,Wimco Co -Operative Housing Society,5,1,ward
+assembly,"Glass Factory road Near Balakrishna Nagar, Thiruvottiyur",7,1,ward
+assembly,Hansa Gems Park,7,1,ward
+assembly,Ashok Avenue Park,7,1,ward
+assembly,Balakrishna nagar park land,7,1,ward
+assembly,State Bank colony children’s park land,11,1,ward
+assembly,Thiruchinakuppam TNSCB OSR land,14,1,ward
+assembly,Thulasi nagar park,15,2,ward
+assembly,Ponniamman nagar park,15,2,ward
+assembly,Ponniamman nagar 3rd street park,15,2,ward
+assembly,TNHB Phase II Park,16,2,ward
+assembly,Kanniammanpet Park,16,2,ward
+assembly,R L Nagar Park,16,2,ward
+assembly,Thirupathi Devasthanam Park,17,2,ward
+assembly,VS Mani Nagar Park,17,2,ward
+assembly,Vadarperumabakkm park,17,2,ward
+assembly,Thiyagi vishwanathadass Park,17,2,ward
+assembly,Nedunchezhiyan Street Park,18,2,ward
+assembly,Vimalapuram Park,18,2,ward
+assembly,CPCL Park,18,2,ward
+assembly,CPCL Layout Park,18,2,ward
+assembly,MMDA 34th Street Park,19,2,ward
+assembly,MMDA 2nd Main Road Park,19,2,ward
+assembly,"CPCL Layout, 3rd Main road Park",19,2,ward
+assembly,"CPCL Layout, 12th street Park",19,2,ward
+assembly,Gokulam park,19,2,ward
+assembly,Chinna mathur Salai park,20,2,ward
+assembly,Jalagandamariamman koil street park,21,2,ward
+assembly,Vazhuthalaimedu park,22,2,ward
+assembly,Krishna Nagar Park & Play Ground,27,3,ward
+assembly,VGP Nagar Main Road,29,3,ward
+assembly,Selvam Nagar Extension,29,3,ward
+assembly,Thanickachalam Nagar B Blk 5th M R 2nd Cr St,29,3,ward
+assembly,Selvam Nagar 2nd Main Road,29,3,ward
+assembly,Mahathma Gandhi St,29,3,ward
+assembly,Secretariate colony,30,3,ward
+assembly,Burial Ground Road (Canal Side Park),30,3,ward
+assembly,RC Flats PRH Road,30,3,ward
+assembly,Jai Maruthi Nagar west side,31,3,ward
+assembly,Ranga Avenue,31,3,ward
+assembly,Srinivasa Nagar 2nd Street,31,3,ward
+assembly,Jaimaruthi Nagar East side,31,3,ward
+assembly,DG Nagar,32,3,ward
+assembly,Binny Nagar Main Road Park,34,4,ward
+assembly,Venkateshwara Colony V Street Park,34,4,ward
+assembly,Union Carbide Colony 14th Street Park,34,4,ward
+assembly,Kavari Nagar Park,34,4,ward
+assembly,Bharathi Nagar V Street Park,36,4,ward
+assembly,Vasugi Nagar Park,36,4,ward
+assembly,M.R.Nagar Park,36,4,ward
+assembly,Indra Gandhi Nagar Park E.H Road,36,4,ward
+assembly,MGR Nagar Park,41,4,ward
+assembly,Kasturibai Gandhi Nagar,45,4,ward
+assembly,Desikananda Park,45,4,ward
+assembly,Vysar Nagar V Street Park,45,4,ward
+assembly,Sanjai Nagar Park,45,4,ward
+assembly,Sivagami ammal park MC Road Royapuram,49,5,ward
+assembly,Kamaraj Park,50,5,ward
+assembly,N.R.T Bridge Under Park NRT Road Raoypapuram,50,5,ward
+assembly,Basement Park MC Road Royapuram,52,5,ward
+assembly,My Ladies Garden,58,5,ward
+assembly,Ragavendra Park,58,5,ward
+assembly,Dinathanthi Office Near Park,58,5,ward
+assembly,Secretariate Park- Old Secretariate,60,5,ward
+assembly,L G Road Park (DN-61),61,5,ward
+assembly,L G Road Park (DN-63),63,5,ward
+assembly,May Day Park,62,5,ward
+assembly,Adithanar Salai Park,63,5,ward
+assembly,RK Syndicate Nagar Park,64,6,ward
+assembly,Mahaveer Nagar Park,64,6,ward
+assembly,Thirumalai Nagar Park,64,6,ward
+assembly,Janakiraman Colony Park,64,6,ward
+assembly,P.U. Shanmugam Park,64,6,ward
+assembly,Mayor Citibabu Park,64,6,ward
+assembly,VV nagar Park,64,6,ward
+assembly,Thenpalani Nagar TVK Park,65,6,ward
+assembly,Thenpalani Nagar VOC Park,65,6,ward
+assembly,Poombughar Nagar Park,65,6,ward
+assembly,Poombughar Nagar Park,65,6,ward
+assembly,Anjugam Nagar Park,65,6,ward
+assembly,Sakthivel Nagar 2nd Park,66,6,ward
+assembly,SRP Koil Street,67,6,ward
+assembly,George Colony Park,67,6,ward
+assembly,KKR Avenue Park Pallavaram Salai.,67,6,ward
+assembly,Sarjid Hussain Park & Kenndy Square North Street,67,6,ward
+assembly,Jawahar 5th Main Road Park,68,6,ward
+assembly,Venkateswara Nagar 1st Park,70,6,ward
+assembly,Ragavan Street Park,70,6,ward
+assembly,Gandhi Park,71,6,ward
+assembly,Rajiv Ganthi Park,71,6,ward
+assembly,Perambur Murasolimaran Park (North),71,6,ward
+assembly,Vadivelu 2nd street Park,71,6,ward
+assembly,Perambur Murasoli Maran Park (South),74,6,ward
+assembly,Quiad-e-Millet Park,73,6,ward
+assembly,Wardiya Park at New Ferrance Road,73,6,ward
+assembly,Otteri Tropical Dry Ever Green Forest (Herbal Park),75,6,ward
+assembly,Conron Smith Nagar Park,76,6,ward
+assembly,Selvapathy Park,76,6,ward
+assembly,Bakthavatchalam Park,76,6,ward
+assembly,New TPF Park,77,6,ward
+assembly,Lakshmiamman Nagar Park,79,7,ward
+assembly,Secretriate Colony Park,81,7,ward
+assembly,Dugar Park,82,7,ward
+assembly,Narayana Nagar,82,7,ward
+assembly,Hindustan Colony Park,83,7,ward
+assembly,Sastha Nagar Park,83,7,ward
+assembly,Kandigai Street Park,83,7,ward
+assembly,Subulakshmi Nagar Park,83,7,ward
+assembly,TNHB 61St St Park,84,7,ward
+assembly,K T Nagar Park,84,7,ward
+assembly,Gangaiamman Koil Street park,84,7,ward
+assembly,Gopal Swamy Nagar Park,86,7,ward
+assembly,Gothavari Park (Agni Estate),86,7,ward
+assembly,C T H Road Opp To Kochar Park,86,7,ward
+assembly,Icici Bank Park,86,7,ward
+assembly,India Land Park,86,7,ward
+assembly,Sindhu Nathi Park,86,7,ward
+assembly,Chelliamman Nagar Park,86,7,ward
+assembly,VGN Shanthi Nagar Park,86,7,ward
+assembly,VGN Cosmo Polis Park,86,7,ward
+assembly,VGN Har;pton Park,86,7,ward
+assembly,VGN Brent Park,86,7,ward
+assembly,Thamirabarani Street jn of new centuri hospital road,86,7,ward
+assembly,Thamirabarani Street jn of Kaveri Street Park,86,7,ward
+assembly,TNHB Park Vanagaram Main Road,86,7,ward
+assembly,TNHB 4Th St Park,87,7,ward
+assembly,AP Flats Childrens Park,88,7,ward
+assembly,B-Sector Park,88,7,ward
+assembly,C-Sector Park,88,7,ward
+assembly,C T H Road Park,88,7,ward
+assembly,T V S Avenue Main Road Park,89,7,ward
+assembly,Akshaya Colony,89,7,ward
+assembly,Tvs Colony Park,89,7,ward
+assembly,Welcome Colony Block 49-A & Park Road,90,7,ward
+assembly,Emarelds Park,90,7,ward
+assembly,"Santham Colony Block no.10,14,16",90,7,ward
+assembly,Jaswanth Nagar Phase-I Park,91,7,ward
+assembly,Jaswanth Nagar Phase-Ii Park,91,7,ward
+assembly,Tri Star Park,91,7,ward
+assembly,Aibea Nagar Park,91,7,ward
+assembly,6TH BLOCK 8TH STREET,91,7,ward
+assembly,Veeramamunivar Park,92,7,ward
+assembly,Church Road Park,92,7,ward
+assembly,Varun Apartment Park,92,7,ward
+assembly,Eb Road Park,92,7,ward
+assembly,VGN Rakshna Park,92,7,ward
+assembly,Veeramamunivar Park,93,7,ward
+assembly,Yogakalpattra Park,93,7,ward
+assembly,THAMARAI KULAM PARK,79,7,ward
+assembly,VANAN KULAM POND PARK,82,7,ward
+assembly,NETHAJI NAGAR POND PARK,83,7,ward
+assembly,SIVALINGA PURAM POND PARK,83,7,ward
+assembly,PERUMAL KOIL POND PARK,83,7,ward
+assembly,Kandigai Park,83,7,ward
+assembly,Pace Parana Park,90,7,ward
+assembly,Maple Orchid Park,90,7,ward
+assembly,MMM Hospital Park,93,7,ward
+assembly,Kochar Park,85,7,ward
+assembly,T T MATHEW ROAD,86,7,ward
+assembly,Kavitha Street (Miya Wakkie),88,7,ward
+assembly,SANTHAM COLONY (to be park include Salient Features),90,7,ward
+assembly,SANTHAM COLONY,90,7,ward
+assembly,SANTHAM COLONY,90,7,ward
+assembly,PADI KUPPAM MAIN ROAD,90,7,ward
+assembly,PADI KUPPAM MAIN ROAD Old Ben Foundation,90,7,ward
+assembly,PADI KUPPAM MAIN ROAD parana,90,7,ward
+assembly,GOLDEN JUBILEE FLATS NEAR ANNAI FLATS,90,7,ward
+assembly,O V Joseph Park,93,7,ward
+assembly,GOLDEN JUBILEE FLATS NEAR EB TRANSFORMER,93,7,ward
+assembly,Anna Park,110,9,ward
+assembly,Ko Su Mani Park,111,9,ward
+assembly,Anbalagan Park,112,9,ward
+assembly,Sharma Park,113,9,ward
+assembly,Dimonte Colony Park,123,9,ward
+assembly,Luz Church Road Park,126,9,ward
+assembly,Pattinambakkam Nursury Park,126,9,ward
+assembly,"Annaji Nagar 2nd Main Road, Lambert Nagar II Main Road",128,10,ward
+assembly,Jeeva Park,132,10,ward
+assembly,Natesan Park,132,10,ward
+assembly,"1st Avenu Park, 12th Avenue, 14th Sector, 15th Sector, 53rd Street",134,10,ward
+assembly,CIT Nagar 3rd Main Road,139,10,ward
+assembly,"VGN Monte Carlo, Garden Street",143,11,ward
+assembly,"VGN Monte Carlo, Park Street",143,11,ward
+assembly,VOC Salai Park,143,11,ward
+assembly,S&P Garden 8th Street,143,11,ward
+assembly,S&P Garden 1st Main Road,143,11,ward
+assembly,5th Block Kamarajar 2nd Cross Street,143,11,ward
+assembly,Sensory Park Sakthi Nagar,143,11,ward
+assembly,"DABC Gokulam Phase I, Sakthi Nagar Main Road",143,11,ward
+assembly,Chanakiyan Main Road-Brigade,143,11,ward
+assembly,Chanakiyan Main Road-Brigade,143,11,ward
+assembly,"DABC Mithilam, Sakthi Nagar Main Road Park",143,11,ward
+assembly,"DABC Gokulam Phase III, Sakthi Nagar Main Road",143,11,ward
+assembly,"DABC Gokulam Phase II, Sakthi Nagar Main Road",143,11,ward
+assembly,"DABC Abinayam Phase II, Sakthi Nagar Main Road",143,11,ward
+assembly,"Fomra, Sakthi Nagar II Avenue Park",143,11,ward
+assembly,"Abhinayam Phase III, Sriram Nagar Main Road Park",143,11,ward
+assembly,"Akshaya Homes, Guruswamy Salai Park",143,11,ward
+assembly,"VGN Mnerva, Guruswamy Salai Park",143,11,ward
+assembly,"VGN Mnerva, Guruswamy Salai Park",143,11,ward
+assembly,"VGN Mnerva, Guruswamy Salai Park",143,11,ward
+assembly,"City Lights Meadows, Andalammal Street Park",143,11,ward
+assembly,"Indira Splender, Union Road Park",143,11,ward
+assembly,"Galaxy Apartmetns, Phase I II Main Road Park",143,11,ward
+assembly,VGP Amutha Nagar 3rd Street,144,11,ward
+assembly,Arul migu meenakshi amman nagar,145,11,ward
+assembly,Aringar anna park,147,11,ward
+assembly,Pallavan nagar park,147,11,ward
+assembly,Bharathi nagar park,147,11,ward
+assembly,"Varadha park , Brindhavan Nagar Main Road",149,11,ward
+assembly,Brindhavan Nagar 5th Street,149,11,ward
+assembly,Ponni Amman Koil Street,150,11,ward
+assembly,Sri Parasnath Nagar Samulal Street,150,11,ward
+assembly,Maruthi Nagar Phase - 1&2 Park,150,11,ward
+assembly,Maruthi Nagar Phase - 3 1st Main Road,150,11,ward
+assembly,Le palace Hotel Park,150,11,ward
+assembly,Subagiri Park,150,11,ward
+assembly,Kanniappan Salai,153,11,ward
+assembly,Ramaswami Nagar,153,11,ward
+assembly,Udaya Nagar,153,11,ward
+assembly,Tamil Nagar park,154,11,ward
+assembly,Kurinji Nagar park,154,11,ward
+assembly,Eswaran nagar 3rd street,155,11,ward
+assembly,Jai Balaji nagar 1st main road,155,11,ward
+assembly,KP nagar main road,155,11,ward
+assembly,Ashwini amrasha Park,155,11,ward
+assembly,Marvel approva Park,155,11,ward
+assembly,TNHB Quarters Park,155,11,ward
+assembly,Sundar3rdAvenuenagar,158,12,ward
+assembly,Newstreet,160,12,ward
+assembly,"OfficersColony,TNGOColony,MuruganNagar,Jeevannagar",161,12,ward
+assembly,"Thiruvalluvar nagar Park,T.G. nagar 34th street Park, Nehru street Park.",162,12,ward
+assembly,Nanganallur29thstreet.,164,12,ward
+assembly,"Southsector2ndstreet,BalajinagarExtn.II Park,Lakshmi nagar Park, Bharathnagar Park,Neelmangainagar park",165,12,ward
+assembly,Anna Park,166,12,ward
+assembly,Anna nedunsalai ferrai house park,182,14,ward
+assembly,Anna nedunsalai twin court park,182,14,ward
+assembly,Sathyamoorthy road Lakshmanan Nagar,182,14,ward
+assembly,Jain House,182,14,ward
+assembly,RMZ Phase I,182,14,ward
+assembly,Vgp layout 4th main road,183,14,ward
+assembly,Omathurai park,184,14,ward
+assembly,Rajiv nagar,184,14,ward
+assembly,Rajiv Nagar 1st Main Road Doshi flat park,184,14,ward
+assembly,Corporation road park,184,14,ward
+assembly,Iyyan thiruvalluvar park,186,14,ward
+assembly,Epr nagar,186,14,ward
+assembly,Velachery Innering Road,186,14,ward
+assembly,Andavar street,186,14,ward
+assembly,Mahatma ganthi park,187,14,ward
+assembly,Rajalakshmi nagar 1st Main Road,188,14,ward
+assembly,JV Nagar,188,14,ward
+assembly,Naickar Kuttai Mahalakshmi Nagar Main Road,188,14,ward
+assembly,Astalakshmi avenune,189,14,ward
+assembly,Arumugam nagar,189,14,ward
+assembly,Thamaraikulam park,189,14,ward
+assembly,Herbal park,189,14,ward
+assembly,Chettinadu housing park1,189,14,ward
+assembly,Chettinadu housing park3,189,14,ward
+assembly,Rajesh nagar,189,14,ward
+assembly,Jones foundation east (near Max worth Nagar),189,14,ward
+assembly,Chetti Nadu Housing Park – 2,189,14,ward
+assembly,Jones foundation west (near Max worth Nagar),189,14,ward
+assembly,Dr ambedkar park,190,14,ward
+assembly,Selene Estate,191,14,ward
+assembly,Krishna Nagar 3rd Cross street,191,14,ward
+assembly,Muthu Nagar OSR Park,191,14,ward
+assembly,Workers Estate,192,15,ward
+assembly,Customs Colony Park,193,15,ward
+assembly,Sakthi Nagar main road park,193,15,ward
+assembly,RE Nagar Park,193,15,ward
+assembly,Ananth Nagar,193,15,ward
+assembly,Vinayaga Nagar Park,193,15,ward
+assembly,Chandrasekar Avenue,195,15,ward
+assembly,Annai Indira Gandhi road park,196,15,ward
+assembly,VGP layout 2nd street,194,15,ward
+assembly,Kumarasamy Nagar main road west park,198,15,ward
+assembly,New Kumaran Nagar 2nd main road,198,15,ward
+assembly,Neduncheyan Street Park,198,15,ward
+assembly,Kumarasamy Nagar 6th Street park,198,15,ward
+assembly,Model School road,198,15,ward
+assembly,VGP South Zone Part IV,197,15,ward
+assembly,Tamil Nadu Housing Board E12 Block,197,15,ward
+ndrf,Vp nagar,4,1,ward
+ndrf,Sathiyamoorthynagar,6,1,ward
+ndrf,Kargilnagar,7,1,ward
+ndrf,"Near Unit Office , Andarkuppam",16,2,ward
+ndrf,"Near Division Office , Vadaperumbakkam",17,2,ward
+ndrf,"Near Division Office , Nedunchezhiyan Street",18,2,ward
+ndrf,"Near Division Office, MMDA 2nd Cross Street",19,2,ward
+ndrf,New MGR Nagar Ist street,20,2,ward
+ndrf,"Near Unit Office , CPS Padasalai Street",21,2,ward
+ndrf,Opposite to CMDA Steel yard,16,2,ward
+ndrf,Division Office Vadaperumbakkam,17,2,ward
+ndrf,"Division Office , Nedunchezhiyan Street",18,2,ward
+ndrf,Chinna mathur Road,19,2,ward
+ndrf,"Division - 20 Office , New MGR Nagar Ist street",20,2,ward
+ndrf,"Chennai Primary School, Rajaji Street.",25,3,ward
+ndrf,Chennai Middle School Lakshmipuram,33,3,ward
+ndrf,,23,3,
+ndrf,,23,3,
+ndrf,Division 32 Division Office,32,3,ward
+ndrf,,21,3,
+ndrf,,21,3,
+ndrf,Division 25,30,3,ward
+ndrf,Omakulam Madu,29,3,ward
+ndrf,SM Nagar Community Hall,37,4,ward
+ndrf,Kalyanapuram School,46,4,ward
+ndrf,Durgai Avenue-1,34,4,ward
+ndrf,Thendral Nagar-1,34,4,ward
+ndrf,IshwaryaNagar-1,34,4,ward
+ndrf,Nehru Nagar 18th Street - 1,38,4,ward
+ndrf,Nehru Nagar 14th Street - 1,38,4,ward
+ndrf,Tamizhar Nagar -1,38,4,ward
+ndrf,Patel Nagar 3rd Street - 1,38,4,ward
+ndrf,New Vinobha Nagar 1st Street -1,38,4,ward
+ndrf,Sanjay Gandhi Nagar -1,38,4,ward
+ndrf,Nedunchezhian Nagar - 2,38,4,ward
+ndrf,MGR Nagar - 2,41,4,ward
+ndrf,Annai Sathya Nagar -2,41,4,ward
+ndrf,Karumariyamman Koil Street - 2,41,4,ward
+ndrf,Periyar Nagar-1,44,4,ward
+ndrf,SM Nagar-1,46,4,ward
+ndrf,Nehru Nagar -1,46,4,ward
+ndrf,Kennady Nagar-1,46,4,ward
+ndrf,Malligaipoo Colony -1,46,4,ward
+ndrf,Magazinepuram-1,46,4,ward
+ndrf,Mosque Street-1,46,4,ward
+ndrf,Bharathi Nagar – Housing Tenemants -1,47,4,ward
+ndrf,CB Road -1,47,4,ward
+ndrf,Community Centre at Chandrayogi Samathi Street,71,6,ward
+ndrf,Community Centre at Raja Street,69,6,ward
+ndrf,G3 Police Station,72,6,ward
+ndrf,Lorry Station Near Perambur Railway Station,71,6,ward
+ndrf,Zonal Office,79,7,ward
+ndrf,MTH Road,94,8,ward
+ndrf,3rd Avenue,102,8,ward
+ndrf,Thiruvenkatapuam main rd,109,9,ward
+ndrf,Dhobikanna,109,9,ward
+ndrf,Dhobikanna,109,9,ward
+ndrf,Pasumpon Muthu Ramalinga Devar Street,122,9,ward
+ndrf,"NskSalai Corporation Mandabam, Jothiramalingam Nagar, Sarathi Nagar, Muthurangam Block",139,10,ward
+ndrf,"Cps School at Bazzar Road to Godhamedu, &Thideer Nagar",142,10,ward
+ndrf,Ragavendra Colony main Road,127,10,ward
+ndrf,Ragavareddi colony,139,10,ward
+ndrf,Godhamedu,142,10,ward
+ndrf,Amman nagar and Royala nagar,155,11,ward
+ndrf,Amman Nagar vimala convent matriculation school,155,11,ward
+ndrf,Thiruvallur nagar,156,12,ward
+ndrf,L and t CRR puram,156,12,ward
+ndrf,River view colony,157,12,ward
+ndrf,Thiruvalluvar Nagar,156,12,ward
+ndrf,RiverViewColony,157,12,ward
+ndrf,Kotturpuram TNSCB Residence,170,13,ward
+ndrf,"Mallipoo nagar, Kasthuri bai nagar II cross street",173,13,ward
+ndrf,AGS colony IV main road,175,13,ward
+ndrf,Rangarajapuram,169,13,ward
+ndrf,"Chitra Nagar, Sooriya Nagar",170,13,ward
+ndrf,Mallipoo Nagar,173,13,ward
+ndrf,IIT Colony Community Hall,189,14,ward
+ndrf,Sai Balaji Nagar,190,14,ward
+ndrf,Sai Balaji Nagar,190,14,ward
+ndrf,Kamatchiamman Nagar,190,14,ward
+ndrf,Sai Ganesh Nagar,191,14,ward
+ndrf,"Ganesa naickar Mandabam, Sozhanganallur",197,15,ward
+ndrf,Karpaga Vinayaga nagar,193,15,ward
+ndrf,Anandha nagar,193,15,ward
+ndrf,VPG Avenue,195,15,ward
+ndrf,Reiverview residency,198,15,ward
+ndrf,Wipro Salai,198,15,ward
+ndrf,Chemmencherry,200,15,ward
+trees,JJ nagar,1,1,ward
+trees,Ellaiyamman koil street,2,1,ward
+trees,Annai sivagami Nagar,3,1,ward
+trees,"Kathivakkam High Road, Shanmugapuram",4,1,ward
+trees,"Manickam Nagar, T.H Road",5,1,ward
+trees,Otravadai Street,8,1,ward
+trees,"South Mada Street, Poonthottom street ground",10,1,ward
+trees,Vasantham Nagar,12,1,ward
+trees,Balakrishna naidu colony,12,1,ward
+trees,Andarkuppam,16,2,ward
+trees,Moolachatram,27,3,ward
+trees,Union Carbide colony,34,4,ward
+trees,School Road,34,4,ward
+trees,Narayanasamy garden,34,4,ward
+trees,Meenambal salai,37,4,ward
+trees,Nethaji Nagar,38,4,ward
+trees,MPT Colony,40,4,ward
+trees,Othavadai CDH,43,4,ward
+trees,Thulasingam salai,48,4,ward
+trees,Avvai nagar 1st Street,45,4,ward
+trees,48-ward office,48,4,ward
+trees,M.C.Road (Near Arihant Showroom),49,5,ward
+trees,Selva Vinayaga Street,51,5,ward
+trees,Thiruvalluvan Nagar,56,5,ward
+trees,United Colony,64,6,ward
+trees,Karthigeyan Salai,68,6,ward
+trees,Jawahar Nagar,68,6,ward
+trees,SRP Koil Street,69,6,ward
+trees,Jawahar Road,70,6,ward
+trees,School Road,71,6,ward
+trees,Semathamman Colony,74,6,ward
+trees,CS Park Street,76,6,ward
+trees,Demellows Road,77,6,ward
+trees,V O C Street,79,7,ward
+trees,Gandhi Street,79,7,ward
+trees,Kuberaganapathi Street,80,7,ward
+trees,M T H Road,81,7,ward
+trees,Vittal Street,82,7,ward
+trees,Gnanamoorthi Nagar,82,7,ward
+trees,North Avenue Canal,84,7,ward
+trees,Kalaivanar main Road,86,7,ward
+trees,ICF Colony Ayampakkam main Road,86,7,ward
+trees,Golden Colony 1st 2nd 3rd & 7th Main Road,89,7,ward
+trees,Akshaya Colony 2nd Street,89,7,ward
+trees,Kambar Street (Part),91,7,ward
+trees,Pari Salai,92,7,ward
+trees,Church Street,92,7,ward
+trees,North Red Hills Road,94,8,ward
+trees,M.T.H. Road.,94,8,ward
+trees,Annai Sathya Nagar,94,8,ward
+trees,North Sivan Koil Street,94,8,ward
+trees,Valliammal Nagar,94,8,ward
+trees,Agathiar Nagar 6th Street,95,8,ward
+trees,Agathiar Nagar 3rd Street,95,8,ward
+trees,Kumarasamy Nagar,95,8,ward
+trees,I Block 36th Street,95,8,ward
+trees,Thiruveethiamman Koil Street,95,8,ward
+trees,I Block 7th Street,95,8,ward
+trees,Mullai Nagar 3rd Street,95,8,ward
+trees,Narayana Maistry 2nd Street,95,8,ward
+trees,Bajanai Koil Street,95,8,ward
+trees,Vasantham Colony 1st Street,95,8,ward
+trees,MTH Road,95,8,ward
+trees,United India Nagar 1st Cross Street,96,8,ward
+trees,V.P.Colony 1st Cross Street,96,8,ward
+trees,Gandhi Nagar,96,8,ward
+trees,Thanthai Periyar Nagar,97,8,ward
+trees,P.E.Koil Street,97,8,ward
+trees,Palayam pilai Nagar,97,8,ward
+trees,Chakravarthy Nagar,97,8,ward
+trees,Police Manickam Street,98,8,ward
+trees,VP Colony Extn.,98,8,ward
+trees,J Block 8th Street,99,8,ward
+trees,J Block 4th Street,99,8,ward
+trees,Z Block 13th Street,99,8,ward
+trees,U Block 10th Street,99,8,ward
+trees,NVN Nagar,99,8,ward
+trees,TV Nagar,99,8,ward
+trees,H Block 4th Street,99,8,ward
+trees,Mangalam Colony,99,8,ward
+trees,PWD Quarters,99,8,ward
+trees,H Block 5th Street,99,8,ward
+trees,School Road,99,8,ward
+trees,5th Avenue,100,8,ward
+trees,S Block 21st Street,100,8,ward
+trees,S Block 2nd Street,100,8,ward
+trees,5th Main Road,100,8,ward
+trees,2nd Avenue,100,8,ward
+trees,6th Avenue,101,8,ward
+trees,2nd Main Road,101,8,ward
+trees,Brewary Road,101,8,ward
+trees,3rd Avenue,101,8,ward
+trees,R Block,101,8,ward
+trees,T Block 1st Street,101,8,ward
+trees,T Block 8th Street,101,8,ward
+trees,F Block 20th Street,101,8,ward
+trees,Q Block,101,8,ward
+trees,Mandapam Road,102,8,ward
+trees,1st Avenue,102,8,ward
+trees,1st Main Road,102,8,ward
+trees,Jothiammal Nagar,102,8,ward
+trees,TP Chatram Main Road,102,8,ward
+trees,R.V.Nagar Main Road,102,8,ward
+trees,RV Nagar 3rd Street,102,8,ward
+trees,RV Nagar 4th Street,102,8,ward
+trees,RV Nagar 5th Street,102,8,ward
+trees,VOC Colony,102,8,ward
+trees,Kellys Road,103,8,ward
+trees,Millers Road,103,8,ward
+trees,Purasaiwalkam High Road (near Law College Hostel),103,8,ward
+trees,Harleys Road (near Bala Vihar School),103,8,ward
+trees,Dhamodaran Street,103,8,ward
+trees,Sundaram Lane,104,8,ward
+trees,New Bhoopathy Nagar,104,8,ward
+trees,Ozone kulam,104,8,ward
+trees,Dr.Alagappa Road,104,8,ward
+trees,Thirukumarapuram 3rd Street,105,8,ward
+trees,Anna Street,105,8,ward
+trees,Venkata Krishna Nagar,105,8,ward
+trees,Annai Sathya Nagar,105,8,ward
+trees,Kalki Nagar,105,8,ward
+trees,Ashoka Street,105,8,ward
+trees,Vallalar Street,107,8,ward
+trees,Indira Gandhi Street,107,8,ward
+trees,Ko.Su.Mani Street,106,8,ward
+trees,Sidco Street,106,8,ward
+trees,Nehru Street,106,8,ward
+trees,Sowrastra Nagar,112,9,ward
+trees,Kodambakkam High Road,113,9,ward
+trees,K.B.Dasan Road,122,9,ward
+trees,Mayor Chittibabu Street,114,9,ward
+trees,Soorappa Street,115,9,ward
+trees,T.P. Koil Street,116,9,ward
+trees,V.R. Pillai Street,120,9,ward
+trees,Namachivayapuram,109,9,ward
+trees,School Road,110,9,ward
+trees,Lake Area,110,9,ward
+trees,Lakshmipuram,110,9,ward
+trees,Kodambakkam High Road,110,9,ward
+trees,70ft Scheme Road,110,9,ward
+trees,Pattulas Road,111,9,ward
+trees,Aziz Mulk Street,111,9,ward
+trees,Murreys Gate Road,118,9,ward
+trees,Varatharajapuram,118,9,ward
+trees,"4thAvenu, 11thAvenu, 2ndAvenu, 15th sector 101th Street, & 15th sector 104th street",132,10,ward
+trees,"12thAvenu, Kavarai street, Karnan street , Mahadevan street& 50TH Street Ashok Nagar",133,10,ward
+trees,"Dr.Nair Road, G.N.Chetty Road, Bazulla Road, Somasundram Street, Coats Road &Ragaviah Road",136,10,ward
+trees,R.R.Colony,139,10,ward
+trees,Gajalakshmi nagar 4th street,143,11,ward
+trees,Phoenix Street,143,11,ward
+trees,Phase-1 8th Cross Street,143,11,ward
+trees,Thilagar Street,143,11,ward
+trees,Orchard Street,143,11,ward
+trees,"Phase-2, 2nd Cross Street",143,11,ward
+trees,Janaki Nagar 5th Street,147,11,ward
+trees,Murlikrishna nagar main road,149,11,ward
+trees,Maruthi Nagar,150,11,ward
+trees,"Subha sree nagar 4th street extn, A.G.S. colony park, Thiruvallu-var Nagar, Rajaeshwari Avenue",156,12,ward
+trees,"T.G. nagar 22nd street ( 2 nos), T.G. nagar 6th main road, T.G. 8thstreet",162,12,ward
+trees,DGS Dinakaran Salai,171,13,ward
+trees,Indra nagar II avenue,173,13,ward
+trees,Kasthuri bai nagar III main road,173,13,ward
+trees,Vinayaga Nagar 3rd street,185,14,ward
+trees,New Colony,181,14,ward
+trees,Bay watch road,181,14,ward
+trees,Kalyani Nagar (Nellai Nadar School),181,14,ward
+trees,Church road,182,14,ward
+trees,Kurinji Nagar 8th cross street,184,14,ward
+trees,Govindasamy Nagar 7th street,188,14,ward
+trees,Dr. Ramamoorthy Nagar Main road,188,14,ward
+trees,Tendulkar street,188,14,ward
+trees,VGP Shanthi nagar Lakshmi 1st street,189,14,ward
+trees,Radial Road,189,14,ward
+trees,Bharathidasan 1st cross street,190,14,ward

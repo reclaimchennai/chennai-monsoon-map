@@ -1,0 +1,12392 @@
+[
+{
+"page": 62,
+"year": 2015,
+"sno": 1,
+"zone": 1,
+"ward": 5,
+"location": "TH Road jn.of MRF Road",
+"class": "low",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 2,
+"zone": 1,
+"ward": 6,
+"location": "Kalaignar nagar",
+"class": "very_high",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 3,
+"zone": 1,
+"ward": 1,
+"location": "SVM Nagar I main road",
+"class": "low",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 4,
+"zone": 1,
+"ward": 1,
+"location": "SVM Nagar II main road",
+"class": "low",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 5,
+"zone": 1,
+"ward": 1,
+"location": "Kamaraj salai",
+"class": "high",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 6,
+"zone": 1,
+"ward": 4,
+"location": "AD Colony, Ernaavoor",
+"class": "high",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 7,
+"zone": 1,
+"ward": 7,
+"location": "Kargil nagar, Rajaji nagar",
+"class": "high",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 8,
+"zone": 1,
+"ward": 1,
+"location": "SVM Nagar, Ulaganathapuram",
+"class": "high",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 9,
+"zone": 1,
+"ward": 10,
+"location": "Nandhi odai , Sadayankuppam battai",
+"class": "high",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 10,
+"zone": 1,
+"ward": 12,
+"location": "Srinivasapuram, B.K.N Colony",
+"class": "low",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 11,
+"zone": 1,
+"ward": 4,
+"location": "Kathivakkam high road",
+"class": "low",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 12,
+"zone": 1,
+"ward": 5,
+"location": "T.H. Road (MRF road junction)",
+"class": "high",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 13,
+"zone": 1,
+"ward": 5,
+"location": "T.H. Road near Liftgate",
+"class": "low",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 14,
+"zone": 1,
+"ward": 6,
+"location": "Manali Express road, (Mullai nagar, Jothi nagar, TKS Nagar)",
+"class": "high",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 15,
+"zone": 2,
+"ward": 15,
+"location": "Manali New Town 60 Feet Road",
+"class": "low",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 16,
+"zone": 2,
+"ward": 16,
+"location": "Rajiv Gandhi Nagar from TPP Salai to Andarkuppam Main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 17,
+"zone": 2,
+"ward": 16,
+"location": "From Kanniammanpet pond to Kadappakkam Lake",
+"class": "low",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 18,
+"zone": 3,
+"ward": 22,
+"location": "Mahalakshmi Nagar",
+"class": "high",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 19,
+"zone": 3,
+"ward": 23,
+"location": "Punitha Anthoniyar Street",
+"class": "high",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 20,
+"zone": 3,
+"ward": 23,
+"location": "Othai vadai Street",
+"class": "high",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 21,
+"zone": 3,
+"ward": 31,
+"location": "Ambedhkar Nagar",
+"class": "high",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 22,
+"zone": 3,
+"ward": 32,
+"location": "Sarathy Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 23,
+"zone": 3,
+"ward": 22,
+"location": "KS Nagar (Thirumalai Nagar)",
+"class": "medium",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 24,
+"zone": 3,
+"ward": 25,
+"location": "Collector Nagar",
+"class": "very_high",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 25,
+"zone": 3,
+"ward": 25,
+"location": "Aringhar Anna Nagar,",
+"class": "very_high",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 26,
+"zone": 3,
+"ward": 24,
+"location": "Ambattur Redhills road (Highway)",
+"class": "high",
+"status": null
+},
+{
+"page": 62,
+"year": 2015,
+"sno": 27,
+"zone": 3,
+"ward": 25,
+"location": "GNT Road (Near Roundana)",
+"class": "high",
+"status": null
+},
+{
+"page": 63,
+"year": 2015,
+"sno": 28,
+"zone": 4,
+"ward": 41,
+"location": "Carnesh Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 63,
+"year": 2015,
+"sno": 29,
+"zone": 4,
+"ward": 45,
+"location": "Sundram Power Lane",
+"class": "low",
+"status": null
+},
+{
+"page": 63,
+"year": 2015,
+"sno": 30,
+"zone": 4,
+"ward": 45,
+"location": "B.V Colony 19 and 20th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 63,
+"year": 2015,
+"sno": 31,
+"zone": 4,
+"ward": 45,
+"location": "Annai Sathya Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 63,
+"year": 2015,
+"sno": 32,
+"zone": 4,
+"ward": 45,
+"location": "Ganesapuram Main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 63,
+"year": 2015,
+"sno": 33,
+"zone": 4,
+"ward": 47,
+"location": "KH Road",
+"class": "high",
+"status": null
+},
+{
+"page": 63,
+"year": 2015,
+"sno": 34,
+"zone": 4,
+"ward": 34,
+"location": "Construction of RCC Open Box type Retaining Wall and Bed including chain link fencing to Kodungaiyur canal North wing from Ch.0.0 to Ch.850m",
+"class": "high",
+"status": null
+},
+{
+"page": 63,
+"year": 2015,
+"sno": 35,
+"zone": 4,
+"ward": 34,
+"location": "Construction of RCC Open Box type Retaining Wall and Bed including chain link fencing to Kodungaiyur canal North wing from Ch.850 to Ch.1150m",
+"class": "high",
+"status": null
+},
+{
+"page": 63,
+"year": 2015,
+"sno": 36,
+"zone": 4,
+"ward": 34,
+"location": "Construction of RCC Open Box type Retaining Wall and Bed including chain link fencing to Kodungaiyur canal North wing from Ch.1675 to Ch.2191m",
+"class": "high",
+"status": null
+},
+{
+"page": 63,
+"year": 2015,
+"sno": 37,
+"zone": 4,
+"ward": 40,
+"location": "Dismantling and Reconstruction of RCC Box type Stormwater drain of size 1200x1200mm along Kamarajar salai from Elaya street to AE koil st",
+"class": "high",
+"status": null
+},
+{
+"page": 63,
+"year": 2015,
+"sno": 38,
+"zone": 4,
+"ward": 39,
+"location": "Dismantling and Reconstruction of RCC Box type Stormwater drain of size 1200x1200mm along T.H Road from North Terminal road to AE koil st",
+"class": "low",
+"status": null
+},
+{
+"page": 63,
+"year": 2015,
+"sno": 39,
+"zone": 4,
+"ward": 41,
+"location": "Providing Re-sectioning concrete lining and laying service road in link canal from Ch.2500 to 2940 in Captain Cotton Canal",
+"class": "high",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 40,
+"zone": 4,
+"ward": 41,
+"location": "Providing Re-sectioning concrete lining and laying service road in link canal from Ch.2940 to 3360 in Captain Cotton Canal",
+"class": "high",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 41,
+"zone": 4,
+"ward": 46,
+"location": "Sathya Moorthy Nagar 24th Block",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 42,
+"zone": 5,
+"ward": 54,
+"location": "Walltax Road",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 43,
+"zone": 5,
+"ward": 61,
+"location": "Ghandhi Irwan Bridge Road",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 44,
+"zone": 5,
+"ward": 58,
+"location": "EVK Sampath Salai,",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 45,
+"zone": 5,
+"ward": 61,
+"location": "Egmore High Road,",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 46,
+"zone": 5,
+"ward": 62,
+"location": "Arunachalam Road,",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 47,
+"zone": 5,
+"ward": 63,
+"location": "Chella pillayar Koil Street,",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 48,
+"zone": 5,
+"ward": 63,
+"location": "G.P. Road,",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 49,
+"zone": 5,
+"ward": 53,
+"location": "Vijayaragavalu Roundana,",
+"class": "high",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 50,
+"zone": 5,
+"ward": 58,
+"location": "Sydnams Road,",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 51,
+"zone": 5,
+"ward": 53,
+"location": "Walltax Road",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 52,
+"zone": 5,
+"ward": 62,
+"location": "Singanna Chetty Street,",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 53,
+"zone": 5,
+"ward": 54,
+"location": "Walltax Road",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 54,
+"zone": 5,
+"ward": 59,
+"location": "VOC Salai,",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 55,
+"zone": 6,
+"ward": 64,
+"location": "Poombugar Nagar 1st Main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 56,
+"zone": 6,
+"ward": 64,
+"location": "Poombugar Nagar 2nd Main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 57,
+"zone": 6,
+"ward": 64,
+"location": "Dhanammal Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 58,
+"zone": 6,
+"ward": 64,
+"location": "Samuthirya Colony 1st Street",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 59,
+"zone": 6,
+"ward": 64,
+"location": "Anjugam Nagar 4th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 60,
+"zone": 6,
+"ward": 64,
+"location": "Poombugar Nagar 11th Cross Street",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 61,
+"zone": 6,
+"ward": 64,
+"location": "Gandhi Street",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 62,
+"zone": 6,
+"ward": 64,
+"location": "MN Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 63,
+"zone": 6,
+"ward": 65,
+"location": "Hussain Colony 4th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 64,
+"zone": 6,
+"ward": 65,
+"location": "Teachers Colonly",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 65,
+"zone": 6,
+"ward": 66,
+"location": "Gandhimathi Street",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 66,
+"zone": 6,
+"ward": 66,
+"location": "Jawahar Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 67,
+"zone": 6,
+"ward": 67,
+"location": "Rangasiyee Street",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 68,
+"zone": 6,
+"ward": 68,
+"location": "Andiyappan Street",
+"class": "low",
+"status": null
+},
+{
+"page": 64,
+"year": 2015,
+"sno": 69,
+"zone": 6,
+"ward": 66,
+"location": "Kamaraj Street",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 70,
+"zone": 6,
+"ward": 68,
+"location": "Pallavan Street",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 71,
+"zone": 6,
+"ward": 71,
+"location": "Konnur High Road",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 72,
+"zone": 6,
+"ward": 72,
+"location": "Decaster Road",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 73,
+"zone": 6,
+"ward": 72,
+"location": "Doss Nagar Pallam",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 74,
+"zone": 6,
+"ward": 73,
+"location": "Ammaiyammal Street",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 75,
+"zone": 6,
+"ward": 74,
+"location": "Sec Colony 1st to 9th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 76,
+"zone": 6,
+"ward": 75,
+"location": "Vallavan Street",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 77,
+"zone": 6,
+"ward": 77,
+"location": "Demellous Road (Near Haj Committee)",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 78,
+"zone": 6,
+"ward": 78,
+"location": "V.V.Koil Street",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 79,
+"zone": 6,
+"ward": 68,
+"location": "Maduraiswamy Madam",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 80,
+"zone": 6,
+"ward": 70,
+"location": "Bharathi Main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 81,
+"zone": 6,
+"ward": 76,
+"location": "Straganas Road",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 82,
+"zone": 6,
+"ward": 76,
+"location": "Angalamman Koil Street",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 83,
+"zone": 6,
+"ward": 72,
+"location": "Dr. Ambedkar College Road",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 84,
+"zone": 6,
+"ward": 66,
+"location": "Shanthi Street",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 85,
+"zone": 6,
+"ward": 66,
+"location": "Ragavan Street",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 86,
+"zone": 6,
+"ward": 68,
+"location": "Mohamadin Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 87,
+"zone": 6,
+"ward": 73,
+"location": "Lal Singh Street",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 88,
+"zone": 6,
+"ward": 73,
+"location": "Mannarswamy Street",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 89,
+"zone": 6,
+"ward": 67,
+"location": "Gopal Reddy Colony",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 90,
+"zone": 6,
+"ward": 73,
+"location": "New Ferrance Road",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 91,
+"zone": 7,
+"ward": 82,
+"location": "Gnanamoorthy Nagar & EB Colony",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 92,
+"zone": 7,
+"ward": 83,
+"location": "NAS Garden & TVS Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 93,
+"zone": 7,
+"ward": 86,
+"location": "Cth Road near Petrol Bunk",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 94,
+"zone": 7,
+"ward": 86,
+"location": "Annai Sathya Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 95,
+"zone": 7,
+"ward": 90,
+"location": "Thirumagalam road",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 96,
+"zone": 7,
+"ward": 93,
+"location": "Vandiamman Koil st",
+"class": "low",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 97,
+"zone": 8,
+"ward": 94,
+"location": "Annai Sathya Nagar from Wheels India Culvert to Padi Bridge Culvert",
+"class": "very_high",
+"status": null
+},
+{
+"page": 65,
+"year": 2015,
+"sno": 98,
+"zone": 8,
+"ward": 94,
+"location": "Villivakkam Sidco Nagar 2nd main road I main road to Burial Ground Compound Wall",
+"class": "high",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 99,
+"zone": 8,
+"ward": 95,
+"location": "Anna Nagar 18th main road (South) Ch.500m (Reach I) from 100 feet road to Ch.500m",
+"class": "low",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 100,
+"zone": 8,
+"ward": 95,
+"location": "Anna Nagar 18th main road (South) from Ch.500m (Reach 2) to Otteri Nullah canal",
+"class": "low",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 101,
+"zone": 8,
+"ward": 95,
+"location": "Anna Nagar 18th main road (North) Ch.425m from Vasantham Colony to 2nd street (Reach II)",
+"class": "low",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 102,
+"zone": 8,
+"ward": 95,
+"location": "Anna Nagar 18th main road (North) from 100’ road to Ch.425m (Reach I)",
+"class": "low",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 103,
+"zone": 8,
+"ward": 95,
+"location": "Kumarasamy Nagar ,Agathiyar canal",
+"class": "low",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 104,
+"zone": 8,
+"ward": 101,
+"location": "2nd Avenue, Anna Nagar (Roundana)",
+"class": "low",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 105,
+"zone": 8,
+"ward": 103,
+"location": "Kellys Road",
+"class": "low",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 106,
+"zone": 9,
+"ward": 109,
+"location": "Vanniyar 2nd Street",
+"class": "low",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 107,
+"zone": 9,
+"ward": 109,
+"location": "Gill Nagar 1nd street",
+"class": "low",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 108,
+"zone": 9,
+"ward": 110,
+"location": "School Road",
+"class": "low",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 109,
+"zone": 9,
+"ward": 110,
+"location": "Kamarajapuram Main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 110,
+"zone": 9,
+"ward": 111,
+"location": "Maakkis Garden",
+"class": "very_high",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 111,
+"zone": 9,
+"ward": 111,
+"location": "Thideer Nagar",
+"class": "very_high",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 112,
+"zone": 9,
+"ward": 111,
+"location": "Conron Smith Road",
+"class": "low",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 113,
+"zone": 9,
+"ward": 113,
+"location": "Habibullah Road",
+"class": "low",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 114,
+"zone": 9,
+"ward": 113,
+"location": "G.N.Chetty Road",
+"class": "low",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 115,
+"zone": 9,
+"ward": 113,
+"location": "North usman street",
+"class": "low",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 116,
+"zone": 9,
+"ward": 113,
+"location": "Kodambakkam High road",
+"class": "low",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 117,
+"zone": 9,
+"ward": 114,
+"location": "C.N.K. Road",
+"class": "low",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 118,
+"zone": 9,
+"ward": 114,
+"location": "Sydoji Street",
+"class": "low",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 119,
+"zone": 9,
+"ward": 114,
+"location": "John Mohammad Street",
+"class": "low",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 120,
+"zone": 9,
+"ward": 114,
+"location": "Lock Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 121,
+"zone": 9,
+"ward": 115,
+"location": "Dr. Besant Road",
+"class": "low",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 122,
+"zone": 9,
+"ward": 116,
+"location": "Dr. Besant Road",
+"class": "low",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 123,
+"zone": 9,
+"ward": 117,
+"location": "North Usman Road",
+"class": "high",
+"status": null
+},
+{
+"page": 66,
+"year": 2015,
+"sno": 124,
+"zone": 9,
+"ward": 117,
+"location": "G.N.C.Road",
+"class": "very_high",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 125,
+"zone": 9,
+"ward": 117,
+"location": "South boug road",
+"class": "high",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 126,
+"zone": 9,
+"ward": 117,
+"location": "Thirumalai pillai Street",
+"class": "low",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 127,
+"zone": 9,
+"ward": 113,
+"location": "Sarathapuram Street",
+"class": "high",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 128,
+"zone": 9,
+"ward": 118,
+"location": "Kasthuri Estate 1st street",
+"class": "low",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 129,
+"zone": 9,
+"ward": 118,
+"location": "Kasthuri Estate 2nd street",
+"class": "low",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 130,
+"zone": 9,
+"ward": 119,
+"location": "Avvai Shanmugam Salai",
+"class": "high",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 131,
+"zone": 9,
+"ward": 119,
+"location": "Lakshmipuram 2nd Street",
+"class": "low",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 132,
+"zone": 9,
+"ward": 119,
+"location": "Avvai Shanmugam Salai 1st Lane",
+"class": "very_high",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 133,
+"zone": 9,
+"ward": 119,
+"location": "Royapettah High Road",
+"class": "low",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 134,
+"zone": 9,
+"ward": 119,
+"location": "P.S.Siva Swamy Street",
+"class": "high",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 135,
+"zone": 9,
+"ward": 120,
+"location": "Dr. Natesan Road",
+"class": "low",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 136,
+"zone": 9,
+"ward": 121,
+"location": "Dr. Radha Krishnan Salai(jn of Thiru.Vi.Ka.High Road)",
+"class": "low",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 137,
+"zone": 9,
+"ward": 121,
+"location": "Dr. Radha Krishnan Salai (jn of Dr.Natesan Road)",
+"class": "low",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 138,
+"zone": 9,
+"ward": 121,
+"location": "Dr. Radha Krishnan Salai (infornt of Reliance Building)",
+"class": "low",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 139,
+"zone": 9,
+"ward": 122,
+"location": "K.B.Dasan Road",
+"class": "high",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 140,
+"zone": 9,
+"ward": 122,
+"location": "Cresent Road",
+"class": "high",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 141,
+"zone": 9,
+"ward": 122,
+"location": "Seethammal colony 3rd Street,",
+"class": "high",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 142,
+"zone": 9,
+"ward": 122,
+"location": "Seethammal colony 4th street,",
+"class": "high",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 143,
+"zone": 9,
+"ward": 122,
+"location": "Tankbund Road",
+"class": "very_high",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 144,
+"zone": 9,
+"ward": 122,
+"location": "Nandhanam extension 1st Street",
+"class": "high",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 145,
+"zone": 9,
+"ward": 122,
+"location": "Nandhanam extension 2nd Street",
+"class": "high",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 146,
+"zone": 9,
+"ward": 122,
+"location": "Nandhanam extension 3rd Street",
+"class": "high",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 147,
+"zone": 9,
+"ward": 122,
+"location": "Nandhanam extension 4th Street",
+"class": "high",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 148,
+"zone": 9,
+"ward": 122,
+"location": "Nandhanam extension 5th street",
+"class": "high",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 149,
+"zone": 9,
+"ward": 122,
+"location": "Nandhanam extension 6th Street",
+"class": "high",
+"status": null
+},
+{
+"page": 67,
+"year": 2015,
+"sno": 150,
+"zone": 9,
+"ward": 122,
+"location": "Nandhanam extension 7th Street",
+"class": "high",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 151,
+"zone": 9,
+"ward": 122,
+"location": "Nandhanam extension 8th Street",
+"class": "high",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 152,
+"zone": 9,
+"ward": 122,
+"location": "Nandhanam extension 9th Street",
+"class": "high",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 153,
+"zone": 9,
+"ward": 122,
+"location": "Nandhanam extension 10th Street",
+"class": "high",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 154,
+"zone": 9,
+"ward": 122,
+"location": "Seethammal 1st Main Road",
+"class": "high",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 155,
+"zone": 9,
+"ward": 123,
+"location": "R.A.Puram 1st main road",
+"class": "low",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 156,
+"zone": 9,
+"ward": 123,
+"location": "Eldams Road",
+"class": "low",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 157,
+"zone": 9,
+"ward": 123,
+"location": "R.A.Puram 3rd cross street",
+"class": "low",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 158,
+"zone": 9,
+"ward": 124,
+"location": "Kutcherry Road",
+"class": "low",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 159,
+"zone": 9,
+"ward": 125,
+"location": "Karaneswarar Pagoda Street",
+"class": "low",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 160,
+"zone": 9,
+"ward": 126,
+"location": "Santhome Hign Road",
+"class": "low",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 161,
+"zone": 9,
+"ward": 111,
+"location": "Whites Road",
+"class": "low",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 162,
+"zone": 9,
+"ward": 112,
+"location": "Railway border road",
+"class": "low",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 163,
+"zone": 9,
+"ward": 112,
+"location": "Sowrastra nagar 5th street",
+"class": "low",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 164,
+"zone": 9,
+"ward": 112,
+"location": "Trustpuram 1st cross street",
+"class": "low",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 165,
+"zone": 9,
+"ward": 112,
+"location": "Bharathishwarer colony 3rd street",
+"class": "low",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 166,
+"zone": 9,
+"ward": 112,
+"location": "Sivan koil street",
+"class": "low",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 167,
+"zone": 9,
+"ward": 118,
+"location": "Mayor Sundra (rao) road",
+"class": "low",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 168,
+"zone": 9,
+"ward": 121,
+"location": "Thiru-Vi-Ka 3rd street",
+"class": "low",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 169,
+"zone": 9,
+"ward": 113,
+"location": "Improvements of Stormwater drain at North Usman Road",
+"class": "low",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 170,
+"zone": 9,
+"ward": 113,
+"location": "Improvements of Stormwater drain and construction of 3 road crossing culverts Habibullah Road",
+"class": "low",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 171,
+"zone": 10,
+"ward": 127,
+"location": "Kaliamman Koil Street(from CMWSSB STP to Sai nagar annex )",
+"class": "high",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 172,
+"zone": 10,
+"ward": 131,
+"location": "Rajamannar Salai",
+"class": "high",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 173,
+"zone": 10,
+"ward": 134,
+"location": "Rangarajapuram",
+"class": "high",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 174,
+"zone": 10,
+"ward": 128,
+"location": "Vembuliamman Koil street",
+"class": "high",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 175,
+"zone": 10,
+"ward": 130,
+"location": "100 feet Road (junction of periyar pathai)",
+"class": "high",
+"status": null
+},
+{
+"page": 68,
+"year": 2015,
+"sno": 176,
+"zone": 10,
+"ward": 136,
+"location": "North Usman Road",
+"class": "high",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 177,
+"zone": 10,
+"ward": 127,
+"location": "100 feet road (junction of Kaliamman Koil Street)",
+"class": "high",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 178,
+"zone": 10,
+"ward": 127,
+"location": "Kaliamman Koil Street (infront of police station)",
+"class": "high",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 179,
+"zone": 10,
+"ward": "111 &\n127",
+"location": "Construction of Stormwater drain of size 900x900mm RCC Box type drain along Kaliamman koil street at Koyambedu from Metro Water Office in Dn.111 to 100 ft road in Dn.127",
+"class": "high",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 180,
+"zone": 11,
+"ward": 144,
+"location": "MMDA Colony 4th , 5th & 6th block",
+"class": "low",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 181,
+"zone": 11,
+"ward": 145,
+"location": "Pallavan Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 182,
+"zone": 11,
+"ward": 143,
+"location": "Gajalakshmi nagar",
+"class": "very_high",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 183,
+"zone": 11,
+"ward": 143,
+"location": "VGN nagar phase III",
+"class": "high",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 184,
+"zone": 11,
+"ward": 143,
+"location": "Sakthi nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 185,
+"zone": 11,
+"ward": 143,
+"location": "Vembuli amman koil street",
+"class": "low",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 186,
+"zone": 11,
+"ward": 146,
+"location": "Metro nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 187,
+"zone": 11,
+"ward": 147,
+"location": "Krishna nagar",
+"class": "high",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 188,
+"zone": 11,
+"ward": 147,
+"location": "Alapakkam main road",
+"class": "high",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 189,
+"zone": 11,
+"ward": 147,
+"location": "Pallavan nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 190,
+"zone": 11,
+"ward": 148,
+"location": "Anbu nagar",
+"class": "high",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 191,
+"zone": 11,
+"ward": 148,
+"location": "Balavinayagar street",
+"class": "high",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 192,
+"zone": 11,
+"ward": 148,
+"location": "CDN nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 193,
+"zone": 11,
+"ward": 149,
+"location": "Radha avenue",
+"class": "high",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 194,
+"zone": 11,
+"ward": 149,
+"location": "Sri Lakshmi nagar",
+"class": "high",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 195,
+"zone": 11,
+"ward": 150,
+"location": "Mullai street",
+"class": "low",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 196,
+"zone": 11,
+"ward": 150,
+"location": "Arcot road",
+"class": "high",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 197,
+"zone": 11,
+"ward": 151,
+"location": "Officers colony",
+"class": "high",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 198,
+"zone": 11,
+"ward": 151,
+"location": "Annai sathya nagar",
+"class": "high",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 199,
+"zone": 11,
+"ward": 153,
+"location": "Ganesh avenue 1st to 10th street",
+"class": "high",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 200,
+"zone": 11,
+"ward": 155,
+"location": "Amman nagar",
+"class": "very_high",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 201,
+"zone": 11,
+"ward": 155,
+"location": "Royala nagar",
+"class": "very_high",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 202,
+"zone": 11,
+"ward": 155,
+"location": "Bakthi vedhandha avenue",
+"class": "very_high",
+"status": null
+},
+{
+"page": 69,
+"year": 2015,
+"sno": 203,
+"zone": 11,
+"ward": 154,
+"location": "Bharathi salai",
+"class": "high",
+"status": null
+},
+{
+"page": 70,
+"year": 2015,
+"sno": 204,
+"zone": 11,
+"ward": 148,
+"location": "Construction of Stormwater drain of size 1200x1200mm along IAS Qtrs road and Pachaiamman koil street from Dead End to Virugambakkam Canal",
+"class": "low",
+"status": null
+},
+{
+"page": 70,
+"year": 2015,
+"sno": 205,
+"zone": 11,
+"ward": 152,
+"location": "Sairam avenue",
+"class": "high",
+"status": null
+},
+{
+"page": 70,
+"year": 2015,
+"sno": 206,
+"zone": 12,
+"ward": 156,
+"location": "Bhell Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 70,
+"year": 2015,
+"sno": 207,
+"zone": 12,
+"ward": 157,
+"location": "Kaviya Garden, CRR Puram Phase III, Purachi Thalivi Nagar, Bhell Nagar, Dharmarajapuram, Sathiya Nagar, Astalakshmi Avenue and Sedhu Lakshmi Avenue, River view colony",
+"class": "low",
+"status": null
+},
+{
+"page": 70,
+"year": 2015,
+"sno": 208,
+"zone": 12,
+"ward": 165,
+"location": "Bharathidasan Nagar,",
+"class": "low",
+"status": null
+},
+{
+"page": 70,
+"year": 2015,
+"sno": 209,
+"zone": 12,
+"ward": 167,
+"location": "Nanganallur 44th street",
+"class": "low",
+"status": null
+},
+{
+"page": 70,
+"year": 2015,
+"sno": 210,
+"zone": 12,
+"ward": 158,
+"location": "Construction of Stormwater drain along Ganapathi Colony from Thulasingapuram to Adayar river of size 1200x1200mm",
+"class": "low",
+"status": null
+},
+{
+"page": 70,
+"year": 2015,
+"sno": 211,
+"zone": 12,
+"ward": 165,
+"location": "Bhuvaneswari Nagar,",
+"class": "low",
+"status": null
+},
+{
+"page": 70,
+"year": 2015,
+"sno": 212,
+"zone": 12,
+"ward": 165,
+"location": "Income Tax colony Area Back flow of sewage water",
+"class": "low",
+"status": null
+},
+{
+"page": 70,
+"year": 2015,
+"sno": 213,
+"zone": 12,
+"ward": 162,
+"location": "Thillai Ganga Nagar 25 th Street, 27th Street, 28th Street, Thillai Ganga Nagar 2nd MainRoad, and 4th Main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 70,
+"year": 2015,
+"sno": 214,
+"zone": 13,
+"ward": 173,
+"location": "Mayflower garden",
+"class": "high",
+"status": null
+},
+{
+"page": 70,
+"year": 2015,
+"sno": 215,
+"zone": 13,
+"ward": 173,
+"location": "R.A Puram IV cross street",
+"class": "high",
+"status": null
+},
+{
+"page": 70,
+"year": 2015,
+"sno": 216,
+"zone": 13,
+"ward": 173,
+"location": "Valleswaranthottam",
+"class": "high",
+"status": null
+},
+{
+"page": 70,
+"year": 2015,
+"sno": 217,
+"zone": 13,
+"ward": 173,
+"location": "Srinivasa avenue",
+"class": "high",
+"status": null
+},
+{
+"page": 70,
+"year": 2015,
+"sno": 218,
+"zone": 13,
+"ward": 174,
+"location": "Mosque street",
+"class": "low",
+"status": null
+},
+{
+"page": 70,
+"year": 2015,
+"sno": 219,
+"zone": 13,
+"ward": 179,
+"location": "Gandhi road",
+"class": "very_high",
+"status": null
+},
+{
+"page": 70,
+"year": 2015,
+"sno": 220,
+"zone": 13,
+"ward": 179,
+"location": "Vallalar street - Annai Indra nagar",
+"class": "very_high",
+"status": null
+},
+{
+"page": 70,
+"year": 2015,
+"sno": 221,
+"zone": 13,
+"ward": 179,
+"location": "Sivasakthi street - Annai Indra nagar",
+"class": "very_high",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 222,
+"zone": 13,
+"ward": 179,
+"location": "Kamatchiamman street Annai Indra nagar",
+"class": "very_high",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 223,
+"zone": 13,
+"ward": 179,
+"location": "Sastri street (Part)",
+"class": "very_high",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 224,
+"zone": 13,
+"ward": 179,
+"location": "Udayam nagar & extn",
+"class": "very_high",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 225,
+"zone": 13,
+"ward": 177,
+"location": "Astalakshmi nagar II, III, IV & V streets",
+"class": "low",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 226,
+"zone": 13,
+"ward": 173,
+"location": "MRC Nagar",
+"class": "high",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 227,
+"zone": 13,
+"ward": 173,
+"location": "Vasantha avenue",
+"class": "high",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 228,
+"zone": 13,
+"ward": 173,
+"location": "Kasthuri avenue",
+"class": "high",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 229,
+"zone": 13,
+"ward": 175,
+"location": "L.B road",
+"class": "low",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 230,
+"zone": 13,
+"ward": 175,
+"location": "Kasthuribai nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 231,
+"zone": 13,
+"ward": 175,
+"location": "Indra nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 232,
+"zone": 13,
+"ward": 175,
+"location": "Anna avenue",
+"class": "low",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 233,
+"zone": 13,
+"ward": 176,
+"location": "Sastri nagar II, IX & XV cross street",
+"class": "high",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 234,
+"zone": 13,
+"ward": 178,
+"location": "A.G.S Colony",
+"class": "very_high",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 235,
+"zone": 13,
+"ward": 179,
+"location": "V.G.P Selva nagar Extn I to V streets",
+"class": "very_high",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 236,
+"zone": 13,
+"ward": 179,
+"location": "V.G.P Selva nagar I cross street & I main road",
+"class": "very_high",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 237,
+"zone": 13,
+"ward": 179,
+"location": "Bhuvaneshwari nagar I & III cross street & III main road",
+"class": "very_high",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 238,
+"zone": 13,
+"ward": 179,
+"location": "Veenus colony II street",
+"class": "very_high",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 239,
+"zone": 13,
+"ward": 181,
+"location": "Dr.Radhakrishnan nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 240,
+"zone": 13,
+"ward": 181,
+"location": "Valmigi street",
+"class": "low",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 241,
+"zone": 13,
+"ward": 180,
+"location": "C.S.I.R road",
+"class": "low",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 242,
+"zone": 13,
+"ward": 174,
+"location": "Nehru nagar - Veerapandiya Kattabomman street",
+"class": "high",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 243,
+"zone": 13,
+"ward": 174,
+"location": "Nehru nagar - Periyar street",
+"class": "high",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 244,
+"zone": 13,
+"ward": 174,
+"location": "Nehru nagar - Anbil Dharmalingam street",
+"class": "high",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 245,
+"zone": 13,
+"ward": 174,
+"location": "Velachery main road",
+"class": "high",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 246,
+"zone": 13,
+"ward": 182,
+"location": "Journalist colony",
+"class": "high",
+"status": null
+},
+{
+"page": 71,
+"year": 2015,
+"sno": 247,
+"zone": 13,
+"ward": 171,
+"location": "Construction of SWD of size 1500x1500mm along and across Sardar Patel road (Opp to Rajbhavan)",
+"class": "high",
+"status": null
+},
+{
+"page": 72,
+"year": 2015,
+"sno": 248,
+"zone": 13,
+"ward": 177,
+"location": "Construction of RCC Box type Stormwater drain along EB colony 2nd street from EB colony main road to Radha Nagar extension main road",
+"class": "high",
+"status": null
+},
+{
+"page": 72,
+"year": 2015,
+"sno": 249,
+"zone": 13,
+"ward": 177,
+"location": "Construction of Stormwater drain along Lakshmi nagar 2nd street from Lakshmi Nagar main road to Rajiv Gandhi nagar main road",
+"class": "high",
+"status": null
+},
+{
+"page": 72,
+"year": 2015,
+"sno": 250,
+"zone": 13,
+"ward": 182,
+"location": "Avvai nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 72,
+"year": 2015,
+"sno": 251,
+"zone": 13,
+"ward": 182,
+"location": "Kannappa nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 72,
+"year": 2015,
+"sno": 252,
+"zone": 13,
+"ward": 182,
+"location": "Ganapathy colony",
+"class": "low",
+"status": null
+},
+{
+"page": 72,
+"year": 2015,
+"sno": 253,
+"zone": 13,
+"ward": 172,
+"location": "Chitra nagar, Kotturpuram",
+"class": "very_high",
+"status": null
+},
+{
+"page": 72,
+"year": 2015,
+"sno": 254,
+"zone": 13,
+"ward": 177,
+"location": "Ambedkar nagar II main road",
+"class": "low",
+"status": null
+},
+{
+"page": 72,
+"year": 2015,
+"sno": 255,
+"zone": 13,
+"ward": 177,
+"location": "Kamarajar street - Nehru nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 72,
+"year": 2015,
+"sno": 256,
+"zone": 13,
+"ward": 177,
+"location": "TNHB Colony III main road",
+"class": "low",
+"status": null
+},
+{
+"page": 72,
+"year": 2015,
+"sno": 257,
+"zone": 13,
+"ward": 177,
+"location": "A.G.S Colony VI street",
+"class": "low",
+"status": null
+},
+{
+"page": 72,
+"year": 2015,
+"sno": 258,
+"zone": 13,
+"ward": 177,
+"location": "ASK Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 72,
+"year": 2015,
+"sno": 259,
+"zone": 13,
+"ward": 177,
+"location": "Ex Service man colony",
+"class": "low",
+"status": null
+},
+{
+"page": 72,
+"year": 2015,
+"sno": 260,
+"zone": 13,
+"ward": 177,
+"location": "Ambedkar nagar I cross street",
+"class": "low",
+"status": null
+},
+{
+"page": 72,
+"year": 2015,
+"sno": 261,
+"zone": 13,
+"ward": 177,
+"location": "TNHB Colony - EWS lanes",
+"class": "low",
+"status": null
+},
+{
+"page": 72,
+"year": 2015,
+"sno": 262,
+"zone": 13,
+"ward": 177,
+"location": "Nethaji colony I to IV cross streets",
+"class": "low",
+"status": null
+},
+{
+"page": 72,
+"year": 2015,
+"sno": 263,
+"zone": 13,
+"ward": 177,
+"location": "Andal nagar extn I to III streets",
+"class": "low",
+"status": null
+},
+{
+"page": 72,
+"year": 2015,
+"sno": 264,
+"zone": 13,
+"ward": 177,
+"location": "Venkateswara nagar III main road",
+"class": "low",
+"status": null
+},
+{
+"page": 72,
+"year": 2015,
+"sno": 265,
+"zone": 13,
+"ward": 177,
+"location": "A.G.S Colony III main road",
+"class": "low",
+"status": null
+},
+{
+"page": 72,
+"year": 2015,
+"sno": 266,
+"zone": 13,
+"ward": 177,
+"location": "Mahalakshmi nagar III cross street",
+"class": "low",
+"status": null
+},
+{
+"page": 72,
+"year": 2015,
+"sno": 267,
+"zone": 13,
+"ward": 177,
+"location": "Brindavan nagar II street",
+"class": "high",
+"status": null
+},
+{
+"page": 72,
+"year": 2015,
+"sno": 268,
+"zone": 13,
+"ward": 179,
+"location": "Seshadripuram I main road",
+"class": "very_high",
+"status": null
+},
+{
+"page": 72,
+"year": 2015,
+"sno": 269,
+"zone": 13,
+"ward": 170,
+"location": "Nagi (R ) Thottam",
+"class": "very_high",
+"status": null
+},
+{
+"page": 73,
+"year": 2015,
+"sno": 270,
+"zone": 13,
+"ward": 170,
+"location": "Chetti thottam",
+"class": "very_high",
+"status": null
+},
+{
+"page": 73,
+"year": 2015,
+"sno": 271,
+"zone": 13,
+"ward": 170,
+"location": "Neruppumedu",
+"class": "very_high",
+"status": null
+},
+{
+"page": 73,
+"year": 2015,
+"sno": 272,
+"zone": 13,
+"ward": 170,
+"location": "Vinayagapuram",
+"class": "very_high",
+"status": null
+},
+{
+"page": 73,
+"year": 2015,
+"sno": 273,
+"zone": 13,
+"ward": 170,
+"location": "Anusuyamandapam",
+"class": "very_high",
+"status": null
+},
+{
+"page": 73,
+"year": 2015,
+"sno": 274,
+"zone": 13,
+"ward": 178,
+"location": "Vijayanagar area",
+"class": "very_high",
+"status": null
+},
+{
+"page": 73,
+"year": 2015,
+"sno": 275,
+"zone": 13,
+"ward": 178,
+"location": "Ram Nagar area",
+"class": "very_high",
+"status": null
+},
+{
+"page": 73,
+"year": 2015,
+"sno": 276,
+"zone": 13,
+"ward": 179,
+"location": "Tansi nagar II, III, V, VII & X streets",
+"class": "very_high",
+"status": null
+},
+{
+"page": 73,
+"year": 2015,
+"sno": 277,
+"zone": 13,
+"ward": 179,
+"location": "Dhandeeswaram nagar",
+"class": "very_high",
+"status": null
+},
+{
+"page": 73,
+"year": 2015,
+"sno": 278,
+"zone": 13,
+"ward": 179,
+"location": "Seetharam nagar",
+"class": "very_high",
+"status": null
+},
+{
+"page": 73,
+"year": 2015,
+"sno": 279,
+"zone": 13,
+"ward": 179,
+"location": "Sarathy nagar",
+"class": "very_high",
+"status": null
+},
+{
+"page": 73,
+"year": 2015,
+"sno": 280,
+"zone": 13,
+"ward": 180,
+"location": "Velachery Taramani road (100’ road)",
+"class": "low",
+"status": null
+},
+{
+"page": 73,
+"year": 2015,
+"sno": 281,
+"zone": 14,
+"ward": 184,
+"location": "MGR Salai, MRTS (Near ICDS)",
+"class": "low",
+"status": null
+},
+{
+"page": 73,
+"year": 2015,
+"sno": 282,
+"zone": 14,
+"ward": 187,
+"location": "Karthikeyapuram",
+"class": "low",
+"status": null
+},
+{
+"page": 73,
+"year": 2015,
+"sno": 283,
+"zone": 14,
+"ward": 187,
+"location": "New Kubera Nagar 5th & 7th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 73,
+"year": 2015,
+"sno": 284,
+"zone": 14,
+"ward": 169,
+"location": "Ram Nagar (North)",
+"class": "low",
+"status": null
+},
+{
+"page": 73,
+"year": 2015,
+"sno": 285,
+"zone": 14,
+"ward": 169,
+"location": "Annai Therasa nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 73,
+"year": 2015,
+"sno": 286,
+"zone": 14,
+"ward": 169,
+"location": "Puzhuthivakkam Bust Stand",
+"class": "low",
+"status": null
+},
+{
+"page": 73,
+"year": 2015,
+"sno": 287,
+"zone": 14,
+"ward": 186,
+"location": "OMR, Jn. of Thirumalai Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 73,
+"year": 2015,
+"sno": 288,
+"zone": 14,
+"ward": 185,
+"location": "ECR, Palgalai Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 73,
+"year": 2015,
+"sno": 289,
+"zone": 14,
+"ward": 183,
+"location": "ECR, Near BATA Showroom",
+"class": "low",
+"status": null
+},
+{
+"page": 73,
+"year": 2015,
+"sno": 290,
+"zone": 14,
+"ward": 183,
+"location": "ECR Opp. Fish market",
+"class": "low",
+"status": null
+},
+{
+"page": 73,
+"year": 2015,
+"sno": 291,
+"zone": 14,
+"ward": 184,
+"location": "OMR, MGR Salai Jn.",
+"class": "low",
+"status": null
+},
+{
+"page": 73,
+"year": 2015,
+"sno": 292,
+"zone": 14,
+"ward": 185,
+"location": "ECR, Govindan Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 73,
+"year": 2015,
+"sno": 293,
+"zone": 14,
+"ward": 188,
+"location": "Rajesh Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 73,
+"year": 2015,
+"sno": 294,
+"zone": 14,
+"ward": 188,
+"location": "Rajaji Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 74,
+"year": 2015,
+"sno": 295,
+"zone": 14,
+"ward": 188,
+"location": "LIC Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 74,
+"year": 2015,
+"sno": 296,
+"zone": 14,
+"ward": 188,
+"location": "Madipakkam Bus Stand",
+"class": "low",
+"status": null
+},
+{
+"page": 74,
+"year": 2015,
+"sno": 297,
+"zone": 15,
+"ward": 192,
+"location": "Ellaiamman koil street",
+"class": "low",
+"status": null
+},
+{
+"page": 74,
+"year": 2015,
+"sno": 298,
+"zone": 15,
+"ward": 193,
+"location": "MCN Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 74,
+"year": 2015,
+"sno": 299,
+"zone": 15,
+"ward": 194,
+"location": "OMR - Mettukuppam (VPG Avenue Junction)",
+"class": "high",
+"status": null
+},
+{
+"page": 74,
+"year": 2015,
+"sno": 300,
+"zone": 15,
+"ward": 197,
+"location": "Wipro Salai",
+"class": "high",
+"status": null
+},
+{
+"page": 74,
+"year": 2015,
+"sno": 301,
+"zone": 15,
+"ward": 192,
+"location": "Construction of SWD of size 600x750mm along Kumaraguru Avenue , Neelankarai",
+"class": "low",
+"status": null
+},
+{
+"page": 74,
+"year": 2015,
+"sno": 302,
+"zone": 15,
+"ward": 192,
+"location": "Construction of SWD of size 1200x1200mm along Pandian Salai, Neelankarai",
+"class": "low",
+"status": null
+},
+{
+"page": 74,
+"year": 2015,
+"sno": 303,
+"zone": 15,
+"ward": 192,
+"location": "Construction of SWD of size 600x750m along Saraswathi Nagar South, Neelankarai",
+"class": "high",
+"status": null
+},
+{
+"page": 74,
+"year": 2015,
+"sno": 304,
+"zone": 15,
+"ward": 193,
+"location": "Construction of SWD of size 900x900mm along Karpaga Vinayagar Koil Street, Vettuvankeni",
+"class": "low",
+"status": null
+},
+{
+"page": 74,
+"year": 2015,
+"sno": 305,
+"zone": 15,
+"ward": 196,
+"location": "Construction of Stormwater drain along Ist Avenue Main Road, Vettuvankeni",
+"class": "low",
+"status": null
+},
+{
+"page": 74,
+"year": 2015,
+"sno": 306,
+"zone": 15,
+"ward": 197,
+"location": "Lalbahadhur Sasthiri Street",
+"class": "low",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 1,
+"zone": 1,
+"ward": 3,
+"location": "Annai sivagami nagar 6th street",
+"class": "medium",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 2,
+"zone": 1,
+"ward": 4,
+"location": "Thiruveedhiamman koil 5th street",
+"class": "medium",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 3,
+"zone": 1,
+"ward": 4,
+"location": "Mettu street",
+"class": "medium",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 4,
+"zone": 1,
+"ward": 5,
+"location": "MRF road junction",
+"class": "medium",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 5,
+"zone": 1,
+"ward": 5,
+"location": "Jaigopal karodia school",
+"class": "low",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 6,
+"zone": 1,
+"ward": 5,
+"location": "Gandhi nagar (Inside Market)",
+"class": "medium",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 7,
+"zone": 1,
+"ward": 6,
+"location": "Kalaignar nagar 9th street",
+"class": "medium",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 8,
+"zone": 1,
+"ward": 6,
+"location": "Manali express road",
+"class": "medium",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 9,
+"zone": 1,
+"ward": 7,
+"location": "Rajaji nagar VOC street",
+"class": "medium",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 10,
+"zone": 1,
+"ward": 7,
+"location": "Rajaji nagar sathyamootthy street",
+"class": "medium",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 11,
+"zone": 1,
+"ward": 7,
+"location": "Rajaji nagar Kirubananadavariyar street",
+"class": "medium",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 12,
+"zone": 1,
+"ward": 7,
+"location": "Rajaji nagar Muthuramalingam street",
+"class": "medium",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 13,
+"zone": 1,
+"ward": 7,
+"location": "Kargil nagar pumping station",
+"class": "medium",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 14,
+"zone": 1,
+"ward": 10,
+"location": "Nandhiodai",
+"class": "medium",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 15,
+"zone": 1,
+"ward": 11,
+"location": "T.H road (Opp. To Zonal office)",
+"class": "medium",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 16,
+"zone": 1,
+"ward": 12,
+"location": "BKN colony",
+"class": "medium",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 17,
+"zone": 1,
+"ward": 13,
+"location": "Varadarajan street (Govt. school)",
+"class": "medium",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 18,
+"zone": 1,
+"ward": 13,
+"location": "Gandhi nagar (In railway land)",
+"class": "medium",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 19,
+"zone": 1,
+"ward": 14,
+"location": "T.H road (Rajakadai)",
+"class": "medium",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 20,
+"zone": 2,
+"ward": 15,
+"location": "Manali New Town 73rd Block",
+"class": "low",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 21,
+"zone": 2,
+"ward": 15,
+"location": "Edayanchavadi",
+"class": "low",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 22,
+"zone": 2,
+"ward": 15,
+"location": "Chinna Eachankuzhi",
+"class": "low",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 23,
+"zone": 2,
+"ward": 16,
+"location": "Manali New town 84th,89th,90th Block",
+"class": "low",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 24,
+"zone": 2,
+"ward": 16,
+"location": "Manali New town 89th Block",
+"class": "low",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 25,
+"zone": 2,
+"ward": 16,
+"location": "Manali New town 90th Block",
+"class": "low",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 26,
+"zone": 2,
+"ward": 17,
+"location": "Kosappur School",
+"class": "low",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 27,
+"zone": 2,
+"ward": 18,
+"location": "All Street",
+"class": "low",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 28,
+"zone": 2,
+"ward": 19,
+"location": "MMDA 46TH Street",
+"class": "low",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 29,
+"zone": 2,
+"ward": 20,
+"location": "Kamarajar Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 30,
+"zone": 2,
+"ward": 21,
+"location": "Jalakandamariamman Koil Street",
+"class": "low",
+"status": null
+},
+{
+"page": 76,
+"year": 2017,
+"sno": 31,
+"zone": 3,
+"ward": 22,
+"location": "Vegetarian Village",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 32,
+"zone": 3,
+"ward": 24,
+"location": "Sriram Nagar,",
+"class": null,
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 33,
+"zone": 3,
+"ward": 24,
+"location": "Venkateswara Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 34,
+"zone": 3,
+"ward": 24,
+"location": "Venkatasai Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 35,
+"zone": 3,
+"ward": 24,
+"location": "Vijayalakshmi Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 36,
+"zone": 3,
+"ward": 24,
+"location": "Grace Ngr",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 37,
+"zone": 3,
+"ward": 24,
+"location": "Elisabath Ngr",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 38,
+"zone": 3,
+"ward": 24,
+"location": "Sathiyamoorthy Ngr",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 39,
+"zone": 3,
+"ward": 24,
+"location": "Ganapathy Ngr",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 40,
+"zone": 3,
+"ward": 24,
+"location": "Kamarajar Ngr",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 41,
+"zone": 3,
+"ward": 24,
+"location": "Krishna Ngr",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 42,
+"zone": 3,
+"ward": 24,
+"location": "Purushothaman Ngr",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 43,
+"zone": 3,
+"ward": 24,
+"location": "Velumurugan Ngr",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 44,
+"zone": 3,
+"ward": 25,
+"location": "padmavathy nagar GNT ROAD ROUNDANA,",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 45,
+"zone": 3,
+"ward": 25,
+"location": "Veeraragavan nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 46,
+"zone": 3,
+"ward": 25,
+"location": "Collector Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 47,
+"zone": 3,
+"ward": 25,
+"location": "lakshmi Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 48,
+"zone": 3,
+"ward": 25,
+"location": "INTUC Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 49,
+"zone": 3,
+"ward": 25,
+"location": "Arignar Anna Ng",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 50,
+"zone": 3,
+"ward": 26,
+"location": "1.Ganapathy Siva Nagar, Thirupathy thangavel nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 51,
+"zone": 3,
+"ward": 29,
+"location": "1.Perumal koil St",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 52,
+"zone": 3,
+"ward": 29,
+"location": "Perumal koil StExtension",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 53,
+"zone": 3,
+"ward": 29,
+"location": "Kakkan puram cross St",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 54,
+"zone": 3,
+"ward": 29,
+"location": "Velu St",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 55,
+"zone": 3,
+"ward": 29,
+"location": "Apparaj St",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 56,
+"zone": 3,
+"ward": 29,
+"location": "Devarajan 2nd Cross st",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 57,
+"zone": 3,
+"ward": 29,
+"location": "Gandhi Cross st",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 58,
+"zone": 3,
+"ward": 31,
+"location": "1.Kannapiran kovil st",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 59,
+"zone": 3,
+"ward": 31,
+"location": "kalkattashop",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 60,
+"zone": 3,
+"ward": 32,
+"location": "NANDHA NAGAR",
+"class": "low",
+"status": null
+},
+{
+"page": 77,
+"year": 2017,
+"sno": 61,
+"zone": 3,
+"ward": 32,
+"location": "VENKATESWARA NAGAR",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 62,
+"zone": 3,
+"ward": 32,
+"location": "TEACHERS COLONY 4TH MAIN ROAD",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 63,
+"zone": 3,
+"ward": 33,
+"location": "Annapoorna Nagar entire Area(Vacant Land)",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 64,
+"zone": 3,
+"ward": 33,
+"location": "Ganapathy thottam,",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 65,
+"zone": 3,
+"ward": 33,
+"location": "Prakash Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 66,
+"zone": 3,
+"ward": 33,
+"location": "VIP Ngr",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 67,
+"zone": 3,
+"ward": 33,
+"location": "Elisabath Ngr",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 68,
+"zone": 4,
+"ward": 34,
+"location": "Thendral Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 69,
+"zone": 4,
+"ward": 35,
+"location": "Muthamil Nagar 202nd Street",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 70,
+"zone": 4,
+"ward": 35,
+"location": "Gandhi Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 71,
+"zone": 4,
+"ward": 35,
+"location": "Krishna Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 72,
+"zone": 4,
+"ward": 37,
+"location": "Abirami Avenue 14th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 73,
+"zone": 4,
+"ward": 37,
+"location": "MKB Nagar 4th Cross Street",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 74,
+"zone": 4,
+"ward": 38,
+"location": "Vaithiyanathan Street",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 75,
+"zone": 4,
+"ward": 38,
+"location": "Patel Nagar 3rd Street",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 76,
+"zone": 4,
+"ward": 38,
+"location": "Nehru Nagar 13th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 77,
+"zone": 4,
+"ward": 38,
+"location": "Nethaji Nagar 2nd Street",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 78,
+"zone": 4,
+"ward": 40,
+"location": "Thiruvalluvar Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 79,
+"zone": 4,
+"ward": 41,
+"location": "MGR Nagar 5th, 6th, 7th & 8th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 80,
+"zone": 4,
+"ward": 41,
+"location": "Parthasarathy Street",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 81,
+"zone": 4,
+"ward": 41,
+"location": "Marimuthu Street",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 82,
+"zone": 4,
+"ward": 41,
+"location": "Kasthuribai Street",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 83,
+"zone": 4,
+"ward": 44,
+"location": "Kamaraj Street",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 84,
+"zone": 4,
+"ward": 44,
+"location": "Palani andavar Koil Street",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 85,
+"zone": 4,
+"ward": 45,
+"location": "Annai Sathya Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 86,
+"zone": 4,
+"ward": 45,
+"location": "B.V.Colony 18th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 87,
+"zone": 4,
+"ward": 46,
+"location": "Palla 2nd & 3rd Street",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 88,
+"zone": 4,
+"ward": 46,
+"location": "E.H Road ( Moorthingar Opp Eswaran Koil )",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 89,
+"zone": 4,
+"ward": 46,
+"location": "S.M.Nagar Main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 90,
+"zone": 4,
+"ward": 47,
+"location": "Meenambal Nagar 5th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 91,
+"zone": 5,
+"ward": 53,
+"location": "C.B.Road",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 92,
+"zone": 5,
+"ward": 57,
+"location": "Prakasam Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 78,
+"year": 2017,
+"sno": 93,
+"zone": 5,
+"ward": 58,
+"location": "Ritherdon road",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 94,
+"zone": 6,
+"ward": 64,
+"location": "Siva Sakthi Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 95,
+"zone": 6,
+"ward": 64,
+"location": "Appasamy Street",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 96,
+"zone": 6,
+"ward": 65,
+"location": "Ambedkar Nagar 1st Cross Street",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 97,
+"zone": 6,
+"ward": 65,
+"location": "Ashok Avenue",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 98,
+"zone": 6,
+"ward": 69,
+"location": "Bunder Garden",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 99,
+"zone": 6,
+"ward": 72,
+"location": "Decaster Road",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 100,
+"zone": 6,
+"ward": 74,
+"location": "Secratriate Colony 4nd Street",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 101,
+"zone": 6,
+"ward": 74,
+"location": "Secratriate Colony 6th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 102,
+"zone": 6,
+"ward": 77,
+"location": "Elephant gate Road",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 103,
+"zone": 7,
+"ward": 79,
+"location": "Manolodai St",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 104,
+"zone": 7,
+"ward": 80,
+"location": "Sabari st, Chital st",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 105,
+"zone": 7,
+"ward": 81,
+"location": "OT Bus stand",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 106,
+"zone": 7,
+"ward": "",
+"location": "Singapore complex",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 107,
+"zone": 7,
+"ward": 82,
+"location": "Sakthi Nagar, Vital st",
+"class": "medium",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 108,
+"zone": 7,
+"ward": 82,
+"location": "Vanasakthi Nagar,TVS Nagar,Sastha Nagar,",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 109,
+"zone": 7,
+"ward": 83,
+"location": "Iyyappan st",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 110,
+"zone": 7,
+"ward": 84,
+"location": "Kanniamman Koil st,",
+"class": "medium",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 111,
+"zone": 7,
+"ward": 84,
+"location": "Bajanai Koil st, Dass industrial estate",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 112,
+"zone": 7,
+"ward": 86,
+"location": "TNHB Phase-III",
+"class": "medium",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 113,
+"zone": 7,
+"ward": 86,
+"location": "Rampoorna Nagar",
+"class": "medium",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 114,
+"zone": 7,
+"ward": 89,
+"location": "Akshyacolony",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 115,
+"zone": 8,
+"ward": 99,
+"location": "H BLOCK 5TH STREET",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 116,
+"zone": 8,
+"ward": 105,
+"location": "Razak Garden",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 117,
+"zone": 8,
+"ward": 105,
+"location": "INDRA GANDHI STREET",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 118,
+"zone": 8,
+"ward": 105,
+"location": "MMDA COLONY H BLOCK",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 119,
+"zone": 8,
+"ward": 105,
+"location": "J BLOCK",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 120,
+"zone": 9,
+"ward": 110,
+"location": "School Road",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 121,
+"zone": 9,
+"ward": 110,
+"location": "Strelling Road",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 122,
+"zone": 9,
+"ward": 111,
+"location": "Whites Road",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 123,
+"zone": 9,
+"ward": 111,
+"location": "Gopalapuram 1st street",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 124,
+"zone": 9,
+"ward": 113,
+"location": "Prakasam Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 79,
+"year": 2017,
+"sno": 125,
+"zone": 9,
+"ward": 113,
+"location": "Nungambakkm High Road (Near Park Hotel)",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 126,
+"zone": 9,
+"ward": 115,
+"location": "Dr.Besant road (Uruthu School)",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 127,
+"zone": 9,
+"ward": 118,
+"location": "Anna Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 128,
+"zone": 9,
+"ward": 119,
+"location": "Avvai Shanmugam Salai 1st lane",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 129,
+"zone": 9,
+"ward": 119,
+"location": "Lakshmipuram 2nd Street",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 130,
+"zone": 9,
+"ward": 121,
+"location": "Dr.R.K.Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 131,
+"zone": 9,
+"ward": 122,
+"location": "Chamiers Road",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 132,
+"zone": 10,
+"ward": 127,
+"location": "Kaliamman Koil street Near Market",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 133,
+"zone": 10,
+"ward": 136,
+"location": "Bazulla Road",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 134,
+"zone": 10,
+"ward": 136,
+"location": "Burkit Road",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 135,
+"zone": 10,
+"ward": 127,
+"location": "Kaliamman Koil street",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 136,
+"zone": 10,
+"ward": 131,
+"location": "R.K.Shanmugam Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 137,
+"zone": 11,
+"ward": 148,
+"location": "Thangal Karai, Periyar Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 138,
+"zone": 12,
+"ward": 156,
+"location": "PANICHATHAMMAN KOIL",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 139,
+"zone": 12,
+"ward": 161,
+"location": "IG OFFICE",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 140,
+"zone": 12,
+"ward": 162,
+"location": "KANNAN COLONY",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 141,
+"zone": 12,
+"ward": 165,
+"location": "BALAJI NAGAR EXTN.(VACANTLAND to SWD)",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 142,
+"zone": 13,
+"ward": 174,
+"location": "CGHSS - Five furlong road",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 143,
+"zone": 13,
+"ward": 174,
+"location": "Radhakrishnan street",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 144,
+"zone": 13,
+"ward": 174,
+"location": "Pandiyan street",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 145,
+"zone": 13,
+"ward": 174,
+"location": "Velachery main road",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 146,
+"zone": 13,
+"ward": 177,
+"location": "Venkateswara nagar III street (Vacant land - 1 & Dhandeeswaram disposal - 1)",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 147,
+"zone": 13,
+"ward": 177,
+"location": "TNHB III avenue (Vacant land)",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 148,
+"zone": 13,
+"ward": 179,
+"location": "Park avenue III street",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 149,
+"zone": 13,
+"ward": 179,
+"location": "V.G.P Selva nagar IV main road",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 150,
+"zone": 13,
+"ward": 180,
+"location": "Kennady street",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 151,
+"zone": 13,
+"ward": 180,
+"location": "Anna street",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 152,
+"zone": 14,
+"ward": 168,
+"location": "Giri Street",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 153,
+"zone": 14,
+"ward": 169,
+"location": "Ram Nager Ist st",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 154,
+"zone": 14,
+"ward": 169,
+"location": "Sivasubramaniyam st",
+"class": "low",
+"status": null
+},
+{
+"page": 80,
+"year": 2017,
+"sno": 155,
+"zone": 14,
+"ward": 169,
+"location": "Jaya Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 156,
+"zone": 14,
+"ward": 169,
+"location": "Thanthai Periyar School",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 157,
+"zone": 14,
+"ward": 169,
+"location": "Manikandan street",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 158,
+"zone": 14,
+"ward": 187,
+"location": "New Kuberan Nagar 5th street",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 159,
+"zone": 14,
+"ward": 187,
+"location": "New Kuberan Nagar 7th street",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 160,
+"zone": 14,
+"ward": 187,
+"location": "Kathikeyapuram 12th street",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 161,
+"zone": 14,
+"ward": 188,
+"location": "Arul murugan nagar 1st street",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 162,
+"zone": 14,
+"ward": 188,
+"location": "Vishal Nager Main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 163,
+"zone": 14,
+"ward": 188,
+"location": "Krishnaveni Ammal Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 164,
+"zone": 14,
+"ward": 188,
+"location": "mahalakshmi nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 165,
+"zone": 14,
+"ward": 188,
+"location": "madipakkam bus stand",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 166,
+"zone": 14,
+"ward": 188,
+"location": "Govindaswamy Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 167,
+"zone": 14,
+"ward": 188,
+"location": "Arul murugan nagar 4th street",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 168,
+"zone": 14,
+"ward": 188,
+"location": "Veeramani Street",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 169,
+"zone": 14,
+"ward": 188,
+"location": "Kuberan nagar 14th street",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 170,
+"zone": 14,
+"ward": 188,
+"location": "Kuberan nagar 15th street",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 171,
+"zone": 14,
+"ward": 189,
+"location": "perumal Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 172,
+"zone": 14,
+"ward": 189,
+"location": "meru Nagar Main road",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 173,
+"zone": 14,
+"ward": 189,
+"location": "kamaraj Street",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 174,
+"zone": 14,
+"ward": 190,
+"location": "kannan thasan Nagar ( park)",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 175,
+"zone": 14,
+"ward": 190,
+"location": "nehru Street ( part)",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 176,
+"zone": 14,
+"ward": 190,
+"location": "Kovalan Nagar 6th street",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 177,
+"zone": 14,
+"ward": 190,
+"location": "Rajiv Street ( part)",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 178,
+"zone": 14,
+"ward": 191,
+"location": "pallavan Street",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 179,
+"zone": 14,
+"ward": 191,
+"location": "pallavan Nagar 1 Street ( part)",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 180,
+"zone": 14,
+"ward": 191,
+"location": "pallavan Nagar 2 Street ( part)",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 181,
+"zone": 14,
+"ward": 191,
+"location": "pallavan Nagar 3 Street ( part)",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 182,
+"zone": 14,
+"ward": 191,
+"location": "pallavan Nagar 4 Street ( part)",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 183,
+"zone": 14,
+"ward": 191,
+"location": "padamavathi nagar main road",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 184,
+"zone": 14,
+"ward": 191,
+"location": "Nagathamman kovil st",
+"class": "medium",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 185,
+"zone": 14,
+"ward": 191,
+"location": "Indra gandhi street",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 186,
+"zone": 14,
+"ward": 191,
+"location": "Rajiv gandhi street",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 187,
+"zone": 14,
+"ward": 191,
+"location": "Mani megali Street",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 188,
+"zone": 14,
+"ward": 191,
+"location": "Bagavathu Singh Street",
+"class": "low",
+"status": null
+},
+{
+"page": 81,
+"year": 2017,
+"sno": 189,
+"zone": 14,
+"ward": 191,
+"location": "Manikkam Street",
+"class": "low",
+"status": null
+},
+{
+"page": 82,
+"year": 2017,
+"sno": 190,
+"zone": 14,
+"ward": 191,
+"location": "Nethaji Street",
+"class": "low",
+"status": null
+},
+{
+"page": 82,
+"year": 2017,
+"sno": 191,
+"zone": 14,
+"ward": 191,
+"location": "Kovalan Street",
+"class": "low",
+"status": null
+},
+{
+"page": 82,
+"year": 2017,
+"sno": 192,
+"zone": 14,
+"ward": 191,
+"location": "Rajeshwari Street",
+"class": "low",
+"status": null
+},
+{
+"page": 82,
+"year": 2017,
+"sno": 193,
+"zone": 14,
+"ward": 191,
+"location": "Kannagi Street",
+"class": "low",
+"status": null
+},
+{
+"page": 82,
+"year": 2017,
+"sno": 194,
+"zone": 14,
+"ward": 191,
+"location": "Kambar Street",
+"class": "low",
+"status": null
+},
+{
+"page": 82,
+"year": 2017,
+"sno": 195,
+"zone": 14,
+"ward": 191,
+"location": "Indhra Street",
+"class": "low",
+"status": null
+},
+{
+"page": 82,
+"year": 2017,
+"sno": 196,
+"zone": 14,
+"ward": 191,
+"location": "Kumarakurubarar Street",
+"class": "low",
+"status": null
+},
+{
+"page": 82,
+"year": 2017,
+"sno": 197,
+"zone": 14,
+"ward": 191,
+"location": "Rajiv Gandhi Cross Street",
+"class": "low",
+"status": null
+},
+{
+"page": 82,
+"year": 2017,
+"sno": 198,
+"zone": 14,
+"ward": 191,
+"location": "Vaithiya Lingam Stret",
+"class": "low",
+"status": null
+},
+{
+"page": 82,
+"year": 2017,
+"sno": 199,
+"zone": 14,
+"ward": 191,
+"location": "Pachayappan Koil Street",
+"class": "low",
+"status": null
+},
+{
+"page": 82,
+"year": 2017,
+"sno": 200,
+"zone": 15,
+"ward": 192,
+"location": "Kabaleeswarar Nagar 5th cross street",
+"class": "low",
+"status": null
+},
+{
+"page": 82,
+"year": 2017,
+"sno": 201,
+"zone": 15,
+"ward": 193,
+"location": "MCN Nagar Extn 3rd Street",
+"class": "low",
+"status": null
+},
+{
+"page": 82,
+"year": 2017,
+"sno": 202,
+"zone": 15,
+"ward": 194,
+"location": "Raju Nagar 1st and 2nd Street",
+"class": "low",
+"status": null
+},
+{
+"page": 82,
+"year": 2017,
+"sno": 203,
+"zone": 15,
+"ward": 196,
+"location": "Bethel Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 82,
+"year": 2017,
+"sno": 204,
+"zone": 15,
+"ward": 196,
+"location": "ECR-Jn of Gandhi Street",
+"class": "low",
+"status": null
+},
+{
+"page": 82,
+"year": 2017,
+"sno": 205,
+"zone": 15,
+"ward": 197,
+"location": "Bajanai Kovil Street",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 1,
+"zone": 1,
+"ward": 6,
+"location": "Jothi Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 2,
+"zone": 1,
+"ward": 7,
+"location": "Rajaji Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 3,
+"zone": 3,
+"ward": 22,
+"location": "Thirumalai nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 4,
+"zone": 3,
+"ward": 26,
+"location": "Sivaganapathi nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 5,
+"zone": 3,
+"ward": 26,
+"location": "Perimalum nagar",
+"class": "medium",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 6,
+"zone": 7,
+"ward": 82,
+"location": "Karukku Main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 7,
+"zone": 7,
+"ward": 83,
+"location": "TVS Nagar East, Balaji Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 8,
+"zone": 7,
+"ward": 83,
+"location": "Iyappan Nagar,",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 9,
+"zone": 7,
+"ward": 83,
+"location": "Balaji Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 10,
+"zone": 7,
+"ward": 91,
+"location": "Jeswanth Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 11,
+"zone": 7,
+"ward": 92,
+"location": "Vellalar Street",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 12,
+"zone": 7,
+"ward": 93,
+"location": "Padikuppam Main road",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 13,
+"zone": 8,
+"ward": 94,
+"location": "MTH ROAD NEAR VILLIVAKKAM POLICE STATION",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 14,
+"zone": 8,
+"ward": 104,
+"location": "DR ALAGAPPA ROAD",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 15,
+"zone": 8,
+"ward": 104,
+"location": "SUNDARAM LANE",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 16,
+"zone": 11,
+"ward": 147,
+"location": "Nagenthiran Street",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 17,
+"zone": 11,
+"ward": 150,
+"location": "Chettiyaragaram Main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 18,
+"zone": 14,
+"ward": 169,
+"location": "Ram nagar 1st street",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 19,
+"zone": 14,
+"ward": 169,
+"location": "Ram nagar2nd street",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 20,
+"zone": 14,
+"ward": 169,
+"location": "Ram nagar3rd street",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 21,
+"zone": 14,
+"ward": 169,
+"location": "Ram nagar 5th street",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 22,
+"zone": 14,
+"ward": 169,
+"location": "Ram nagar 7th street",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 23,
+"zone": 14,
+"ward": 169,
+"location": "Ram nagar 8th street",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 24,
+"zone": 14,
+"ward": 169,
+"location": "Manikandan street",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 25,
+"zone": 14,
+"ward": 169,
+"location": "Sivasubramaniyam street",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 26,
+"zone": 14,
+"ward": 169,
+"location": "Sivaprakasham 1st street",
+"class": "low",
+"status": null
+},
+{
+"page": 84,
+"year": 2018,
+"sno": 27,
+"zone": 14,
+"ward": 169,
+"location": "Balaji nagar 24th street",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 28,
+"zone": 14,
+"ward": 169,
+"location": "Annai Therasa nagar 7th street",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 29,
+"zone": 14,
+"ward": 169,
+"location": "Annai Therasa nagar 4st street",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 30,
+"zone": 14,
+"ward": 169,
+"location": "Annai Therasa nagar 14th street",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 31,
+"zone": 14,
+"ward": 169,
+"location": "Ramalingam nagar main road",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 32,
+"zone": 14,
+"ward": 169,
+"location": "Jaya nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 33,
+"zone": 14,
+"ward": 183,
+"location": "Division office",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 34,
+"zone": 14,
+"ward": 187,
+"location": "Saraswathi street",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 35,
+"zone": 15,
+"ward": 192,
+"location": "Infront of Maharastra Bank at ECR Road Neelankarai",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 36,
+"zone": 15,
+"ward": 192,
+"location": "Ellaiyamman Koil 4th Street, Neelankarai",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 37,
+"zone": 15,
+"ward": 193,
+"location": "Mahathma Gandhi 2nd Main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 38,
+"zone": 15,
+"ward": 193,
+"location": "Karpaga Vinayagar Nagar 3rd Street",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 39,
+"zone": 15,
+"ward": 193,
+"location": "Karpaga Vinayagar Nagar4th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 40,
+"zone": 15,
+"ward": 193,
+"location": "Karpaga Vinayagar Nagar 5th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 41,
+"zone": 15,
+"ward": 193,
+"location": "Kasthuribai 10th cross street",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 42,
+"zone": 15,
+"ward": 193,
+"location": "Karpaga Vinayagar Nagar 7th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 43,
+"zone": 15,
+"ward": 194,
+"location": "Balaji Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 44,
+"zone": 15,
+"ward": 194,
+"location": "Bharathiyar Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 45,
+"zone": 15,
+"ward": 195,
+"location": "Saraswathi Nagar 4th Cross Street",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 46,
+"zone": 15,
+"ward": 196,
+"location": "ECR Road Pilominal School",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 47,
+"zone": 15,
+"ward": 196,
+"location": "Ramalinga nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 48,
+"zone": 15,
+"ward": 197,
+"location": "Annai Fathima school",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 49,
+"zone": 15,
+"ward": 197,
+"location": "Classic Farm Retreat 1st st",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 50,
+"zone": 15,
+"ward": 198,
+"location": "Ponniyamman koil 5th cross street",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 51,
+"zone": 15,
+"ward": 200,
+"location": "Thiruvalluvar Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 52,
+"zone": 15,
+"ward": 200,
+"location": "Jawahar nagar 5th.6th cr st",
+"class": "low",
+"status": null
+},
+{
+"page": 85,
+"year": 2018,
+"sno": 53,
+"zone": 15,
+"ward": 200,
+"location": "Nookampalayam link road",
+"class": "low",
+"status": null
+},
+{
+"page": 87,
+"year": 2019,
+"sno": 1,
+"zone": 1,
+"ward": 7,
+"location": "Kargil Nagar, Thiruvotriyur",
+"class": "low",
+"status": null
+},
+{
+"page": 87,
+"year": 2019,
+"sno": 2,
+"zone": 3,
+"ward": 24,
+"location": "Surapet Main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 87,
+"year": 2019,
+"sno": 3,
+"zone": 5,
+"ward": 56,
+"location": "Prakasam Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 87,
+"year": 2019,
+"sno": 4,
+"zone": 5,
+"ward": 58,
+"location": "EVK Sampath Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 87,
+"year": 2019,
+"sno": 5,
+"zone": 6,
+"ward": 69,
+"location": "Paper Mills road",
+"class": "low",
+"status": null
+},
+{
+"page": 87,
+"year": 2019,
+"sno": 6,
+"zone": 7,
+"ward": 83,
+"location": "North Avenue, TNHB 27th,28th,42th,49th,50th,61st",
+"class": "low",
+"status": null
+},
+{
+"page": 87,
+"year": 2019,
+"sno": 7,
+"zone": 8,
+"ward": "100 ,\n102",
+"location": "P.H Road, Near Arumbakkam and Near Mosque",
+"class": "low",
+"status": null
+},
+{
+"page": 87,
+"year": 2019,
+"sno": 8,
+"zone": 9,
+"ward": 113,
+"location": "Nungambakkam High (Near Park Hotel)",
+"class": "low",
+"status": null
+},
+{
+"page": 87,
+"year": 2019,
+"sno": 9,
+"zone": 9,
+"ward": 117,
+"location": "North Usman Road",
+"class": "low",
+"status": null
+},
+{
+"page": 87,
+"year": 2019,
+"sno": 10,
+"zone": 10,
+"ward": 127,
+"location": "Jawahar lal nehru, 100 feet road, Koyambedu junction",
+"class": "low",
+"status": null
+},
+{
+"page": 87,
+"year": 2019,
+"sno": 11,
+"zone": 10,
+"ward": 130,
+"location": "100 Feet road, CMRL , Vadapalani junction",
+"class": "low",
+"status": null
+},
+{
+"page": 87,
+"year": 2019,
+"sno": 12,
+"zone": 11,
+"ward": 152,
+"location": "Arcot road infront of lamech school",
+"class": "low",
+"status": null
+},
+{
+"page": 87,
+"year": 2019,
+"sno": 13,
+"zone": 13,
+"ward": 174,
+"location": "Vellachery Main Road Pheonix Mall Near vijaya nagar junction",
+"class": "low",
+"status": null
+},
+{
+"page": 87,
+"year": 2019,
+"sno": 14,
+"zone": 14,
+"ward": "188 ,\n169 ,\n187",
+"location": "Ram Nagar 6th, 8th ,9th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 87,
+"year": 2019,
+"sno": 15,
+"zone": 14,
+"ward": 191,
+"location": "Quidamillath Street",
+"class": "low",
+"status": null
+},
+{
+"page": 87,
+"year": 2019,
+"sno": 16,
+"zone": 14,
+"ward": "188,187",
+"location": "Kuberan Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 87,
+"year": 2019,
+"sno": 17,
+"zone": 14,
+"ward": "169,187",
+"location": "Sadasivam Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 87,
+"year": 2019,
+"sno": 18,
+"zone": 15,
+"ward": 200,
+"location": "Nookkambaalayam link road",
+"class": "low",
+"status": null
+},
+{
+"page": 87,
+"year": 2019,
+"sno": 19,
+"zone": 15,
+"ward": 200,
+"location": "Jawahar Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 89,
+"year": 2020,
+"sno": 1,
+"zone": 1,
+"ward": 7,
+"location": "Kargil Nagar, Thiruvotriyur",
+"class": "low",
+"status": null
+},
+{
+"page": 89,
+"year": 2020,
+"sno": 2,
+"zone": 4,
+"ward": 42,
+"location": "Kailasam Street.",
+"class": "low",
+"status": null
+},
+{
+"page": 89,
+"year": 2020,
+"sno": 3,
+"zone": 4,
+"ward": 47,
+"location": "Meenambal Nagar, Kathivakkam High Road.",
+"class": "low",
+"status": null
+},
+{
+"page": 89,
+"year": 2020,
+"sno": 4,
+"zone": 5,
+"ward": 57,
+"location": "Prakasam Salai,",
+"class": "low",
+"status": null
+},
+{
+"page": 89,
+"year": 2020,
+"sno": 5,
+"zone": 6,
+"ward": "65\n&\n66",
+"location": "Senthil Nagar 1st Main Road & Selvi Nagar 1 to 5 Street. Periyar Nagar (Kathikeyan Salai), Jaganathan Salai.",
+"class": "low",
+"status": null
+},
+{
+"page": 89,
+"year": 2020,
+"sno": 6,
+"zone": 6,
+"ward": 77,
+"location": "Pulianthope High Road",
+"class": "low",
+"status": null
+},
+{
+"page": 89,
+"year": 2020,
+"sno": 7,
+"zone": 7,
+"ward": 83,
+"location": "North Avenue, Korattur",
+"class": "low",
+"status": null
+},
+{
+"page": 89,
+"year": 2020,
+"sno": 8,
+"zone": 8,
+"ward": 94,
+"location": "Baba Nagar, Villivakkam, South Jaganatha Nagar 3rd Main Road.",
+"class": "low",
+"status": null
+},
+{
+"page": 89,
+"year": 2020,
+"sno": 9,
+"zone": 8,
+"ward": 100,
+"location": "3rd Avenue, Anna Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 89,
+"year": 2020,
+"sno": 10,
+"zone": 9,
+"ward": 113,
+"location": "Habibullah Road",
+"class": "low",
+"status": null
+},
+{
+"page": 89,
+"year": 2020,
+"sno": 11,
+"zone": 9,
+"ward": 123,
+"location": "R.A Puram 1st Main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 89,
+"year": 2020,
+"sno": 12,
+"zone": 10,
+"ward": 131,
+"location": "Rajammannar Salai & R.K. Shanmugam Salai.",
+"class": "low",
+"status": null
+},
+{
+"page": 89,
+"year": 2020,
+"sno": 13,
+"zone": 10,
+"ward": 136,
+"location": "Bazullah Road",
+"class": "low",
+"status": null
+},
+{
+"page": 90,
+"year": 2020,
+"sno": 14,
+"zone": 11,
+"ward": 143,
+"location": "Gajalakshmi Nagar Main Road & Gajalakshmi Nagar 5th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 90,
+"year": 2020,
+"sno": 15,
+"zone": 11,
+"ward": 150,
+"location": "Arcot Road Northern side ( from Porur Jun to Karambakkam Police Booth)",
+"class": "low",
+"status": null
+},
+{
+"page": 90,
+"year": 2020,
+"sno": 16,
+"zone": 12,
+"ward": "162\n&\n164",
+"location": "Kannan Colony, Vembuli Amman Koil Road, Alandur",
+"class": "low",
+"status": null
+},
+{
+"page": 90,
+"year": 2020,
+"sno": 17,
+"zone": 13,
+"ward": 174,
+"location": "City Link Road, Five Furlong Road, Cart Track Road, Pillaiyar Koil Street, Nethaji Road.",
+"class": "low",
+"status": null
+},
+{
+"page": 90,
+"year": 2020,
+"sno": 18,
+"zone": 13,
+"ward": 177,
+"location": "Velachery AGS Colony 4th Street & 5th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 90,
+"year": 2020,
+"sno": 19,
+"zone": 13,
+"ward": 180,
+"location": "MGR Main Road. Periyar Nagar, Tharaman",
+"class": "low",
+"status": null
+},
+{
+"page": 90,
+"year": 2020,
+"sno": 20,
+"zone": 14,
+"ward": 169,
+"location": "Ram Nagar 10th & 11th Street.",
+"class": "low",
+"status": null
+},
+{
+"page": 90,
+"year": 2020,
+"sno": 21,
+"zone": 14,
+"ward": 188,
+"location": "Mayilai Balaji Nagar (Kuberan Nagar, Ram Nagar South) Pallikaranai.",
+"class": "low",
+"status": null
+},
+{
+"page": 90,
+"year": 2020,
+"sno": 22,
+"zone": 15,
+"ward": 196,
+"location": "Selva Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 90,
+"year": 2020,
+"sno": 23,
+"zone": 15,
+"ward": 200,
+"location": "Semmancheri Housing Board Colony, Semmancheri EzhilmugaNagar, Jawahar Nagar.",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 1,
+"zone": 1,
+"ward": 1,
+"location": "K.H Road near Vinayakar Kovil",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 2,
+"zone": 1,
+"ward": 1,
+"location": "K.H.Road",
+"class": "medium",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 3,
+"zone": 1,
+"ward": 1,
+"location": "S.V M Nagar Burial Ground",
+"class": "medium",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 4,
+"zone": 1,
+"ward": 2,
+"location": "Valluvar nagar subway",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 5,
+"zone": 1,
+"ward": 2,
+"location": "Kamaraj Nagar 7th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 6,
+"zone": 1,
+"ward": 2,
+"location": "Periyar Kupam Barial Ground",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 7,
+"zone": 1,
+"ward": 2,
+"location": "Nehru Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 8,
+"zone": 1,
+"ward": 3,
+"location": "Etps Colony",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 9,
+"zone": 1,
+"ward": 4,
+"location": "AD Colony",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 10,
+"zone": 1,
+"ward": 4,
+"location": "Jothi Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 11,
+"zone": 1,
+"ward": 4,
+"location": "Shanmugapuram 2nd Street",
+"class": "medium",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 12,
+"zone": 1,
+"ward": 6,
+"location": "Shanmugapuram 12th Cross Street",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 13,
+"zone": 1,
+"ward": 6,
+"location": "Rajashanmugapuram 2nd Street",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 14,
+"zone": 1,
+"ward": 7,
+"location": "Annamalai Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 15,
+"zone": 1,
+"ward": 7,
+"location": "Ramasamy Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 16,
+"zone": 1,
+"ward": 11,
+"location": "Kanakar Street",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 17,
+"zone": 2,
+"ward": 15,
+"location": "Ediyan Chavadi",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 18,
+"zone": 2,
+"ward": 16,
+"location": "Jenifer Nagar",
+"class": "medium",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 19,
+"zone": 2,
+"ward": 17,
+"location": "Saraswathi Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 20,
+"zone": 2,
+"ward": 19,
+"location": "Bala Subramaniyam Nagar",
+"class": "high",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 21,
+"zone": 2,
+"ward": 20,
+"location": "New MGR Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 22,
+"zone": 2,
+"ward": 21,
+"location": "Neducheziyan Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 23,
+"zone": 3,
+"ward": 22,
+"location": "Thiruneelakandar 4th St",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 24,
+"zone": 3,
+"ward": 22,
+"location": "Valluvar St",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 25,
+"zone": 3,
+"ward": 22,
+"location": "K.S. Nagar 27th St",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 26,
+"zone": 3,
+"ward": 22,
+"location": "K.S. Nagar 26th St",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 27,
+"zone": 3,
+"ward": 22,
+"location": "K.S. Nagar 2nd St",
+"class": "medium",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 28,
+"zone": 3,
+"ward": 23,
+"location": "Division Office 23",
+"class": "high",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 29,
+"zone": 3,
+"ward": 23,
+"location": "NSK Street",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 30,
+"zone": 3,
+"ward": 23,
+"location": "Warehouse",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 31,
+"zone": 3,
+"ward": 24,
+"location": "Kamarajar Street",
+"class": "high",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 32,
+"zone": 3,
+"ward": 24,
+"location": "Sriram Nagar",
+"class": "medium",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 33,
+"zone": 3,
+"ward": 24,
+"location": "Sarathy Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 34,
+"zone": 3,
+"ward": 24,
+"location": "Venkat Sai nagar 8th street",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 35,
+"zone": 3,
+"ward": 24,
+"location": "Venkat Sai nagar 11 th street",
+"class": "low",
+"status": null
+},
+{
+"page": 92,
+"year": 2021,
+"sno": 36,
+"zone": 3,
+"ward": 25,
+"location": "Mahalakshmi Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 37,
+"zone": 3,
+"ward": 25,
+"location": "David Jeyarel St",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 38,
+"zone": 3,
+"ward": 25,
+"location": "GNT Road",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 39,
+"zone": 3,
+"ward": 26,
+"location": "Sami Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 40,
+"zone": 3,
+"ward": 26,
+"location": "Thirumazhai nagar",
+"class": "medium",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 41,
+"zone": 3,
+"ward": 26,
+"location": "Parimalam nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 42,
+"zone": 3,
+"ward": 26,
+"location": "Thanikachalam 3rd main road",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 43,
+"zone": 3,
+"ward": 26,
+"location": "Ponniamman medu",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 44,
+"zone": 3,
+"ward": 27,
+"location": "Padma nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 45,
+"zone": 3,
+"ward": 28,
+"location": "AVM Nagar",
+"class": "medium",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 46,
+"zone": 3,
+"ward": 28,
+"location": "Susilammal St",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 47,
+"zone": 3,
+"ward": 28,
+"location": "Rajeshwari Ammal St",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 48,
+"zone": 3,
+"ward": 28,
+"location": "Sasthi nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 49,
+"zone": 3,
+"ward": 28,
+"location": "Padavattamman Koil St",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 50,
+"zone": 3,
+"ward": 28,
+"location": "Ayyavu Garden",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 51,
+"zone": 3,
+"ward": 28,
+"location": "Kumaran street",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 52,
+"zone": 3,
+"ward": 28,
+"location": "Papathi street",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 53,
+"zone": 3,
+"ward": 29,
+"location": "Velu Street",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 54,
+"zone": 3,
+"ward": 29,
+"location": "Vazhuthigaimedu St.,(near amma unavagam)",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 55,
+"zone": 3,
+"ward": 29,
+"location": "Kannabiran Koil Street",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 56,
+"zone": 3,
+"ward": 29,
+"location": "Devarajan Street",
+"class": "medium",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 57,
+"zone": 3,
+"ward": 29,
+"location": "Vedagiri street",
+"class": "medium",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 58,
+"zone": 3,
+"ward": 29,
+"location": "Mahatmagandhi street",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 59,
+"zone": 3,
+"ward": 29,
+"location": "Perumal Koil(gandhi nagar)",
+"class": "medium",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 60,
+"zone": 3,
+"ward": 29,
+"location": "Perumal koil Extn",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 61,
+"zone": 3,
+"ward": 29,
+"location": "Krishna Street",
+"class": "medium",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 62,
+"zone": 3,
+"ward": 29,
+"location": "Adhiraj Street",
+"class": "medium",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 63,
+"zone": 3,
+"ward": 30,
+"location": "Masilamani Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 64,
+"zone": 3,
+"ward": 30,
+"location": "Pandakulam",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 65,
+"zone": 3,
+"ward": 30,
+"location": "VRB nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 66,
+"zone": 3,
+"ward": 30,
+"location": "Roja nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 67,
+"zone": 3,
+"ward": 32,
+"location": "Teacher’s Colony 4th street",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 68,
+"zone": 3,
+"ward": 32,
+"location": "Teacher’s Colony 5th street",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 69,
+"zone": 3,
+"ward": 32,
+"location": "Teacher’s Colony 7th street",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 70,
+"zone": 3,
+"ward": 32,
+"location": "Sarathy Nagar Extn.",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 71,
+"zone": 3,
+"ward": 32,
+"location": "Narmadha Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 72,
+"zone": 3,
+"ward": 32,
+"location": "Venkateshwara Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 73,
+"zone": 3,
+"ward": 32,
+"location": "Mookambikai Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 74,
+"zone": 3,
+"ward": 33,
+"location": "Dr.Abdul kalam Road",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 75,
+"zone": 3,
+"ward": 33,
+"location": "Elizabeth Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 93,
+"year": 2021,
+"sno": 76,
+"zone": 3,
+"ward": 33,
+"location": "Ganapathy jeeva Thootam",
+"class": "low",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 77,
+"zone": 3,
+"ward": 33,
+"location": "Cement godown factory",
+"class": "low",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 78,
+"zone": 3,
+"ward": 33,
+"location": "Kasiammal nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 79,
+"zone": 3,
+"ward": 33,
+"location": "Bharathiyar nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 80,
+"zone": 3,
+"ward": 33,
+"location": "Ramalinga Colony",
+"class": "low",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 81,
+"zone": 3,
+"ward": 33,
+"location": "Annapurana nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 82,
+"zone": 3,
+"ward": 33,
+"location": "200 ft.road (opp Prasath Hospital)",
+"class": "low",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 83,
+"zone": 4,
+"ward": 34,
+"location": "Durga Avenue 1st Main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 84,
+"zone": 4,
+"ward": 34,
+"location": "Sastri Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 85,
+"zone": 4,
+"ward": 34,
+"location": "Thendral Nagar 8th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 86,
+"zone": 4,
+"ward": 35,
+"location": "Muthamiz 8th Block 191",
+"class": "low",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 87,
+"zone": 4,
+"ward": 35,
+"location": "Muthamiz 8th Block 197",
+"class": "medium",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 88,
+"zone": 4,
+"ward": 35,
+"location": "Muthamiz 8th Block 207",
+"class": "medium",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 89,
+"zone": 4,
+"ward": 36,
+"location": "Sharma nagar 1st main road",
+"class": "low",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 90,
+"zone": 4,
+"ward": 38,
+"location": "Nehru 14th St",
+"class": "low",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 91,
+"zone": 4,
+"ward": 38,
+"location": "New Venba Nagar 3rd St",
+"class": "low",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 92,
+"zone": 4,
+"ward": 38,
+"location": "Ilaya Mudali Street",
+"class": "low",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 93,
+"zone": 4,
+"ward": 39,
+"location": "A.E Koil St ( Thiruvalluvar Nagar)",
+"class": "low",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 94,
+"zone": 4,
+"ward": 39,
+"location": "Poondithabgammal Street",
+"class": "low",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 95,
+"zone": 4,
+"ward": 39,
+"location": "MPT Quarters",
+"class": "low",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 96,
+"zone": 4,
+"ward": 40,
+"location": "VOC Nagar",
+"class": "medium",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 97,
+"zone": 4,
+"ward": 40,
+"location": "Thiuruvaluvar Nagar",
+"class": "high",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 98,
+"zone": 4,
+"ward": 40,
+"location": "TP Scheme",
+"class": "medium",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 99,
+"zone": 4,
+"ward": 40,
+"location": "Madha Koil Street",
+"class": "high",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 100,
+"zone": 4,
+"ward": 40,
+"location": "Jeeva Nagar",
+"class": "high",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 101,
+"zone": 4,
+"ward": 40,
+"location": "Vaidhiyanathan Road",
+"class": "medium",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 102,
+"zone": 4,
+"ward": 41,
+"location": "Ennore High Road, MGR Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 103,
+"zone": 4,
+"ward": 41,
+"location": "MGR Nagar 6th St",
+"class": "low",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 104,
+"zone": 4,
+"ward": 41,
+"location": "MGR Nagar 7th St",
+"class": "low",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 105,
+"zone": 4,
+"ward": 41,
+"location": "MGR Nagar 8th St",
+"class": "low",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 106,
+"zone": 4,
+"ward": 42,
+"location": "Kailasam St",
+"class": "low",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 107,
+"zone": 4,
+"ward": 42,
+"location": "Jeeva Street",
+"class": "low",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 108,
+"zone": 4,
+"ward": 42,
+"location": "Veera Kutty Street",
+"class": "low",
+"status": null
+},
+{
+"page": 94,
+"year": 2021,
+"sno": 109,
+"zone": 4,
+"ward": 44,
+"location": "Palaniandavar street",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 110,
+"zone": 4,
+"ward": 44,
+"location": "Manicka vinayagar koil street",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 111,
+"zone": 4,
+"ward": 44,
+"location": "Nattal garden",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 112,
+"zone": 4,
+"ward": 44,
+"location": "Raniammaie st",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 113,
+"zone": 4,
+"ward": 45,
+"location": "Ganesa puram Subway",
+"class": "medium",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 114,
+"zone": 4,
+"ward": 45,
+"location": "Ganesan Main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 115,
+"zone": 4,
+"ward": 45,
+"location": "Stephenson Road",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 116,
+"zone": 4,
+"ward": 45,
+"location": "Chinna Thambi Street",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 117,
+"zone": 4,
+"ward": 45,
+"location": "Gramiya Street",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 118,
+"zone": 4,
+"ward": 45,
+"location": "Stephenson Lane",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 119,
+"zone": 4,
+"ward": 46,
+"location": "Palla Street",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 120,
+"zone": 4,
+"ward": 46,
+"location": "Ponnappan St",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 121,
+"zone": 4,
+"ward": 46,
+"location": "Balakrishnan St",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 122,
+"zone": 4,
+"ward": 46,
+"location": "Moorthy St",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 123,
+"zone": 4,
+"ward": 47,
+"location": "Thiyagappa street",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 124,
+"zone": 4,
+"ward": 47,
+"location": "Kannan Road",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 125,
+"zone": 4,
+"ward": 47,
+"location": "Sigirintha Palayam",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 126,
+"zone": 4,
+"ward": 47,
+"location": "K.H Road",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 127,
+"zone": 4,
+"ward": 47,
+"location": "Egambaram Street",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 128,
+"zone": 4,
+"ward": 48,
+"location": "Muthaiya Mudali St",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 129,
+"zone": 4,
+"ward": 48,
+"location": "Nanayappan St",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 130,
+"zone": 4,
+"ward": 48,
+"location": "Subbammal St",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 131,
+"zone": 4,
+"ward": 48,
+"location": "Ramanujam St",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 132,
+"zone": 4,
+"ward": 48,
+"location": "Soolaiappan Street",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 133,
+"zone": 5,
+"ward": 49,
+"location": "Kappal polu street",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 134,
+"zone": 5,
+"ward": 49,
+"location": "Dhandavarajan St",
+"class": "medium",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 135,
+"zone": 5,
+"ward": 49,
+"location": "Venkatachalam street",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 136,
+"zone": 5,
+"ward": 50,
+"location": "S.N.Chetty street",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 137,
+"zone": 5,
+"ward": 51,
+"location": "Ramanjagam St",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 138,
+"zone": 5,
+"ward": 53,
+"location": "Kathbada main road",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 139,
+"zone": 5,
+"ward": 53,
+"location": "Nagappa nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 140,
+"zone": 5,
+"ward": 53,
+"location": "Kannan roundana",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 141,
+"zone": 5,
+"ward": 53,
+"location": "Srinivasapuram",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 142,
+"zone": 5,
+"ward": 53,
+"location": "Bojaraja nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 143,
+"zone": 5,
+"ward": 53,
+"location": "Pensioners lane",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 144,
+"zone": 5,
+"ward": 53,
+"location": "P.P.Amman koil 1st street",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 145,
+"zone": 5,
+"ward": 53,
+"location": "P.P.Amman koil 2nd street",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 146,
+"zone": 5,
+"ward": 53,
+"location": "P.P.Amman koil 3rd street",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 147,
+"zone": 5,
+"ward": 53,
+"location": "P.P.Amman koil 4th street",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 148,
+"zone": 5,
+"ward": 53,
+"location": "P.P.Amman koil 5th street",
+"class": "low",
+"status": null
+},
+{
+"page": 95,
+"year": 2021,
+"sno": 149,
+"zone": 5,
+"ward": 53,
+"location": "P.P.Amman koil 6th street",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 150,
+"zone": 5,
+"ward": 53,
+"location": "P.P.Amman koil 7th street",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 151,
+"zone": 5,
+"ward": 53,
+"location": "P.P.Amman koil 8th street",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 152,
+"zone": 5,
+"ward": 53,
+"location": "Ramdoss nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 153,
+"zone": 5,
+"ward": 53,
+"location": "Kathivakkam high road",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 154,
+"zone": 5,
+"ward": 53,
+"location": "N.N.Nagar 6th street",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 155,
+"zone": 5,
+"ward": 53,
+"location": "New Labour Lane",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 156,
+"zone": 5,
+"ward": 53,
+"location": "Kadpada St",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 157,
+"zone": 5,
+"ward": 53,
+"location": "Stanley 6th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 158,
+"zone": 5,
+"ward": 55,
+"location": "Prakasam Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 159,
+"zone": 5,
+"ward": 57,
+"location": "Raman road",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 160,
+"zone": 5,
+"ward": 57,
+"location": "Adhiyappa street",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 161,
+"zone": 5,
+"ward": 58,
+"location": "Veppery high road",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 162,
+"zone": 5,
+"ward": 58,
+"location": "Alagappa road",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 163,
+"zone": 5,
+"ward": 58,
+"location": "Jothi venkatachalam street",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 164,
+"zone": 5,
+"ward": 58,
+"location": "General colins road",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 165,
+"zone": 5,
+"ward": 58,
+"location": "Vetinary hospital",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 166,
+"zone": 5,
+"ward": 59,
+"location": "Wallaja road",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 167,
+"zone": 5,
+"ward": 59,
+"location": "Ellis road",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 168,
+"zone": 5,
+"ward": 60,
+"location": "Sembu Doss Street",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 169,
+"zone": 5,
+"ward": 60,
+"location": "Moor Street",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 170,
+"zone": 5,
+"ward": 60,
+"location": "Thacker Street",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 171,
+"zone": 5,
+"ward": 61,
+"location": "Egmore Musium",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 172,
+"zone": 5,
+"ward": 61,
+"location": "Ayya swamy street",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 173,
+"zone": 5,
+"ward": 61,
+"location": "Velyutham street",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 174,
+"zone": 5,
+"ward": 61,
+"location": "Thiruvenkadam street",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 175,
+"zone": 5,
+"ward": 61,
+"location": "Gengu reddy street",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 176,
+"zone": 5,
+"ward": 61,
+"location": "Arumuthu garden",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 177,
+"zone": 5,
+"ward": 61,
+"location": "Thambu reddy street",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 178,
+"zone": 5,
+"ward": 62,
+"location": "Pumping station road",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 179,
+"zone": 5,
+"ward": 63,
+"location": "Pillayar Kovil St",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 180,
+"zone": 5,
+"ward": 63,
+"location": "Velayutham street",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 181,
+"zone": 5,
+"ward": 63,
+"location": "Chella Pillaiyar Koil St",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 182,
+"zone": 5,
+"ward": 63,
+"location": "Goyathoppu",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 183,
+"zone": 5,
+"ward": 63,
+"location": "Adhithanar salai",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 184,
+"zone": 5,
+"ward": 63,
+"location": "Cattle depot",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 185,
+"zone": 5,
+"ward": 63,
+"location": "Narayana naicken street",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 186,
+"zone": 6,
+"ward": 64,
+"location": "Perumdeviammal",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 187,
+"zone": 6,
+"ward": 64,
+"location": "Ashoka Avenue",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 188,
+"zone": 6,
+"ward": 64,
+"location": "Sivasakthi Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 96,
+"year": 2021,
+"sno": 189,
+"zone": 6,
+"ward": 66,
+"location": "Jawahar nagar 1st main road",
+"class": "medium",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 190,
+"zone": 6,
+"ward": 66,
+"location": "Kumaran Nagar 4th street",
+"class": "medium",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 191,
+"zone": 6,
+"ward": 66,
+"location": "Jawahara Nagar 70 feet road",
+"class": "medium",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 192,
+"zone": 6,
+"ward": 66,
+"location": "70 feet Road",
+"class": "medium",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 193,
+"zone": 6,
+"ward": 66,
+"location": "SRP Colony 8th street",
+"class": "low",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 194,
+"zone": 6,
+"ward": 66,
+"location": "SRP Colony 7th street",
+"class": "low",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 195,
+"zone": 6,
+"ward": 66,
+"location": "SRP Colony 11th street",
+"class": "low",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 196,
+"zone": 6,
+"ward": 67,
+"location": "GKM way street 70 feet road",
+"class": "low",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 197,
+"zone": 6,
+"ward": 65,
+"location": "Kasturi Bai Chetty 5th street",
+"class": "medium",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 198,
+"zone": 6,
+"ward": 76,
+"location": "Angalamman Koil",
+"class": "medium",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 199,
+"zone": 6,
+"ward": 78,
+"location": "Astapujam Road",
+"class": "medium",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 200,
+"zone": 7,
+"ward": 80,
+"location": "Backthavachalm Street",
+"class": "medium",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 201,
+"zone": 7,
+"ward": 80,
+"location": "Prakasam Salai",
+"class": "medium",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 202,
+"zone": 7,
+"ward": 82,
+"location": "VOC Street",
+"class": "low",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 203,
+"zone": 7,
+"ward": 82,
+"location": "Patravakkam service road",
+"class": "low",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 204,
+"zone": 7,
+"ward": 82,
+"location": "TNEB Colony 3rd Street",
+"class": "low",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 205,
+"zone": 7,
+"ward": 83,
+"location": "NRS Road",
+"class": "low",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 206,
+"zone": 7,
+"ward": 86,
+"location": "Manurpet",
+"class": "low",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 207,
+"zone": 7,
+"ward": 86,
+"location": "Indra Street",
+"class": "medium",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 208,
+"zone": 7,
+"ward": 86,
+"location": "Ethiraj street",
+"class": "medium",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 209,
+"zone": 7,
+"ward": 90,
+"location": "Golden Jubliee flats",
+"class": "medium",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 210,
+"zone": 8,
+"ward": 94,
+"location": "North Mada Street",
+"class": "low",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 211,
+"zone": 8,
+"ward": 94,
+"location": "Sidco Nagar 4th Main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 212,
+"zone": 8,
+"ward": 94,
+"location": "Baba Nagar",
+"class": "medium",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 213,
+"zone": 8,
+"ward": 94,
+"location": "North Jaganathan Nagar",
+"class": "medium",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 214,
+"zone": 8,
+"ward": 94,
+"location": "Valliammal Nagar",
+"class": "medium",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 215,
+"zone": 8,
+"ward": 95,
+"location": "Moorthy Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 216,
+"zone": 8,
+"ward": 95,
+"location": "Thirumalai Nagar North",
+"class": "low",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 217,
+"zone": 8,
+"ward": 95,
+"location": "Thirumalai Nagar South",
+"class": "low",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 218,
+"zone": 8,
+"ward": 95,
+"location": "Thirumalai Nagar East",
+"class": "low",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 219,
+"zone": 8,
+"ward": 98,
+"location": "V.P Colony",
+"class": "low",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 220,
+"zone": 8,
+"ward": 98,
+"location": "Parthasarathy Street",
+"class": "low",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 221,
+"zone": 8,
+"ward": 96,
+"location": "Duraiswamy Street",
+"class": "low",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 222,
+"zone": 8,
+"ward": 96,
+"location": "Gandhi Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 223,
+"zone": 8,
+"ward": 97,
+"location": "Chakravathi nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 224,
+"zone": 8,
+"ward": 97,
+"location": "Muthuamman nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 225,
+"zone": 8,
+"ward": 97,
+"location": "Periyar Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 226,
+"zone": 8,
+"ward": 97,
+"location": "P.E Koil North Mada street",
+"class": "low",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 227,
+"zone": 8,
+"ward": 100,
+"location": "Radha Krishnan Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 228,
+"zone": 8,
+"ward": 101,
+"location": "BoganVilla Park Inside",
+"class": "low",
+"status": null
+},
+{
+"page": 97,
+"year": 2021,
+"sno": 229,
+"zone": 8,
+"ward": 102,
+"location": "G Block 10th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 230,
+"zone": 8,
+"ward": 102,
+"location": "RV Nagar 4th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 231,
+"zone": 8,
+"ward": 102,
+"location": "D Block 8th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 232,
+"zone": 8,
+"ward": 102,
+"location": "Shenoy Nagar 4th Cross street",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 233,
+"zone": 8,
+"ward": 104,
+"location": "Thideer Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 234,
+"zone": 8,
+"ward": 105,
+"location": "Indira Gandhi street",
+"class": "medium",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 235,
+"zone": 8,
+"ward": 105,
+"location": "Water tank road",
+"class": "medium",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 236,
+"zone": 8,
+"ward": 105,
+"location": "Ashoka Street",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 237,
+"zone": 8,
+"ward": 107,
+"location": "Gurusamy Bridge",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 238,
+"zone": 8,
+"ward": 107,
+"location": "MMC School",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 239,
+"zone": 8,
+"ward": 108,
+"location": "Periyar pathai",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 240,
+"zone": 8,
+"ward": 108,
+"location": "Annaswamy Street",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 241,
+"zone": 8,
+"ward": 108,
+"location": "NGO Colony",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 242,
+"zone": 8,
+"ward": 108,
+"location": "Vinobaji Street",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 243,
+"zone": 9,
+"ward": 110,
+"location": "School Road",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 244,
+"zone": 9,
+"ward": 110,
+"location": "Kamdar Nagar 1st Street",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 245,
+"zone": 9,
+"ward": 110,
+"location": "40 Feet Scheme Road",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 246,
+"zone": 9,
+"ward": 111,
+"location": "Gopalapuram Play Ground",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 247,
+"zone": 9,
+"ward": 112,
+"location": "Vellalar Street",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 248,
+"zone": 9,
+"ward": 112,
+"location": "Sivan Koil Cross Street",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 249,
+"zone": 9,
+"ward": 113,
+"location": "Habibullah Road",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 250,
+"zone": 9,
+"ward": 113,
+"location": "Sarathy Street",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 251,
+"zone": 9,
+"ward": 113,
+"location": "North Ushman Road",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 252,
+"zone": 9,
+"ward": 113,
+"location": "Sivasailam Street",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 253,
+"zone": 9,
+"ward": 114,
+"location": "Lock Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 254,
+"zone": 9,
+"ward": 116,
+"location": "Beach Service Road",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 255,
+"zone": 9,
+"ward": 116,
+"location": "Dr.Besant Road",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 256,
+"zone": 9,
+"ward": 117,
+"location": "Dr.Sadasivam Road",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 257,
+"zone": 9,
+"ward": 117,
+"location": "Arulambal Street",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 258,
+"zone": 9,
+"ward": 117,
+"location": "Thilak Street",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 259,
+"zone": 9,
+"ward": 117,
+"location": "Thilak Street Extn",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 260,
+"zone": 9,
+"ward": 117,
+"location": "Rajan Street",
+"class": "medium",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 261,
+"zone": 9,
+"ward": 117,
+"location": "Sarangabani Street",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 262,
+"zone": 9,
+"ward": 117,
+"location": "Thirumoorthi Street",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 263,
+"zone": 9,
+"ward": 117,
+"location": "Lakshmi Colony",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 264,
+"zone": 9,
+"ward": 117,
+"location": "Giri Road",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 265,
+"zone": 9,
+"ward": 117,
+"location": "Giriappa Road",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 266,
+"zone": 9,
+"ward": 117,
+"location": "Dr.Thomas Road",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 267,
+"zone": 9,
+"ward": 117,
+"location": "G.N Chetty Road",
+"class": "high",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 268,
+"zone": 9,
+"ward": 117,
+"location": "Sarathy Street",
+"class": "low",
+"status": null
+},
+{
+"page": 98,
+"year": 2021,
+"sno": 269,
+"zone": 9,
+"ward": 117,
+"location": "Sivasilam Street",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 270,
+"zone": 9,
+"ward": 117,
+"location": "Valmiki Street",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 271,
+"zone": 9,
+"ward": 118,
+"location": "Venkat Rathinam Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 272,
+"zone": 9,
+"ward": 118,
+"location": "Kasthuri Estate 2nd Street",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 273,
+"zone": 9,
+"ward": 119,
+"location": "Saiva Muthai 6th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 274,
+"zone": 9,
+"ward": 120,
+"location": "Dr.Natesan Road",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 275,
+"zone": 9,
+"ward": 121,
+"location": "Marina Service Road",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 276,
+"zone": 9,
+"ward": 121,
+"location": "Ganesapuram Rettai Kozhai",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 277,
+"zone": 9,
+"ward": 121,
+"location": "Avvai Shanmugam Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 278,
+"zone": 9,
+"ward": 122,
+"location": "K.B Dasan Road",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 279,
+"zone": 9,
+"ward": 122,
+"location": "Seethammal Colony 4th Cross Street",
+"class": "medium",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 280,
+"zone": 9,
+"ward": 122,
+"location": "Seethammal Colony 3rd Cross Street",
+"class": "medium",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 281,
+"zone": 9,
+"ward": 122,
+"location": "Crescent Street",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 282,
+"zone": 9,
+"ward": 122,
+"location": "Ganesapuram",
+"class": "medium",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 283,
+"zone": 9,
+"ward": 123,
+"location": "Seethammal Colony",
+"class": "medium",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 284,
+"zone": 9,
+"ward": 123,
+"location": "CP Ramasamy Road",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 285,
+"zone": 9,
+"ward": 122,
+"location": "Chamiers Road",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 286,
+"zone": 9,
+"ward": 123,
+"location": "Thiruvalluvar Street",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 287,
+"zone": 9,
+"ward": 123,
+"location": "Ramalinga Eswarar Koil",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 288,
+"zone": 9,
+"ward": 123,
+"location": "Nageswarao Park",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 289,
+"zone": 9,
+"ward": 123,
+"location": "Rangan Lane",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 290,
+"zone": 9,
+"ward": 124,
+"location": "VC Garden 1st Street",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 291,
+"zone": 9,
+"ward": 124,
+"location": "VC Garden 2nd Street",
+"class": "medium",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 292,
+"zone": 9,
+"ward": 124,
+"location": "Rakkiyappa Street",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 293,
+"zone": 9,
+"ward": 126,
+"location": "Devanathan Street",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 294,
+"zone": 9,
+"ward": 126,
+"location": "Srinivasan Street",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 295,
+"zone": 9,
+"ward": 126,
+"location": "Chockalingam Street",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 296,
+"zone": 9,
+"ward": 126,
+"location": "Thiruvengadam Street",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 297,
+"zone": 9,
+"ward": 126,
+"location": "Vinayagam Street",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 298,
+"zone": 9,
+"ward": 126,
+"location": "Chandrasekaran Street",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 299,
+"zone": 9,
+"ward": 126,
+"location": "Sivaraman Street",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 300,
+"zone": 9,
+"ward": 126,
+"location": "Pattammal Street",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 301,
+"zone": 10,
+"ward": 128,
+"location": "Krishna Nagar 3rd Street",
+"class": "medium",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 302,
+"zone": 10,
+"ward": 128,
+"location": "Saratha Nagar",
+"class": "medium",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 303,
+"zone": 10,
+"ward": 128,
+"location": "Lambert Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 304,
+"zone": 10,
+"ward": 128,
+"location": "Annai sathya Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 305,
+"zone": 10,
+"ward": 128,
+"location": "Vembuki amman koil st",
+"class": "high",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 306,
+"zone": 10,
+"ward": 128,
+"location": "Pillayar koil st",
+"class": "low",
+"status": null
+},
+{
+"page": 99,
+"year": 2021,
+"sno": 307,
+"zone": 10,
+"ward": 128,
+"location": "East Vaniyar St.",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 308,
+"zone": 10,
+"ward": 128,
+"location": "Tharachand Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 309,
+"zone": 10,
+"ward": 131,
+"location": "Ramaswamy Salai",
+"class": "medium",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 310,
+"zone": 10,
+"ward": 131,
+"location": "Raja Mannar Salai",
+"class": "medium",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 311,
+"zone": 10,
+"ward": 134,
+"location": "Parankusampuram",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 312,
+"zone": 10,
+"ward": 133,
+"location": "Subramaniyam Street",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 313,
+"zone": 10,
+"ward": 132,
+"location": "18th Avenue",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 314,
+"zone": 10,
+"ward": 132,
+"location": "16th Avenue",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 315,
+"zone": 10,
+"ward": 132,
+"location": "19th Avenue",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 316,
+"zone": 10,
+"ward": 132,
+"location": "47th Avenue",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 317,
+"zone": 10,
+"ward": 132,
+"location": "48th Avenue",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 318,
+"zone": 10,
+"ward": 132,
+"location": "9th Avenue",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 319,
+"zone": 10,
+"ward": 132,
+"location": "Kamaraj Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 320,
+"zone": 10,
+"ward": 132,
+"location": "Natesan Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 321,
+"zone": 10,
+"ward": 132,
+"location": "Kannappar Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 322,
+"zone": 10,
+"ward": 135,
+"location": "Postal Colony 4th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 323,
+"zone": 10,
+"ward": 135,
+"location": "Mahadevan Street",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 324,
+"zone": 10,
+"ward": 135,
+"location": "Murthy Street",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 325,
+"zone": 10,
+"ward": 135,
+"location": "Brindavan Street",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 326,
+"zone": 10,
+"ward": 135,
+"location": "Rajaji Street",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 327,
+"zone": 10,
+"ward": 135,
+"location": "Lake view road",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 328,
+"zone": 10,
+"ward": 135,
+"location": "Thambaih Road",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 329,
+"zone": 10,
+"ward": 135,
+"location": "Ramakrishna Puram",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 330,
+"zone": 10,
+"ward": 135,
+"location": "Lakshmi Street",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 331,
+"zone": 10,
+"ward": 135,
+"location": "Babu Rajendra Prasath Road",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 332,
+"zone": 10,
+"ward": 135,
+"location": "Postal Colony 2nd Street",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 333,
+"zone": 10,
+"ward": 136,
+"location": "Bazullah Road",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 334,
+"zone": 10,
+"ward": 138,
+"location": "K.K.Nagar ESI Hospital",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 335,
+"zone": 10,
+"ward": 139,
+"location": "Ragava Reddy Colony 4th St & 1st Cross St Junction",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 336,
+"zone": 10,
+"ward": 141,
+"location": "Kamaraj Colony",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 337,
+"zone": 10,
+"ward": 141,
+"location": "South Dhadabai St",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 338,
+"zone": 11,
+"ward": 143,
+"location": "Goodwil Road Govt School",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 339,
+"zone": 11,
+"ward": 143,
+"location": "Pada Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 340,
+"zone": 11,
+"ward": 143,
+"location": "Phase 1 Nagar 13th Cross street",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 341,
+"zone": 11,
+"ward": 143,
+"location": "Gajalakshmi nagar 3rd street",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 342,
+"zone": 11,
+"ward": 144,
+"location": "P.H. Road",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 343,
+"zone": 11,
+"ward": 144,
+"location": "Bharathiyar Street",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 344,
+"zone": 11,
+"ward": 144,
+"location": "T.N.H.B Sector II",
+"class": "low",
+"status": null
+},
+{
+"page": 100,
+"year": 2021,
+"sno": 345,
+"zone": 11,
+"ward": 147,
+"location": "Alapakkam Main Road Near Burial Ground",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 346,
+"zone": 11,
+"ward": 147,
+"location": "Ganesh Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 347,
+"zone": 11,
+"ward": 147,
+"location": "Valli street",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 348,
+"zone": 11,
+"ward": 147,
+"location": "Chokkanathan Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 349,
+"zone": 11,
+"ward": 148,
+"location": "Kamarajar High Road Thangalkarai",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 350,
+"zone": 11,
+"ward": 148,
+"location": "Anbu Nagar 10th street",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 351,
+"zone": 11,
+"ward": 149,
+"location": "Saravanabhavan Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 352,
+"zone": 11,
+"ward": 152,
+"location": "Thiruvalluvar Salai",
+"class": "medium",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 353,
+"zone": 11,
+"ward": 152,
+"location": "S.V.S Annex",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 354,
+"zone": 11,
+"ward": 152,
+"location": "Kadambadi Amman Koil st",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 355,
+"zone": 11,
+"ward": 150,
+"location": "Arcot Road (Mahalakshmi Nagar)",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 356,
+"zone": 11,
+"ward": 151,
+"location": "Arcot Road Near A1 Mutton Stall",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 357,
+"zone": 11,
+"ward": 151,
+"location": "Chenna Porur Bajanai kovil street",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 358,
+"zone": 11,
+"ward": 153,
+"location": "Ambal Nagar Mullai Street",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 359,
+"zone": 11,
+"ward": 154,
+"location": "Kurinji Nagr",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 360,
+"zone": 11,
+"ward": 155,
+"location": "Karpagambal 2nd Street",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 361,
+"zone": 11,
+"ward": 155,
+"location": "Thirumalai Nagar Angel Street",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 362,
+"zone": 11,
+"ward": 155,
+"location": "Royal Nagar I main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 363,
+"zone": 11,
+"ward": 155,
+"location": "Royal Nagar II main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 364,
+"zone": 11,
+"ward": 155,
+"location": "Tamil Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 365,
+"zone": 12,
+"ward": 156,
+"location": "MCS Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 366,
+"zone": 12,
+"ward": 156,
+"location": "Santhosh Nagar Extn.",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 367,
+"zone": 12,
+"ward": 156,
+"location": "Kaveri Street",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 368,
+"zone": 12,
+"ward": 156,
+"location": "Gowri street",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 369,
+"zone": 12,
+"ward": 156,
+"location": "VGN Lakshimi Nagar Main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 370,
+"zone": 12,
+"ward": 156,
+"location": "AGR Garden",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 371,
+"zone": 12,
+"ward": 156,
+"location": "Thiruvalluvar Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 372,
+"zone": 12,
+"ward": 156,
+"location": "Arumugam Street",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 373,
+"zone": 12,
+"ward": 156,
+"location": "VGN Royal Court",
+"class": "medium",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 374,
+"zone": 12,
+"ward": 157,
+"location": "Dharmarajapuram",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 375,
+"zone": 12,
+"ward": 160,
+"location": "Lawyer Jaganadhan street",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 376,
+"zone": 12,
+"ward": 160,
+"location": "Madhvapuram(East,West,Sout h,North)",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 377,
+"zone": 12,
+"ward": 161,
+"location": "Sanjay Gandhi Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 378,
+"zone": 12,
+"ward": 161,
+"location": "Jeevan Nagar 2nd Street",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 379,
+"zone": 12,
+"ward": 162,
+"location": "Kannan Colony",
+"class": "low",
+"status": null
+},
+{
+"page": 101,
+"year": 2021,
+"sno": 380,
+"zone": 12,
+"ward": 163,
+"location": "shanthi nagar 5th street",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 381,
+"zone": 12,
+"ward": 163,
+"location": "shanthi nagar 7th street",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 382,
+"zone": 12,
+"ward": 164,
+"location": "Nanganallur 21st street",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 383,
+"zone": 12,
+"ward": 165,
+"location": "Bharathidasan Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 384,
+"zone": 12,
+"ward": 165,
+"location": "Vallalar Street",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 385,
+"zone": 12,
+"ward": 167,
+"location": "East main road",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 386,
+"zone": 13,
+"ward": 170,
+"location": "Samy nathan Street",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 387,
+"zone": 13,
+"ward": 170,
+"location": "Dhanakotti Street",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 388,
+"zone": 13,
+"ward": 171,
+"location": "Gandhi mandapam Road",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 389,
+"zone": 13,
+"ward": 171,
+"location": "Sardar Patel Road",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 390,
+"zone": 13,
+"ward": 173,
+"location": "Srinivasapuram",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 391,
+"zone": 13,
+"ward": 173,
+"location": "Dharmampal Park",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 392,
+"zone": 13,
+"ward": 174,
+"location": "Cart Track Road",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 393,
+"zone": 13,
+"ward": 174,
+"location": "Ranganathan Street",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 394,
+"zone": 13,
+"ward": 174,
+"location": "Five Furlong road",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 395,
+"zone": 13,
+"ward": 175,
+"location": "Dhanalakshmi Avenue",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 396,
+"zone": 13,
+"ward": 175,
+"location": "Nehru Nagar 1st main road",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 397,
+"zone": 13,
+"ward": 175,
+"location": "Anna Avenue",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 398,
+"zone": 13,
+"ward": 175,
+"location": "KB Nagar 3rd Cross street jn of 2nd main road",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 399,
+"zone": 13,
+"ward": 175,
+"location": "KB Nagar 3rd main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 400,
+"zone": 13,
+"ward": 175,
+"location": "Dr Muthulakshmi Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 401,
+"zone": 13,
+"ward": 176,
+"location": "Parameshwari nagar 2nd Street",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 402,
+"zone": 13,
+"ward": 176,
+"location": "Sastri Nagar 1st Avenue",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 403,
+"zone": 13,
+"ward": 176,
+"location": "Karpagam Garden 1st link road",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 404,
+"zone": 13,
+"ward": 176,
+"location": "Karpagam Garden 2nd link road",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 405,
+"zone": 13,
+"ward": 177,
+"location": "Lakshmi Nagar 3rd Cross St",
+"class": "high",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 406,
+"zone": 13,
+"ward": 177,
+"location": "Srinagar Colony",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 407,
+"zone": 13,
+"ward": 177,
+"location": "Brindhavan nagar 3rd Extn",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 408,
+"zone": 13,
+"ward": 177,
+"location": "TNHB 3rd Avenue",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 409,
+"zone": 13,
+"ward": 177,
+"location": "Nethaji Road",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 410,
+"zone": 13,
+"ward": 177,
+"location": "Ambedkar nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 411,
+"zone": 13,
+"ward": 177,
+"location": "AGS Colony",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 412,
+"zone": 13,
+"ward": 177,
+"location": "Bhashiyam Layout",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 413,
+"zone": 13,
+"ward": 177,
+"location": "Venkateshwara Nagar 2nd cross street",
+"class": "low",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 414,
+"zone": 13,
+"ward": 178,
+"location": "Kalki Nagar",
+"class": "high",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 415,
+"zone": 13,
+"ward": 178,
+"location": "Srinivasapuram",
+"class": "medium",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 416,
+"zone": 13,
+"ward": 178,
+"location": "ACS Colony",
+"class": "medium",
+"status": null
+},
+{
+"page": 102,
+"year": 2021,
+"sno": 417,
+"zone": 13,
+"ward": 178,
+"location": "Orandiamman Avenue",
+"class": "high",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 418,
+"zone": 13,
+"ward": 179,
+"location": "Dhandeeshwaram 7th main road",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 419,
+"zone": 13,
+"ward": 179,
+"location": "Udayam Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 420,
+"zone": 13,
+"ward": 180,
+"location": "Anjukammal street",
+"class": "high",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 421,
+"zone": 13,
+"ward": 180,
+"location": "Ramasamy Street",
+"class": "high",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 422,
+"zone": 13,
+"ward": 180,
+"location": "Kennedy Street",
+"class": "high",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 423,
+"zone": 13,
+"ward": 180,
+"location": "Raniammal Street",
+"class": "high",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 424,
+"zone": 13,
+"ward": 181,
+"location": "Arundal Beach",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 425,
+"zone": 13,
+"ward": 181,
+"location": "Kalachetra main road",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 426,
+"zone": 13,
+"ward": 181,
+"location": "Valmiki Street",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 427,
+"zone": 13,
+"ward": 181,
+"location": "East Kamarajar 2nd St",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 428,
+"zone": 13,
+"ward": 181,
+"location": "East Kamarajar 3rd St",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 429,
+"zone": 13,
+"ward": 181,
+"location": "Dr.Radhakrishinan road",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 430,
+"zone": 13,
+"ward": 182,
+"location": "Kannapper Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 431,
+"zone": 13,
+"ward": 182,
+"location": "Kamarajar Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 432,
+"zone": 13,
+"ward": 182,
+"location": "Journalist Colony",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 433,
+"zone": 13,
+"ward": 182,
+"location": "Ganesh Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 434,
+"zone": 14,
+"ward": 168,
+"location": "Epr Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 435,
+"zone": 14,
+"ward": 168,
+"location": "Thilagar street",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 436,
+"zone": 14,
+"ward": 168,
+"location": "Lakshmi Nagar 5th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 437,
+"zone": 14,
+"ward": 168,
+"location": "Sai ram street",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 438,
+"zone": 14,
+"ward": 169,
+"location": "Ram nagar 1st to 8th Street",
+"class": "medium",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 439,
+"zone": 14,
+"ward": 169,
+"location": "Ram nagar 11th street",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 440,
+"zone": 14,
+"ward": 169,
+"location": "Maheshwari Avenue",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 441,
+"zone": 14,
+"ward": 169,
+"location": "Jaya Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 442,
+"zone": 14,
+"ward": 169,
+"location": "Sundarrajan Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 443,
+"zone": 14,
+"ward": 169,
+"location": "Arivoli street",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 444,
+"zone": 14,
+"ward": 169,
+"location": "Sivasubramaniyam Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 445,
+"zone": 14,
+"ward": 169,
+"location": "Annaitheresa Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 446,
+"zone": 14,
+"ward": 169,
+"location": "Vallal Athiyaman Street",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 447,
+"zone": 14,
+"ward": 169,
+"location": "Vallal Kari Street",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 448,
+"zone": 14,
+"ward": 169,
+"location": "Vallal Pari Street",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 449,
+"zone": 14,
+"ward": 169,
+"location": "J K Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 450,
+"zone": 14,
+"ward": 169,
+"location": "Brindhavan Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 451,
+"zone": 14,
+"ward": 169,
+"location": "Sadhasivam Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 452,
+"zone": 14,
+"ward": 169,
+"location": "Thirunana Sambandhar Street",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 453,
+"zone": 14,
+"ward": 169,
+"location": "Sivaprakasam nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 454,
+"zone": 14,
+"ward": 183,
+"location": "Lakshmana Perumal 4th street",
+"class": "high",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 455,
+"zone": 14,
+"ward": 183,
+"location": "Lakshmana Perumal 5th street",
+"class": "high",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 456,
+"zone": 14,
+"ward": 183,
+"location": "Judges colony",
+"class": "low",
+"status": null
+},
+{
+"page": 103,
+"year": 2021,
+"sno": 457,
+"zone": 14,
+"ward": 183,
+"location": "Baywatch road",
+"class": "medium",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 458,
+"zone": 14,
+"ward": 183,
+"location": "Nehru nagar 10th, 12th & 14th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 459,
+"zone": 14,
+"ward": 183,
+"location": "Jaganathan Street",
+"class": "high",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 460,
+"zone": 14,
+"ward": 183,
+"location": "Kaveri Nagar 5th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 461,
+"zone": 14,
+"ward": 183,
+"location": "Kaveri Nagar 6th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 462,
+"zone": 14,
+"ward": 183,
+"location": "Kaveri Nagar Main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 463,
+"zone": 14,
+"ward": 184,
+"location": "Ramappa nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 464,
+"zone": 14,
+"ward": 184,
+"location": "Telephone nagar 11th street",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 465,
+"zone": 14,
+"ward": 185,
+"location": "Jayshankar Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 466,
+"zone": 14,
+"ward": 185,
+"location": "Kandasamy Nagar 4th St",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 467,
+"zone": 14,
+"ward": 185,
+"location": "Govindhan Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 468,
+"zone": 14,
+"ward": 185,
+"location": "Palkalai Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 469,
+"zone": 14,
+"ward": 185,
+"location": "Mayana Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 470,
+"zone": 14,
+"ward": 185,
+"location": "VGP 2nd cross street",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 471,
+"zone": 14,
+"ward": 185,
+"location": "Boss Avenue",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 472,
+"zone": 14,
+"ward": 185,
+"location": "Kandhasamy Nagar 7th street",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 473,
+"zone": 14,
+"ward": 185,
+"location": "Anna Salai 2nd cross street",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 474,
+"zone": 14,
+"ward": 186,
+"location": "Senthil Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 475,
+"zone": 14,
+"ward": 186,
+"location": "Rathna mani nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 476,
+"zone": 14,
+"ward": 186,
+"location": "Kamaraj nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 477,
+"zone": 14,
+"ward": 186,
+"location": "Kumaran Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 478,
+"zone": 14,
+"ward": 186,
+"location": "Maruthi Nagar Main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 479,
+"zone": 14,
+"ward": 187,
+"location": "Karthikeyapuram 12th street",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 480,
+"zone": 14,
+"ward": 187,
+"location": "Karthikeyapuram 7th street",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 481,
+"zone": 14,
+"ward": 188,
+"location": "Anna Nagar west 7th street",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 482,
+"zone": 14,
+"ward": 188,
+"location": "Anna Nagar west 8th street",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 483,
+"zone": 14,
+"ward": 188,
+"location": "Thirumurugan street",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 484,
+"zone": 14,
+"ward": 188,
+"location": "Ram nagar 6th main road",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 485,
+"zone": 14,
+"ward": 188,
+"location": "Ram nagar 5th & 7th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 486,
+"zone": 14,
+"ward": 188,
+"location": "Arumugam Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 487,
+"zone": 14,
+"ward": 188,
+"location": "Kuberan Nagar 8th & 9th Street",
+"class": "medium",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 488,
+"zone": 14,
+"ward": 188,
+"location": "Kuberan Nagar 11th Street",
+"class": "medium",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 489,
+"zone": 14,
+"ward": 188,
+"location": "Kamarajar Street",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 490,
+"zone": 14,
+"ward": 188,
+"location": "Krishnaveni Ammal Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 491,
+"zone": 14,
+"ward": 188,
+"location": "Sadhasivam Nagar 3rd Main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 492,
+"zone": 14,
+"ward": 188,
+"location": "Sadhasivam Nagar 3rd Cross Street",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 493,
+"zone": 14,
+"ward": 188,
+"location": "Mahalakshmi nagar main road",
+"class": "low",
+"status": null
+},
+{
+"page": 104,
+"year": 2021,
+"sno": 494,
+"zone": 14,
+"ward": 188,
+"location": "Mylai kabaleeswarar nagar 2nd street",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 495,
+"zone": 14,
+"ward": 188,
+"location": "Veeramani street",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 496,
+"zone": 14,
+"ward": 188,
+"location": "Perumal Street",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 497,
+"zone": 14,
+"ward": 189,
+"location": "Sathyamurthy Colony",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 498,
+"zone": 14,
+"ward": 189,
+"location": "Meenachipuram 1st street",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 499,
+"zone": 14,
+"ward": 189,
+"location": "Vimala Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 500,
+"zone": 14,
+"ward": 189,
+"location": "Varadharajan Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 501,
+"zone": 14,
+"ward": 189,
+"location": "Sengazhani amman koil street",
+"class": "medium",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 502,
+"zone": 14,
+"ward": 190,
+"location": "Chettinadu Enclave",
+"class": "medium",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 503,
+"zone": 14,
+"ward": 190,
+"location": "Chittibabu 4th Cross Street",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 504,
+"zone": 14,
+"ward": 190,
+"location": "Chittibabu 8th Cross Street",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 505,
+"zone": 14,
+"ward": 190,
+"location": "Veerasamy Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 506,
+"zone": 14,
+"ward": 190,
+"location": "Sree Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 507,
+"zone": 14,
+"ward": 190,
+"location": "Pasumpon Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 508,
+"zone": 14,
+"ward": 190,
+"location": "Pandiyan Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 509,
+"zone": 14,
+"ward": 190,
+"location": "Sai Balaji Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 510,
+"zone": 14,
+"ward": 191,
+"location": "Jaladan Pettai 3rd main road",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 511,
+"zone": 14,
+"ward": 191,
+"location": "Jayachandran nagar 3rd main road",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 512,
+"zone": 14,
+"ward": 191,
+"location": "Jaganathapuram main road",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 513,
+"zone": 15,
+"ward": 192,
+"location": "CLRI 3rd Cross street",
+"class": "medium",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 514,
+"zone": 15,
+"ward": 192,
+"location": "CLRI 2nd Main road",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 515,
+"zone": 15,
+"ward": 192,
+"location": "Ruby complex",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 516,
+"zone": 15,
+"ward": 192,
+"location": "Kabaleeshwarar Nagar 5th Cross street",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 517,
+"zone": 15,
+"ward": 192,
+"location": "Chinna Neelangarai Kuppam",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 518,
+"zone": 15,
+"ward": 192,
+"location": "Madha Kovil street",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 519,
+"zone": 15,
+"ward": 193,
+"location": "MCN Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 520,
+"zone": 15,
+"ward": 193,
+"location": "Sri Sai Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 521,
+"zone": 15,
+"ward": 193,
+"location": "Ellaimman Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 522,
+"zone": 15,
+"ward": 194,
+"location": "Raju Nagar 1st Street",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 523,
+"zone": 15,
+"ward": 194,
+"location": "Raju Nagar 2nd Street",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 524,
+"zone": 15,
+"ward": 194,
+"location": "Srividhya Avenue",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 525,
+"zone": 15,
+"ward": 194,
+"location": "Eswaran Street",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 526,
+"zone": 15,
+"ward": 195,
+"location": "Kannagi Nagar 19th Cross street",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 527,
+"zone": 15,
+"ward": 196,
+"location": "Barathi Avenue",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 528,
+"zone": 15,
+"ward": 196,
+"location": "Ashok Street Bharat Avenue",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 529,
+"zone": 15,
+"ward": 196,
+"location": "Royal Enclave",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 530,
+"zone": 15,
+"ward": 196,
+"location": "Anna Eclave",
+"class": "low",
+"status": null
+},
+{
+"page": 105,
+"year": 2021,
+"sno": 531,
+"zone": 15,
+"ward": 196,
+"location": "Vettuvankeni 2nd Avenue, 2nd Main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 532,
+"zone": 15,
+"ward": 196,
+"location": "ISCKON Temple",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 533,
+"zone": 15,
+"ward": 196,
+"location": "Hanuman Colony",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 534,
+"zone": 15,
+"ward": 196,
+"location": "Raja Nagar 1st Cross Street",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 535,
+"zone": 15,
+"ward": 196,
+"location": "Royal Enclave Extension",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 536,
+"zone": 15,
+"ward": 196,
+"location": "Vettuvankeni 2nd Avenue, 7th street",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 537,
+"zone": 15,
+"ward": 197,
+"location": "Ganesh Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 538,
+"zone": 15,
+"ward": 197,
+"location": "Annai Fathima Child Welfare",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 539,
+"zone": 15,
+"ward": 197,
+"location": "Karapakkam Service Road",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 540,
+"zone": 15,
+"ward": 197,
+"location": "DevaraJ Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 541,
+"zone": 15,
+"ward": 198,
+"location": "Semmozhi Nagar",
+"class": "medium",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 542,
+"zone": 15,
+"ward": 198,
+"location": "Copper Beach",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 543,
+"zone": 15,
+"ward": 198,
+"location": "Village High Road",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 544,
+"zone": 15,
+"ward": 198,
+"location": "Sea Cliff High Road",
+"class": "medium",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 545,
+"zone": 15,
+"ward": 198,
+"location": "Seashell Avenue",
+"class": "medium",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 546,
+"zone": 15,
+"ward": 199,
+"location": "MG Jeevarathinam Street",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 547,
+"zone": 15,
+"ward": 199,
+"location": "Mazhavarayar Street",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 548,
+"zone": 15,
+"ward": 199,
+"location": "Neelathirai Street",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 549,
+"zone": 15,
+"ward": 199,
+"location": "Rajaji Street",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 550,
+"zone": 15,
+"ward": 199,
+"location": "vallalar Street",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 551,
+"zone": 15,
+"ward": 199,
+"location": "Karlmark Street",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 552,
+"zone": 15,
+"ward": 199,
+"location": "Juhu Beach Road",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 553,
+"zone": 15,
+"ward": 199,
+"location": "Gangai Amman Colony",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 554,
+"zone": 15,
+"ward": 199,
+"location": "MGR St",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 555,
+"zone": 15,
+"ward": 199,
+"location": "VGP 1st, 2nd, 3rd Main Road",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 556,
+"zone": 15,
+"ward": 199,
+"location": "D.P. Rajan Road",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 557,
+"zone": 15,
+"ward": 199,
+"location": "VGP Gandhi Street",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 558,
+"zone": 15,
+"ward": 199,
+"location": "Nainar Kuppam",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 559,
+"zone": 15,
+"ward": 200,
+"location": "Ezhil Mugha Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 560,
+"zone": 15,
+"ward": 200,
+"location": "Jawahar Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 106,
+"year": 2021,
+"sno": 561,
+"zone": 15,
+"ward": 200,
+"location": "Nookamplalayam Link Road, TSUNAMI Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 108,
+"year": 2022,
+"sno": 1,
+"zone": 1,
+"ward": 4,
+"location": "Jothi nagar 10th Street",
+"class": "low",
+"status": null
+},
+{
+"page": 108,
+"year": 2022,
+"sno": 2,
+"zone": 7,
+"ward": 80,
+"location": "Vairakulam street",
+"class": "low",
+"status": null
+},
+{
+"page": 108,
+"year": 2022,
+"sno": 3,
+"zone": 7,
+"ward": 80,
+"location": "Thirumalai priya nagar 16th street",
+"class": "low",
+"status": null
+},
+{
+"page": 108,
+"year": 2022,
+"sno": 4,
+"zone": 7,
+"ward": 83,
+"location": "Highways nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 108,
+"year": 2022,
+"sno": 5,
+"zone": 7,
+"ward": 83,
+"location": "Ganesh Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 108,
+"year": 2022,
+"sno": 6,
+"zone": 7,
+"ward": 84,
+"location": "North Avenue Road",
+"class": "low",
+"status": null
+},
+{
+"page": 108,
+"year": 2022,
+"sno": 7,
+"zone": 7,
+"ward": 84,
+"location": "TNHB 61st Street",
+"class": "low",
+"status": null
+},
+{
+"page": 108,
+"year": 2022,
+"sno": 8,
+"zone": 7,
+"ward": 84,
+"location": "Periyar Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 108,
+"year": 2022,
+"sno": 9,
+"zone": 7,
+"ward": 84,
+"location": "Central Avenue Road",
+"class": "low",
+"status": null
+},
+{
+"page": 108,
+"year": 2022,
+"sno": 10,
+"zone": 7,
+"ward": 84,
+"location": "TNHB 26st Street",
+"class": "low",
+"status": null
+},
+{
+"page": 108,
+"year": 2022,
+"sno": 11,
+"zone": 7,
+"ward": 84,
+"location": "Bajanaikovil Street Pattaravakkam",
+"class": "low",
+"status": null
+},
+{
+"page": 108,
+"year": 2022,
+"sno": 12,
+"zone": 7,
+"ward": 84,
+"location": "Duraisam street",
+"class": "low",
+"status": null
+},
+{
+"page": 108,
+"year": 2022,
+"sno": 13,
+"zone": 7,
+"ward": 85,
+"location": "Pattravakkam Road",
+"class": "low",
+"status": null
+},
+{
+"page": 108,
+"year": 2022,
+"sno": 14,
+"zone": 7,
+"ward": 88,
+"location": "Kurinji Street",
+"class": "low",
+"status": null
+},
+{
+"page": 108,
+"year": 2022,
+"sno": 15,
+"zone": 7,
+"ward": 90,
+"location": "Chennai Flats, Padikuppam Road",
+"class": "low",
+"status": null
+},
+{
+"page": 108,
+"year": 2022,
+"sno": 16,
+"zone": 8,
+"ward": 94,
+"location": "North Jeganathan Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 108,
+"year": 2022,
+"sno": 17,
+"zone": 8,
+"ward": 94,
+"location": "North Jeganathan Nagar Annex",
+"class": "low",
+"status": null
+},
+{
+"page": 108,
+"year": 2022,
+"sno": 18,
+"zone": 8,
+"ward": 97,
+"location": "Bharathi Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 108,
+"year": 2022,
+"sno": 19,
+"zone": 8,
+"ward": 98,
+"location": "V P Colony",
+"class": "low",
+"status": null
+},
+{
+"page": 108,
+"year": 2022,
+"sno": 20,
+"zone": 8,
+"ward": 98,
+"location": "Police Manickkam Street",
+"class": "low",
+"status": null
+},
+{
+"page": 108,
+"year": 2022,
+"sno": 21,
+"zone": 8,
+"ward": 98,
+"location": "Parthasarthy Street",
+"class": "low",
+"status": null
+},
+{
+"page": 108,
+"year": 2022,
+"sno": 22,
+"zone": 15,
+"ward": 194,
+"location": "Royal Enclave",
+"class": "low",
+"status": null
+},
+{
+"page": 109,
+"year": 2022,
+"sno": 23,
+"zone": 15,
+"ward": 194,
+"location": "Classic Enclave",
+"class": "low",
+"status": null
+},
+{
+"page": 109,
+"year": 2022,
+"sno": 24,
+"zone": 2,
+"ward": 19,
+"location": "Kamarajar Nagar, Chinnasamy Nagar",
+"class": "low",
+"status": null
+},
+{
+"page": 109,
+"year": 2022,
+"sno": 25,
+"zone": 7,
+"ward": 82,
+"location": "KAILASAM STREET",
+"class": "low",
+"status": null
+},
+{
+"page": 109,
+"year": 2022,
+"sno": 26,
+"zone": 7,
+"ward": 82,
+"location": "BALAVINAYAGAR STREET",
+"class": "low",
+"status": null
+},
+{
+"page": 109,
+"year": 2022,
+"sno": 27,
+"zone": 8,
+"ward": 97,
+"location": "Periyar Salai",
+"class": "low",
+"status": null
+},
+{
+"page": 109,
+"year": 2022,
+"sno": 28,
+"zone": 8,
+"ward": 97,
+"location": "Battachari Street",
+"class": "low",
+"status": null
+},
+{
+"page": 109,
+"year": 2022,
+"sno": 29,
+"zone": 2,
+"ward": 15,
+"location": "Edayanchavadi 1st cross street",
+"class": "medium",
+"status": null
+},
+{
+"page": 109,
+"year": 2022,
+"sno": 30,
+"zone": 2,
+"ward": 18,
+"location": "Kalaignar Nagar",
+"class": "medium",
+"status": null
+},
+{
+"page": 109,
+"year": 2022,
+"sno": 31,
+"zone": 2,
+"ward": 18,
+"location": "Harikrishnapuram Amman Nagar",
+"class": "medium",
+"status": null
+},
+{
+"page": 109,
+"year": 2022,
+"sno": 32,
+"zone": 2,
+"ward": 19,
+"location": "Kavithendral Kalyana Sundaram Nagar (Vacant Land)",
+"class": "medium",
+"status": null
+},
+{
+"page": 109,
+"year": 2022,
+"sno": 33,
+"zone": 6,
+"ward": 65,
+"location": "Sivasakthi nagar",
+"class": "medium",
+"status": null
+},
+{
+"page": 109,
+"year": 2022,
+"sno": 34,
+"zone": 6,
+"ward": 73,
+"location": "Stephenson Road",
+"class": "medium",
+"status": null
+},
+{
+"page": 109,
+"year": 2022,
+"sno": 35,
+"zone": 7,
+"ward": 82,
+"location": "PILLAIYAR KOIL 1ST STREET",
+"class": "medium",
+"status": null
+},
+{
+"page": 109,
+"year": 2022,
+"sno": 36,
+"zone": 8,
+"ward": 97,
+"location": "Muthamman Nagar",
+"class": "medium",
+"status": null
+},
+{
+"page": 109,
+"year": 2022,
+"sno": 37,
+"zone": 2,
+"ward": 19,
+"location": "Balasubramani Nagar",
+"class": "high",
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 1,
+"zone": 1,
+"ward": 7,
+"location": "Vetri vinayagar nagar",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 2,
+"zone": 1,
+"ward": 7,
+"location": "Kargil nagar",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 3,
+"zone": 2,
+"ward": 15,
+"location": "Edyanchawadi",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 4,
+"zone": 2,
+"ward": 15,
+"location": "Old Napalayam new colony",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 5,
+"zone": 3,
+"ward": 25,
+"location": "CMDA Truck Terminal",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 6,
+"zone": 3,
+"ward": 30,
+"location": "Elizabeth Nagar",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 7,
+"zone": 4,
+"ward": 35,
+"location": "Muthamizh Nagar",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 8,
+"zone": 4,
+"ward": 40,
+"location": "AE Koil St",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 9,
+"zone": 4,
+"ward": 37,
+"location": "MKB Nagar",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 10,
+"zone": 5,
+"ward": 53,
+"location": "Bojaraja Nagar",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 11,
+"zone": 5,
+"ward": 57,
+"location": "Chinna Thambi Street",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 12,
+"zone": 6,
+"ward": 66,
+"location": "Thanikachalam nagar",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 13,
+"zone": 6,
+"ward": 68,
+"location": "70feet road",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 14,
+"zone": 6,
+"ward": 77,
+"location": "Market Street",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 15,
+"zone": 6,
+"ward": 76,
+"location": "Angalamman Koil Street",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 16,
+"zone": 9,
+"ward": 119,
+"location": "Musuri Subramaniyam Salai",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 17,
+"zone": 9,
+"ward": 119,
+"location": "Muthahaiya Garden street",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 18,
+"zone": 9,
+"ward": 121,
+"location": "PS Sivasamy Salai",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 19,
+"zone": 10,
+"ward": 129,
+"location": "Kumaran Colony",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 20,
+"zone": 11,
+"ward": 143,
+"location": "Pada Salai Street",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 21,
+"zone": 11,
+"ward": 145,
+"location": "Thangal Karai",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 23,
+"zone": 11,
+"ward": 152,
+"location": "Ambathkar Nagar",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 24,
+"zone": 11,
+"ward": 151,
+"location": "Porur Junction",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 25,
+"zone": 11,
+"ward": 155,
+"location": "Thiruvalluvar Salai",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 26,
+"zone": 11,
+"ward": 150,
+"location": "Thundalam Tiva Nagar",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 26,
+"zone": 12,
+"ward": 156,
+"location": "Sindhu Salai",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 27,
+"zone": 12,
+"ward": 156,
+"location": "VGN Lakshmi Nagar",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 28,
+"zone": 12,
+"ward": 157,
+"location": "CRR Puram",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 29,
+"zone": 13,
+"ward": 175,
+"location": "City Link Road",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 30,
+"zone": 13,
+"ward": 175,
+"location": "TNHB 3 rd Avenue",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 31,
+"zone": 13,
+"ward": 176,
+"location": "Eb Colony",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 32,
+"zone": 14,
+"ward": 181,
+"location": "Swaminathan Nagar",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 33,
+"zone": 14,
+"ward": 182,
+"location": "Maruthi Nagar",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 34,
+"zone": 15,
+"ward": 193,
+"location": "Pandiyan Nagar",
+"class": null,
+"status": null
+},
+{
+"page": 110,
+"year": 2023,
+"sno": 35,
+"zone": 15,
+"ward": 199,
+"location": "Classic Farm",
+"class": null,
+"status": null
+}
+]

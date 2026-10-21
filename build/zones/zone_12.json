@@ -1,0 +1,1214 @@
+{
+ "zone": 12,
+ "zone_name": "Alandur",
+ "zonal_office": null,
+ "officials": [
+  {
+   "designation": "Chairman",
+   "name": null,
+   "wards": "156 - 167",
+   "phones": [
+    "9445467166"
+   ],
+   "category": "zone"
+  },
+  {
+   "designation": "Zonal Officer",
+   "name": null,
+   "wards": "156 to 167",
+   "phones": [
+    "9445190012"
+   ],
+   "category": "zone"
+  },
+  {
+   "designation": "Executive Engineer-1",
+   "name": null,
+   "wards": "156to161",
+   "phones": [
+    "9445190032"
+   ],
+   "category": "zone"
+  },
+  {
+   "designation": "Executive Engineer-2",
+   "name": null,
+   "wards": "162to167",
+   "phones": [
+    "9445190037"
+   ],
+   "category": "zone"
+  },
+  {
+   "designation": "Assistant Executive Engineer",
+   "name": null,
+   "wards": "Unit-35",
+   "phones": [
+    "9445190135"
+   ],
+   "category": "ward"
+  },
+  {
+   "designation": "Assistant Executive Engineer",
+   "name": null,
+   "wards": "Unit-36",
+   "phones": [
+    "9445190136"
+   ],
+   "category": "ward"
+  },
+  {
+   "designation": "Assistant Executive Engineer",
+   "name": null,
+   "wards": "Unit-37",
+   "phones": [
+    "9445190137"
+   ],
+   "category": "ward"
+  },
+  {
+   "designation": "Additional DivisionalEngineer,Electrical",
+   "name": null,
+   "wards": "156to167",
+   "phones": [
+    "9445190052"
+   ],
+   "category": "electrical"
+  },
+  {
+   "designation": "Conservancy Inspector(Lorry Station)",
+   "name": null,
+   "wards": "Zone XII",
+   "phones": [
+    "9094063412"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Assistant Executive Engineer (Solid Waste Management)",
+   "name": null,
+   "wards": null,
+   "phones": [
+    "9445477201"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Conservancysupervisor",
+   "name": null,
+   "wards": "156-161",
+   "phones": [
+    "9445191435"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Conservancysupervisor",
+   "name": null,
+   "wards": "162-167",
+   "phones": [
+    "9445190812"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Zonal Health Officer",
+   "name": null,
+   "wards": "Zone XII",
+   "phones": [
+    "9445190072"
+   ],
+   "category": "health"
+  },
+  {
+   "designation": "Zonal Medical Officer",
+   "name": null,
+   "wards": "Zone XII",
+   "phones": [
+    "9445402934"
+   ],
+   "category": "medical"
+  },
+  {
+   "designation": "Veterinary Doctor",
+   "name": null,
+   "wards": "Zone XII",
+   "phones": [
+    "9445026049"
+   ],
+   "category": "health"
+  },
+  {
+   "designation": "Junior Entomologist",
+   "name": null,
+   "wards": "Zone XII",
+   "phones": [
+    "9445025793"
+   ],
+   "category": "health"
+  },
+  {
+   "designation": "Sanitary Officer",
+   "name": null,
+   "wards": "Unit -35",
+   "phones": [
+    "9962604721"
+   ],
+   "category": "health"
+  },
+  {
+   "designation": "Sanitary Officer",
+   "name": null,
+   "wards": "Unit -36",
+   "phones": [
+    "9940026757"
+   ],
+   "category": "health"
+  },
+  {
+   "designation": "Sanitary Officer",
+   "name": null,
+   "wards": "Unit -37",
+   "phones": [
+    "9994845747"
+   ],
+   "category": "health"
+  },
+  {
+   "designation": "Park Overseer (21 Nos of Power saw, 17 Nos of Tree Pruner)",
+   "name": null,
+   "wards": "Alandur (Division 156 - 167)",
+   "phones": [
+    "7639523299"
+   ],
+   "category": "other"
+  },
+  {
+   "designation": "Assistant Engineer (Lighting)",
+   "name": null,
+   "wards": "156",
+   "phones": [
+    "9445191463"
+   ],
+   "category": "electrical"
+  },
+  {
+   "designation": "Junior Engineer (Lighting)",
+   "name": null,
+   "wards": "157 & 158",
+   "phones": [
+    "9445026090"
+   ],
+   "category": "electrical"
+  },
+  {
+   "designation": "Junior Engineer (Lighting)",
+   "name": null,
+   "wards": "159,161,162",
+   "phones": [
+    "9445910960"
+   ],
+   "category": "electrical"
+  },
+  {
+   "designation": "Assistant Engineer (Lighting)",
+   "name": null,
+   "wards": "160,163,165",
+   "phones": [
+    "9445477682"
+   ],
+   "category": "electrical"
+  },
+  {
+   "designation": "Assistant Engineer (Lighting)",
+   "name": null,
+   "wards": "164,166,167",
+   "phones": [
+    "9445191464"
+   ],
+   "category": "electrical"
+  },
+  {
+   "designation": "The Commandant, 04 Battalion (NDRF), Suraksha Campus, Takkolam, Arakkonam, Vellore District - 631 152",
+   "name": null,
+   "wards": null,
+   "phones": [
+    "04177-246594",
+    "04177-246269"
+   ],
+   "category": "other"
+  }
+ ],
+ "inundation_streets": [
+  {
+   "ward": 156,
+   "street": "Madha Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP",
+   "pump_location": null,
+   "disposal_point": null,
+   "page": 653
+  },
+  {
+   "ward": 156,
+   "street": "Thiruvalluvar Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "100 HP",
+   "pump_location": null,
+   "disposal_point": null,
+   "page": 653
+  },
+  {
+   "ward": 156,
+   "street": "Arumugam Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 HP",
+   "pump_location": null,
+   "disposal_point": null,
+   "page": 653
+  },
+  {
+   "ward": 156,
+   "street": "VGN Lakshmi Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "100 HP",
+   "pump_location": null,
+   "disposal_point": null,
+   "page": 653
+  },
+  {
+   "ward": 156,
+   "street": "VGN Blooming Grden",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "50 Electrical submersable",
+   "pump_location": null,
+   "disposal_point": null,
+   "page": 653
+  },
+  {
+   "ward": 156,
+   "street": "Mahalakshmi Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 TRACTOR MOTOR",
+   "pump_location": null,
+   "disposal_point": null,
+   "page": 653
+  },
+  {
+   "ward": 156,
+   "street": "EVP Rageshwari Avenue",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 TRACTOR MOTOR",
+   "pump_location": null,
+   "disposal_point": null,
+   "page": 653
+  },
+  {
+   "ward": 157,
+   "street": "CRR Puram",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "100 HP",
+   "pump_location": null,
+   "disposal_point": null,
+   "page": 653
+  },
+  {
+   "ward": 157,
+   "street": "Bell Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "45 HP Tractor Motor",
+   "pump_location": null,
+   "disposal_point": null,
+   "page": 653
+  },
+  {
+   "ward": 157,
+   "street": "Kavya Garden",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "45 HP Tractor Motor",
+   "pump_location": null,
+   "disposal_point": null,
+   "page": 653
+  },
+  {
+   "ward": 157,
+   "street": "River View Colony",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "100 HP",
+   "pump_location": null,
+   "disposal_point": null,
+   "page": 654
+  },
+  {
+   "ward": 158,
+   "street": "Burma Colony",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "45 HP",
+   "pump_location": null,
+   "disposal_point": null,
+   "page": 654
+  },
+  {
+   "ward": 158,
+   "street": "ThulasingaPuram",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "1.5 HP",
+   "pump_location": null,
+   "disposal_point": null,
+   "page": 654
+  },
+  {
+   "ward": 158,
+   "street": "Ganapathipuram Colony",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "1.5 HP",
+   "pump_location": null,
+   "disposal_point": null,
+   "page": 654
+  },
+  {
+   "ward": 158,
+   "street": "Wood Creek County (Main road, 1st, 2nd & 15th Streets)",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "1.5 HP",
+   "pump_location": null,
+   "disposal_point": null,
+   "page": 654
+  },
+  {
+   "ward": 158,
+   "street": "Vasantham Colony",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "2 HP",
+   "pump_location": null,
+   "disposal_point": null,
+   "page": 654
+  },
+  {
+   "ward": 158,
+   "street": "Anna main road",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "2 HP",
+   "pump_location": null,
+   "disposal_point": null,
+   "page": 654
+  },
+  {
+   "ward": 160,
+   "street": "Laywer Jeganathan Street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP",
+   "pump_location": null,
+   "disposal_point": null,
+   "page": 654
+  },
+  {
+   "ward": 161,
+   "street": "Sanjay Gandhi Street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "6.5",
+   "pump_location": null,
+   "disposal_point": null,
+   "page": 654
+  },
+  {
+   "ward": 161,
+   "street": "Murugan Street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "2 HP",
+   "pump_location": null,
+   "disposal_point": null,
+   "page": 654
+  },
+  {
+   "ward": 162,
+   "street": "Thiruvalluvar Nagar",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "25 HP",
+   "pump_location": null,
+   "disposal_point": null,
+   "page": 654
+  },
+  {
+   "ward": 165,
+   "street": "Saraswathi nagar main road 5th to 8th",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "7.5 HP",
+   "pump_location": null,
+   "disposal_point": null,
+   "page": 654
+  },
+  {
+   "ward": 167,
+   "street": "Kanniga Colony",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "5 HP",
+   "pump_location": null,
+   "disposal_point": null,
+   "page": 654
+  },
+  {
+   "ward": 167,
+   "street": "Nanganallur 44th Street",
+   "max_depth": null,
+   "days_to_drain": null,
+   "pump": "10 HP",
+   "pump_location": null,
+   "disposal_point": null,
+   "page": 654
+  }
+ ],
+ "water_stagnation": [],
+ "relief_centres": [
+  {
+   "ward": 156,
+   "name": "1. Govt. High School, Padasalai Street 2. Corporation Primary School, Padasalai Street 3. Corporation Middle School, Madananadhapuram Main Road Ch- 600125",
+   "capacity": 500,
+   "streets_to_shift": "MCS nagar, Pajanai kovil steer, Thulukathamman koil street, padasalai street; Kumari nagar, OM sakthi nagar, Bungalow thope.",
+   "cooking": null,
+   "drinking_water": null,
+   "toilets": null,
+   "contacts": [
+    {
+     "designation": "SI (Sanitation, Medicine)",
+     "phones": [
+      "9445025956"
+     ]
+    },
+    {
+     "designation": "AE (Evacuation)",
+     "phones": [
+      "9445190756"
+     ]
+    },
+    {
+     "designation": "ARO (Food & Drinking water)",
+     "phones": [
+      "9445190092"
+     ]
+    },
+    {
+     "designation": "AE (Relief Materials)",
+     "phones": [
+      "9445190756"
+     ]
+    }
+   ],
+   "page": 658
+  },
+  {
+   "ward": 157,
+   "name": "2.Community Hall",
+   "capacity": 550,
+   "streets_to_shift": "Sathiya nagar, Bell nagar",
+   "cooking": null,
+   "drinking_water": null,
+   "toilets": null,
+   "contacts": [
+    {
+     "designation": "SI (Sanitation, Medicine)",
+     "phones": [
+      "9786301769"
+     ]
+    },
+    {
+     "designation": "AE (Evacuation)",
+     "phones": [
+      "9445190757"
+     ]
+    },
+    {
+     "designation": "ARO (Food & Drinking water)",
+     "phones": [
+      "9445190092"
+     ]
+    },
+    {
+     "designation": "AE (Relief Materials)",
+     "phones": [
+      "9445190757"
+     ]
+    }
+   ],
+   "page": 659
+  },
+  {
+   "ward": 158,
+   "name": "1.Corporation Primary School, Mount Poonamallee 2.IDPL Primary School 3. Kuthallamman Temple Kalyana Mandabam 4. Cantonment School, Mount Poonamallee",
+   "capacity": 400,
+   "streets_to_shift": "MGR Nagar, Burma colony",
+   "cooking": null,
+   "drinking_water": null,
+   "toilets": null,
+   "contacts": [
+    {
+     "designation": "SI (Sanitation, Medicine)",
+     "phones": [
+      "9445025956"
+     ]
+    },
+    {
+     "designation": "AE (Evacuation)",
+     "phones": [
+      "9445190758"
+     ]
+    },
+    {
+     "designation": "ARO (Food & Drinking water)",
+     "phones": [
+      "9445190092"
+     ]
+    },
+    {
+     "designation": "AE (Relief Materials)",
+     "phones": [
+      "9445190758"
+     ]
+    }
+   ],
+   "page": 659
+  },
+  {
+   "ward": 159,
+   "name": "Adi Dravidar School, Kamarajar street, Meenambakkam, Chennai - 600 027",
+   "capacity": 100,
+   "streets_to_shift": "Kamarajar street",
+   "cooking": null,
+   "drinking_water": null,
+   "toilets": null,
+   "contacts": [
+    {
+     "designation": "SI (Sanitation, Medicine)",
+     "phones": [
+      "9445025956"
+     ]
+    },
+    {
+     "designation": "AE (Evacuation)",
+     "phones": [
+      "9677340896",
+      "9445190759"
+     ]
+    },
+    {
+     "designation": "ARO (Food & Drinking water)",
+     "phones": [
+      "9445190092"
+     ]
+    },
+    {
+     "designation": "AE (Relief Materials)",
+     "phones": [
+      "9677340896",
+      "9445190759"
+     ]
+    }
+   ],
+   "page": 659
+  },
+  {
+   "ward": 161,
+   "name": "Nidhi School - ponniamman kovil street",
+   "capacity": 200,
+   "streets_to_shift": "VOC street",
+   "cooking": null,
+   "drinking_water": null,
+   "toilets": null,
+   "contacts": [
+    {
+     "designation": "SI (Sanitation, Medicine)",
+     "phones": [
+      "9445025962"
+     ]
+    },
+    {
+     "designation": "AE (Evacuation)",
+     "phones": [
+      "9445190761"
+     ]
+    },
+    {
+     "designation": "ARO (Food & Drinking water)",
+     "phones": [
+      "9445190092"
+     ]
+    },
+    {
+     "designation": "AE (Relief Materials)",
+     "phones": [
+      "9445190761"
+     ]
+    }
+   ],
+   "page": 660
+  },
+  {
+   "ward": 161,
+   "name": "CPS school ,MKN road",
+   "capacity": 200,
+   "streets_to_shift": "VOC street, Raja street",
+   "cooking": null,
+   "drinking_water": null,
+   "toilets": null,
+   "contacts": [
+    {
+     "designation": "SI (Sanitation, Medicine)",
+     "phones": [
+      "9445025962"
+     ]
+    },
+    {
+     "designation": "AE (Evacution)",
+     "phones": [
+      "9445190761"
+     ]
+    },
+    {
+     "designation": "ARO (Food & Drinking water)",
+     "phones": [
+      "9445190092"
+     ]
+    },
+    {
+     "designation": "AE (Relief Materials)",
+     "phones": [
+      "9445190761"
+     ]
+    }
+   ],
+   "page": 660
+  },
+  {
+   "ward": 162,
+   "name": "Community Hall & Gym Building",
+   "capacity": 150,
+   "streets_to_shift": "Kannan Colony",
+   "cooking": false,
+   "drinking_water": true,
+   "toilets": true,
+   "contacts": [
+    {
+     "designation": "SI (Sanitation, Medicine)",
+     "phones": [
+      "9445025962"
+     ]
+    },
+    {
+     "designation": "AE (Evacuation)",
+     "phones": [
+      "9445190762"
+     ]
+    },
+    {
+     "designation": "ARO (Food & Drinking water)",
+     "phones": [
+      "9445190092"
+     ]
+    },
+    {
+     "designation": "AE (Relief Materials)",
+     "phones": [
+      "9445190762"
+     ]
+    }
+   ],
+   "page": 660
+  },
+  {
+   "ward": 165,
+   "name": "Corporation School Nanganallur 8th street -",
+   "capacity": 250,
+   "streets_to_shift": "Indira Nagar",
+   "cooking": null,
+   "drinking_water": null,
+   "toilets": null,
+   "contacts": [
+    {
+     "designation": "SI (Sanitation, Medicine)",
+     "phones": [
+      "9445025965"
+     ]
+    },
+    {
+     "designation": "AE (Evacuation)",
+     "phones": [
+      "9445190765"
+     ]
+    },
+    {
+     "designation": "ARO (Food & Drinking water)",
+     "phones": [
+      "9445190092"
+     ]
+    },
+    {
+     "designation": "AE (Relief Materials)",
+     "phones": [
+      "9445190765"
+     ]
+    }
+   ],
+   "page": 661
+  },
+  {
+   "ward": 166,
+   "name": "Corporation Primary school",
+   "capacity": 100,
+   "streets_to_shift": null,
+   "cooking": null,
+   "drinking_water": null,
+   "toilets": null,
+   "contacts": [
+    {
+     "designation": "SI (Sanitation, Medicine)",
+     "phones": [
+      "8220560026"
+     ]
+    },
+    {
+     "designation": "AE (Evacuation)",
+     "phones": [
+      "9445190767"
+     ]
+    },
+    {
+     "designation": "ARO (Food & Drinking water)",
+     "phones": [
+      "9445190092"
+     ]
+    },
+    {
+     "designation": "AE (Relief Materials)",
+     "phones": [
+      "9445190766"
+     ]
+    }
+   ],
+   "page": 661
+  }
+ ],
+ "subways": [
+  {
+   "ward": 160,
+   "name": "Kathipara Urban Square Underpass",
+   "length_m": null,
+   "disposal_point": null,
+   "pumps": "Maintained by Highways; total motors 5: Electrical Submersible 25 HP - 2 Nos.; Diesel engine 10 HP - 1, 20 HP - 1; Tractor Motor 50 HP - 1. Generator: -",
+   "page": 663
+  },
+  {
+   "ward": 161,
+   "name": "St. Thomas Mount Subway",
+   "length_m": null,
+   "disposal_point": null,
+   "pumps": "Maintained by Highways; total motors 9: Electrical Submersible 25 HP - 1, 10 HP - 1, 50 HP - 2; Electric motor 25 HP - 1, 10 HP - 1; Diesel engine 10 HP - 2, 25 HP - 1. Generator: 200 KVA - 1 (Total - 1)",
+   "page": 663
+  },
+  {
+   "ward": 162,
+   "name": "Thillai Ganga Nagar Subway",
+   "length_m": null,
+   "disposal_point": null,
+   "pumps": "Maintained by Highways; total motors 16: Electrical Submersible 25 HP - 2, 10 HP - 1, 50 HP - 3; Electric motor 25 HP - 1, 15 HP - 1; Diesel engine 25 HP - 4, 10 HP - 1, 15 HP - 3. Generator: 200 KVA - 1, 100 KVA - 1 (Total - 2)",
+   "page": 663
+  },
+  {
+   "ward": 162,
+   "name": "Pazhavanthangal Subway",
+   "length_m": null,
+   "disposal_point": null,
+   "pumps": "Maintained by GCC; total motors 8: Electrical Submersible 25 HP - 1, 50 HP - 2; Diesel engine 10 HP - 1; Tractor Motor 16 HP - 2, 32 HP - 1, 8 HP - 1. Generator: 250 KVA - 1 (Total - 1)",
+   "page": 663
+  },
+  {
+   "ward": 166,
+   "name": "Meenambakkam Subway",
+   "length_m": null,
+   "disposal_point": null,
+   "pumps": "Maintained by Highways; total motors 6: Electrical Submersible 15 HP - 2, 50 HP - 1; Tractor Motor 16 HP - 2, 32 HP - 1. Generator: 200 KVA - 1 (Total - 1)",
+   "page": 663
+  }
+ ],
+ "evacuation_streets": [
+  {
+   "ward": 156,
+   "area": null,
+   "streets": "Thiruvalluvar nagar",
+   "persons": 100,
+   "year": "2015",
+   "relief_centre": "1. Govt. High School, Padasalai Street 2. Corporation Primary School, Padasalai Street 3. Corporation Middle School, Madananadhapuram Main Road Chennai-600 125",
+   "needs_evacuation": true,
+   "page": 665
+  },
+  {
+   "ward": 156,
+   "area": null,
+   "streets": "MCS nagar",
+   "persons": 100,
+   "year": "2015",
+   "relief_centre": "1. Govt. High School, Padasalai Street 2. Corporation Primary School, Padasalai Street 3. Corporation Middle School, Madananadhapuram Main Road Chennai-600 125",
+   "needs_evacuation": true,
+   "page": 665
+  },
+  {
+   "ward": 157,
+   "area": null,
+   "streets": "Dharmarajapuram, Puratchi Thalaivi Nagar",
+   "persons": 450,
+   "year": "2015",
+   "relief_centre": "1.Corporation Middle School - M.G.Salai 2.Community Hall",
+   "needs_evacuation": true,
+   "page": 666
+  },
+  {
+   "ward": 157,
+   "area": null,
+   "streets": "Dr. Ambedkar Nagar",
+   "persons": 150,
+   "year": "2015",
+   "relief_centre": "1.Corporation Middle School - M.G.Salai 2.Community Hall",
+   "needs_evacuation": true,
+   "page": 666
+  },
+  {
+   "ward": 158,
+   "area": null,
+   "streets": "Burma Colony",
+   "persons": 400,
+   "year": "2015",
+   "relief_centre": "1.Corporation Primary School, Mount Poonamallee 2.IDPL Primary School 3. Kuthallamman Temple Kalyana Mandabam 4. Cantonment School, Mount Poonamallee 5. Cantonment Community Hall",
+   "needs_evacuation": true,
+   "page": 666
+  },
+  {
+   "ward": 159,
+   "area": null,
+   "streets": "Kamarajar street",
+   "persons": 100,
+   "year": "2015",
+   "relief_centre": "Adi Dravidar School, Kamarajar street, Meenambakkam, Chi-27",
+   "needs_evacuation": true,
+   "page": 666
+  },
+  {
+   "ward": 161,
+   "area": null,
+   "streets": "V.O.C. Nagar",
+   "persons": 200,
+   "year": "2015",
+   "relief_centre": "Nidhi School - ponniamman kovil street",
+   "needs_evacuation": true,
+   "page": 666
+  },
+  {
+   "ward": 161,
+   "area": null,
+   "streets": "Raja Street",
+   "persons": 200,
+   "year": "2015",
+   "relief_centre": "CPS school ,MKN road",
+   "needs_evacuation": true,
+   "page": 666
+  },
+  {
+   "ward": 162,
+   "area": null,
+   "streets": "Kannan colony",
+   "persons": 100,
+   "year": "2015",
+   "relief_centre": "Community Hall & Gym Building",
+   "needs_evacuation": true,
+   "page": 666
+  },
+  {
+   "ward": 165,
+   "area": null,
+   "streets": "Indra nagar 1st and 2nd streets",
+   "persons": 250,
+   "year": "2015",
+   "relief_centre": "Nanganallur 8th street - C.P.S South new street",
+   "needs_evacuation": true,
+   "page": 666
+  },
+  {
+   "ward": 166,
+   "area": null,
+   "streets": "K.K. Nagar",
+   "persons": 100,
+   "year": "2015",
+   "relief_centre": "Corporation Primary school",
+   "needs_evacuation": true,
+   "page": 666
+  }
+ ],
+ "water_entered_houses": [
+  {
+   "ward": 156,
+   "street": "ThiruvalluvarNagar,ArumugamNagar, GowriNagarandCRRPuram",
+   "page": 664
+  },
+  {
+   "ward": 157,
+   "street": "KrishnaNagar,AmbedkarNagar,IndiraNagar",
+   "page": 664
+  },
+  {
+   "ward": 158,
+   "street": "KrishnaNagar,AmbedkarNagar,IndiraNagar",
+   "page": 664
+  },
+  {
+   "ward": 159,
+   "street": "Ganapathypuram,Thulasingapuram",
+   "page": 665
+  },
+  {
+   "ward": 161,
+   "street": "BharathiyarStreet,AnnaStreetandThiru-Vi-KaStreet",
+   "page": 665
+  },
+  {
+   "ward": 160,
+   "street": "Madhavapuram East Street. Madhavapuran South Street, MadhavapuramNorthStreet",
+   "page": 665
+  },
+  {
+   "ward": 162,
+   "street": "KannanColony,Bharathiyar2ndStreet,ThiruvalluvarNagar2ndStreet, 3rd Street, 4th Street ,Marizon 1st Street and Marizon2ndStreet",
+   "page": 665
+  },
+  {
+   "ward": 168,
+   "street": "Erikarai Street",
+   "page": 665
+  },
+  {
+   "ward": 164,
+   "street": "Nanganallur21ststreet",
+   "page": 665
+  },
+  {
+   "ward": 165,
+   "street": "Vallalarstreet,Bharathidasanstreet,Saraswathistreet",
+   "page": 665
+  },
+  {
+   "ward": 166,
+   "street": "B.V.Nagar13thStreet.",
+   "page": 665
+  },
+  {
+   "ward": 167,
+   "street": "Jainstaffcolony,Kannigacolony,EastMainroad",
+   "page": 665
+  }
+ ],
+ "tree_fall": [
+  {
+   "ward": 156,
+   "street": "Subha sree nagar 4th street extn, A.G.S. colony park, Thiruvallu-var Nagar, Rajaeshwari Avenue"
+  },
+  {
+   "ward": 157,
+   "street": "Garden road, Manapakkam main road, C.R.R. Puram, M. G Salai"
+  },
+  {
+   "ward": 158,
+   "street": "Wood creek county ( 2 nos), Defence Colony (1 no)"
+  },
+  {
+   "ward": 161,
+   "street": "Muthiyal reddy street"
+  },
+  {
+   "ward": 162,
+   "street": "T.G. nagar 22nd street ( 2 nos), T.G. nagar 6th main road, T.G. 8thstreet"
+  },
+  {
+   "ward": 164,
+   "street": "Nanganallur 17th street, Nanganallur 36th street"
+  },
+  {
+   "ward": 165,
+   "street": "Ram Nagar 7th street( 2 no's), Nanganallur 10th street, Lakshmi nagar 2nd street, Vivekanandar street, Bharath nagar park, Ba- laji nagar 5th street, New colony 8th street, Ram nagar 2nd mainroad,Mamaganallur 10th street"
+  },
+  {
+   "ward": 166,
+   "street": "Jain college road, Joseph 1st street"
+  },
+  {
+   "ward": 167,
+   "street": "Nanganallur 5th main road 1st lane (2 no's), Lakshmi Main road (1no) Nanganallur 6th main road, Voltas colony and 100 feet road"
+  }
+ ],
+ "ndrf_boats": [
+  {
+   "ward": 156,
+   "location": "Thiruvallur nagar",
+   "kind": "ndrf",
+   "details": "Where NDRF to be stationed and deployed"
+  },
+  {
+   "ward": 156,
+   "location": "L and t CRR puram",
+   "kind": "ndrf",
+   "details": "Where NDRF to be stationed and deployed"
+  },
+  {
+   "ward": 157,
+   "location": "River view colony",
+   "kind": "ndrf",
+   "details": "Where NDRF to be stationed and deployed"
+  },
+  {
+   "ward": 156,
+   "location": "Thiruvalluvar Nagar",
+   "kind": "boat",
+   "details": "2nosof boats required withThiruvalluvar Nagar & Madha Nagar. Contact: 9445190756"
+  },
+  {
+   "ward": 157,
+   "location": "RiverViewColony",
+   "kind": "boat",
+   "details": "2nosof boats required withriverview colony. Contact: 9445190757"
+  },
+  {
+   "ward": 158,
+   "location": "Defence Officer Colony",
+   "kind": "boat",
+   "details": "2nos of boats required withDefence Officer Colony. Contact: 9445190758"
+  }
+ ],
+ "parks_assembly": [
+  {
+   "ward": 156,
+   "name": "AGS Colony Sabari Nagar 2nd main road Park, AGS Colony phase -3 Park, AnnaiVelankanni Nagar Phase - I 2ndStreet Park, AnnaiVelankanni Nagar Phase I 5th Street Park, AnnaiVelankanni Park phase-II, Gurusamy Nagar, Devadoass Street Park, Kalaimagal Street park, Kumudam Nagar Park, Kundrathur Main road Park, Madha Nagar 2nd street Park, Mary gold street Park, Nathamuni street park, Sabarinagar 5th Street ParkSanthosh Nagar Park, SSI Green Park, V.N.D. Rajeswari Avenue Vaigai street Park, V.N.D. Rajeswari Avenue, Sindu street Park,VGNLaksminagarViswanathanPalani Park, Shubasri Nagar Extn 5 Street Childrens Park, Miyavaki park, Ramamoorthi avenue sarojini street, Shanthinikethan Park, Arumugamnagar 1st street park.",
+   "location": null
+  },
+  {
+   "ward": 157,
+   "name": "River view colony Phase II Park, River view colony Phase I Park, BHEL nagar Park, Kavya garden Park, Macro marvel river county Park, ,ArcotSalai Naveen park, River view colony park Phase III Park, Sethulakshmi Avenue park, River view colony park Phase IIPark, CRR puram (L&T ) Park.",
+   "location": null
+  },
+  {
+   "ward": 158,
+   "name": "Sundar3rdAvenuenagar",
+   "location": null
+  },
+  {
+   "ward": 160,
+   "name": "Newstreet",
+   "location": null
+  },
+  {
+   "ward": 161,
+   "name": "OfficersColony,TNGOColony,MuruganNagar,Jeevannagar",
+   "location": null
+  },
+  {
+   "ward": 162,
+   "name": "Thiruvalluvar nagar Park,T.G. nagar 34th street Park, Nehru street Park.",
+   "location": null
+  },
+  {
+   "ward": 163,
+   "name": "Shanthi Nagar 4th street Park, Surendranagar Park",
+   "location": null
+  },
+  {
+   "ward": 164,
+   "name": "Nanganallur29thstreet.",
+   "location": null
+  },
+  {
+   "ward": 165,
+   "name": "Southsector2ndstreet,BalajinagarExtn.II Park,Lakshmi nagar Park, Bharathnagar Park,Neelmangainagar park",
+   "location": null
+  },
+  {
+   "ward": 166,
+   "name": "Anna Park",
+   "location": null
+  },
+  {
+   "ward": 167,
+   "name": "Independence day park, Nanganallur 46th street, Lakshminagar 7thstreet,Vijay Avenue,Hindu colony, Jain staff colony,MMTC Colony,Kannigacolony, Voltascolony1ststreet,Voltascolony 3rd street,Lakshmi nagar 4th street,Kannan nagar 1st main road,SBIColony Main Road, Kannannagar 1STcross street park,Civil aviationcolony park,Nanganallur100feetroad park,Eastmainroad park.",
+   "location": null
+  }
+ ],
+ "hospitals": [],
+ "pumping_stations": [
+  {
+   "ward": null,
+   "name": "Nilamangai Nagar Pumping Station",
+   "capacity_mld": 20
+  },
+  {
+   "ward": null,
+   "name": "Kannan Colony Pumping Station",
+   "capacity_mld": 2.5
+  },
+  {
+   "ward": null,
+   "name": "Meenambakkam Pumping Station",
+   "capacity_mld": 1.5
+  },
+  {
+   "ward": null,
+   "name": "Morrison Street Pumping Station",
+   "capacity_mld": 1
+  },
+  {
+   "ward": null,
+   "name": "MadhavaperumalKoil Pumping Station",
+   "capacity_mld": 0.02
+  },
+  {
+   "ward": null,
+   "name": "River view Colony Pumping Station",
+   "capacity_mld": 1.1
+  },
+  {
+   "ward": null,
+   "name": "CRRT IDBL Land Pumping Station",
+   "capacity_mld": 8.28
+  }
+ ],
+ "notes": [
+  "Text extraction rendered the 'ff'/'fi'/'fl' ligatures as single Unicode glyphs; they are written as plain letters. Many zone 12 names have no spaces in the printed PDF itself (checked against the rendered page), e.g. 'ThiruvalluvarNagar,ArumugamNagar', 'Nanganallur21ststreet'. They are kept as printed. Line-end hyphens were joined (e.g. 'GowriNagarand-/CRRPuram' becomes 'GowriNagarandCRRPuram', 'Lak-/shmi' becomes 'Lakshmi'); hyphens printed mid-line were kept ('Thiruvallu-var Nagar', 'Ba- laji nagar'). Source typos are kept (e.g. 'Grden', 'Laywer', 'steer', 'Evacution', 'submersable', 'Madhavapuran', 'Mamaganallur').",
+  "Heavy-rain table (p.653-654): the intro says 29 inundated spots but the table has 24 rows. Columns are location, reason and pumps used. There is no pump-location or disposal column, so pump_location and disposal_point are null. Reasons: rows for 156 and 157 (Madha Nagar ... River View Colony, 11 rows) are 'Overflow of Manapakkam Canal'; the 158 rows (Burma Colony, ThulasingaPuram, Ganapathipuram Colony, Wood Creek County, Vasantham Colony, Anna main road) are 'Adyar River water level increased so water cannot drain out'; 160 Laywer Jeganathan Street, 161 Sanjay Gandhi Street, 161 Murugan Street, 162 Thiruvalluvar Nagar and 167 Nanganallur 44th Street are 'Low lying area'; 165 Saraswathi nagar main road 5th to 8th is 'Veerangal Odai Over flow and Run of water from AGS Colony (Z-13)'; 167 Kanniga Colony is 'Lack of Drain in that location'. The Sanjay Gandhi Street pump is printed just '6.5' (no unit).",
+  "Mild-rain, moderate-rain and sewer-block stagnation tables are all printed 'NIL' (p.658), so water_stagnation is empty.",
+  "Relief centres (p.658-661): the intro says '11 relief centres to a total capacity of 1280', but the table has 9 rows with capacities summing to 2450. Several rows list multiple buildings in one cell (kept whole). The ward-157 row is printed only as '2.Community Hall'; the evacuation table (p.666) shows the ward-157 centre as '1.Corporation Middle School - M.G.Salai 2.Community Hall', so the Corporation Middle School, M.G.Salai seems to be missing from the relief table. The Drinking water / Toilets / Cooking columns are blank for every row except Community Hall & Gym Building (Yes / Yes / No), so they are null elsewhere. The relief-shelter map page (p.662) has a mirrored legend listing R1-R16 / S1-S20 that was not parsed.",
+  "Relief centre phones are printed split across lines (e.g. '94450 / 25956') and were re-joined. Ward 159's AE cell holds two numbers, '96773 40896/ 94451 90759', stored as 9677340896 and 9445190759. In ward 166, the Evacuation AE (9445190767) and the Relief Materials AE (9445190766) differ, as printed. The ARO number 9445190092 is the same for all centres (printed '944519 / 0092' in row 6).",
+  "Evacuation table (p.665-666): the relief-centre cell is merged across rows 1-2 (ward 156) and rows 3-4 (ward 157), and the year cell is merged for rows 3-4. The merged value is repeated on each row. The intro says 2150 people were evacuated; the rows sum to 2150. The table has no area/ward-name column, so area=null.",
+  "Water entered houses (p.664-665): the intro says 24 spots; the table has 12 rows, some listing several streets. Row 8 is printed with ward 168 (Erikarai Street), outside this zone's wards 156-167; kept as printed. The ward-157 and ward-158 rows have identical text ('KrishnaNagar,AmbedkarNagar,IndiraNagar').",
+  "Subways (p.663): the intro says four subways, but the table has five rows (including Kathipara Urban Square Underpass). Length and disposal point are not given. Maintained-by, total motors, motor breakdown and generator are packed into 'pumps'. The '8 HP - 1' line belongs to Pazhavanthangal's Tractor Motor list, which makes its total 8; this was checked against the printed totals (sum 44).",
+  "The NDRF Commandant phone is printed '04177 - 246594/246269'. The second number has no printed prefix and is given here as '04177-246269', assuming the shared STD code.",
+  "Parks (p.649): each ward row lists many parks/streets in one cell, kept whole as printed in name (location=null).",
+  "Pumping stations are not tied to wards (ward=null). The category column (HT3/LT3/LT2/Road Side) is not captured. The intro text says 'one pumping station ... 50 MLD' but 7 are listed.",
+  "There is no hospitals/UPHC table, no zonal office address, no lorries table and no narrow-streets table in this zone appendix. There are no TNSCB tenements in Alandur zone. Not captured (no schema field): canals and other water bodies (p.650, 652), SWD lengths (p.653). Pages 657 and 662 are map pages whose labels leaked into the text; they were ignored apart from the note above. zone_12.txt ends with an empty '##### PDF page 677' marker."
+ ]
+}
