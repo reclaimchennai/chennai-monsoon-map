@@ -1,9 +1,7 @@
 .venv/
-raw/*.pdf
-raw/cdmp.txt
-raw/osm/
-raw/swd/
-build/crops/
-build/streets.pkl
-build/__pycache__/
-web/
+__pycache__/
+build/
+# the CDMP PDFs are GitHub release assets (pipeline/fetch_sources.sh); checksums are committed
+raw/cdmp/*.pdf
+raw/osm/*.pbf
+.DS_Store

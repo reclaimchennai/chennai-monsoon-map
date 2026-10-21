@@ -1,0 +1,76 @@
+pdf_page,Sl.No,Zone,Ward,Location,VeryHigh Vulnerability Above5feet,High Vulnerability 3to5feet,Medium Vulnerability 2to3feet,LowVulnerability lessthan2feet
+120,1,1,3,Annai Sivagami Nagar,,,,Yes
+120,2,1,7,Anna Nagar,,,,Yes
+120,3,1,7,Periyar Nagar,,,,Yes
+120,4,1,12,"Railway culvert - 36, Srinivasapuram",,,,Yes
+120,5,1,7,sapuram Vettri Vinayagar Nagar,,,,Yes
+120,6,2,15,Chinna Echankuzhi,,Yes,,
+120,7,2,18,Sabapathy Street,,,,Yes
+120,8,2,19,Srinivasan Nagar,,Yes,,
+120,9,2,21,TPP Salai,,,Yes,
+120,10,2,19,Chinnasamy street,,Yes,,
+120,11,3,17,Vadaperumbakkam (300 m highway),,,Yes,
+120,12,3,23,highway) Gurushanthi Nagar,,,,Yes
+120,13,3,23,MRH Road,,,,Yes
+120,14,3,23,Vegetarian Village,,,,Yes
+120,15,3,24,Balaji Nagar,,,,Yes
+120,16,3,32,Lakshmiamman Nagar,,,,Yes
+120,17,4,37,Mullai Nagar,,,Yes,
+120,18,4,41,Annai Sathya Nagar,,,Yes,
+120,19,4,41,MGR Nagar,,,Yes,
+120,20,4,41,Nehru Nagar,,,Yes,
+120,21,4,44,Kasthuribai street,,,,Yes
+120,22,4,45,AA Road,,,Yes,
+120,23,4,45,BB Road,,,Yes,
+120,24,4,45,Ganesapuram subway,,Yes,,
+120,25,4,46,Bala Krishna street,,,,Yes
+121,26,6,64,Vivekandhanan Nagar,,,Yes,
+121,27,6,65,Kanagi Nagar,,,Yes,
+121,28,6,67 & 70,Paper mills Road,,,Yes,
+121,29,6,67,Pallavan Salai,,,Yes,
+121,30,6,69,Sivagami Street,,,Yes,
+121,31,6,71,Perambur subway,,Yes,,
+121,32,6,71,Ganesapuram subway,,Yes,,
+121,33,6,72,Kannigapuram joseph Street & Kannigapuram 1to 7th street Doss Nagar 1 to 8 th Street,,,Yes,
+121,34,6,73,Doss Nagar 1 to 8 th Street Decastor Road,,,Yes,
+121,35,6,73,Stephenson Road,,,Yes,
+121,36,6,76,Angamalan Koil street,,Yes,,
+121,37,6,"76, 77 & 78","Perambur Baracks road, KM Garden, Thattangulam, Rajathottam, Astabujam street, Rangaiah street,V.V Koil Street,Tana Street",,,Yes,
+121,38,7,84,"Street,Tana Street North Avenue Canal",,,Yes,
+121,39,7,84,TNHB 25th Street,,,Yes,
+121,40,8,95,Ambedkar Salai Near LC1 Bridge,,,Yes,
+121,41,8,99,Bridge Purasaiwakkam High Road & Millers Road,,,Yes,
+121,42,8,99,& Millers Road Thideer Nagar,,,,Yes
+121,43,8,105,100 Feet Road Near Arumbakkam Metro Station,,,Yes,
+121,44,8,102,"bakkam Metro Station Anna Nagar ( S block, Q Block, 3rd ,5th and 6th Avenue)",,,Yes,
+121,45,8,103,nue) 2nd Avenue,,,Yes,
+122,46,8,105 &106,"Choolaimedu , MMDA Colony : Amaravathy Nagar, Indira Gandhi Street, Panchali Amman Koil Street, Ashoka street, Water tank road, Razack Garden Road, Muvendar Nagar, Tamilar Veedhi, Kannagi street,Rajiv Gandhi Street, 100 Feet Road Near Arumbakkam Metro Station, MMDA Colony Main Road, E Block MMDA Colony, Nehru street,Kamala nehru nagar, Indira Gandhi Street.",,Yes,,
+122,47,9,113,Indira Gandhi Street. North Ushman Road (In and around),,,Yes,
+122,48,9,113,around) Valluvar kottam high Road,,Yes,,
+122,49,9,115,Dr.Besant Road,,,Yes,
+122,50,9,118,"Stella Maris : Venus Colony 1st Street , Venus Colny 2nd Street, Kasthuri Rangan Road and Sriman Srinivasan Road",,Yes,,
+122,51,9,121,"and Sriman Srinivasan Road P.S.Sivaswamy Salai, Indraniammal Street, Nagarathinammal Colony and Rangaiah Garden, Royapettah High Road, Brinthavanam Street and Balakrishnan Street",,Yes,,
+122,52,9,122,Street and Balakrishnan Street Chamiers Road,,,Yes,
+122,53,10,130,"100 Feet road, Vadapalani Near Nammaveedu vasantha Bhavan",,,Yes,
+122,54,11,143,Bhavan VAO Office Nolambur,,,Yes,
+122,55,11,143,Sriram Nagar Nolmbur,,,,Yes
+122,56,12,165,Saraswathi Nagar,,,,Yes
+122,57,13,179,Kamaraj Nagar 3rd street,,,,Yes
+122,58,13,178,CSIR Ascenders office,,,,Yes
+123,59,13,176,AGS Colony and Kalki Nagar,,Yes,,
+123,60,13,172 & 178,"Places abutting huge catchment areas like furlong road of MRC, IIT and Rajbhavan abutting area",,,Yes,
+123,61,14,183,abutting area Mayana salai,,,Yes,
+123,62,14,184,Kamarajar nagar 1st main road,,,,Yes
+123,63,14,188,road Govindan 1st street,,,,Yes
+123,64,14,188,Rajaji Nagar 3rd cross street,,,Yes,
+123,65,14,188,"Guberan nagar extn, 7th street",,,Yes,
+123,66,14,189,street Perumal Nagar,,Yes,,
+123,67,14,189,Kamarajar Street,,Yes,,
+123,68,14,182,WTC,,,,Yes
+123,69,14,182,Kanthanchavadi junction of MGR Salai,,,,Yes
+123,70,14,189,"MGR Salai Kamakshi Nagar, Pallikaranai",,,,Yes
+123,71,14,182,OMR stretch,,,Yes,
+123,72,15,196,Kannagi nagar,,,,Yes
+123,73,15,194,Royal Enclave,,Yes,,
+123,74,15,193,Thoraipakkam BSR mall because of CMRL work,,,,Yes
+123,75,15,193,"cause of CMRL work Vembuliamman Street, Thoraipakkam",,,,Yes

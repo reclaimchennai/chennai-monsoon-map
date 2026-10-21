@@ -1,0 +1,9 @@
+pdf_page,Sl. No,Zone,Very high vulnerability Above 5 feet,High vulnerability 3 to 5 feet,Medium vulnerability 2 to 3 feet,Low vulnerability Less than 2 feet,TOTAL
+83,1,I,_,_,_,2,2
+83,2,III,_,_,1,2,3
+83,3,VII,_,_,,7,7
+83,4,VIII,_,_,_,3,3
+83,5,XI,,,,2,2
+83,6,XIV,_,_,_,17,17
+83,7,XV,_,_,_,19,19
+83,TOTAL,,,,1,52,53

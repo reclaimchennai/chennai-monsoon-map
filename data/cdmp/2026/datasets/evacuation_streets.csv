@@ -1,0 +1,378 @@
+zone,pdf_page,table_id,ward,area,streets,persons,year,relief_centre,needs_evacuation
+1,246,121,4,Ernavoor,VP Nagar,,,,False
+1,246,121,6,Sathyamoorthy nagar,"Sathyamoorthy nagar, Kalaignar nagar",,,,False
+1,246,121,7,Ramasamy nagar,"Annamalai nagar, MGR nagar, Rajiv Gandhi nagar",,,,False
+1,246,121,12,Kaladipet South 13 Sathma nagar,"Gandhi nagar, Srinivasapuram",,,,False
+1,247,123,4,Ernavoor,A.D Colony,300,2015,Mahaliaman koil school st,True
+1,247,123,5,Wimco nagar,Palagai thotti kup - pam,200,2015,Jayagopal Garden in School,True
+1,247,123,6,Sathyamoorthy nagar,"Sathyamoorthy nagar, TKP nagar",1000,2015,"Chennai Middle School, Sathyamoorthy nagar",True
+1,247,123,7,Ramasamy nagar,"Kargil Nagar, Rajaji nagar, Vetri vinayagar nagar, Radakrishnan nagar Total",5000,2015,Gowri Ashramam,True
+2,281,166,15,Edayanchavadi,Lakshmi Nagar,,,,False
+2,281,166,16,Manali New Town,Kullakarai vichur high road,,,,False
+2,281,166,17,Kosapur Vadaperumbakkam,Saraswathi Nagar Kosapur,,,,False
+2,281,166,18,Manali,Harikrishnan puram amman nagart,,,,False
+2,281,166,19,MMDA Mathur,Balasubramaniyam nagar,,,,False
+2,281,166,20,Manali,New MRG street Balaraman Street JJ nagar,,,,False
+2,281,166,21,Manali,Jalakanda mariamman koil 3rd lane,,,,False
+2,281,166,22,Chinnasekkadu,"Velu street, Adhiraj street",,,,False
+2,282,167,15,Edayanchavadi,"Manali New Town 29, 28, 3 0 and 31 st Street",42,2015,"CMDA Steel Yard, Sathankadu",True
+2,282,167,1,5 Edayanchavadi,Manali New Town Block No : 73,63,2015,Edayanchavadi School,True
+2,282,167,1,5 Edayanchavadi,Manali New Town 80 Feet Road Milk Booth,120,2015,"CMDA Steel Yard, Sathankadu",True
+2,282,167,1,6 Andarkuppam,"Sadayankuppam, Irular Colony and Burma Nagar",101,2015,"CMDA Steel Yard, Sathankadu",True
+2,282,167,1,6 Andarkuppam,"Kanniammanpet, Kamarajapuram, Andarkuppam, Elandhanoor, Gandhi Nagar and Jenifer Nagar",86,2015,"CPSKanniammanpet, Andarkuppam School",True
+2,282,167,1,7 Vadaperumbakkam,"Vadaperumbakkam, Chettimedu, Kosappur",136,2015,"Community Centre, Vadaperumbakkam and CoC Middle School , Kosapur",True
+2,282,167,1,8 Manali,Kalaigner Nagar,122,2015,CPS at Padasalai Street,True
+2,282,167,1,8 Manali,Harikrishnapuram,356,2015,CPS at Padasalai Street and Govt Higher Sec School. Manali,True
+2,282,167,1,8 Manali,Salaima Nagar,321,2015,CPS at Padasalai Street,True
+2,282,167,1,9 MMDA Mathur,Balasubramanian Nagar,123,2015,"Govt. High School, Mathur,",True
+2,282,167,1,9 MMDA Mathur,"Ponniamman Nagar, Chinna Samy Nagar",53,2015,CPS at MMDA 59th Street,True
+2,282,167,2,0 Manali,Govt. High school at Padasalai street Total,42,2015,"Govt. High School, Mathur",True
+3,312,200,23,,Thirumalai Nagar,,,,False
+3,312,200,23,,Sakthivel Nagar (Partly),,,,False
+3,312,200,23,,Thamizhan Nagar,,,,False
+3,312,200,23,,Kanchi Arul Nagar,,,,False
+3,312,200,23,,Mahalakshmi Nagar,,,,False
+3,312,200,24,,Mettu Street,,,,False
+3,312,200,24,,Thalamuthu Natarajan St,,,,False
+3,312,200,24,,Anthoniar Koil St Area,,,,False
+3,312,200,24,,Thiruppur Kumaran St,,,,False
+3,312,200,32,,Iyyan Thiruvalluvar Salai,,,,False
+3,312,200,32,,Santhosh Nagar,,,,False
+3,312,200,32,,Velmurugan Nagar,,,,False
+3,313,200,32,,Madhavan Nagar,,,,False
+3,313,200,32,,Sarathy Nagar,,,,False
+3,313,200,32,,Venkata Sai Nagar,,,,False
+3,313,200,32,,Vijayalakshmi Nagar,,,,False
+3,313,200,32,,Elizabeth nagar,,,,False
+3,313,200,32,,Thirumal Nagar,,,,False
+3,313,200,32,,Purushothaman Nagar,,,,False
+3,313,200,32,,Grace Nagar,,,,False
+3,313,200,31,,David Jayavelu Nagar,,,,False
+3,313,200,31,,Thiruvalluvar Street,,,,False
+3,313,200,31,,Aringnar Anna Nagar,,,,False
+3,313,200,31,,Veeraragavalu Nagar,,,,False
+3,313,200,31,,Lingam Street,,,,False
+3,313,200,30,,Ganesh Nagar,,,,False
+3,313,200,30,,"Anna Street, Kalpalayam",,,,False
+3,313,200,30,,Secretariat Colony,,,,False
+3,313,200,30,,Seethapathy Street,,,,False
+3,313,200,30,,Samy Nagar,,,,False
+3,313,200,30,,Thattankulam Road,,,,False
+3,313,200,26,,Krishna Nagar Extn.,,,,False
+3,313,200,26,,Edaima Nagar Area,,,,False
+3,313,200,26,,Mandaveli 5th Street,,,,False
+3,313,200,26,,Perumal Koil 6th Street,,,,False
+3,313,200,26,,South Telephone Cly Mn Rd,,,,False
+3,313,200,26,,North Telephone Cly 1st St,,,,False
+3,313,200,26,,Ganesh Nagar & Extn.,,,,False
+3,313,200,26,,Ramana Avenue,,,,False
+3,313,200,26,,SSV Koil Street,,,,False
+3,313,200,26,,Roja Street,,,,False
+3,313,200,27,,Mookambigai Street,,,,False
+3,313,200,25,,Pukraj Nagar (Partly),,,,False
+3,313,200,25,,VS Mani Nagar,,,,False
+3,313,200,28,,Ambedkar Nagar,,,,False
+3,314,200,28,,"Thiruvalluvar Street, Pandian Street",,,,False
+3,314,200,33,,"sarathi nagar 1 to 4 street,",,,,False
+3,314,200,33,,"sarathi nagar extension,",,,,False
+3,314,200,33,,"nandha nagar,",,,,False
+3,314,200,33,,"venkateshwara nagar,",,,,False
+3,314,200,33,,"arul nagar,",,,,False
+3,314,200,33,,"ganapathy nagar,",,,,False
+3,314,200,33,,shankar nagar,,,,False
+3,314,200,33,,bharathiyar street extension,,,,False
+3,314,200,33,,"bharathi nagar,",,,,False
+3,314,200,33,,"kalai magal nagar 1 to 4 street,",,,,False
+3,314,200,33,,"moogambigai nagar,",,,,False
+3,314,200,33,,adilakshmi nagar,,,,False
+3,314,200,33,,"teachers colony 4th , 5th, 6th main road",,,,False
+3,314,200,29,,"annapoorna nagar,",,,,False
+3,314,200,29,,"balakrishna nagar,",,,,False
+3,314,200,29,,"sri vishnu nagar,",,,,False
+3,314,200,29,,"ganapathy nagar,",,,,False
+3,314,200,29,,"mohan nagar,",,,,False
+3,314,200,29,,"chellaia nagar,",,,,False
+3,314,200,29,,"munusamy nagar,",,,,False
+3,314,200,29,,gandhi nagar,,,,False
+3,314,200,29,,"karpagam nagar,",,,,False
+3,314,200,29,,"v.p.c nagar,",,,,False
+3,314,200,29,,srinivasa nagar,,,,False
+3,314,200,29,,"prakash nagar 1-12 street,",,,,False
+3,314,200,29,,vidya nagar,,,,False
+3,314,200,29,,"anna street,",,,,False
+3,314,200,29,,"vgp nagar main road,",,,,False
+3,314,200,29,,indra nagar,,,,False
+3,314,200,29,,vedhachalam street,,,,False
+3,314,200,29,,vasudeva thottam,,,,False
+3,315,201,23,Kavangarai,Thirumalai nagar,25,2021,K.S Nagar COC School,True
+3,315,201,31,Surapet,Aringnar Anna Nagar Total,25,2021,Community hall,True
+4,363,241,43,Kasimedu Village,Singarvelan Nagar Palla Paguthi,,,,False
+4,363,241,35,Kodungaiyur,Muthamil Nagar 6th Blocks,,,,False
+4,363,241,35,Kodungaiyur,Muthamil Nagar 7 th Blocks,,,,False
+4,363,241,35,Kodungaiyur,Muthamil Nagar 8 th Blocks,,,,False
+4,363,241,37,Kodungaiyur,MKB Nagar 6 th Main Road,,,,False
+4,363,241,37,Kodungaiyur,MKB Nagar 5 th Cross Street,,,,False
+4,363,241,37,Kodungaiyur,"Central Avenue,North Avenue Road",,,,False
+4,363,241,38,Tondiarpet,"Patel Nagar 3 rd Street, Nehru Nagar 13 th Street",,,,False
+4,363,241,40,"VOC Nagar, Ammani Ammal Thottam",VOC Nagar 36 Huts,,,,False
+4,363,241,40,"VOC Nagar, Ammani Ammal Thottam",Chelliamman kovil Street,,,,False
+4,363,241,41,Kumarasamy Nagar South,MGR Nagar Canal Road,,,,False
+4,363,241,45,Ganesapuram,Sanjay Nagar,,,,False
+4,363,241,46,Vyasarpadi,SM Nagar 24 th Block,,,,False
+4,363,241,46,Vyasarpadi,Mosque Street,,,,False
+4,363,241,46,Vyasarpadi,Samanthipoo Colnoy,,,,False
+4,363,241,46,Vyasarpadi,Mallipoo Colony,,,,False
+4,363,241,46,Vyasarpadi,"A,B,C Kalyanapuram",,,,False
+4,363,241,47,Korukkupet,Meenambal Nagar,,,,False
+4,363,241,47,Korukkupet,Ambedkar Street,,,,False
+4,363,241,47,Korukkupet,KH Road,,,,False
+4,363,241,47,Korukkupet,Ambedkar Street,,,,False
+4,364,242,34,,Durgai Avenue,1000,2015,Chinna KodungaiyurSchool,True
+4,364,242,35,,Muthamil Nagar 7 th Block,3670,,"Chennai High School, No.105, Kamaraj High Road Kodungaiyur, Chennai – 600 118",True
+4,364,242,35,,Muthamil Nagar 8th Block,,,"Chennai Middle Sch ool, Tondia rpet, High Road",True
+4,364,242,36,,TVK 1st Link Road,200,2015,"Chennai Middle Sch ool, Periya Kodungaiyur",True
+4,364,242,36,,Dr. Radhakrishnan Street,,,"Chennai High School, Sharma Nagar",True
+4,364,242,36,,Ambedkar Street,,,,True
+4,364,242,36,,Sharma nagar 3 r d Main Road,,,,True
+4,364,242,36,,Indra Nagar 2 n d Cross Street,,,,True
+4,364,242,36,,"19th West Cross Street, MKB Nagar",,,,True
+4,364,242,36,,Thiruvalluvar Nagar 8 th Main Road,,,,True
+4,365,242,37,,MKB Nagar 16 th to 19th Central and East,1500,2015,RR Nagar-CMS MKB Nagar-CMS KKD Nagar-CMS,True
+4,365,242,37,,RR Nagar 3rd & 4th Main Road,,,,True
+4,365,242,37,,"RR Nagar 5th,6th and 2nd Main Road",,,,True
+4,365,242,37,,"RR Nagar 2nd,3rd,5th & 6th Cross Road",,,,True
+4,365,242,37,,KKD Nagar,,,,True
+4,365,242,37,,Santhiya Nagar,,,,True
+4,365,242,37,,Subramani Street,,,,True
+4,365,242,37,,Lord Madha Street,,,,True
+4,365,242,37,,Srinivasan Street,,,,True
+4,365,242,38,,"Patel Nagar,",400,2015,"CHSS- Patel Nagar 4th Street, Nadar Kalyanamandapam-Nethaji Nagar 5th St",True
+4,365,242,38,,"Nedunchelian Nagar,",500,2015,,True
+4,365,242,38,,"New Vinobha Nagar,",475,2015,,True
+4,365,242,38,,"Sanjay Gandhi Nagar,",1000,2015,,True
+4,365,242,38,,"Annai Sandhya Nagar,",900,2015,,True
+4,365,242,38,,"Nehru Nagar,",600,2015,,True
+4,365,242,38,,Nethaji Nagar&,300,2015,,True
+4,365,242,38,,Tamizhar Nagar,240,2015,,True
+4,365,242,40,,VOC Nagar,600,2015,"Kamaraj Salai CMS,Thriuvalluvar Nagar CPS",True
+4,365,242,40,,VOC Nagar 36 huts,5000,2015,,True
+4,365,242,40,,Chelliamman Koil Street,,2015,,True
+4,365,242,40,,AA Scheme Road,,2015,,True
+4,365,242,40,,Thiruvalluvar Nagar,,2015,,True
+4,365,242,40,,Cross Road,,2015,,True
+4,366,242,41,,MGR N agar Canal Road,300,2015,"Chennai Primary School, No.103, Cornation Nagar , Chennai – 600 081. & Chennai Middle School, MGR Nagar 3rd Street, Chennai – 600 021.",True
+4,366,242,42,,Veerakutty Street,150,2015,"Corporation Higher Secondary Schoo l No.540, TH Road, Chennai – 600 021.",True
+4,366,242,42,,"Rettaikuzhi Street, Seniamman Koil Street",300,2015,"Chennai Primary School, Seniamman Koil Street, Chennai – 600 081.",True
+4,366,242,45,,Ganesa puram main road,450,2015,"CHS-Ganesapuram, Ch-39",True
+4,366,242,46,,Moorthinagr Street Aerikarai Slum (-HOUS ING BOARD HAS BEEN BUILD AND HAND OVER TO RESPECTIVE PEOPLE),150,2015,"Chennai Middle School, Moorthingar Stree t & Andal Kalyanamandapam, Erukkancherry High Road, Chennai",True
+4,366,242,47,,Ambedkar Nagar,250,2015,"Harinarayanapuram – CHS & Nadar Uravin Murai Kalyanamandapam, No.4/46, Bharathi Nagar 2 nd Street , Korrukkupet , Chennai – 600 021. Harinarayanapuram -CHS",True
+4,366,242,47,,Rajiv Gandhi Nagar,60,2015,,True
+5,410,285,53,Dr.Vijaya Rahavalu Road,"Srinivasan Street, Boojaraja Nagar, Kannan Street, Sajja Munusamy Street, Stanley Nagar Canal Street , P.P.Amman Koil Street Slum in Dn-53",,,,False
+6,446,327,65,,"Sivaparvathi Nagar, Dr.Ambedkar Nagar",,,,False
+6,446,327,64,,"Selvi Nagar 5th Street,Thirumalai Nagar 3rd St",,,,False
+6,446,327,68,,Jawahar Nagar 1 to 24 Street,,,,False
+6,446,327,68,,GKM Colony 25th & 26th Street,,,,False
+6,446,327,67,,Jamaliya Housing Board,,,,False
+6,446,327,71,,Arunthathi Nagar,,,,False
+6,446,327,74,,Ekangipuram,,,,False
+6,446,327,72,,Doss Nagar,,,,False
+6,446,327,73,,"Ammaiyammall Street, Decaster Road",,,,False
+6,446,327,73,,Natcharammall Street,,,,False
+6,446,327,75,,Subburayan Street,,,,False
+6,446,327,75,,Choolaimedu Street,,,,False
+6,446,327,75,,SS Puram A & B Block,,,,False
+6,446,327,76,,Angallamman Koil Street,,,,False
+6,446,327,77,,Kattur Nalla Muthu Street,,,,False
+6,446,327,77,,Puliyanthope 1st Street,,,,False
+6,446,327,78,,Astabujam Street,,,,False
+6,447,328,65,,"Dr.Ambedkar Nagar, MN Nagar",1200,,"Chennai High School, Kolathur",True
+6,447,328,68,,Jawahar Nagar,900,,"Chennai Middle School, KC Garden",True
+6,447,328,69,,GKM Colony,500,,"Chennai Primary School, GKM Colony 12th Street",True
+6,447,328,71,,Mettupalayam,2000,,"Chennai Girls High Secondary School, 20, School Road",True
+6,447,328,74,,Rajiv Gandhi Nagar,200,,Egangipuram Chennai Middle School,True
+6,447,328,73,,Decaster Road,1500,,Chennai Middle School,True
+6,447,328,72,,Venkatesapuram 1 to 9th Street,800,,Adithravida Boys Hr.Sec School,True
+6,447,328,72,,VOC nagar,750,,Adithravida Girls Hr.Sec School,True
+6,447,328,72,,Doss Nagar Pallam,500,,"TVK, Corporation Primary School",True
+6,447,328,73,,"New Ferrance Roa d, Ammaiyammall Street",450,,"Chennai Primary School, Chennai Higher Secondary School, New Ferrance Road",True
+6,447,328,75,,"SVM N agar, Subburayan Street",1500,,"Chinnababu Street, School",True
+6,447,328,75,,SS Puram A Block,200,,"Community Hall, Venkadathiri Street",True
+6,447,328,77,,Thattankulam,1500,,"Night Shelter, Old Slaughter House Road, Chennai - 11.",True
+7,486,375,82,,"DTP Colony, Ganamoorthy Nagar, Munusamy Koil st, VOC street,Thirunavukarasu Street",,,,False
+7,486,375,83,,Vanasakthi Nagar,,,,False
+7,486,375,84,,"East Avenue Road, Central Avenue road",,,,False
+7,486,375,85,,"Kamarajapuram, Ramapuram, MKB Nagar",,,,False
+7,486,375,86,,"Annai Sathya Nagar, Ram Poornam Nagr",,,,False
+7,486,375,88,,Park road opposite to Newry tower,,,,False
+7,486,375,91,,2nd Block & 3rd Clock,,,,False
+7,486,375,92,,"Venugopal Street,Kannadasan Salai",,,,False
+7,486,375,93,,"Vandiamman koil street, Nehru street, Padikuppam, Nakeeran salai",,,,False
+8,525,425,97,Ayanavaram,Veerasamy Main Street,,,,False
+8,525,425,97,Ayanavaram 97/ Ayanavaram,Veerasamy Main Street P.E.Koil West Mada Street,,,,False
+8,525,425,97,Ayanavaram 97/ Ayanavaram,P.E.Koil West Mada Street Solai 3rd Street,,,,False
+8,525,425,97,Ayanavaram 103/ Anna Nagar,Solai 3rd Street AD Block,,,,False
+8,525,425,103,Anna Nagar 102/ Anna Nagar,AD Block C Block,,,,False
+8,525,425,102,Anna Nagar 102/ Anna Nagar,C Block W Block,,,,False
+8,525,425,102,Anna Nagar 102/ Anna Nagar,W Block Bharathipuram Main Street,,,,False
+8,525,425,102,Anna Nagar 102/ Anna Nagar,Bharathipuram Main Street Bharathipuram 4th Street,,,,False
+8,525,425,102,Anna Nagar 102/ Anna Nagar,Bharathipuram 4th Street F Block 2nd & 4th Street,,,,False
+8,525,425,102,Anna Nagar 102/ Anna Nagar,F Block 2nd & 4th Street Muthumariamman Colony,,,,False
+8,525,425,102,Anna Nagar 100/ Kilpauk,Muthumariamman Colony Millers Road,,,,False
+8,525,425,100,Kilpauk 100/ Kilpauk,Millers Road Purasaiwalkam High Road (nearLaw College),,,,False
+8,525,425,100,Kilpauk,Rajarathinam Street,,,,False
+8,525,425,100,Kilpauk 100/ Kilpauk,Rajarathinam Street Kellys Road,,,,False
+8,525,425,100,Kilpauk 100/ Kilpauk,Kellys Road Taylors Road,,,,False
+8,525,425,100,Kilpauk 100/ Kilpauk,Taylors Road Umayal Street,,,,False
+8,525,425,100,Kilpauk 100/ Kilpauk,Umayal Street Temple Street,,,,False
+8,525,425,100,Kilpauk 99/ Purasaiwalkam,Temple Street Sundaram Lane,,,,False
+8,525,425,99,Purasaiwalkam 99/ Purasaiwalkam,Sundaram Lane Os one Kulam Tenements,,,,False
+8,525,425,99,Purasaiwalkam 99/ Purasaiwalkam,Os one Kulam Tenements New Bhoopathy Nagar,,,,False
+8,525,425,99,Purasaiwalkam 99/ Purasaiwalkam,New Bhoopathy Nagar Sastri Nagar,,,,False
+8,525,425,99,Purasaiwalkam 99/ Purasaiwalkam,Sastri Nagar Lawders Gate Main Road,,,,False
+8,525,425,99,Purasaiwalkam 99/ Purasaiwalkam,Lawders Gate Main Road Shanmugarayan Street,,,,False
+8,525,425,99,Purasaiwalkam 105/ Arumbakkam,Shanmugarayan Street Water Tank Road,,,,False
+8,525,425,105,Arumbakkam 108/ Chetpet,Water Tank Road MC Nichols 3rd Lane,,,,False
+8,525,425,108,Chetpet 106/ MMDA Colony,MC Nichols 3rd Lane Iyyappa Nagar,,,,False
+8,525,425,106,MMDA Colony 106/ MMDA Colony,Iyyappa Nagar Periyar Pathai,,,,False
+8,526,426,,Villivakkam,Bharathi Nagar,,,"Chennai Middle School, West Mada Street, Villivakkam)",True
+8,526,426,95,Villivakkam,"Vijayalakshmipuram, Welcome Colony, Bajanai Koil Street, Thanthoniamman Koil Street",1200,2015-16,Kanagadurga School,True
+8,526,426,96,Ayanavaram,"Street Kakkanji Nagar, Gandhi Nagar",2000,2015-16,"Chennai Palavayal School, Aynavaram",True
+8,526,426,104,Anna Nagar,SathyasaiNagar,300,2015-16,Sathyasai Nagar Church,True
+8,526,426,103,Anna Nagar,"Dr.Radha Krishnan Nagar, MGR Colony, Melnaduvankarai, Indira Nagar, Brewery Road, NSK Nagar",2870,2015-16,"Kamalammal Thirumana Mandapam, MGR Colony , Anganwadi, Melnaduvankarai, Anganwadi, Old Age Home, Anna Adarsh College, Chennai Primary School, Nathamuni Street, Chennai Primary School, NSK Nagar)",True
+8,526,426,102,Anna Nagar,"Bharathipuram, Muthumariamman Colony, Muthumariamman Koil Street, AB Block",585,2015-16,"Thiru.Vi.KaHigher Secondary School, Periakoodal Corporation School, Anna Sidha Hospital, Sundaravadanam School, Kandasamy Naidu College",True
+8,526,426,101,Aminjikarai,"Manjakollai, Kathiravan Colony, Gajalakshmi Colony,",8000,2015-16,"Kandasamy Naidu College Girls Higher Secondary School, Pulla Avenue, Manjakollai, Kathiravan Colony Chennai Middle School, GujjiCorporation Middle School",True
+8,526,426,105,Arumbakkam,Ashoka Street,2000,2015-16,"Middle School CBlock, MMDA Middle School",True
+8,527,427,,Aminjikarai,Kakkan Nagar,1000,2015-16,"School, Corporation Middle School, Aminjikarai, Amman Koil Mandapam",True
+8,527,427,108,Chetpet,"Apparao Garden, Avvaipuram, Jothiammal Nagar Total",1000,2015-16,"CMS, Mc Nichols Road, CHHS, Subbarayan Street",True
+9,563,471,113,Nakkeran Nagar,"Habibullah Road, Gangaikaraipuram, G.N.Chetty Road, Kodambakkam High road, Prakasam Street",,,,False
+9,563,471,117,Sathyamoorthy nagar,"South Bogh Road, North Bogh Road, Thomas Road, North Giriappa Road, G.N.Chetty Road, Thirumalai (P) Road",,,,False
+9,563,471,122,Alwarpet,"Pughs Road, Dr.Radhakrishnapuram, Ganeshpuram, Tank bund Road",,,,False
+9,563,471,109,Choolaimedu,Namachivayapuram in Dn -109,,,,False
+9,563,471,123,Beemanpet,"R.A.Puram 1st to 7th Streets, Seethammal Road, Seethamal Main road, Seethammal 1st Main Road, Seethammal 2nd Main Road",,,,False
+9,563,471,111,– Thousand Light,"Makkies Garden, Rangoon Street, Thideer Nagar",,,,False
+9,563,471,110,Kosimani Nagar,Appaswamy Street,,,,False
+9,563,471,112,Pulyur,"Nehru Street, Subethar Garden",,,,False
+9,563,471,119,Azat Nagar,"Avvai Shanmugam Salai, Avvai Shanmugam Salai 1st Lane, P.S.Sivswamy Street, Lakshmipuram 2nd street",,,,False
+9,564,472,113,Nakkeran Nagar,"Habibullah Road, Gangaikaraipuram, G.N.Chetty Road, Kodambakkam High road, Prakasam Street",1050,2015,Chennai Middle School Rama Street,True
+9,564,472,117,Sathyamoorthy nagar,"South Bogh Road, North Bogh Road, Thomas Road, North Giriappa Road, G.N.Chetty Road, Thirumalai (P) Road",1520,2015,Community Centre at Giriappa Road,True
+9,564,472,122,Alwarpet,"Pughs Road, Dr.Radhakrishnapuram, Ganeshpuram,Tank bund Road",2500,2015,Community Centre at K.B.Dasn Rosd,True
+9,564,472,125,Santhome,Ekambaram Street,200,2015,Chennai Middle School at Prof. Sanjeev Street,True
+9,564,472,114,Chepauk,Lock Nagar,250,2015,Chennai Middle School – Bangaru Street,True
+9,564,472,115,Ameer Mahal,J aane Jahan Khan 1st street,270,2015,Chennai Middle School – Soorappa Street,True
+9,564,472,116,Triplicane,Mattan Kuppam - Canal Street,265,2015,Chennai Middle School – Venkatrangam Street,True
+9,564,472,120,Krishnamapet,Hanumanthapuram,350,2015,Chennai Girls High School – Irusappan Street,True
+9,564,472,121,Vivekananda Nagar,"Ganesapuram North, Ganesapuram South, Balakrishna Street ,",375,2015,"Savithri Ammal Oriental school & Chennai High School, V.P.Koil street",True
+9,565,472,109,Choolaimedu,Namachivayapuram,1800,2015,East Namachivayapuram at Chennai Primary School,True
+9,565,472,123,Beemanpet,"R.A.Puram 1st to 7 t h Streets, Seethammal Road, Seethamal Main road, Seethammal 1st Main Road, Seethammal 2nd Main Road",2680,2015,C.P.Ramaswamy Salai at Community Hall,True
+9,565,472,111,Thousand Light,"Makkies Garden, Thideer Nagar, Rangoon Street",3600,2015,Modal School Road at Chennai High School,True
+9,565,472,110,Kosimani Nagar,AppaSwamy Street,300,2015,Appaswamy Street at Chennai Middle School,True
+9,565,472,119,Azat Nagar,"Avvai Shanmugam Salai, Avvai Shanmugam Salai 1s t Lane, P.S.Sivswamy Street, Lakshmipuram 2nd street Total",3400,2015,B alaji Nagar 3rd Street at Chennai Middle School,True
+10,606,524,128,Virugambakkam,Ganapathraj Nagar,,,,False
+10,606,524,,Virugambakkam 136/K.K.Nagar,Bharani Colony,,,,False
+10,606,524,140,Saidapet,K.R.Koil street,,,,False
+10,606,525,127,Koyambedu,Kannaki Nagar Arumbakkam,150,2015-2016,"Chennai Middle School, TSD Nagar",True
+10,606,525,127,Koyambedu,New Colony,200,2015-2016,"Chennai High School, Koyambedu",True
+10,606,525,128,Virugam bakkam,"Elango Nagar, Ganapath Raj Nagar",25,2015-2016,"Commmunity Hall, KamarajSalai, Virugambakkam",True
+10,606,525,,bakkam 128 Virugam bakkam,Nagar AnnaiSathya Nagar,75,2015-2016,"Virugambakkam Chennai Primary School, Nesapakkam",True
+10,606,525,137,K.K.Nagar,Choolaipallam,500,2015-2016,"Chennai Middle School, Kamaraj Street",True
+10,607,526,,K.K.Nagar,K.K.Nagar,,,Erikkarai Street,True
+10,607,526,138,Jafferkhanpet,"Jafferkhanpet, Pari Nagar,",25,2015-2016,"Chennai Primary School, Govidasamy Street Mgr Nagar",True
+10,607,526,138,Jafferkhanpet,"Thiru Nagar, SM Block",75,2015-2016,"Chennai High Secondary School, Govidasamy Street Mgr Nagar",True
+10,607,526,139,R.R.Colony,"Jothi ramalingam Nagar, Muthurangam block & Sarathinagar",450,2015-2016,"Mgr Nagar Chennai High School, Jafferkhanpet, Chennai",True
+10,607,526,141,V.O.C.Nagar,Sarathinagar Canal Bank Road,20,2015-2016,"Chennai High School, C.I.T.Nagar4th Main Road",True
+10,607,526,142,Saidapet,Thideer Nagar,125,2015-2016,"Chennai Middle School, - Thideer Nagar",True
+10,607,526,142,Saidapet,Godhamedu Total,100,2015-2016,"Chennai Primary School, - Bazaar Road",True
+11,648,574,145,Nerkundram,Pallavan nagar,,,,False
+11,648,574,145,Nerkundram,Sakthi nagar,,,,False
+11,648,574,145,Nerkundram,Krishna nagar,,,,False
+11,648,574,145,Nerkundram,Palvadi street,,,,False
+11,648,574,145,Nerkundram,Janakiraman colony,,,,False
+11,648,574,147,Madhuravoil,"Krishna nagar 1st , 10th, 28th 7th street",,,,False
+11,648,574,147,Madhuravoil,Pallvan nagar ext,,,,False
+11,648,574,147,Madhuravoil,Pallvan nagar 1st main road,,,,False
+11,648,574,148,Nerkundram,NSK street,,,,False
+11,648,574,148,Nerkundram,VOC Street,,,,False
+11,648,574,148,Nerkundram,Anbu nagar,,,,False
+11,648,574,150,"Karambakkam, Sivabootham",Doss main road,,,,False
+11,648,574,,"Sivabootham 150 Karambakkam, Sivabootham",Sannathi street,,,,False
+11,648,574,,"Sivabootham 150 Karambakkam, Sivabootham",Bharathiyar street,,,,False
+11,648,574,,"Sivabootham 150 Karambakkam, Sivabootham",Natarajan street,,,,False
+11,649,574,150,"Karambakkam, Sivabootham",MGR salai,,,,False
+11,649,574,,"Sivabootham 150 Karambakkam, Sivabootham",Thiruvalliamman koil st,,,,False
+11,649,574,,"Sivabootham 150 Karambakkam, Sivabootham",Mullai st,,,,False
+11,649,574,,"Sivabootham 150 Karambakkam, Sivabootham",Moorthi nagar main road,,,,False
+11,649,574,,"Sivabootham 150 Karambakkam, Sivabootham",Moorthi nagar 1st,,,,False
+11,649,574,,"Sivabootham 150 Karambakkam, Sivabootham",Moorthi nagar 3rd st,,,,False
+11,649,574,,"Sivabootham 150 Karambakkam, Sivabootham",Moorthi nagar 2nd st,,,,False
+11,649,574,,Sivabootham 152 Valasaravakkam,Kadambadiamman koil sannathi st,,,,False
+11,649,574,152,Valasaravakkam,Janaki nagar 6th street,,,,False
+11,649,574,152,Valasaravakkam,Sairam avenue,,,,False
+11,649,574,152,Valasaravakkam,Majestic colony,,,,False
+11,649,574,152,Valasaravakkam,Veerappa nagar,,,,False
+11,649,574,154,Ramapuram,Gangai amman koil street,,,,False
+11,649,574,154,Ramapuram,Chinna street,,,,False
+11,649,574,155,Ramapuram,Gangaiya avenue,,,,False
+11,649,574,155,Ramapuram,Amman nagar,,,,False
+11,649,574,155,Ramapuram,Royala nagar,,,,False
+11,649,574,155,Ramapuram,Kalasathamman koil street,,,,False
+11,649,574,155,Ramapuram,Michel garden,,,,False
+11,649,574,155,Ramapuram,Thiruvalluvar salai (Part),,,,False
+11,649,574,155,Ramapuram,Bakthi vedhandha avenue,,,,False
+11,650,575,148,Nerkundram,Periyarnagar,persons 160,2015,Rani mahal,True
+11,650,575,,Nerkundram 151 Porur,Chinnaporur,35,2015,Gym building,True
+12,681,615,156,,Kumari Nagar,,,,False
+12,681,615,160,,Venu street,,,,False
+12,682,615,160,,Sowri street,,,,False
+12,682,615,160,,Abraham Street,,,,False
+12,682,615,162,,Thillai Ganga Nagar 26th Street,,,,False
+12,682,615,163,,Ramakrishnapuram 3rd Street,,,,False
+12,682,615,164,,Nehru Colony 16h street,,,,False
+12,682,615,165,,Saraswathi Nagar,,,,False
+12,682,615,166,,Poonthottam 1st Street,,,,False
+12,682,616,156,,Thiruvalluvar nagar,100,2015,"1. Govt. High School, Padasalai Street 2. Corporation Primary School, Padasalai Street 3. Corporation Middle School, Madananadhapuram Main Road Chennai-600 125",True
+12,682,616,156,,MCS nagar,100,2015,,True
+12,682,616,157,,"Dharmarajapuram, Puratchi Thalaivi Nagar",450,2015,1.Corporation Middle School - M.G.Salai 2.Community Hall,True
+12,682,616,157,,Dr. Ambedkar Nagar,150,,,True
+12,683,616,158,,Burma Colony,400,2015,"1.Corporation Primary School, Mount Poonamallee 2.IDPL Primary School 3. Kuthallamman Temple Kalyana Mandabam 4. Cantonment School, Mount Poonamallee 5. Cantonment Community Hall",True
+12,683,616,159,,Kamarajar street,100,2015,"Adi Dravidar School, Kamarajar street, Meenambakkam, Chi-27",True
+12,683,616,161,,V.O.C. Nagar,200,2015,Nidhi School - ponniamman kovil street,True
+12,683,616,161,,Raja Street,200,2015,"CPS school ,MKN road",True
+12,683,616,162,,Kannan colony,100,2015,Community Hall & Gym Building,True
+12,683,616,165,,Indra nagar 1st and 2nd streets,250,2015,Nanganallur 8th street - C.P.S South new street,True
+12,683,616,166,,K.K. Nagar,100,2015,Corporation Primary school,True
+14,754,691,185,Ullagaram,"Nanganallur 6th main road, Nanganallur 2nd main road, Mac Millan main road, Giri street NSC Bose road Mathiyazhagan street, Kamaraj Street",,,,False
+14,754,691,186,Puzhuthivakkam,"Balaji Nagar 29-39 Streets, Balaji Nagar 40th Street Cross, Balaji Nagar 41st Street, Balaji Nagar Extn., 1st Street, Balaji Nagar Extn., 2nd Street, AG's Colony 1- 3 streets, AG's Colony 1st Cross Street, AG's Colony 2nd Cross Street Kaveri nagar, Bay blue watch Road, Jaganathan street, Kaveri nagar 5th street, kaveri nagar 2nd street, Lakshmana perumal nagar 4th street, Lakshmana perumal nagar 5th street, Thulukanathamman koil street, Kalathumedu 4th street, Selvaraj avenue",,,,False
+14,754,691,181,Kottivakkam,"Vengadesapuram main road, Elango nagar (South), Elango nagar (North), Puratchi Thalaivi main road, Puratchi Thalaivi 1st cross to 13 th cross, Anna nagar, Swaminathan nagar 5th street, Swaminathan nagar 6th street, MGR Salaiannai, sandhiya nagar, J.J.Nagar, Ambedkar puratchi nagar, kamaraj salai, sempon nagar, Thiruvallar nagar, Annai sandhiya nagar Extn, Mullai m street, Kambar street, anjugam ammaiyar nagar, kodikatha kumaran street, karikalan street, va.voo.si nagar, kakkan street, anna street, nagamani adiglar street, annai abirami street, K.P.K nagar west, k.p.k nagar north, sai ayush pooja avenue, Thiruvallar salai",,,,False
+14,754,691,182,Perungudi,"MGR Salaiannai, sandhiya nagar, J.J.Nagar,Ambedkar puratchi nagar, Maniammai street, Kandasamy nagar 1st street, Kandasamy nagar 2nd street, Kandasamy nagar 3rd street, Kandasamy nagar 4th street, Gandhi nagar, Gandhi nagar 1- 3 streets, Kolavizhiamman nagar, Maniammai street, Kolavizhiamman nagar 1 -15 streets, Krishna nagar 1 - 8 cross street, M.G.R nagar 1- 4 cross streets, Ambedkar salai, Veeramani salai main road, Veeramani salai 1 – 4 cross street, Krishna Nagar Main Road.",,,,False
+14,755,691,,,"Jeevanandham street, Jeevanandham 1st cross street, Thiru. vi.ka 1st cross street, Thiru.vi.ka 2nd cross street, Thiruvalluvar 1-3 main roads, Thiruvalluvar 1-10 cross street, Vembuli amman koil street, Vembuli amman 1-3 streets,",,,,False
+14,755,691,184,Palavakkam,"Maruthi nagar 1st main road, Maruthi nagar 1- 5 cross street, Senthil nagar main road 8th cross, Selvaganapthy avenue extn, Selvaganapthy avenue 3rd main road,Selvaganapthy avenue 2nd street, Selvaganapthy avenue 3rd street,",,,,False
+14,755,691,187,Perungudi,New kubera nagar 5th streetNew kubera nagar 3rd street,,,,False
+14,755,691,188,Madipakkam,"Nageswariamman Nagar,Arumugam Nagar 1st Street, Arumugam Nagar 2nd Street, Arumugam Nagar 3rd Street, Salban Kuttai Main Road, Rajesh Nagar 1st Main Road Cross Street, Rajesh Nagar 2nd Main Road Cross Street, Rajesh Nagar 3rd Main Road Cross Street, Rajesh Nagar 5th Main Road 2nd Cross Street,VGP Rajesh Nagar 1st Main Road, Myllai Balaji Nagar 1st block 1st Street, Myllai Balaji Nagar 3rd block 2nd Street, Myllai Balaji Nagar 2rd block 5th Street",,,,False
+14,755,691,188,Madipakkam,"Rajesh Nagar 4th Main Road Cross Street, West Anna Nagar 1-3 Street, West Anna Nagar 6th.Street, West Anna Nagar 7th Street, West Anna Nagar 9th Cross Street,",,,,False
+14,755,691,188,Madipakkam,"Kamatchiyamman Nagar 1st street to 5th street, Quide -Millath Nagar 1st street to 5th street, Ma.Po.Si Nagar 1- 3 streets, Ma. Po.Si Nagar cross street, Anna MGR Nagar, Gandhi St, Anna M.G.R Nagar Indira Gandhi St, Anna MGR Nagar Pari St, Anna MGR Nagar Rajiv Gandhi St, Poongavanathamman koil street, Nehru street, N.S.K street, Moovender Street,Bharathidasan street, Bharathiyar street, Sathyamoorthy street, Thangam Nagar 1st Street, Thangam Nagar Main Road, Sai baba Nagar 1st Cross Street, Sai baba Nagar 1st Street, Sai baba Nagar 2nd Main Road, Sai baba Nagar 2nd Main Road 1st Street, Sai baba Nagar 3rd Main Road, Sai baba Nagar 4th Main Road, Sai baba Nagar 5th Main Road",,,,False
+14,756,691,190,Pallikaranai,"Quide – Millath Nagar 1st street to 5th street, Ma.Po.Si Nagar cross street, Trobical Avenue 1st Main Road, Trobical Avenue 2nd Main Road Krishna Nagar Main Road, Krishna Nagar 1st Cross St, Krishna Nagar 2nd Cross St, Sai Balaji Nagar 1st Main Road, Sai Balaji Nagar 1st Street, Sai Balaji Nagar 2nd Main Road, Sai Balaji Nagar 2nd Street, Sai Balaji Nagar 3rd 1st Cross Street, Sai Balaji Nagar 3rd 2nd Cross Street, Sai Balaji Nagar 3rd Main Road, Sai Balaji Nagar 3rd Street, Sivas Avenue, Jayabal Nagar, Kamokotti Nagar 1st main road, 2nd main road, 3rd main road, Kamokotti Nagar 1st street to 10th street, Meru Nagar 1st street to 5th street, A.G.S Colony 1st street to 11th street, Sai Balaji Nagar Part-II 1st street to 6th street Bharathidasan street, Carmel street, Kamarajar street, Rajiv Gandhi street, Moovendar street,",,,,False
+14,756,691,191,Jalladianpe-t tai,"Pallavan Nagar 1-6 streets, Nethaji Street, Nagathamman koil street, Padmavathy Nagar Main road, pagavath singh street, Rajeshwari street",,,,False
+14,756,691,191,Jalladianpettai,"Pallavan street, Rajiv Ganthi street, Indira Ganthi street, Vivekanandar street, kannaki street, kambar street, manimeglai street, kovalan street, Indira Ganthi street, Rajiv Ganthi street, vaidyalingam street, valmigi street, kumakurubarar street, pachayamman koil street, moopanar street, logammal street, Mahaveerar street, mahaveerar 1st cross street, Mahaveerar 2nd cross street, Mahaveerar 3rd cross street, subash Chandra bose street, vanchinathan street, parivallal street, cholan street, Sai ganesh Nagar 2nd main Road, Sai ganesh Nagar 20 – 28 cross street, Quiathey millath street, masuti street, Green court Main Road, Jayachandran Nagar 3rd main road,",,,,False
+14,757,692,185,,"M.G.R street, Erikkarai Salai, Kamarajar Street, Mathiazhagan Street, Eswaran Koil street, Puzhuthivakkam bus stand, Maheswari Avenue, Ram nagar 1 to 5 streets, Kaveri street, Brindhavan street, Gangai street, Yamunai street, Sivaraman street, Sundarajan salai, Sadasiva nagar 1 & 2 streets, Sivaprakasam nagar 2nd street,",400 1370,Dec-15 Dec-15,"CPS School, Ullagaram St Thomas Primary School, Puzhuthivakkam,. Thanthai Periyar school, Puzhuthivakkam",True
+14,757,692,181,,"MGR Nagar, Anna nagar, Sathya nagar, Elango nagar, Vengadesapuram, New Colony, Kuppam",4000,Dec-15,"Adi Dravidar Primary Schools, Palavakkam",True
+14,757,692,182,,"Santhiya nagar, J.J.Nagar, Anna Ambedkar nagar, K.P.K nagar West, Anjugam Ammaiyar nagar Kallukuttai,","al 10000 r,",Dec-15,"Govt. Higher Secondary School, Kanthachavadi",True
+14,757,692,183,,"Maniyammai street, M.G.R nagar, Kolavziyamman street, Krishnan nagar, Ambedhakar street, Periyar street, Cholan nagar,",3200,Dec-15,"Adi Dravidan Hr. Sec. School, Palavakkam",True
+14,758,692,184,,"Maruthi nagar, Senthil nagar, Saravana nagar, Selvaganapathy Avenue,",300,Dec-25,"Chennai Primary School, Perungudi",True
+14,758,692,187,,"Karthikeyapuram 12th Street, Madipakkam Main Road, New Kubera Nagar 5th Street,",400,,Sai Matriculation Hr. Sec.. School,True
+14,758,692,188,,"Thanthai Periyar Nagar, Nageshwariamman Nagar, Rajesh Nagar, Anna Nagar West, Sri Nagar, Ram Nagar South Extn, Kuberan Nagar Extn,",1200,Dec-2025,"CMS School (Block 2 Myllai balaji nagar), Indumathi Kalyana Mandabam Rajesh Nagar , CMS School (Madipakkam Kulakarai Street), Jay Jay Sankara (Periyar Nagar 7th street)",True
+14,758,692,189,,"Kamatchi Nagar, Quide Millth Nagar, Anna M.G.R Nagar, Sai Balaji Nagar, Thangam Nagar,",800,Dec-2025,"St. Antony School, Selvam Nagar, Pallikaranai",True
+14,758,692,190,,"Sai balaji nagar, Pasumpon nagar, Vallal pari nagar, Immanuvel street, Barathidasan street ,",1000,Dec-2025,"Govt. Hr. Sec. School, Tambaram, Velachery Main Road",True
+14,758,692,191,,"Padmavathi Nagar, Pallavan Nagar, Neswallar Nagar, Ancheneyar Nagar, Sai Ganesh Nagar,",1250,Dec-2025,"CMS, Veerathamman Koil Street, Jalladianpet",True
+15,790,729,192,Neelangarai,Sivan koil street,,,,False
+15,790,729,196,Injampakkam,Bethel nagar,,,,False
+15,790,729,199,Sozhanganallur,Ghandi Nagar,,,,False
+15,792,730,192,N eelangarai,Aringar Anna street,,2015,"PDN Kalyana mandapam, Neelankarai",True
+15,792,730,192,N eelangarai,"Chinna Neelangarai, Periya Neelangarai",,2015,"Panchayat middle school, Neelangarai",True
+15,792,730,192,N eelangarai,"Pandian nagar, Aringar Anna nagar, VPG Avenue",,2015,"Govt. Hr School, Thoraipakkam",True
+15,792,730,193,Okkiyam Thuraipakkam,"Karpagavinayagar nagar, Mahathma Gandhi nagar, Ganesh nagar",,2015,St.Joseph School - Vettuvankeni,True
+15,792,730,194,Injampakkam,"Chinnandi Kuppam, Bethel Nagar",,2015,"Tsunami Centre, Injampakkam",True
+15,792,730,194,Injampakkam,Bethel Nagar,,2015,"Church Kalyanamandapam, Injampakkam",True
+15,792,730,197,S ozhanganallur,MGR Nagar,,2015,"GPJ Mandapam, Akkarai, Sozhanganallur",True
+15,792,730,199,S ozhanganallur,Gandhi nagar,,2015,"Govt. Hr School, Sozhanganallur",True
+15,792,730,197,S ozhanganallur,Kudumiyandithoppu,,2015,"Tsunami Centre, Kudumiyandithoppu",True
+15,792,730,200,Chemmenchery,"Jawahar nagar, Ezhilmuga nagar, Rajiv Gandi nagar",,2015,Panchayat Union Primary School - Chemmenchery,True

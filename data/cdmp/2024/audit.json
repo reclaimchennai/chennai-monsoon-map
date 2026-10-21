@@ -1,0 +1,878 @@
+{
+ "pdf": "cdmp_2024.pdf",
+ "pages": 806,
+ "tables": 896,
+ "table_rows": 11705,
+ "tables_by_kind": {
+  "ward_committee": 197,
+  "map_legend": 111,
+  "contacts": 86,
+  "other": 67,
+  "water_stagnation": 48,
+  "water_bodies": 43,
+  "vehicles": 30,
+  "lighting": 29,
+  "relief_centres": 29,
+  "boats": 21,
+  "contents": 19,
+  "inundation_streets": 18,
+  "figure_label": 17,
+  "tree_fall": 16,
+  "parks": 16,
+  "ndrf": 16,
+  "population": 15,
+  "storm_water_drains": 15,
+  "water_entered_houses": 15,
+  "pumping_stations": 13,
+  "evacuation_streets": 13,
+  "narrow_lanes": 13,
+  "inundation_history": 11,
+  "subways": 11,
+  "tenements": 11,
+  "inundation_summary": 7,
+  "assembly_points": 6,
+  "health_facilities": 3
+ },
+ "dataset_rows": {
+  "assembly_points": 267,
+  "boats": 102,
+  "evacuation_streets": 395,
+  "inundation_history": 1204,
+  "inundation_streets": 356,
+  "narrow_lanes": 82,
+  "ndrf": 47,
+  "officials": 1184,
+  "parks": 463,
+  "population": 215,
+  "pumping_stations": 204,
+  "relief_centres": 179,
+  "storm_water_drains": 215,
+  "subways": 29,
+  "tenements": 176,
+  "tree_fall": 182,
+  "vehicles": 79,
+  "ward_contacts": 3359,
+  "ward_councillors": 196,
+  "water_bodies": 367,
+  "water_stagnation": 592
+ },
+ "phones_on_pages": 2321,
+ "phones_not_extracted": {
+  "191": [
+   "04422420600",
+   "04424838968",
+   "04424867725"
+  ],
+  "337": [
+   "6001183670"
+  ]
+ },
+ "unclassified_tables": [
+  {
+   "id": 2,
+   "pages": [
+    14,
+    15,
+    16,
+    17
+   ],
+   "title": "",
+   "columns": [
+    "Heading No",
+    "Description",
+    "col3"
+   ]
+  },
+  {
+   "id": 4,
+   "pages": [
+    30
+   ],
+   "title": "in the zonal chapters. COUNCIL CHART HONOURABLE MAYOR",
+   "columns": [
+    "col1",
+    "col2"
+   ]
+  },
+  {
+   "id": 5,
+   "pages": [
+    30
+   ],
+   "title": "",
+   "columns": [
+    "col1",
+    "col2"
+   ]
+  },
+  {
+   "id": 6,
+   "pages": [
+    30
+   ],
+   "title": "",
+   "columns": [
+    "col1",
+    "col2"
+   ]
+  },
+  {
+   "id": 7,
+   "pages": [
+    30
+   ],
+   "title": "",
+   "columns": [
+    "col1",
+    "col2"
+   ]
+  },
+  {
+   "id": 8,
+   "pages": [
+    30
+   ],
+   "title": "",
+   "columns": [
+    "col1",
+    "col2"
+   ]
+  },
+  {
+   "id": 9,
+   "pages": [
+    32
+   ],
+   "title": "",
+   "columns": [
+    "col1",
+    "col2"
+   ]
+  },
+  {
+   "id": 10,
+   "pages": [
+    32,
+    33,
+    34
+   ],
+   "title": "The services of authorities and departments are mentioned in detail in the follo",
+   "columns": [
+    "DEPARTMENTS / Madras High Court / Chennai Metropolitan Development Authority (CMDA) / (CMDA) Greater Chennai Police Maintains law and order, traffic in the city.",
+    "FUNCTIONS OR SERVICES / Highest Judicial authority in the State / Responsible for planning and development of Chennai Metropolitan Area. / (CMDA) Greater Chennai Police Maintains law and order, traffic in the city."
+   ]
+  },
+  {
+   "id": 11,
+   "pages": [
+    35
+   ],
+   "title": "The land usage pattern in Chennai can be broadly classified as tree cover area o",
+   "columns": [
+    "Name",
+    "Area in Sq km",
+    "Percentage"
+   ]
+  },
+  {
+   "id": 13,
+   "pages": [
+    39
+   ],
+   "title": "discharges into the Cooum River. The waterways maintained by Public Works Depart",
+   "columns": [
+    "Sl. No",
+    "List of Waterways",
+    "Length in Km"
+   ]
+  },
+  {
+   "id": 14,
+   "pages": [
+    41
+   ],
+   "title": "The Minor drainage or canals maintained by Greater Chennai Corporation with thei",
+   "columns": [
+    "SL No.",
+    "List of Water ways",
+    "Zone"
+   ]
+  },
+  {
+   "id": 17,
+   "pages": [
+    44
+   ],
+   "title": "be collected from the Zonal Office and will be submitted to the Commissioner. Th",
+   "columns": [
+    "Integrated Command & Control Centre (ICCC)"
+   ]
+  },
+  {
+   "id": 18,
+   "pages": [
+    55
+   ],
+   "title": "delayed the restoration of power supply. 6133 street lamp poles were damaged alo",
+   "columns": [
+    "col1",
+    "col2"
+   ]
+  },
+  {
+   "id": 19,
+   "pages": [
+    58
+   ],
+   "title": "any disaster kind of down pouring, whereas from the second week of November heav",
+   "columns": [
+    "Date",
+    "22.10.1969",
+    "27.10.2005",
+    "9.11.2015",
+    "13.1.2015",
+    "16.1.2015"
+   ]
+  },
+  {
+   "id": 38,
+   "pages": [
+    110
+   ],
+   "title": "",
+   "columns": [
+    "INUNDATION LOCATIONS 2023 - North East Monsoon / Sl.NO / Sl.NO ZONE Division LOCATIONS / 1 1 7 Vetri vinayagar nagar",
+    "INUNDATION LOCATIONS 2023 - North East Monsoon / ZONE / Sl.NO ZONE Division LOCATIONS / 1 1 7 Vetri vinayagar nagar",
+    "INUNDATION LOCATIONS 2023 - North East Monsoon / North Division / Sl.NO ZONE Division LOCATIONS / 1 1 7 Vetri vinayagar nagar",
+    "INUNDATION LOCATIONS 2023 - North East Monsoon / h East Monsoon LOCATIONS / Sl.NO ZONE Division LOCATIONS / 1 1 7 Vetri vinayagar nagar"
+   ]
+  },
+  {
+   "id": 39,
+   "pages": [
+    122
+   ],
+   "title": "accepted method at present to predict the time and intensity of earthquake. The ",
+   "columns": [
+    "Seismic zone / zone Felt by all many frightened. Some heavy / II Below 4.5 VI furniture moved; a few instances of fallen plaster. Damage slight",
+    "Magnitude / zone Felt by all many frightened. Some heavy / II Below 4.5 VI furniture moved; a few instances of fallen plaster. Damage slight",
+    "Probable max. intensity / zone Felt by all many frightened. Some heavy / II Below 4.5 VI furniture moved; a few instances of fallen plaster. Damage slight",
+    "Probable Impact / zone Felt by all many frightened. Some heavy / II Below 4.5 VI furniture moved; a few instances of fallen plaster. Damage slight"
+   ]
+  },
+  {
+   "id": 40,
+   "pages": [
+    122
+   ],
+   "title": "Seismic ZMoAPn SeHOsW INiGn India SESMIC ZONES OF INDIA",
+   "columns": [
+    "col1"
+   ]
+  },
+  {
+   "id": 41,
+   "pages": [
+    123
+   ],
+   "title": "Seismic Zones in Tamilnadu MAP SHOWING SESMIC ZONES OF TAMILNADU",
+   "columns": [
+    "col1",
+    "col2"
+   ]
+  },
+  {
+   "id": 48,
+   "pages": [
+    130
+   ],
+   "title": "great earthquakes in Mekran coast. Earthquake of magnitude 7 or more may be dang",
+   "columns": [
+    "S.No",
+    "Year",
+    "Affected area / locations"
+   ]
+  },
+  {
+   "id": 49,
+   "pages": [
+    132
+   ],
+   "title": "East Coast RoadEast Coast Road E E a a s st t C ao st C aoRd oast Road East Coas",
+   "columns": [
+    "SL. NO / SL. 1NO / 1 2",
+    "O. ZON / O. ZO1N / 1 1",
+    "NE WARD / N1 E WA3RD / 1 3 1 4",
+    "NAME OF THE RELIEF SHELTER / CPS, AS NNAAMGAER OF THE RELIEF SHELTER / CCPPSS, M ASA HNAALGIAAMR AN KOIL SCHOOL ST, ERNAVOOR"
+   ]
+  },
+  {
+   "id": 50,
+   "pages": [
+    146,
+    147
+   ],
+   "title": "GCC will remove water hyacinth and floating materials from canals maintained by ",
+   "columns": [
+    "Sl.No",
+    "Measures before Monsoon",
+    "Actions to be taken during rain"
+   ]
+  },
+  {
+   "id": 51,
+   "pages": [
+    147
+   ],
+   "title": "water to be disposed to the particular disposal points like Stormwater drain and",
+   "columns": [
+    "Sl.No",
+    "Measures to be taken before rain"
+   ]
+  },
+  {
+   "id": 52,
+   "pages": [
+    148
+   ],
+   "title": "citizens, differently abled persons are also to be kept in readiness in the reli",
+   "columns": [
+    "Measures before Monsoon",
+    "Actions to be taken during rain"
+   ]
+  },
+  {
+   "id": 53,
+   "pages": [
+    149
+   ],
+   "title": "",
+   "columns": [
+    "• Light, Fan Switches to be tested",
+    "• Be polite towards the people."
+   ]
+  },
+  {
+   "id": 54,
+   "pages": [
+    151
+   ],
+   "title": "Department, Fire Service Department and Private Sources will be deployed. The pr",
+   "columns": [
+    "Measures before Monsoon",
+    "Actions to be taken during rain"
+   ]
+  },
+  {
+   "id": 58,
+   "pages": [
+    154
+   ],
+   "title": "8.7 Transport equipment /Lorries",
+   "columns": [
+    "Measures before Monsoon",
+    "Actions to be taken during rain"
+   ]
+  },
+  {
+   "id": 60,
+   "pages": [
+    161
+   ],
+   "title": "The following table shows the Preparedness of action taken for disease control i",
+   "columns": [
+    "Measures before Monsoon",
+    "Actions to be taken during rain"
+   ]
+  },
+  {
+   "id": 64,
+   "pages": [
+    165
+   ],
+   "title": "",
+   "columns": [
+    "Assistant Engineer, TANGEDCO",
+    "Proper maintenance of the electric cables, ensuring 24x7 power supply, attending to cable faults"
+   ]
+  },
+  {
+   "id": 65,
+   "pages": [
+    165
+   ],
+   "title": "occurrence in the ward. The preparedness of ward committee during the disaster t",
+   "columns": [
+    "Measures before Monsoon",
+    "Actions to be taken during rain"
+   ]
+  },
+  {
+   "id": 66,
+   "pages": [
+    166,
+    167,
+    168
+   ],
+   "title": "will not be done effectively. The Commissioner, GCC will conduct regular meeting",
+   "columns": [
+    "S. NO",
+    "DEPARTMENT",
+    "MITIGATION PLAN"
+   ]
+  },
+  {
+   "id": 102,
+   "pages": [
+    206
+   ],
+   "title": "",
+   "columns": [
+    "AINSUENDD AOTNIO NR EISXTAETN TM OICN R7tOh DWEACVEMEB SERA T(ZEOLNLE I-T",
+    "TI)E"
+   ]
+  },
+  {
+   "id": 103,
+   "pages": [
+    207
+   ],
+   "title": "",
+   "columns": [
+    "ZONE 1 ROADS/STREETS PRONE TO INUNDATION & LOCATION OF PUMP"
+   ]
+  },
+  {
+   "id": 163,
+   "pages": [
+    246
+   ],
+   "title": "",
+   "columns": [
+    "#* S9"
+   ]
+  },
+  {
+   "id": 166,
+   "pages": [
+    252
+   ],
+   "title": "",
+   "columns": [
+    "#* S5"
+   ]
+  },
+  {
+   "id": 168,
+   "pages": [
+    252
+   ],
+   "title": "",
+   "columns": [
+    "#* S9"
+   ]
+  },
+  {
+   "id": 350,
+   "pages": [
+    405
+   ],
+   "title": "MMAADDAUMR ASITSRAEMEYT DCRO. LALMEBGEED RKOAARD STRAHANS ROAD DA)OIARL ASSK CRA",
+   "columns": [
+    "Length",
+    "9.3",
+    "0.5"
+   ]
+  },
+  {
+   "id": 351,
+   "pages": [
+    405
+   ],
+   "title": "",
+   "columns": [
+    "Area",
+    "12.25Acre",
+    "900m2",
+    "on6d500m2",
+    "1200m2",
+    "nK22o0il0Pmon2d"
+   ]
+  },
+  {
+   "id": 360,
+   "pages": [
+    420
+   ],
+   "title": "ROAD MIL LS",
+   "columns": [
+    "Street/Areas-Peopletobeshifted",
+    "ListofStreet,Peopletobeshifted",
+    "MNNagar,SivasakthiNagar,",
+    "BharathRajivGandhiNagar,Jayanthi",
+    "JawaharNagar",
+    "GKMColony"
+   ]
+  },
+  {
+   "id": 370,
+   "pages": [
+    426
+   ],
+   "title": "",
+   "columns": [
+    "EvacuationArea",
+    "EvacuationLocation",
+    "2-DossNagar,Venkatesapuram",
+    "Kannikapuram,Ammaiyammall Street,",
+    "Puliyanthope,LalsinghStreet",
+    "Egangipuram,Mettupalayam"
+   ]
+  },
+  {
+   "id": 411,
+   "pages": [
+    454
+   ],
+   "title": "",
+   "columns": [
+    "ZONE VII - ROADS/STREETS PRONE TO INUNDATION & LOCATION OF PUMP"
+   ]
+  },
+  {
+   "id": 413,
+   "pages": [
+    454
+   ],
+   "title": "",
+   "columns": [
+    "col1",
+    "M8"
+   ]
+  },
+  {
+   "id": 449,
+   "pages": [
+    477
+   ],
+   "title": "",
+   "columns": [
+    "THNEA ZMOEN EOF THWE AZRODN ENU Nagar 94 TO 1",
+    "UMBWERARD NUMBER 108"
+   ]
+  },
+  {
+   "id": 533,
+   "pages": [
+    540
+   ],
+   "title": "",
+   "columns": [
+    "col1",
+    "col2"
+   ]
+  },
+  {
+   "id": 534,
+   "pages": [
+    540
+   ],
+   "title": "",
+   "columns": [
+    "LISTOFSTREETSPEOPLETO",
+    "BESHIFTED NEARBYAREAS",
+    "EASTNAMACHIYAPURAM WESTNAMACHIYAPURAM",
+    "HARRINGTON5THAVENUE THIDEERNAGAR",
+    "MAKESEGARDEN",
+    "MAKESEGARDEN"
+   ]
+  },
+  {
+   "id": 588,
+   "pages": [
+    576
+   ],
+   "title": "",
+   "columns": [
+    "*# Streets where water stagnated in the previous monsoon 557 Location of Diesel Pump Location Zone"
+   ]
+  },
+  {
+   "id": 593,
+   "pages": [
+    581
+   ],
+   "title": "",
+   "columns": [
+    "col1",
+    "#*RELIEF SHELTE Relief Centres",
+    "#*RELIEF SHELTE Relief Centres",
+    "#*RELIEF SHELTE Relief Centres",
+    "#*RELIEF SHELTE Relief Centres",
+    "#*RELIEF SHELTE Relief Centres"
+   ]
+  },
+  {
+   "id": 602,
+   "pages": [
+    588
+   ],
+   "title": "",
+   "columns": [
+    "col1",
+    "col2"
+   ]
+  },
+  {
+   "id": 603,
+   "pages": [
+    588
+   ],
+   "title": "",
+   "columns": [
+    "col1",
+    "NDNRDF RTFE ATMEAM",
+    "NDNRDF RTFE ATMEAM",
+    "NDNRDF RTFE ATMEAM",
+    "NDNRDF RTFE ATMEAM",
+    "NDNRDF RTFE ATMEAM"
+   ]
+  },
+  {
+   "id": 604,
+   "pages": [
+    588
+   ],
+   "title": "",
+   "columns": [
+    "col1",
+    "col2"
+   ]
+  },
+  {
+   "id": 605,
+   "pages": [
+    588
+   ],
+   "title": "",
+   "columns": [
+    "col1",
+    "col2"
+   ]
+  },
+  {
+   "id": 606,
+   "pages": [
+    588
+   ],
+   "title": "",
+   "columns": [
+    "col1",
+    "col2",
+    "col3"
+   ]
+  },
+  {
+   "id": 607,
+   "pages": [
+    588
+   ],
+   "title": "",
+   "columns": [
+    "col1",
+    "col2",
+    "col3"
+   ]
+  },
+  {
+   "id": 608,
+   "pages": [
+    588
+   ],
+   "title": "",
+   "columns": [
+    "ID.",
+    ".I NDo. . E",
+    ".No. E1",
+    "WaWrdardEV 127",
+    "col5",
+    "CUAETIVOEANVC AAURCAEUTAAISOTNIO_LNO_LCOACTAIOTNION New Colony"
+   ]
+  },
+  {
+   "id": 609,
+   "pages": [
+    588
+   ],
+   "title": "",
+   "columns": [
+    "col1",
+    "BoaBtosats",
+    "BoaBtosats",
+    "BoaBtosats",
+    "BoaBtosats"
+   ]
+  },
+  {
+   "id": 631,
+   "pages": [
+    601
+   ],
+   "title": "",
+   "columns": [
+    "col1",
+    "col2",
+    "NAME OF THE ZONE",
+    "NAME OF THE ZONE",
+    "WARD NUMBER"
+   ]
+  },
+  {
+   "id": 645,
+   "pages": [
+    611
+   ],
+   "title": "",
+   "columns": [
+    "ID",
+    "Ward",
+    "ONtahmeer oWf oattheerr wBaotedri beosd ies",
+    "Length / Area"
+   ]
+  },
+  {
+   "id": 655,
+   "pages": [
+    622
+   ],
+   "title": "",
+   "columns": [
+    "col1",
+    "#*ID. No. R1",
+    "#*ID. No. R1",
+    "Ward 144 RELI",
+    "Ward 144 RELI",
+    "Name & Addres of relief centres available Govt. Hr. Sec. School, Sannathi Street, Maduravoyal, IECFhe nSnHai-E95LTER"
+   ]
+  },
+  {
+   "id": 670,
+   "pages": [
+    634
+   ],
+   "title": "",
+   "columns": [
+    "col1",
+    "col2"
+   ]
+  },
+  {
+   "id": 690,
+   "pages": [
+    645
+   ],
+   "title": "",
+   "columns": [
+    "- 12 NAME OF THE ZONE",
+    "col2"
+   ]
+  },
+  {
+   "id": 721,
+   "pages": [
+    669
+   ],
+   "title": "EVACUATION , NDRF TEAM & BOAT LOCATIONS ZONE XII EVACUATION AREA, NDRF TEAM & BO",
+   "columns": [
+    "col1",
+    "col2"
+   ]
+  },
+  {
+   "id": 763,
+   "pages": [
+    702
+   ],
+   "title": "ZONE XIII - EVACUATION & RELIEF SHELTERS",
+   "columns": [
+    "Street/Areas-Peopletobeshifted",
+    "Listofstreets,peopletobeshifted",
+    "Newanusuyamandapam",
+    "Vinayagapuram,",
+    "Chettithottam Nagireddithottam Arulayammanpet Athumanagar,Kalvaikarai",
+    "L.D.G.Road,MGRnagar,Arockiamadhanagar Kotturpuram Suryanagar Chitranagar"
+   ]
+  },
+  {
+   "id": 765,
+   "pages": [
+    702
+   ],
+   "title": "R N I",
+   "columns": [
+    "#* R7"
+   ]
+  },
+  {
+   "id": 775,
+   "pages": [
+    709
+   ],
+   "title": "",
+   "columns": [
+    "Corporationoffice-Richardspark KotturpuramTNSCB",
+    "KotturpuramTNSCB Mallipoonagar",
+    "AGScolonyIVmainroad",
+    "AGSColony",
+    "TansiNagar&UdayamNagar"
+   ]
+  },
+  {
+   "id": 787,
+   "pages": [
+    715
+   ],
+   "title": "",
+   "columns": [
+    "col1",
+    "col2"
+   ]
+  },
+  {
+   "id": 814,
+   "pages": [
+    737
+   ],
+   "title": "",
+   "columns": [
+    "Sanitation, Medicine",
+    "SI"
+   ]
+  },
+  {
+   "id": 860,
+   "pages": [
+    767
+   ],
+   "title": "ZONE XV - WATER BODIES µ ZONE XV - WATER BODIES",
+   "columns": [
+    "col1"
+   ]
+  },
+  {
+   "id": 895,
+   "pages": [
+    799,
+    800,
+    801,
+    802
+   ],
+   "title": "",
+   "columns": [
+    "Heading No",
+    "Description",
+    "col3"
+   ]
+  }
+ ]
+}

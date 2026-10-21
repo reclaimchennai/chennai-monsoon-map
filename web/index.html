@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Chennai Monsoon Map</title>
+<meta name="description" content="Tractor and diesel pumps with drivers' numbers, flood-prone streets, subways, relief centres and ward contacts for Chennai's north-east monsoon — tap a number to call.">
+<meta name="theme-color" content="#0d2a3a">
+<meta property="og:title" content="Chennai Monsoon Map">
+<meta property="og:description" content="Pumps you can call, flood-prone streets, relief centres and your ward's officers — one map.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%230d2a3a'/><path d='M16 5c4 6 7 9.5 7 13.5A7 7 0 0 1 9 18.5C9 14.5 12 11 16 5z' fill='%2357c4e5'/></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Noto+Sans+Tamil:wght@500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.css">
+<style>
+  :root {
+    --ink: #0d2a3a; --ink2: #24485c; --mut: #5d7685; --line: #d9e2e6; --paper: #fbfaf6;
+    --rain: #2b9ac4; --rain2: #57c4e5; --warn: #e8590c; --vio: #6741d9; --ok: #2f9e44; --red: #d6336c;
+    --card: rgba(251, 250, 246, .94); --shadow: 0 10px 34px rgba(13, 42, 58, .22);
+    --sheet-peek: 168px;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; background: #f9f5ed; color: var(--ink); font: 15px/1.42 'Atkinson Hyperlegible', system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
+  #map { position: fixed; inset: 0; }
+  button { font: inherit; color: inherit; }
+  a { color: var(--rain); }
+  .ta { font-family: 'Noto Sans Tamil', sans-serif; }
+
+  /* ---------- top bar ---------- */
+  #top { position: fixed; z-index: 5; left: 12px; right: 12px; top: calc(10px + env(safe-area-inset-top)); display: flex; gap: 8px; align-items: center; pointer-events: none; }
+  #brand { pointer-events: auto; display: flex; align-items: center; gap: 10px; background: var(--ink); color: #fff; border-radius: 16px; padding: 8px 14px 8px 10px; box-shadow: var(--shadow); min-width: 0; }
+  #brand .drop { width: 30px; height: 30px; flex: none; }
+  #brand { max-width: calc(100% - 112px); }
+  #brand > div { min-width: 0; }
+  #brand h1 { margin: 0; font: 800 17px/1.05 'Bricolage Grotesque', sans-serif; letter-spacing: -.01em; white-space: nowrap; }
+  #brand .sub { font-size: 11.5px; color: #9fd2e6; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  #top .sp { flex: 1; }
+  .fab { pointer-events: auto; width: 46px; height: 46px; border-radius: 15px; border: 0; background: var(--card); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); box-shadow: var(--shadow); display: grid; place-items: center; cursor: pointer; flex: none; }
+  .fab svg { width: 22px; height: 22px; stroke: var(--ink); fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+  .fab.on { background: var(--rain); } .fab.on svg { stroke: #fff; }
+  #locate.busy svg { animation: spin 1.1s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* search */
+  #searchbox { position: fixed; z-index: 6; left: 12px; right: 12px; top: calc(66px + env(safe-area-inset-top)); display: none; }
+  body.searching #searchbox { display: block; }
+  #q { width: 100%; height: 48px; border-radius: 15px; border: 2px solid var(--rain); padding: 0 16px; font: inherit; font-size: 16px; background: #fff; box-shadow: var(--shadow); outline: none; }
+  #results { margin-top: 6px; background: #fff; border-radius: 14px; box-shadow: var(--shadow); max-height: 52vh; overflow: auto; }
+  #results:empty { display: none; }
+  .res { display: flex; gap: 10px; align-items: center; padding: 10px 14px; border-bottom: 1px solid var(--line); cursor: pointer; }
+  .res:last-child { border-bottom: 0; }
+  .res:hover, .res.k { background: #eef7fb; }
+  .res .t { font-weight: 700; } .res .s { font-size: 12.5px; color: var(--mut); }
+
+  /* ---------- sheet / panel ---------- */
+  #sheet { position: fixed; z-index: 4; left: 0; right: 0; bottom: 0; height: 86vh; background: var(--paper); border-radius: 22px 22px 0 0; box-shadow: 0 -8px 30px rgba(13, 42, 58, .18);
+           transform: translateY(calc(86vh - var(--sheet-peek))); transition: transform .32s cubic-bezier(.2, .8, .2, 1); display: flex; flex-direction: column; touch-action: none; }
+  #sheet.mid { transform: translateY(calc(86vh - 52vh)); }
+  #sheet.full { transform: translateY(0); }
+  #grab { padding: 9px 0 3px; display: grid; place-items: center; cursor: grab; }
+  #grab i { width: 44px; height: 5px; border-radius: 3px; background: #c3cfd5; }
+  #tabs { display: flex; gap: 4px; padding: 4px 12px 8px; overflow-x: auto; scrollbar-width: none; flex: none; }
+  #tabs::-webkit-scrollbar { display: none; }
+  .tab { border: 0; background: #eef2f3; color: var(--ink2); padding: 7px 13px; border-radius: 999px; font-weight: 700; font-size: 13.5px; white-space: nowrap; cursor: pointer; }
+  .tab.on { background: var(--ink); color: #fff; }
+  #body { overflow-y: auto; padding: 0 14px calc(18px + env(safe-area-inset-bottom)); flex: 1; touch-action: pan-y; overscroll-behavior: contain; }
+  @media (min-width: 860px) {
+    #sheet { left: 12px; right: auto; top: calc(70px + env(safe-area-inset-top)); bottom: 12px; width: 392px; height: auto; border-radius: 20px; transform: none !important; box-shadow: var(--shadow); }
+    #grab { display: none; }
+    #tabs { padding-top: 12px; }
+    #searchbox { left: 416px; right: auto; width: 420px; top: calc(10px + env(safe-area-inset-top)); }
+    body.searching #brand { visibility: visible; }
+    .maplibregl-ctrl-bottom-left { left: 404px; }
+  }
+
+  /* ---------- content atoms ---------- */
+  h2 { font: 800 20px/1.15 'Bricolage Grotesque', sans-serif; margin: 6px 0 4px; letter-spacing: -.01em; }
+  h3 { font: 700 13px/1.2 'Atkinson Hyperlegible', sans-serif; text-transform: uppercase; letter-spacing: .06em; color: var(--mut); margin: 18px 0 8px; }
+  .lede { color: var(--ink2); margin: 0 0 10px; }
+  .muted { color: var(--mut); font-size: 13px; }
+  .row { display: flex; gap: 8px; align-items: center; }
+  .chip { display: inline-flex; align-items: center; gap: 5px; font-size: 12px; font-weight: 700; padding: 2px 8px; border-radius: 999px; background: #eef2f3; color: var(--ink2); }
+  .chip.warn { background: #fff0e6; color: #b6400a; } .chip.ok { background: #e7f6ea; color: #24733a; }
+  .chip.approx { background: #fff8db; color: #8a6d00; }
+
+  .call { display: flex; align-items: center; gap: 10px; text-decoration: none; color: var(--ink); background: #fff; border: 1.5px solid var(--line); border-radius: 14px; padding: 9px 12px; margin: 6px 0; min-height: 52px; }
+  .call:active { transform: scale(.985); }
+  .call .ph { width: 34px; height: 34px; border-radius: 11px; background: var(--ok); display: grid; place-items: center; flex: none; }
+  .call .ph svg { width: 18px; height: 18px; fill: none; stroke: #fff; stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; }
+  .call .who { flex: 1; min-width: 0; }
+  .call .who b { display: block; font-size: 14.5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .call .who span { display: block; font-size: 12.5px; color: var(--mut); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .call .num { font: 700 15px/1 'Atkinson Hyperlegible', monospace; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .call.bad { opacity: .7; border-style: dashed; } .call.bad .ph { background: #adb5bd; }
+  .nums { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0 2px; }
+  .num-pill { display: inline-flex; align-items: center; gap: 6px; text-decoration: none; background: var(--ok); color: #fff; font-weight: 700; padding: 8px 12px; border-radius: 12px; font-variant-numeric: tabular-nums; }
+  .num-pill svg { width: 15px; height: 15px; stroke: #fff; fill: none; stroke-width: 2.4; }
+  .num-pill.bad { background: #e9ecef; color: #6c757d; }
+  .num-pill small { font-weight: 400; opacity: .85; }
+
+  .hot { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin: 6px 0 4px; }
+  .hot a { text-decoration: none; background: #fff; border: 1.5px solid var(--line); border-radius: 14px; padding: 9px 6px; text-align: center; color: var(--ink); }
+  .hot a b { display: block; font: 800 20px/1.05 'Bricolage Grotesque', sans-serif; color: var(--red); }
+  .hot a span { font-size: 11.5px; color: var(--mut); }
+
+  .item { display: flex; gap: 11px; padding: 11px 0; border-bottom: 1px solid var(--line); cursor: pointer; }
+  .item:last-child { border-bottom: 0; }
+  .item .dot { width: 30px; height: 30px; border-radius: 50%; flex: none; display: grid; place-items: center; color: #fff; font: 800 13px 'Bricolage Grotesque', sans-serif; }
+  .item .dot.approx { background: #fff !important; border: 2.5px solid; }
+  .item .main { flex: 1; min-width: 0; }
+  .item .main b { display: block; }
+  .item .main .s { font-size: 12.5px; color: var(--mut); }
+  .item .dist { font-size: 12.5px; color: var(--mut); white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .item .callmini { align-self: center; width: 42px; height: 42px; border-radius: 13px; background: var(--ok); display: grid; place-items: center; flex: none; }
+  .item .callmini svg { width: 19px; height: 19px; fill: none; stroke: #fff; stroke-width: 2.2; }
+
+  .lyr { display: flex; align-items: center; gap: 11px; padding: 10px 2px; border-bottom: 1px solid var(--line); cursor: pointer; user-select: none; }
+  .lyr .sw { width: 26px; height: 26px; border-radius: 8px; flex: none; display: grid; place-items: center; color: #fff; font: 800 12px 'Bricolage Grotesque', sans-serif; }
+  .lyr .nm { flex: 1; } .lyr .nm b { display: block; font-size: 14.5px; } .lyr .nm span { font-size: 12px; color: var(--mut); }
+  .tg { width: 42px; height: 25px; border-radius: 99px; background: #cfd8dc; position: relative; flex: none; transition: background .2s; }
+  .tg::after { content: ''; position: absolute; left: 3px; top: 3px; width: 19px; height: 19px; border-radius: 50%; background: #fff; transition: transform .2s; box-shadow: 0 1px 3px rgba(0,0,0,.25); }
+  .lyr.on .tg { background: var(--rain); } .lyr.on .tg::after { transform: translateX(17px); }
+
+  .card { background: #fff; border: 1.5px solid var(--line); border-radius: 16px; padding: 12px 14px; margin: 8px 0; }
+  .card.live { display: flex; gap: 12px; align-items: center; text-decoration: none; color: var(--ink); }
+  .card.live .ic { width: 40px; height: 40px; border-radius: 12px; display: grid; place-items: center; flex: none; }
+  .card.live .ic svg { width: 22px; height: 22px; stroke: #fff; fill: none; stroke-width: 2; }
+  .kv { display: grid; grid-template-columns: auto 1fr; gap: 3px 12px; font-size: 13.5px; margin: 6px 0; }
+  .kv dt { color: var(--mut); } .kv dd { margin: 0; }
+  .bigbtn { display: flex; align-items: center; justify-content: center; gap: 9px; width: 100%; border: 0; border-radius: 15px; padding: 14px; background: var(--rain); color: #fff; font-weight: 700; font-size: 16px; cursor: pointer; margin: 8px 0; }
+  .bigbtn svg { width: 20px; height: 20px; stroke: #fff; fill: none; stroke-width: 2.2; }
+  .ghost { background: #eef2f3; color: var(--ink); }
+  .back { border: 0; background: none; color: var(--rain); font-weight: 700; padding: 4px 0; cursor: pointer; }
+  .sev { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 4px; vertical-align: -1px; }
+  .legend-bar { display: flex; height: 8px; border-radius: 4px; overflow: hidden; margin: 6px 0 2px; }
+  .legend-bar i { flex: 1; }
+  .warnbox { background: #fff8db; border: 1px solid #f2dd8a; border-radius: 12px; padding: 9px 12px; font-size: 13px; color: #6b5300; margin: 8px 0; }
+  details summary { cursor: pointer; font-weight: 700; padding: 6px 0; }
+  .maplibregl-ctrl-group { border-radius: 12px !important; box-shadow: var(--shadow) !important; }
+  .maplibregl-ctrl-bottom-right { bottom: calc(var(--sheet-peek) - 4px); }
+  @media (min-width: 860px) { .maplibregl-ctrl-bottom-right { bottom: 0; } }
+
+  /* pulse for my location */
+  .me { width: 20px; height: 20px; border-radius: 50%; background: var(--rain); border: 3px solid #fff; box-shadow: 0 0 0 0 rgba(43,154,196,.6); animation: pulse 2s infinite; }
+  @keyframes pulse { 70% { box-shadow: 0 0 0 18px rgba(43,154,196,0); } 100% { box-shadow: 0 0 0 0 rgba(43,154,196,0); } }
+
+  /* loader: falling rain */
+  #loader { position: fixed; inset: 0; z-index: 20; display: grid; place-items: center; background: #f9f5ed; transition: opacity .5s; }
+  #loader.gone { opacity: 0; pointer-events: none; }
+  #loader .box { text-align: center; }
+  #loader .rain { position: relative; width: 120px; height: 70px; margin: 0 auto 10px; overflow: hidden; }
+  #loader .rain i { position: absolute; top: -20px; width: 2px; height: 16px; border-radius: 2px; background: var(--rain); animation: fall .9s linear infinite; }
+  @keyframes fall { to { transform: translateY(100px); } }
+  #loader b { font: 800 18px 'Bricolage Grotesque', sans-serif; }
+</style>
+</head>
+<body>
+<div id="loader"><div class="box"><div class="rain" id="rain"></div><b>Loading the monsoon map…</b><div class="muted ta">சென்னை மழைக்கால வரைபடம்</div></div></div>
+<div id="map"></div>
+
+<div id="top">
+  <div id="brand">
+    <svg class="drop" viewBox="0 0 32 32"><path d="M16 3c5 7.5 9 12 9 17a9 9 0 0 1-18 0c0-5 4-9.5 9-17z" fill="#57c4e5"/><path d="M11.5 20.5a4.5 4.5 0 0 0 4.5 4.5" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round"/></svg>
+    <div><h1>Chennai Monsoon</h1><div class="sub">Pumps · flood spots · relief · ward contacts</div></div>
+  </div>
+  <div class="sp"></div>
+  <button class="fab" id="searchbtn" aria-label="Search"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></button>
+  <button class="fab" id="locate" aria-label="Locate me"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3.2"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/><circle cx="12" cy="12" r="7.5"/></svg></button>
+</div>
+<div id="searchbox"><input id="q" type="search" placeholder="Street, area, ward no., tractor no., driver…" autocomplete="off" enterkeyhint="search"><div id="results"></div></div>
+
+<div id="sheet">
+  <div id="grab"><i></i></div>
+  <div id="tabs">
+    <button class="tab on" data-tab="near">Near me</button>
+    <button class="tab" data-tab="layers">Map layers</button>
+    <button class="tab" data-tab="help">Helplines</button>
+    <button class="tab" data-tab="live">Rain &amp; lakes</button>
+    <button class="tab" data-tab="about">Data &amp; KML</button>
+  </div>
+  <div id="body"></div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<script src="app.js?v=7"></script>
+</body>
+</html>

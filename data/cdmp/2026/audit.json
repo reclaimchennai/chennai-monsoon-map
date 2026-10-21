@@ -1,0 +1,587 @@
+{
+ "pdf": "cdmp_2026.pdf",
+ "pages": 800,
+ "tables": 745,
+ "table_rows": 11073,
+ "tables_by_kind": {
+  "ward_committee": 200,
+  "contacts": 85,
+  "other": 43,
+  "water_bodies": 40,
+  "water_stagnation": 40,
+  "lighting": 29,
+  "vehicles": 28,
+  "relief_centres": 26,
+  "parks": 19,
+  "contents": 17,
+  "tree_fall": 16,
+  "inundation_streets": 16,
+  "population": 15,
+  "storm_water_drains": 15,
+  "ndrf": 15,
+  "pumping_stations": 14,
+  "water_entered_houses": 14,
+  "evacuation_streets": 14,
+  "boats": 14,
+  "subways": 13,
+  "narrow_lanes": 13,
+  "map_legend": 12,
+  "tenements": 11,
+  "inundation_summary": 10,
+  "inundation_history": 10,
+  "assembly_points": 7,
+  "figure_label": 6,
+  "health_facilities": 3
+ },
+ "dataset_rows": {
+  "assembly_points": 267,
+  "boats": 89,
+  "evacuation_streets": 377,
+  "inundation_history": 1401,
+  "inundation_streets": 329,
+  "narrow_lanes": 83,
+  "ndrf": 50,
+  "officials": 1332,
+  "parks": 289,
+  "population": 215,
+  "pumping_stations": 287,
+  "relief_centres": 204,
+  "storm_water_drains": 215,
+  "subways": 54,
+  "tenements": 187,
+  "tree_fall": 139,
+  "vehicles": 74,
+  "ward_contacts": 3336,
+  "ward_councillors": 197,
+  "water_bodies": 438,
+  "water_stagnation": 514
+ },
+ "phones_on_pages": 2417,
+ "phones_not_extracted": {
+  "364": [
+   "6001183670"
+  ]
+ },
+ "unclassified_tables": [
+  {
+   "id": 3,
+   "pages": [
+    27
+   ],
+   "title": "86 91 92 8 8 7 9 88 90 V 10 I 4 II A 9 NN 5 A 1 N 0 A 3 GAR 102 9 9 7 6 101 98 1",
+   "columns": [
+    "S.NO.",
+    "ZONE",
+    "NAME OF THE ZONE",
+    "WARD NUMBER"
+   ]
+  },
+  {
+   "id": 4,
+   "pages": [
+    28
+   ],
+   "title": "in the zonal chapters. COUNCIL CHART HONOURABLE MAYOR",
+   "columns": [
+    "col1",
+    "col2"
+   ]
+  },
+  {
+   "id": 5,
+   "pages": [
+    28
+   ],
+   "title": "",
+   "columns": [
+    "col1",
+    "col2"
+   ]
+  },
+  {
+   "id": 6,
+   "pages": [
+    28
+   ],
+   "title": "",
+   "columns": [
+    "col1",
+    "col2"
+   ]
+  },
+  {
+   "id": 7,
+   "pages": [
+    28
+   ],
+   "title": "",
+   "columns": [
+    "col1",
+    "col2"
+   ]
+  },
+  {
+   "id": 8,
+   "pages": [
+    28
+   ],
+   "title": "",
+   "columns": [
+    "col1",
+    "col2"
+   ]
+  },
+  {
+   "id": 9,
+   "pages": [
+    30
+   ],
+   "title": "",
+   "columns": [
+    "col1",
+    "col2"
+   ]
+  },
+  {
+   "id": 10,
+   "pages": [
+    30,
+    31
+   ],
+   "title": "The services of authorities and departments are mentioned in detail in the follo",
+   "columns": [
+    "DEPARTMENTS",
+    "FUNCTIONS OR SERVICES"
+   ]
+  },
+  {
+   "id": 11,
+   "pages": [
+    32
+   ],
+   "title": "",
+   "columns": [
+    "Railways",
+    "is a rapid transit system serving the city.The Phase I of Chennai Metro Rail project covers a length of 45.046 km network and consists of two Corridors i.e. Corridor-I From Washermenpet to Airport (23.085 Km), Corridor -2 From Chennai Central to St. Thomas Mount (21.961 km). About 55% of the Corridors in Phase I is Underground and the remaining are Elevated. Out of 32 nos of Stations 13 nos are Elevated Stations and remaining 19 nos are Underground Stations. Both Corridor interchange Stations are available in Alandur (Elevated) and Chennai Central (Underground) respectively. Phase I Extension covers a length of 9.05 Km from Washermenpet to Wimco Nagar Phase II expansion has been planned for a length of 118.9 Km network with 128 nos. of Stations. It consists of three Corridors i.e. Corridor-3 From Madhavaram to SIPCOT (45.8 Km), Corridor-4 From Lighthouse to Poonamalle Bypass (26.1 Km), Corridor-5 From Madhavaram to Sholinganallur (47.0 Km)."
+   ]
+  },
+  {
+   "id": 12,
+   "pages": [
+    33
+   ],
+   "title": "The land usage pattern in Chennai can be broadly classified as tree cover area o",
+   "columns": [
+    "Sl.No",
+    "Category",
+    "Area in Sq km",
+    "Percentage"
+   ]
+  },
+  {
+   "id": 14,
+   "pages": [
+    37
+   ],
+   "title": "discharges into the Cooum River. The waterways maintained by Public Works Depart",
+   "columns": [
+    "Sl. No",
+    "List of Waterways",
+    "Length in Km"
+   ]
+  },
+  {
+   "id": 17,
+   "pages": [
+    41
+   ],
+   "title": "",
+   "columns": [
+    "Sno",
+    "o Zone",
+    "Ward",
+    "River Name"
+   ]
+  },
+  {
+   "id": 20,
+   "pages": [
+    45
+   ],
+   "title": "",
+   "columns": [
+    "Integrated Command & Control Centre (ICCC)"
+   ]
+  },
+  {
+   "id": 21,
+   "pages": [
+    56
+   ],
+   "title": "delayed the restoration of power supply. 6133 street lamp poles were damaged alo",
+   "columns": [
+    "col1",
+    "col2"
+   ]
+  },
+  {
+   "id": 22,
+   "pages": [
+    56
+   ],
+   "title": "",
+   "columns": [
+    "col1",
+    "col2"
+   ]
+  },
+  {
+   "id": 23,
+   "pages": [
+    59
+   ],
+   "title": "any disaster kind of down pouring, whereas from the second week of November heav",
+   "columns": [
+    "Date",
+    "22.10.1969",
+    "27.10.2005",
+    "9.11.2015",
+    "13.1.2015",
+    "16.1.2015"
+   ]
+  },
+  {
+   "id": 44,
+   "pages": [
+    138
+   ],
+   "title": "accepted method at present to predict the time and intensity of earthquake. The ",
+   "columns": [
+    "Seismic zone / zone Felt by all many frightened. Some heavy / II Below 4.5 VI furniture moved; a few instances of fallen plaster. Damage slight",
+    "Magnitude / zone Felt by all many frightened. Some heavy / II Below 4.5 VI furniture moved; a few instances of fallen plaster. Damage slight",
+    "Probable max. intensity / zone Felt by all many frightened. Some heavy / II Below 4.5 VI furniture moved; a few instances of fallen plaster. Damage slight",
+    "Probable Impact / zone Felt by all many frightened. Some heavy / II Below 4.5 VI furniture moved; a few instances of fallen plaster. Damage slight"
+   ]
+  },
+  {
+   "id": 45,
+   "pages": [
+    138
+   ],
+   "title": "SESMIC ZONES OF INDIA Seismic Zones in Tamilnadu MAP SHOWING SESMIC ZONES OF TAM",
+   "columns": [
+    "col1"
+   ]
+  },
+  {
+   "id": 53,
+   "pages": [
+    146
+   ],
+   "title": "East Coast RoadEast Coast Road E E a a s st t C ao st C aoRd oast Road East Coas",
+   "columns": [
+    "SL. NO / SL. 1NO / 1 2",
+    "O. ZON / O. ZO1N / 1 1",
+    "NE WARD / N1 E WA3RD / 1 3 1 4",
+    "NAME OF THE RELIEF SHELTER / CPS, AS NNAAMGAER OF THE RELIEF SHELTER / CCPPSS, M ASA HNAALGIAAMR AN KOIL SCHOOL ST, ERNAVOOR"
+   ]
+  },
+  {
+   "id": 54,
+   "pages": [
+    147
+   ],
+   "title": "5.2.2 Tsunami Hits in India",
+   "columns": [
+    "S.No",
+    "Year",
+    "Affected area / locations"
+   ]
+  },
+  {
+   "id": 55,
+   "pages": [
+    162,
+    163
+   ],
+   "title": "GCC will remove water hyacinth and floating materials from canals maintained by ",
+   "columns": [
+    "Sl.No",
+    "Measures before Monsoon",
+    "Actions to be taken during rain"
+   ]
+  },
+  {
+   "id": 56,
+   "pages": [
+    163
+   ],
+   "title": "water to be disposed to the particular disposal points like storm water drain an",
+   "columns": [
+    "Sl.No",
+    "Measures to be taken before rain"
+   ]
+  },
+  {
+   "id": 57,
+   "pages": [
+    164
+   ],
+   "title": "citizens, differently abled persons are also to be kept in readiness in the reli",
+   "columns": [
+    "Measures before Monsoon",
+    "Actions to be taken during rain"
+   ]
+  },
+  {
+   "id": 58,
+   "pages": [
+    165
+   ],
+   "title": "",
+   "columns": [
+    "• Light, Fan Switches to be tested",
+    "• Be polite towards the people."
+   ]
+  },
+  {
+   "id": 60,
+   "pages": [
+    167
+   ],
+   "title": "",
+   "columns": [
+    "Measures before Monsoon",
+    "Actions to be taken during rain"
+   ]
+  },
+  {
+   "id": 64,
+   "pages": [
+    170
+   ],
+   "title": "8.7 Transport equipment /Lorries",
+   "columns": [
+    "Measures before Monsoon",
+    "Actions to be taken during rain"
+   ]
+  },
+  {
+   "id": 66,
+   "pages": [
+    177
+   ],
+   "title": "The following table shows the Preparedness of action taken for disease control i",
+   "columns": [
+    "Measures before Monsoon",
+    "Actions to be taken during rain"
+   ]
+  },
+  {
+   "id": 71,
+   "pages": [
+    181
+   ],
+   "title": "occurrence in the ward. The preparedness of ward committee during the disaster t",
+   "columns": [
+    "Measures before Monsoon",
+    "Actions to be taken during rain"
+   ]
+  },
+  {
+   "id": 72,
+   "pages": [
+    182
+   ],
+   "title": "",
+   "columns": [
+    "• Request the service departments to keep the logistics in good condition",
+    "• Communicate the need to service department"
+   ]
+  },
+  {
+   "id": 73,
+   "pages": [
+    182,
+    183,
+    184,
+    185
+   ],
+   "title": "will not be done effectively. The Commissioner, GCC will conduct regular meeting",
+   "columns": [
+    "S. NO",
+    "DEPARTMENT",
+    "MITIGATION PLAN"
+   ]
+  },
+  {
+   "id": 74,
+   "pages": [
+    191
+   ],
+   "title": "Araniyar to the north), Cooum, Adyar and Kovalam – linked to one another by the ",
+   "columns": [
+    "Outlet",
+    "Basin (s) served",
+    "Flood bowl behind it"
+   ]
+  },
+  {
+   "id": 75,
+   "pages": [
+    192,
+    193
+   ],
+   "title": "Rain falling on a Chennai street passes through five tiers before reaching the s",
+   "columns": [
+    "Tier",
+    "Asset",
+    "Agency",
+    "Flood it controls",
+    "What the tier below must provide"
+   ]
+  },
+  {
+   "id": 76,
+   "pages": [
+    194,
+    195
+   ],
+   "title": "For fluvial flooding, the CFMP perspective plan follows three stages in sequence",
+   "columns": [
+    "Stage",
+    "Purpose",
+    "Soft measures",
+    "Hard measures"
+   ]
+  },
+  {
+   "id": 77,
+   "pages": [
+    196,
+    197,
+    198
+   ],
+   "title": "Chengalpattu Districts up to 2025–26. The flagship works that bear directly on f",
+   "columns": [
+    "Year",
+    "Work",
+    "District",
+    "CFMP stage"
+   ]
+  },
+  {
+   "id": 78,
+   "pages": [
+    201
+   ],
+   "title": "not reach the city during a flood. Between 2015 and 2026, 7.089 MCM (about 250 M",
+   "columns": [
+    "District",
+    "Silt removed (m³)",
+    "Storage restored (MCM)"
+   ]
+  },
+  {
+   "id": 79,
+   "pages": [
+    202
+   ],
+   "title": "",
+   "columns": [
+    "System",
+    "What it does",
+    "Coverage",
+    "Status"
+   ]
+  },
+  {
+   "id": 80,
+   "pages": [
+    203
+   ],
+   "title": "",
+   "columns": [
+    "No.",
+    "Interface measure",
+    "Lead",
+    "Support",
+    "Timing"
+   ]
+  },
+  {
+   "id": 81,
+   "pages": [
+    207,
+    208
+   ],
+   "title": "5. Flushing flows: regulated releases from upstream storage and treated wastewat",
+   "columns": [
+    "Outlet",
+    "Basin and flood bowl",
+    "Works completed",
+    "Present practice",
+    "Proposals"
+   ]
+  },
+  {
+   "id": 82,
+   "pages": [
+    208
+   ],
+   "title": "9.10.4 Annual mouth management cycle",
+   "columns": [
+    "Period",
+    "Action",
+    "Agency"
+   ]
+  },
+  {
+   "id": 96,
+   "pages": [
+    225
+   ],
+   "title": "CMRL LINE SUBURBAN / MRTS LINE WATER BODY",
+   "columns": [
+    "ZONE NAME OF THE ZONE",
+    "I Thiruvottriyur"
+   ]
+  },
+  {
+   "id": 145,
+   "pages": [
+    258
+   ],
+   "title": "ZONE II - WARD BOUNDARY",
+   "columns": [
+    "NO.OFWARDS",
+    "WARDNUMBER",
+    "N ZONEOFFICELOCATION n S",
+    "NAMEOFTHEZONE",
+    "ZONE"
+   ]
+  },
+  {
+   "id": 351,
+   "pages": [
+    460
+   ],
+   "title": "SUBVIRUUGARMBABKKAAM &N ARU M/B AMKKARM CATNASL LINE WATER BODY VIRUGAMBAKKAM CA",
+   "columns": [
+    "ZONE",
+    "VII"
+   ]
+  },
+  {
+   "id": 711,
+   "pages": [
+    772
+   ],
+   "title": "SUBURBAN / MRTS LINE WATER BODY BAY OF BENGAL",
+   "columns": [
+    "ZONE",
+    "XV"
+   ]
+  }
+ ]
+}

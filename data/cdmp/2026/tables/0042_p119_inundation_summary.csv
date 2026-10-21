@@ -1,0 +1,17 @@
+pdf_page,Sl.No,Zone,Veryhigh vulnerability Above5feet,High vulnerability 3to5feet,Medium vulnerability 2to3feet,Low vulnerability Lessthan2 feet,TOTAL
+119,1,I,,,,5,5
+119,2,II,,3,,2,5
+119,3,III,,,1,5,6
+119,4,IV,,1,6,2,9
+119,5,V,,,,,0
+119,6,VI,,3,9,,12
+119,,VII,,,2,,2
+119,,VIII,,1,5,1,7
+119,,IX,,3,3,,6
+119,,X,,,1,,1
+119,,XI,,,1,1,2
+119,,XII,,,,1,1
+119,,XIII,,1,1,2,4
+119,,XIV,,2,4,5,11
+119,,XV,,1,,3,4
+119,Total,,,,,,75

@@ -1,0 +1,515 @@
+zone,pdf_page,table_id,ward,street,rain,year,manholes
+1,236,114,1,SVM Nagar,mild,2015,
+1,236,114,2,K.H . Road (Shopping Complex),mild,2015,
+1,236,114,3,Annai sivagami nagar,mild,2015,
+1,236,114,4,Mettu 4th cross street,mild,2015,
+1,236,114,6,Manali Express Road,mild,2015,
+1,236,114,7,Kargil Nagar,mild,2015,
+1,236,114,7,Vetri Vinayagar Nagar,mild,2015,
+1,236,114,7,Rajaji Nagar,mild,2015,
+1,236,114,10,Nandhi odai Kuppam,mild,2015,
+1,236,114,12,B.K.N Colony (police quarters),mild,2015,
+1,236,114,12,Thilagar Nagar,mild,2015,
+1,236,114,14,T.H Road,mild,2015,
+1,240,115,1,SVM Nagar,moderate,2015,
+1,240,115,1,Ulaganadhapuram,moderate,2015,
+1,240,115,1,Thazhankuppam,moderate,2015,
+1,240,115,2,K.H . Road (Shopping Complex),moderate,2015,
+1,240,115,2,K.H . Road Bus stand,moderate,2015,
+1,240,115,3,Annai sivagami nagar,moderate,2015,
+1,240,115,6,Kalainar Nagar,moderate,2015,
+1,240,115,6,Manali Road,moderate,2015,
+1,240,115,7,Kargil Nagar,moderate,2015,
+1,240,115,7,Vetri Vinayagar Nagar,moderate,2015,
+1,240,115,9,Thiruvottriyur kuppam,moderate,2015,
+1,240,115,10,Nandhi odai Kuppam,moderate,2015,
+1,240,115,12,B.K.N Colony (police quarters),moderate,2015,
+1,240,115,12,Thilagar Nagar,moderate,2015,
+1,240,115,14,T.H Road,moderate,2015,
+1,240,116,13,Gandhi nagar,sewer_block,,4
+1,240,116,12,Police Quarters Total,sewer_block,,1
+2,270,159,,New Nappalayam (Perumal Koil Back Side),,,
+2,270,159,,New Nappalayam (Perumal Koil Lane),,,
+2,270,159,,Old napalayam (Government high school),,,
+2,270,159,,Kanniammanpet,,,
+2,270,159,,Ariyalur,,,
+2,270,159,,Periyar nagar,,,
+2,270,159,,Kalaingar nagar 5th street,,,
+2,270,159,,Kalaingar nagar 7th street,,,
+2,270,159,,Harikrishnanpuram Amman nagar,,,
+2,270,159,,New MGR Street Extension,,,
+2,270,159,,Thamaraikulam street,,,
+2,270,159,,Dr Vardharaasanar street,,,
+2,270,159,,Jalagandamariyamman koil street,,,
+2,270,159,,Lakshmi nagar,,,
+2,270,159,,Baljipalayam Perumal koil 4th cross street,,,
+2,271,159,,Mahatma gandhi street,,,
+2,271,159,,Abdul kalam nagar,,,
+2,275,162,15,"EDAYANCHAVAD,",moderate,2015,
+2,275,162,16,Irular Colony,moderate,2015,
+2,275,162,17,Puzhal Union Road,moderate,2015,
+2,275,162,18,Salaima Nagar,moderate,2015,
+2,275,162,19,Apollo Armstrong Nagar,moderate,2015,
+2,275,162,20,New MGR Street,moderate,2015,
+2,275,162,21,Jalakanda mari amman koil Street (3rd Lane),moderate,2015,
+2,275,162,22,Chinna sekkadu,moderate,2015,
+3,304,196,32,Surapet Main Road near under bridge,mild,2021,
+3,304,196,31,Ring Road near Reliance Shop,mild,2021,
+3,304,197,32,Surapet Main Road near under bridge,moderate,2021,
+3,304,197,31,Ring Road near Reliance Shop,moderate,2021,
+4,353,235,34,Durgai Avenue,moderate,2015,
+4,353,235,35,Muthamil Nagar 6th Blocks,moderate,2015,
+4,353,235,36,Suzhpunal Karai,moderate,2015,
+4,353,235,37,Abirami Avenue,moderate,2015,
+4,353,235,38,Patel Nagar 3rd Street,moderate,2015,
+4,353,235,39,AE Koil Street,moderate,2015,
+4,353,235,40,VOC Nagar,moderate,2015,
+4,353,235,42,VeeraKutty Street,moderate,2015,
+4,353,235,42,T.H.ROAD,moderate,2015,
+4,353,235,46,SM Nagar 24th Block,moderate,2015,
+4,353,235,47,KH Road,moderate,2015,
+4,353,235,47,CB Road,moderate,2015,
+4,354,236,34,Harbour Colony,sewer_block,,2
+4,354,236,35,MuthamizhNagar,sewer_block,,3
+4,354,236,35,GanthiNagar,sewer_block,,3
+4,354,236,36,Suphpunalkarai,sewer_block,,5
+4,354,236,36,Poombuhar Nagar,sewer_block,,8
+4,354,236,36,AshokLeylandQuarters,sewer_block,,2
+4,354,236,36,Puthunagar,sewer_block,,7
+4,354,236,36,sharmanagar,sewer_block,,3
+4,354,236,36,Erukanchery nagar,sewer_block,,2
+4,354,236,37,R.R.Nagar,sewer_block,,5
+4,354,236,37,AnnaiSathyanagar,sewer_block,,6
+4,354,236,37,Krishnamurthy Nagar,sewer_block,,3
+4,354,236,37,Damother Nagar,sewer_block,,4
+4,354,236,37,MGR Nagar,sewer_block,,6
+4,354,236,46,Debar Nagar,sewer_block,,2
+4,354,236,46,JJR Nagar,sewer_block,,1
+4,354,236,37,SamiyarThottam,sewer_block,,4
+4,354,236,37,GoldenComplex,sewer_block,,3
+4,354,236,38,Tamilar Nagar,sewer_block,,6
+4,354,236,41,NehruNagar,sewer_block,,9
+4,354,236,38,E H Road,sewer_block,,9
+4,354,236,40,IlayaStreet,sewer_block,,11
+4,354,236,40,VOC Nagar,sewer_block,,10
+4,354,236,41,Aziz Nagar,sewer_block,,3
+4,354,236,41,KumaranNagar,sewer_block,,4
+4,354,236,41,CoronationNagar,sewer_block,,5
+4,354,236,41,GopalReddy Nagar,sewer_block,,6
+4,354,236,41,MuneeswaranNagarI&II Street,sewer_block,,2
+4,354,236,41,MGR Nagar,sewer_block,,4
+4,354,236,41,EzhilNagar,sewer_block,,3
+4,354,236,47,"JJ Nagar H,I,J,K Nagar",sewer_block,,4
+4,354,236,41,KarumaiammanNagar,sewer_block,,6
+4,354,236,41,KannakiNagar,sewer_block,,4
+4,354,236,41,AnnaiSathyanagar,sewer_block,,3
+4,354,236,41,RikshawColony,sewer_block,,1
+4,355,236,43,YMCAKuppam,sewer_block,,2
+4,355,236,45,VinayakapuramMain Road,sewer_block,,4
+4,355,236,45,Kakkanjicolony,sewer_block,,3
+4,355,236,45,AnnaNagar,sewer_block,,3
+4,355,236,45,KamarajNagar,sewer_block,,5
+4,355,236,45,Ganeshapuram,sewer_block,,2
+4,355,236,45,vyasarnagarmainroad,sewer_block,,3
+4,355,236,45,BalakrishnanStreet,sewer_block,,5
+4,355,236,45,Sundaram6thStreet,sewer_block,,4
+4,355,236,46,Kennedy Nagar,sewer_block,,3
+4,355,236,46,Samanthipoocolony,sewer_block,,2
+4,355,236,46,MallipooColony,sewer_block,,1
+4,355,236,46,NehruNagar,sewer_block,,1
+4,355,236,46,C Kalyanapuram,sewer_block,,2
+4,355,236,46,PallaStreet,sewer_block,,2
+4,355,236,47,MeenambalNagar 1st Street,sewer_block,,6
+4,355,236,47,Ambedkar Nagar,sewer_block,,4
+4,355,236,47,JeevaNagar,sewer_block,,3
+4,355,236,47,AnandaMathajiNagar,sewer_block,,2
+4,355,236,47,Sigirinthapalayam 3rd Street,sewer_block,,3
+4,355,236,47,BharathiNagar,sewer_block,,4
+4,355,236,47,Sigirinthapalayam 4th Street,sewer_block,,3
+4,355,236,47,BharathiNagar 6th STreet,sewer_block,,4
+4,355,236,47,Kamaraj Nagar 7th Street,sewer_block,,4
+5,403,279,53,Parasuraman street,mild,2015,
+5,403,279,53,Chidambaram Nagar,mild,2015,
+5,403,279,57,Ramanan Street,mild,2015,
+5,403,279,59,Sivnantha Salai,mild,2015,
+5,403,279,61,Pantheon Road,mild,2015,
+5,403,279,63,Blakers Road,mild,2015,
+5,403,280,49,Solaiappan Street,moderate,2015,
+5,403,280,49,Kothandaraman Street,moderate,2015,
+5,403,280,50,G.M.Pettah,moderate,2015,
+5,403,280,50,Durai Street,moderate,2015,
+5,403,280,50,Venkatasan Street,moderate,2015,
+5,403,280,51,Ramanajam Street,moderate,2015,
+5,403,280,51,Cemetry Road Jn of T.H. Road,moderate,2015,
+5,403,280,52,Modal Lane 1to 5,moderate,2015,
+5,403,280,52,Thoppai Street,moderate,2015,
+5,403,280,53,Kannan Roundana,moderate,2015,
+5,403,280,53,Jayaraman Street,moderate,2015,
+5,403,280,53,Stanly Nagar,moderate,2015,
+5,403,280,53,Boojaraja Nagar,moderate,2015,
+5,403,280,53,Sajjamunusamy Street,moderate,2015,
+5,403,280,53,Peddu Street,moderate,2015,
+5,403,280,53,North Wall Road,moderate,2015,
+5,403,280,54,Thirupalli Street,moderate,2015,
+5,403,280,54,Amman Koil Street,moderate,2015,
+5,403,280,54,Wall Tax Road,moderate,2015,
+5,403,280,55,Prakasam Salai,moderate,2015,
+5,403,280,55,Sevenwells Street,moderate,2015,
+5,403,280,55,Amman Koil Street,moderate,2015,
+5,403,280,56,Prakasam Salai,moderate,2015,
+5,403,280,57,Stringer Street,moderate,2015,
+5,404,280,57,Devidson Street,moderate,2015,
+5,404,280,58,Sydnames Road,moderate,2015,
+5,404,280,58,Bakkers Street,moderate,2015,
+5,404,280,58,General Collins road,moderate,2015,
+5,404,280,61,Velayudam Street,moderate,2015,
+5,404,280,61,Driver Street,moderate,2015,
+5,404,280,63,South Coovum road,moderate,2015,
+5,404,281,49,Solaiappan Street Kothandaraman Street Old AmaranjiPuram,sewer_block,,03 03 04
+5,404,281,50,S.N .Chetty Street Andiyappan Street G.M.Pettai Shiek Masitery Street,sewer_block,,02 04 03 04
+5,404,281,51,Manikandan 6th Street Nainiyappan Street,sewer_block,,03 10
+5,404,281,52,O.S.H.Road Modal Lane Slum M.S.Koil Street,sewer_block,,04 06 02
+5,404,281,53,Sajja Munusamy Street Balasubramani Street Muthiyamasitery Street,sewer_block,,02 01 02
+5,404,281,54,Amman Koil Street Tenapet Ramasamy St,sewer_block,,02 03
+5,404,281,55,Amman Koil St Sevenwells St St.XavierSt Thiyagaraya Street MuthuNayakan St Kumarappa Street,sewer_block,,3 4 5 2 2 3
+5,404,281,56,Prakasam Salai Poniyamman Koil Street Shanmugarayan Street,sewer_block,,01 02 02
+5,405,281,57,Adiyappanayakan Street Chandrapa St Gentral Muthiya St Manikandan St Devidson St Acharappan St Thathamuthiyapan Annapillai Mint Street,sewer_block,,02 03 02 03 03 03 02 03 02 02
+5,405,281,58,R.T. (m) street Kalathiappa street,sewer_block,,5 7
+5,405,281,59,Thanchai Murugapa Street Mint Street Boomu Street Frazer Bridge Road,sewer_block,,3 2 2 3
+5,405,281,60,Jones St Mookarnala muthu Street Philipes St Moor St Mannady Post office St,sewer_block,,2 2 3 2 2 3 1
+5,405,281,62,Bala Krishna St Palaniandavar Koil st Kalavai Street Singanna St Wallers Street,sewer_block,,1 1 1 2 1
+5,405,281,63,Pantheon Road Egmore High Road Total,sewer_block,,2 2
+6,433,321,65,Sivasakthi Nagar,mild,,
+6,433,321,65,MGR Nagar,mild,,
+6,433,321,64,Thillai Nagar 2nd Street,mild,,
+6,433,321,64,Thillai Nagar 4th Street,mild,,
+6,433,321,64,Selvi Nagar,mild,,
+6,433,321,69,Gopal Reddy Colony,mild,,
+6,433,321,67,Paper Mills Road,mild,,
+6,433,321,67,Pallavan Salai,mild,,
+6,433,321,73,Decaster Road,mild,,
+6,433,321,72,VOC Nagar,mild,,
+6,433,322,65,Srinagar Colony,moderate,,
+6,433,322,65,Sivasakthi Nagar,moderate,,
+6,433,322,64,Thillai Nagar 2nd Street,moderate,,
+6,433,322,64,Thillai Nagar 4th Street,moderate,,
+6,433,322,64,Selvi Nagar,moderate,,
+6,438,323,64,"Sivananda Nagar 2nd Street , Makkaram Thottam Avvai Street, VOC Street",sewer_block,,8
+6,438,323,69,"GKM Colony 21,22 & 23 th Street",sewer_block,,4
+6,438,323,70,"S.S.V. Koil Ist Street, Chinna Kulanthai 2nd Street, Vajeravelu Street, Foxen Street,Venkateswara Nagar Ist Street, Constable Road,Vasantha garden Main Street Gnammbal Garden 2nd Street, Madurai Street",sewer_block,,12
+6,438,323,74,Bashyam Reddy Street,sewer_block,,2
+6,438,323,72,"VOC Nagar 1st Street, VOC Nagar 8th Street, Brightons Road",sewer_block,,7
+6,438,323,73,"Ammaiyammal Street, Near D.No.71, Kutty Thambiran Street, Narayanasamy Street, Decastor Road, Ramas amy Street, Prakash Rao Colony",sewer_block,,12
+6,438,323,75,"Baracca 1st Street, Baracca Main Road, B-Block, SVM Nagar, S.S. Puram B-Block 2nd & 1st Street, S.S. Puram A-Block, 2nd Street",sewer_block,,12
+6,438,323,76,"Chellappa Street (Near UPHC) & Door No.68 Sachitharandam Street, Venkatasamathi Street, K.M. Garden",sewer_block,,6
+6,438,323,77,"Puliyanthope 3rd & 2nd Street, Sundarapuram, Bogipalayam",sewer_block,,6
+7,479,367,82,Indian Bank 5th Street,mild,,
+7,479,367,83,Ellaiyamman Nagar,mild,,
+7,479,367,83,Padmavathi Nagar,mild,,
+7,479,367,83,Srinivasapuram 3rd Street,mild,,
+7,479,368,84,TNHB 25 Street to 29 Street,moderate,,
+7,479,368,84,TNHB 61 Street to 64 Street,moderate,,
+7,479,368,84,"2nd Street and 28th Street, North Avenue, TNHB, Korattur",moderate,,
+8,516,416,104,Ishwarya Kudiruppu,mild,,
+8,516,416,95,Seeyalam Street,mild,,
+8,516,416,97,P.E Koil West Mada street,mild,,
+8,516,416,102,Bharathipuram 4th Street,mild,,
+8,516,416,102,FBlock 2nd & 4th Street,mild,,
+8,516,416,102,Muthumariamman Colony,mild,,
+8,516,416,101,New Avadi Road,mild,,
+8,516,416,101,Pulla Avenue (from PH road to 1st cross street),mild,,
+8,516,416,100,Kellys road,mild,,
+8,516,416,100,Taylors Road,mild,,
+8,516,416,100,Umayal Street,mild,,
+8,516,416,100,Temple Street,mild,,
+8,516,416,99,Sundaram Lane,mild,,
+8,516,416,99,Ozone Kulam Tenements,mild,,
+8,516,417,95,Narayana Maistry 2nd street,moderate,,
+8,516,417,96,Kakkanji Nagar &Gandhi nagar,moderate,,
+8,516,417,97,Veerasamy main street,moderate,,
+8,516,417,97,Solai 3rd street,moderate,,
+8,516,417,101,1st Main Road East,moderate,,
+8,516,417,101,Kilpauk Garden Road,moderate,,
+8,516,417,102,1st Avenue,moderate,,
+8,516,417,105,Water Tank Road,moderate,,
+8,517,418,96,Gandhi Nagar,sewer_block,,
+8,517,418,97,Vellala Street,sewer_block,,
+8,517,418,98,Old Burial Ground Road,sewer_block,,
+8,517,418,101,Pullapuram,sewer_block,,
+8,517,418,100,Purasaiwalkam High Road,sewer_block,,
+8,517,418,100,Barnaby Road,sewer_block,,
+8,517,418,100,Flowers Road,sewer_block,,
+8,517,418,99,Sundaram Lane,sewer_block,,
+8,517,418,99,Sastri Nagar Total,sewer_block,,
+9,556,464,110,School Road,mild,2015,
+9,556,464,110,Sterling Road,mild,2015,
+9,556,464,111,Whites Road,mild,2015,
+9,556,464,113,Prakasam Salai,mild,2015,
+9,556,464,115,Dr.Besant road (Uruthu School),mild,2015,
+9,556,464,119,Avvai Shanmugam Salai 1st lane,mild,2015,
+9,556,464,119,Lakshmipuram 2nd Street,mild,2015,
+9,556,465,110,Valluvar kottam High Road,moderate,2015,
+9,556,465,110,Tank Bund Road,moderate,2015,
+9,556,465,110,Sterling Road,moderate,2015,
+9,556,465,110,School Road,moderate,2015,
+9,556,465,111,Whites road,moderate,2015,
+9,556,465,111,Pattulas Road,moderate,2015,
+9,556,465,112,New Vellala Street,moderate,2015,
+9,556,465,113,Nungambakkam High road,moderate,2015,
+9,556,465,114,Sydoji street jn of bells road,moderate,2015,
+9,556,465,115,Devaraj Street Back side Amman Koil,moderate,2015,
+9,556,465,116,"Dr.Besant Road, Jnc. Of T.P. Koil Street",moderate,2015,
+9,556,465,116,"Dr.Besant Road, Near Annie Besant Park",moderate,2015,
+9,556,465,117,South boag road,moderate,2015,
+9,556,465,117,Bharathi nagar Ist street,moderate,2015,
+9,556,465,117,North Boag Road,moderate,2015,
+9,556,465,118,Cathedral road (service Road),moderate,2015,
+9,556,465,119,Avvai Shanmugam Salai 1st lane,moderate,2015,
+9,556,465,119,Lakshmipuram 2 nd street,moderate,2015,
+9,556,465,119,P.S.Sivasamy Salai,moderate,2015,
+9,556,465,120,Dr. Natesan Road,moderate,2015,
+9,556,465,120,Irusappan street,moderate,2015,
+9,556,465,121,Dr. R.K. Salai,moderate,2015,
+9,556,465,122,Cenatoph road,moderate,2015,
+9,556,465,122,Ganesapuram 2nd Street,moderate,2015,
+9,556,465,124,R.K Mutt Road ( opp to Kabaleeswarar koil tank to railway Station),moderate,2015,
+9,556,465,125,Karaneeswarar Pagoda Street,moderate,2015,
+9,557,466,113,Habibullah Road,sewer_block,,1
+9,557,466,117,"North Boag road, Cathedral Garden Road",sewer_block,,5
+9,557,466,122,Ratna Nagar,sewer_block,,2
+9,557,466,114,"Sydoji Street, Abdul Kareem Street",sewer_block,,2
+9,557,466,115,"Thangavelu Street, Shaik Dawood Street",sewer_block,,2
+9,557,466,120,"Dr. Natesan Road, V.R. Pillai Street",sewer_block,,2
+9,557,466,121,"Thiru-vi-ka 2nd Street, Thiru-vi-ka 3 rd Street",sewer_block,,3
+9,557,466,112,"Sowrastra Nagar 1st Street, New Vellala street, Trustpuram 1st Cross Street, Sivan Koil South Street",sewer_block,,5
+9,557,466,123,"Seethammal 1st Main Road, R.A.Puram 3rd Cross Street, R.A.Puram 1st Main Road, Periyar Salai",sewer_block,,6
+9,557,466,124,"Natton Thottam, South Mada Street, Sathiyavani Muthu Nagar, Sarathapuram",sewer_block,,4
+9,557,466,109,Thiruvengadapuaram Main Road,sewer_block,,2
+9,557,466,110,Jayalakshmipuram main road,sewer_block,,2
+9,557,466,111,"Anna Salai, Whites Road",sewer_block,,4
+9,557,466,118,"Chokalingam Colony, Elango Salai",sewer_block,,4
+9,557,466,119,"Avvai Shanmugam Salai, Avvai Shanmugam Salai 1st Lane, Lakshmipuram 2nd Street",sewer_block,,5
+9,557,466,125,"Karneeshwarer koil Street, Karneeshwarer Pogoda Street",sewer_block,,4
+9,557,466,126,"Santhome High Road, 2nd Trust Road, Madha Church Road Total",sewer_block,,4
+10,598,519,127,"Srinivasa Nagar 1 to 6, Magamma Nagar, st KaliammanKoil street, Sriayyappa Nagar 1 Main Road, North Mada street Brindavan Nagar, Kumaran rd st Nagar 3 Main Road, Kumaran Nagar 1 Cross nd street, Natesan Nagar, Jai Nagar 2 Main Road, Jai Nagar 11thm street & Nerkundram Road",sewer_block,2015,
+10,598,519,128,"Nagar 11thm street & Nerkundram Road Elango Nagar, OttaipillaiyarKoil street, Annai Sathya Nagar, Tarachand Nagar, Thangal Uvlvayil street, & Venkatesh Nagar Main Road",sewer_block,2015,
+10,598,519,129,"Vinayagam Street, Kamaraj street, Logaiah street, Gangappan street PonniammanKoil street Majeeth Nagar, Kumaran Colony Main Road, Velayutham Street, S.S.R.Pankajam Road, Kaveri street, State nd rd Bank Colony 2 & 3 street & Mathiazhagan Nagar",sewer_block,2015,
+10,598,519,130,"st nd Alagirinagar 1 & 2 street, Bajanai Koil st nd 1 & 2 street, Kumaran Colony Main Road&NerkundramPathai East",sewer_block,2015,
+10,598,519,135,"nd th th th 2 Avenu,4 Avenu, 6 Avenu, 7 Ashok th th th th Nagar,9 Avenu,10 Avenu,12 Avenu,18 th Avenu,48 Street &KamarajSalai",sewer_block,2015,
+10,598,519,131,"rd Postal Colony 3 Street, R.N.Nambiar Street, th Mahadevan Street Ext & Ashok Nagar 15 Street",sewer_block,2015,
+10,598,519,132,st Vishwanathapuram 1 Main Road & Rangarajapuram Main Road Near School,sewer_block,2015,
+10,598,519,133,"Bazulla Road, Usman Road, Ragaviah Road, G.N.Chetty Road,Rangabashyam S treet, Guild street, Natesan Street, Muthu Krishnan Street, Rameshwaram Road & Lakshmi Narasimman Street",sewer_block,2015,
+10,599,519,137,"th Rajamannar Salai, 10 Sector 59, 61, 64, & th th th th 65 street, 9 sector, 8 Sector,7 Sector, th 4 Sector, Ramasamy Salai, Lakshmansamy Salai, Alagirisamy Salai, Kamaraj Street, Jaibalaji Nagar, Vannier Street, M.G,R Nagar Periyar Street, Choolai Pallam& Rajiv Gandhi Nagar",sewer_block,2015,
+10,599,519,138,"Nagar SM Block Gurushave Street, SM Block John Kennedy Street, Pari Nagar All street Bharathidasan Colony Main Road,Thiru Nagar Kabilan Street, MGR Nagar Palai Street, MGR Nagar Sanjai Gandhi Street MGR Nagar V.N.Janaki Street, MGR Nagar Palai Street &Annai Sathya Nagar",sewer_block,2015,
+10,599,519,139,"&Annai Sathya Nagar Jothiramalingam Nagar, Sarathi Nagar & Muthurangam Block",sewer_block,2015,
+10,599,519,140,"Old MambalamRoad, Sadaiyappan Street Dhanapal Street, Vazhai Thoppu Pushpavathiammal Street & Vandikaran Street",sewer_block,2015,
+10,599,519,141,"Varadarajan Koil street, South West Boag Road, South Dhandapani Street, nd Maduraiveeran Koil Street & Madley 2 Street",sewer_block,2015,
+10,599,519,142,"Street Jayaramstreet, Narayanasamy street Duraisamy Thottam, Kothaval Chavadi Street & Godhamedu Total",sewer_block,2015,
+11,642,568,145,Sivanthi Avenue,mild,,
+11,642,568,147,Thiraviyam Nagar 1st Street,mild,,
+11,642,568,147,27th Street,mild,,
+11,642,568,150,Mullai Street,mild,,
+11,642,568,150,Thundalam Anna Nagar,mild,,
+11,642,568,150,Ponni Nagar,mild,,
+11,642,568,151,Anna Salai (Highways),mild,,
+11,642,568,151,Arcot Road (Jn. of Thirumurugan Nagar) (Highways),mild,,
+11,642,568,151,ways) Arcot Road (Porur Junction)(Highways),mild,,
+11,642,568,151,Kuppusamy Street (Highways),mild,,
+11,642,568,152,Majestic Colony,mild,,
+11,642,568,152,Veerapa Nagar,mild,,
+11,642,568,152,Janaki Nagar,mild,,
+11,642,568,155,Bharathi Salai,mild,,
+11,642,568,155,Thiruvalluvar salai,mild,,
+11,642,568,155,Kamarajar salai,mild,,
+11,642,569,149,Palaniappa Nagar Main Road,moderate,2015,
+11,642,569,150,Arunachalam Nagar,moderate,2015,
+11,642,569,150,Rajeshwari Nagar,moderate,2015,
+11,642,569,150,Mothi Nagar,moderate,2015,
+11,642,569,150,Padmavathy Nagar,moderate,2015,
+11,642,569,150,Sivaboothamedu,moderate,2015,
+11,642,569,151,Anna Salai (Highways),moderate,2015,
+11,642,569,151,Arcot Road (Jn. of Thirumurugan Nagar) (Highways),moderate,2015,
+11,642,569,151,Arcot Road (Porur Junction)(Highways),moderate,2015,
+11,643,569,151,Kuppusamy Street (Highways),moderate,2015,
+11,643,569,151,Arcot Road (infront of ETA),moderate,2015,
+11,643,569,153,Kundrathur Main Road (Porur Junction) (Highways),moderate,2015,
+11,643,569,153,(Highways) Kundrathur Main Road (EB Office Opposite),moderate,2015,
+11,643,569,153,Ganesh Avenue 8th Street,moderate,2015,
+11,643,569,153,Ganesh Avenue 9th Street,moderate,2015,
+11,643,569,153,Sterling Avenue Main Road,moderate,2015,
+11,643,569,153,Subashree Nagar Main Road,moderate,2015,
+11,643,569,155,Gangaiya avenue 1st St,moderate,2015,
+11,643,569,155,Gangaiya avenue 2nd St,moderate,2015,
+11,643,569,155,KP Nagar 2nd Cross street,moderate,2015,
+11,643,569,155,Sriram Nagar 3rd Street,moderate,2015,
+11,643,569,155,Kothari Nagar 1st main road,moderate,2015,
+11,643,569,155,Kothari Nagar 9th Street,moderate,2015,
+11,643,569,155,Kothari Nagar 10th Street,moderate,2015,
+11,643,569,155,Kothari Nagar 11th Street,moderate,2015,
+11,643,569,155,Thirumalai Nagar Angel Street,moderate,2015,
+11,643,569,155,Thirumalai Nagar Angel Street lane,moderate,2015,
+11,643,569,155,KarpagambalNagar 2nd Street,moderate,2015,
+11,643,570,,Arcot road near Mahalakshmi nagar,,2022,
+11,643,570,,"Mount poonamallee high road, service road",,2022,
+11,643,570,,"Arcot road, Arasu TVS",,2022,
+11,643,570,,Arcot road near A1 Mutton stall,,2022,
+11,643,570,,Thiruvalluvar salai,,2022,
+11,643,570,,Bakthivedhantha avenue,,2022,
+11,643,570,,Ramapuram lake,,2022,
+11,643,570,,Rayala nagar 2nd street,,2022,
+11,643,570,,Padasalai cross street,,2022,
+11,643,570,,"VGN Nagar phase I, 2nd cross street",,2022,
+11,643,570,,Chelliamman koil street,,2022,
+11,644,570,,Sakthi nagar 8th street,,2022,
+11,644,570,,"Srilakshmi nagar, MGR Street",,2022,
+11,644,570,,Bharathidasan Nagar 10th street,,2022,
+11,644,570,,Bharathidasan Nagar 2nd main road,,2022,
+11,644,570,,Perumal koil street,,2022,
+11,644,570,,Ganga nagar Gandhi street,,2022,
+11,644,570,,SVS Nagar 1st main road,,2022,
+11,644,570,,Ganesh Avenue 8th street,,2022,
+11,644,570,,Subasree Nagar Extn main road,,2022,
+11,644,570,,Kothari Nagar 6th street,,2022,
+11,644,570,,Tatia nagar phase – III,,2022,
+11,644,570,,Tatia nagar phase – II,,2022,
+11,644,570,,Pallavan Nagar,,2022,
+11,644,570,,Madha koil street,,2022,
+11,644,570,,MMDA colony 7th blcok main road (Part),,2022,
+11,644,570,,"Rajiv gandhi nagar , MGR Street",,2022,
+11,644,570,,"Rajiv gandhi nagar, Periyar street",,2022,
+11,644,570,,Indira Nagar,,2022,
+11,644,570,,Ponniyamman koil street,,2022,
+11,644,570,,Thiru.vi.ka nagar main road,,2022,
+11,644,570,,Ambedkar road,,2022,
+11,644,570,,School street,,2022,
+11,644,570,,Jai balaji nagar,,2022,
+11,644,571,149,"Velan Nagar, Lakshmi nagar,Radha nagar,Radha avenue",sewer_block,,13
+11,644,571,152,"Janaki nagar 6th street,Omsakthi nagar 3rd & 4th street,Sairam avenue 1st & 2nd street,Kadambadiamman sannathi street,SVS nagar annex 1st , 2nd & 3rd street annex 1st , 2nd & 3rd street Total",sewer_block,,31
+13,709,651,168,Jawaharlal Nehru Road,moderate,2015,
+13,709,651,172,Cart track road,moderate,2015,
+13,709,651,173,Kamaraj Avenue 2nd Street JN of KB Nagar 2nd Cross street KB Nagar 3rd Cross street ( Near Nilgiris),moderate,2015,
+13,709,651,175,TNHB Colony 10th street Andal Nagar 1st main road,moderate,2015,
+13,709,651,176,A.G.S Colony Vijayanagar area Ram Nagar area,moderate,2015,
+13,709,651,177,Dhandeeswaram 7th main road,moderate,2015,
+13,709,651,178,Kennady street Raniyammal street,moderate,2015,
+13,709,651,180,I Sea Ward road Balakrishna Road JN,moderate,2015,
+13,709,652,170,New Street LakeView Street Kotturpuram 2nd main road Sriram Colony Main road Yadaval Street Thulukanathamman Koil Street,sewer_block,,2 2 2 10 2 2
+13,709,652,172,Mosque Colony -New street City Link Road Cart Track Road Sathanipet 1st Street,sewer_block,,5 2 2 1
+13,709,652,174,Sastri Nagar 11th Cross Street Jeevarathinam Nagar,sewer_block,,3 4
+13,710,652,176,MGR Nagar Devi Karumari Amman 9th Street R am nagar Murugu Nagar,sewer_block,,3 2 3 2
+13,710,652,177,Lakshmi nagar 3rd Cross Street Lakshmipuram Throwapathy Amman Koil street y Jagannadhapuram Orandiammankoil Street Celliamman Nagar,sewer_block,,1 3 4 2 1 1
+13,710,652,178,"TP Nagar – Bharathiyar street, Budhar Street, Pattukottai Alagari Street MG Nagar – Pilliyar Koil Street, TK Kabali Street, Rajaji Street, Antoniyar Koil Street",sewer_block,,3 4
+14,741,686,181,L.P Nagar,,,
+14,741,686,181,Jaganathan Street,,,
+14,741,686,181,Lakshmi Vathana Street,,,
+14,741,686,181,Sri Venkateshwara Nagar 9th St,,,
+14,741,686,181,Kalyani Nimalan Street,,,
+14,741,686,181,Kaveri Nagar 6th Street,,,
+14,741,686,181,Kaveri Nagar 5th Street,,,
+14,741,686,181,Bay Watch Road,,,
+14,741,686,181,Swami nathan Nagar Streets,,,
+14,741,686,181,Natco Colony,,,
+14,741,686,182,Maruthi Nagar 1st main road,,,
+14,741,686,182,Maruthi Nagar 2nd Main road,,,
+14,741,686,182,Maruthi Nagar 5th cross street,,,
+14,741,686,182,Senthil Nagar 5th cross street,,,
+14,741,686,182,OMR (Junction of MGR Salai),,,
+14,741,686,183,VGP Nagar,,,
+14,741,686,183,Palakalai Nagar,,,
+14,741,686,183,Jaishanakar Nagar,,,
+14,741,686,183,Govindhan Nagar,,,
+14,741,686,183,Kandasamy Nagar,,,
+14,741,686,183,Mayana Salai,,,
+14,742,686,184,Panchayat office road,,,
+14,742,686,184,Thirumalai Nagar,,,
+14,742,686,184,Saravanan nagar,,,
+14,742,686,184,Kumaran Nagar,,,
+14,742,686,184,Seevaram 1st and 2nd street,,,
+14,742,686,184,Selvaganapathy avenue,,,
+14,742,686,184,Rajiv nagar,,,
+14,742,686,184,JanakiramanNagar,,,
+14,742,686,184,Kamarajar Nagar,,,
+14,742,686,184,PeriyarSalai,,,
+14,742,686,184,Nethaji Nagar,,,
+14,742,686,184,Kallukuttai,,,
+14,742,686,185,Kuberan Munusamy Street,,,
+14,742,686,185,Lakshmi Nagar 5th Street Extn,,,
+14,742,686,185,Balaji Avenue,,,
+14,742,686,185,Giri Street,,,
+14,742,686,185,Kasturibai street,,,
+14,742,686,185,Balaji Nagar 10th street Extn,,,
+14,742,686,186,New India Colony,,,
+14,742,686,186,Mageswari Avenue,,,
+14,742,686,186,Jaya Nagar,,,
+14,742,686,186,Ram Nagar (North),,,
+14,742,686,186,Balaji Nagar,,,
+14,742,686,187,Deivanai Nagar 2nd street,,,
+14,742,686,187,Deivanai Nagar 3rd street,,,
+14,742,686,187,Bharath Street,,,
+14,742,686,188,Anna Nagar,,,
+14,742,686,188,Meenakshi Nagar,,,
+14,742,686,188,Arumugam Nagar,,,
+14,742,686,188,Kuberan nagar Extn,,,
+14,742,686,188,Ram Nagar (south),,,
+14,742,686,188,LIC Nagar,,,
+14,742,686,188,Sadasivam Nagar,,,
+14,742,686,188,Lakshmi Nagar,,,
+14,743,686,189,Rajesh Nagar,,,
+14,743,686,189,Nageswari Amman Nagar,,,
+14,743,686,189,MaPoSi Nagar,,,
+14,743,686,189,Kamakotti Nagar,,,
+14,743,686,189,SaiBalaji Nagar Part - 1,,,
+14,743,686,189,Veppampattu,,,
+14,743,686,189,SaiBabaNagar,,,
+14,743,686,189,Pudhuthangal,,,
+14,743,686,189,Malligeswaran Nagar,,,
+14,743,686,189,Anna M.G.R Nagar,,,
+14,743,686,189,Dr.Ambedkarstreet,,,
+14,743,686,189,Labour colony,,,
+14,743,686,189,NagathammanKoil Street,,,
+14,743,686,189,Tropical colony,,,
+14,743,686,189,Seevas Avenue,,,
+14,743,686,189,AGS Colony,,,
+14,743,686,189,Dhanam Nagar,,,
+14,743,686,189,ArunNagar,,,
+14,743,686,189,AGS Colony,,,
+14,743,686,189,Dhanam Nagar,,,
+14,743,686,189,Arun Nagar Kamatchiyamman Nagar,,,
+14,743,686,189,QuidemillathNagar,,,
+14,743,686,190,Sai Balaji Nagar 2nd to 4th Part (21Roads),,,
+14,743,686,190,Pasumpon Nagar (3 Roads),,,
+14,743,686,190,Pampan Samy Nagar (3Roads),,,
+14,743,686,190,Sri Nagar (3 Roads),,,
+14,743,686,190,Vallal Pari Nagar (4 Roads),,,
+14,743,686,190,Rajalakshmi Nagar 7th Street extn (Ranga- nathapuram) (1Road),,,
+14,743,686,191,Sai Ganesh Nagar (35 Nos Cross street & 6 main road) 41 streets,,,
+14,744,686,191,Pandiyan Nagar(2Nos Main road & 7Nos crossstreet) 9streets,,,
+14,744,686,191,Nesavalar Nagar (12 Streets),,,
+14,744,686,191,Padmavathi Nagar (6 streets),,,
+14,744,686,191,Pandiyan Nagar (2Nos Main road & 7Nos crossstreet) 9streets,,,
+14,744,686,191,Nesavalar Nagar (12 Streets),,,
+14,744,686,191,Padmavathi Nagar (6 streets),,,
+14,744,686,191,Masuthi street,,,
+14,744,686,191,Manickam street,,,
+14,744,686,191,QuaideMillath street,,,
+15,787,725,193,OMR BSR Mall Thoraipakkam,mild,2015,
+15,787,725,193,"Sai Nagar, Thoraipakkam",mild,2015,
+15,787,725,194,Hanuman Colony,mild,2015,
+15,787,725,195,Gangai Amman Koil Street,mild,2015,
+15,787,725,195,Eswaran Koil Street,mild,2015,
+15,787,726,193,Arignar anna 8th street,moderate,2015,
+15,787,726,193,OMR near BSR mall,moderate,2015,
+15,787,726,194,Royal Enclave,moderate,2015,
+15,787,726,194,Anna Enclave,moderate,2015,
+15,787,726,194,Hanuman Colony,moderate,2015,
+15,787,726,194,Kudupi Complex,moderate,2015,
+15,787,726,195,Gangaiamman Koil Street,moderate,2015,
+15,787,726,195,Eswaran Koil Street,moderate,2015,
+15,787,726,197,KK Salai Near Mandri Vilas,moderate,2015,
+15,787,726,198,"The Channai Mobiles, OMR Service Road",moderate,2015,
+15,787,726,198,Devaraj Nagar 2nd Main Road,moderate,2015,
+15,787,726,198,"Anna Street, Karapakkam",moderate,2015,
+15,787,726,198,Division Office Karapakkam,moderate,2015,
+15,787,726,198,Bharathidasan Street,moderate,2015,
+15,787,726,200,Jawahar Nagar,moderate,2015,
+15,787,726,200,Tsunami Nagar,moderate,2015,

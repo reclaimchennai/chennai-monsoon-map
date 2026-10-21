@@ -1,0 +1,166 @@
+pdf_page,Heading No,Description,Page No
+10,No 1.0,INTRODUCTION,No 1
+10,1.1,Disaster Management and Planning,1
+10,1.2,Need of Disaster Management plan,2
+10,1.3,Scope of Disaster Planning,2
+10,1.4,Objective of the Disaster Planning,3
+10,1.5,Types Of Disasters,4
+10,1.6,Response Planning,4
+10,1.7,Integration with the State Disaster Management Perspective Plan 2018-2030 and the Sendai Framework,5
+10,2.0,CHENNAI CITY: A PROFILE,9
+10,2.1,City Profile,9
+10,2.2,Chennai Population,9
+10,2.3,"Evolution, Administration and Functions",11
+10,2.4,Services Rendered by Greater Chennai Corporation,12
+10,2.5,Essential Services by Other Authorities,12
+10,2.6,Geography and Geology of City,15
+10,2.6.1,Geology,15
+10,2.6.2,Topography,16
+10,2.6.3,Green Cover and Wetlands,16
+10,2.6.4,Weather and Climate,17
+10,2.7,Hydrology of City,18
+10,2.7.1,Water Bodies and Water Ways,18
+10,2.7.2,Major Drainage System,18
+10,2.7.3,Minor Drainage Network,21
+11,No 3.0,INSTITUTIONAL FRAMEWORK AND ARRANGEMENTS,No 25
+11,3.2,ARRANGEMENTS Control Room Arrangements,26
+11,3.3,State and District Administration,28
+11,3.3.1,State Level Administration,28
+11,3.3.2,District Level Administration,29
+11,3.3.3,Incident Response System,30
+11,3.4,Other Departments and Stakeholders,31
+11,3.4.1,Fire & Rescue Services Department,31
+11,3.4.2,Tamil Nadu Disaster Response Force (TNDRF),31
+11,3.4.3,Volunteers and Training,32
+11,3.4.4,Civil Defence,32
+11,3.4.5,Preparedness & Response,33
+11,3.4.6,Relief,33
+11,3.4.7,Rehabilitation - Build Back Better,34
+11,3.4.8,Coordination with Central Agencies and Armed Forces,34
+11,4.0,CYCLONES AND FLOODS,35
+11,,Frequency of Disturbances,35
+11,4.1,Cyclone,37
+11,4.1.1,Nada Cyclonic Storm 2005,38
+11,4.1.2,Vardah Cyclone 2016,38
+11,4.1.2.1,Damages Caused,39
+11,4.1.2.2,Strategies and Restoration,40
+11,4.1.3,Impacts of Cyclone,40
+11,4.1.4,Cyclone mitigation strategies,41
+11,4.1.5,Common Cyclone preparedness measures,41
+12,No 4.2,Flood,No 42
+12,4.2.1,Scene During Flood 2015,107
+12,4.2.1.1,Government Response,109
+12,4.2.1.2,Mitigation,109
+12,4.2.1.3,Centralised Relief Material Center,111
+12,4.2.1.4,Distribution of relief materials and role of NGOs / Volunteers,113
+12,4.2.1.5,Clearing of Garbage,113
+12,4.2.2,Causes of Flood,114
+12,4.3,"""MICHAUNG"" CYCLONE IN 2023",116
+12,4.3.1,Scene during Flood,116
+12,4.4,FENGAL CYCLONE 2024,117
+12,4.4.1,Introduction :,117
+12,4.4.2,Response Measures:,117
+12,4.4.3,Motor Pumps Deployed:,117
+12,4.4. 4,Heavy Machinery:,117
+12,4.4. 5,Relief Centers:,117
+12,4.4. 6,Food Packets Distributed:,117
+12,4.4.7,REMOVAL OF FALLEN TREES,118
+12,4.5,Monsoon 2025,118
+12,4.5.1,Introduction,118
+12,4.5.2,Response Measures:,118
+12,4.5.3,Motor Pumps Deployed:,118
+12,4.5. 4,Heavy Machinery:,118
+12,4.5. 5,Relief Centers:,119
+12,4.5. 6,Food Packets Distributed:,119
+13,No 4.5. 7,Other Measures,No 119
+13,5.0,EARTHQUAKES AND TSUNAMIS,120
+13,5.1,Earthquake,120
+13,5.1.1,Impact of Earthquake,122
+13,5.1.2,Earthquake Mitigation Strategies,122
+13,5.1.3,Earthquake preparedness measures,122
+13,5.1.4,Assembly Points,123
+13,5.2,Tsunami,128
+13,5.2.1,Tsunami in Bay of Bengal,128
+13,5.2.2,Tsunami Hits in India,130
+13,5.2.3,Tsunami in Chennai,131
+13,5.2.4,Tsunami preparedness measures,131
+13,6.0,Understanding Disaster Risk,133
+13,6.1.1,Risk Assessment and Mapping,133
+13,6.1.1.1,"Real Time Flood Forecasting and Spatial Decision Support System for Adyar, Cooum, Kosasthalaiyar Rivers and Kovalam Basins",133
+13,6.1.1.2,Mapping of Flood Prone River Basins by Unmanned Aerial Vehicle,134
+13,6.1.1.3,Storm Surge Model,135
+13,6.1.1.4,Integrated Coastal Zone Management plan for Tamil Nadu,135
+13,6.1.1.4.1,Land Use Mapping of the Entire Coastal Stretch of Tamil Nadu,135
+13,6.1.1.4.2,Coastal Vulnerability Mapping,136
+13,6.1.1.5,Tamil Nadu System for Multi-Hazard Potential Impact Assessment and Emergency Response Tracking (TN -SMART),136
+13,6.1.1.6,GIS Cell,137
+13,6.1.1.7,Data Analytics for Risk Assessment,138
+14,No 6.1.1.8,Leveraging Technology to Enhance the Efficiency of Disaster Risk Management Efforts,No 138
+14,6.2,Risk Communication,138
+14,6.2.1,Early Warning System,139
+14,6.2.2,Satellite Telephony,140
+14,6.2.3,Internet Telephony,140
+14,7.0,Investing in disaster risk reduction for resilience,141
+14,7.1,resilience Involvement of Private Sector,142
+14,7.2,Non-Structural Measures,142
+14,7.3,Social Inclusion,142
+14,7.4,Mainstreaming Disaster Risk Concerns,142
+14,8.0,standard operating procedures,145
+14,8.1,Preparedness of water ways and water bodies,145
+14,8.2,Water stagnation locations,146
+14,8.3,Preparedness of Relief Centers,147
+14,8.4,Common kitchen / Cooking Centres,148
+14,8.5,Subways,149
+14,8.6,Tree fall,151
+14,8.7,Transport equipment /Lorries,153
+14,8.8,Preparedness of Streets,154
+14,8.8.1,Preparedness of Streets do not require evacuation,154
+14,8.8.2,Preparedness of Streets require evacuation,154
+14,8.9,Lighting facilities,157
+14,8.10,National Disaster Response Force/ State Disaster Response Force,158
+15,No 8.11,Health Department Support,No 158
+15,8.12,Veterinary Support,161
+15,8.13,Role of Financial Advisor,163
+15,8.14,Role of Public Relations Officer,163
+15,8.15,Ward Committee,163
+15,8.16,Other Departments Mitigation Plan,165
+15,9.0,Enhancing Disaster Preparedness,169
+15,9.1,Data Analytics for Strengthening Preparedness and Response,169
+15,9.2,Build Back Better for Rehabilitation and Reconstruction,169
+15,9.3,Collaboration with International and Domestic NGOs,170
+15,9.4,Command and Control Centre,170
+15,9.5,Storm Water Drains,171
+15,9.6,Rainwater Harvesting,172
+15,,Restoration and Rejuvenation of Mambalam Canal,173
+15,9.7,Maintenance of Waterbodies and Urban Lakes,173
+15,9.8,Maintenance of Canals,173
+15,9.9,Permanent Flood Mitigation in Greater Chennai and its Peri-urban Areas – Measures of the Water Resources Department,174
+15,9.9.1,Hydrological setting,174
+15,9.9.2,"One drainage system, five tiers, two agencies",175
+15,9.9.3,Planning framework for fluvial flood mitigation,176
+15,9.9.4,Works completed since 2015,179
+15,9.9.5,Basin-wise measures and their effect on the GCC area,181
+15,9.9.6,Conservation of flood water and restoration of storage,184
+16,No 9.9.7,"Forecasting, monitoring and reservoir operation",No 184
+16,9.9.8,Interface between GCC's storm water drains and WRD's waterways,185
+16,9.9.9,Protection of waterways – removal of encroachments,187
+16,9.9.10,Projects in the pipeline and the way forward,187
+16,9.10,"Sustainable Opening of the River Mouths and Creek Outlets: Ennore, Cooum, Adyar and Muttukadu",188
+16,9.10.1,Why the mouths close,188
+16,9.10.2,Principles of sustainable mouth opening,189
+16,9.10.3,Status and proposals for each outlet,190
+16,9.10.4,Annual mouth management cycle,191
+16,9.10.5,Monitoring and early warning,191
+16,9.10.6,Institutional and statutory arrangements,192
+16,9.10.7,The four mouths as one system,192
+16,9.11,Prioritizing Afforestation,192
+16,9.12,Fire Accidents,193
+16,9.13,Bioshields,193
+16,9.14,Climate Change Adaptation Programme,194
+16,9.15,Green Climate Fund (GCF),194
+16,9.16,Protection and Restoration of Ecosystems,195
+16,9.17,Conservation of Coastal and Marine Ecosystems,195
+16,9.17.1,Eco-Restoration of Interface Ecosystems,195
+16,9.18,Integrated Development of Vulnerable Areas,196
+16,9.19,Multiple accident hazardous unit,196
+16,APPENDIX- I,Contacts,199

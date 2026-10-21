@@ -1,0 +1,6 @@
+pdf_page,Tier,Asset,Agency,Flood it controls,What the tier below must provide
+192,1. Micro drains,"Road-side and street storm water drains, culverts",GCC / local bodies (Highways for highway drains),Pluvial – streetlevel water stagnation,Free outfall into a macro drain
+193,2. Macro drains and city canals,"44 canals, 81 km maintained by GCC; macro drains of Highways and municipalities",GCC / Highways / local bodies,Pluvial – neighbourhoodlevel stagnation,Receiving river or Buckingham Canal level below the canal outfall level
+193,"3. Rivers, Buckingham Canal and major channels","Kosasthalaiyar, Araniyar, Cooum, Adyar, Kovalam basin channels; Buckingham Canal; Otteri Nullah, Okkiyam Maduvu, surplus courses",WRD,Fluvial – river overflow and backwater into city canals,An open river mouth
+193,"4. Tanks, reservoirs and flood regulators","Four major reservoirs; system and nonsystem tanks; regulators, check dams, riverine reservoirs",WRD,Fluvial – peak inflow from upstream catchments,"Safe carrying capacity downstream, known in advance through forecasts"
+193,5. River mouths and creek outlets,"Ennore, Cooum, Adyar, Muttukadu","WRD (with Fisheries, Ports and Forest where applicable)",Fluvial and coastal – tide and surge backing up the whole system,–

@@ -1,0 +1,1185 @@
+zone,pdf_page,table_id,kind,table,role,unit_or_wards,row_text,phones
+15,163,61,health_facilities,Rescue Station for Cattle & Horses (Domestic Animals),Greater Chennai Corporation 'G' Cattle Depot,,1. | Greater Chennai Corporation 'G' Cattle Depot | Perambur | 9445197444,9445197444
+15,163,61,health_facilities,Rescue Station for Cattle & Horses (Domestic Animals),Greater Chennai Corporation 'D' Cattle Depot,,2. | Greater Chennai Corporation 'D' Cattle Depot | Pudupet | 9445026046,9445026046
+15,163,61,health_facilities,Rescue Station for Cattle & Horses (Domestic Animals),Depot Government Veterinary Hospital,,3. | Depot Government Veterinary Hospital | Saidapet | 04424352478,04424352478
+15,163,61,health_facilities,Rescue Station for Cattle & Horses (Domestic Animals),Government Veterinary Hospital,,4. | Government Veterinary Hospital | Tondiarpet | 04424892536,04424892536
+15,163,61,health_facilities,Rescue Station for Cattle & Horses (Domestic Animals),TANUVAS Veterinary Hospital,,5. | TANUVAS Veterinary Hospital | Vepery | 04425304000,04425304000
+15,163,61,health_facilities,Rescue Station for Cattle & Horses (Domestic Animals),Blue Cross Animal Rescue Centre,,6. | Blue Cross Animal Rescue Centre | Velachery | 04422300666,04422300666
+15,163,62,health_facilities,"Rescue Station for Dogs, Cats & Birds (Pet Animals)",Greater Chennai Corporation Pet Clinic,,1. | Greater Chennai Corporation Pet Clinic | Thiru .Vi.Ka.Nagar | 9445026042,9445026042
+15,163,62,health_facilities,"Rescue Station for Dogs, Cats & Birds (Pet Animals)",Greater Chennai Corporation Pet Clinic,,2. | Greater Chennai Corporation Pet Clinic | Nungambakkam | 9445194747,9445194747
+15,163,62,health_facilities,"Rescue Station for Dogs, Cats & Birds (Pet Animals)",Greater Chennai Corporation Pet Clinic,,3. | Greater Chennai Corporation Pet Clinic | Kannammapet | 9445026049,9445026049
+15,163,62,health_facilities,"Rescue Station for Dogs, Cats & Birds (Pet Animals)",Greater Chennai Corporation Animal Rescue,,4. | Greater Chennai Corporation Animal Rescue | Centre Lloyds Road | 9445194746,9445194746
+15,163,62,health_facilities,"Rescue Station for Dogs, Cats & Birds (Pet Animals)",Greater Chennai Corporation Animal Rescue,,5. | Greater Chennai Corporation Animal Rescue | Centre Basin Bridge | 9445026047,9445026047
+15,163,62,health_facilities,"Rescue Station for Dogs, Cats & Birds (Pet Animals)",Government Veterinary Hospital,,6. | Government Veterinary Hospital | Saidapet | 04424352478,04424352478
+15,163,62,health_facilities,"Rescue Station for Dogs, Cats & Birds (Pet Animals)",TANUVAS Veterinary Hospital,,7. | TANUVAS Veterinary Hospital | Vepery | 04425304000,04425304000
+15,163,62,health_facilities,"Rescue Station for Dogs, Cats & Birds (Pet Animals)",TANUVAS Peripheral Veterinary Hospital,,8. | TANUVAS Peripheral Veterinary Hospital | Madhavaram | 04425551586,04425551586
+,186,67,contacts,APPENDIX - I Contacts,,,1 | Chief Secretary | 044 25671555,04425671555
+,186,67,contacts,APPENDIX - I Contacts,,,7 | Home Guards | 9443312255 / 28446455 / 24463272,9443312255
+,186,67,contacts,APPENDIX - I Contacts,,,15 | Greater Chennai Corporation Satellite Phone | 8991119501,8991119501
+,187,68,contacts,Contacts,,,Land Line | 044 - 28410540 / 541 / 544 044 - 28414550 / 28415551,04428410540;04428414550
+,187,69,contacts,State Emergency Operation Center in CRA office,Hon'ble Mayor,,Hon'ble Mayor | 044-25384438 044-25619300,04425384438;04425619300
+,187,69,contacts,State Emergency Operation Center in CRA office,Deputy Mayor Office,,Deputy Mayor Office | 044-25382979 044-25619210,04425382979;04425619210
+,187,70,contacts,State Emergency Operation Center in CRA office,COMMISSIONER,,COMMISSIONER | 9842042722 | 044-25381330 044-25619200,9842042722;04425381330;04425619200
+,187,70,contacts,State Emergency Operation Center in CRA office,Addl.Commissioner (Health),,Addl.Commissioner (Health) | 9445190996 | 044-25619336 044-25386386,9445190996;04425619336;04425386386
+,187,70,contacts,State Emergency Operation Center in CRA office,Addl. Commissioner (R&F),,Addl. Commissioner (R&F) | 9445190995 | 044-25619306,9445190995;04425619306
+,187,70,contacts,State Emergency Operation Center in CRA office,Deputy Commissioner (Works),,Deputy Commissioner (Works) | 9445190998 | 044-25384231 044-25619351,9445190998;04425384231;04425619351
+,187,70,contacts,State Emergency Operation Center in CRA office,Joint Commissioner (Education),,Joint Commissioner (Education) | 9445190997 | 044-25383693 044-25619205,9445190997;04425383693;04425619205
+,187,70,contacts,State Emergency Operation Center in CRA office,Assistant Commissioner( GA&P),,Assistant Commissioner( GA&P) | 9445190300 | 044-25619231 044-25303633,9445190300;04425619231;04425303633
+,187,70,contacts,State Emergency Operation Center in CRA office,"Chief Engineer ( General, Parks, Bridges, Buildings )",,"Chief Engineer ( General, Parks, Bridges, Buildings ) | 9445190734 | 044-25303633 044-25383692 044-25619317",9445190734;04425303633;04425383692;04425619317
+,187,70,contacts,State Emergency Operation Center in CRA office,Chief Engineer( Electrical / Planning / Mechanical / SWM),,Chief Engineer( Electrical / Planning / Mechanical / SWM) | 9499956219 9445190017 | 044-25619283,9499956219;9445190017;04425619283
+,187,70,contacts,State Emergency Operation Center in CRA office,City Health Officer,,City Health Officer | 9445190744 | 044-25303665 044-25619330,9445190744;04425303665;04425619330
+,187,70,contacts,State Emergency Operation Center in CRA office,Senior Law Officer,,Senior Law Officer | 9445190222 | 044-25619412,9445190222;04425619412
+,187,70,contacts,State Emergency Operation Center in CRA office,Revenue Officer,,Revenue Officer | 9445190742 | 044-25383614 044-25619370,9445190742;04425383614;04425619370
+,188,70,contacts,State Emergency Operation Center in CRA office,Council Secretary,,Council Secretary | 9445190226 | 044-25382357 044-25619323,9445190226;04425382357;04425619323
+,188,70,contacts,State Emergency Operation Center in CRA office,Accountant Officer (H.O.),,Accountant Officer (H.O.) | 9445026005 | 044-2533801,9445026005
+,188,70,contacts,State Emergency Operation Center in CRA office,Veterinary Medical Officer,,Veterinary Medical Officer | 9445190746 | 044-25303657,9445190746;04425303657
+,188,70,contacts,State Emergency Operation Center in CRA office,City Medical Officer,,City Medical Officer | 9445190857 | 044-25619338 044-25619334,9445190857;04425619338;04425619334
+,188,70,contacts,State Emergency Operation Center in CRA office,Addl.City Medical Officer,,Addl.City Medical Officer | 9445190858 | 044-25619653,9445190858;04425619653
+,188,70,contacts,State Emergency Operation Center in CRA office,Education Officer,,Education Officer | 9445190858 9445190747 | 044-25619462 044-25619428,9445190858;9445190747;04425619462;04425619428
+,188,70,contacts,State Emergency Operation Center in CRA office,Superintending Engineer (BRR / Electrical ),,Superintending Engineer (BRR / Electrical ) | 9445190735 | 044-25619281,9445190735;04425619281
+,188,70,contacts,State Emergency Operation Center in CRA office,Superintending Engineer(Spl.Project ),,Superintending Engineer(Spl.Project ) | 9445190852 | 044-25619824,9445190852;04425619824
+,188,70,contacts,State Emergency Operation Center in CRA office,Superintending Engineer ( SWM / Mechanical ),,Superintending Engineer ( SWM / Mechanical ) | 9445190738 | 044-25303910,9445190738;04425303910
+,188,70,contacts,State Emergency Operation Center in CRA office,Superintending Engineer(SWD),,Superintending Engineer(SWD) | 9445190732 | 044-25619315,9445190732;04425619315
+,188,70,contacts,State Emergency Operation Center in CRA office,Superintending Engineer (CRRT & Parks),,Superintending Engineer (CRRT & Parks) | 9445026061 | 044-25619302,9445026061;04425619302
+,188,70,contacts,State Emergency Operation Center in CRA office,Superintending Engineer (Bridges & Co-ordination ),,Superintending Engineer (Bridges & Co-ordination ) | 9445190801 | 044-25619279,9445190801;04425619279
+,188,70,contacts,State Emergency Operation Center in CRA office,Superintending Engineer (Buildings / Town Planning),,Superintending Engineer (Buildings / Town Planning) | 9445190733 | -,9445190733
+,188,71,contacts,Office Regional Deputy Commissioner (North),RDC (North),,"RDC (North) | 9445025800, 044-25200025, 9445477658",9445025800;04425200025;9445477658
+,188,71,contacts,Office Regional Deputy Commissioner (North),Deputy Collector (Administration),,"Deputy Collector (Administration) | 9445477657, 044-25201076",9445477657;04425201076
+,188,71,contacts,Office Regional Deputy Commissioner (North),Deputy Collector (Revenue),,"Deputy Collector (Revenue) | 9445467336, 044-25201076",9445467336;04425201076
+,188,71,contacts,Office Regional Deputy Commissioner (North),Addl. GCC. Health Officer,,Addl. GCC. Health Officer | 9445026001,9445026001
+,188,71,contacts,Office Regional Deputy Commissioner (North),Head Accountant Officer,,Head Accountant Officer | 9445026063,9445026063
+,188,71,contacts,Office Regional Deputy Commissioner (North),Superintending Engineer,,Superintending Engineer | 9840189656,9840189656
+,189,72,contacts,Regional Deputy Commissioner Office (Central),RDC (Central),,RDC (Central) | 9445190150 / 9445190698 044-26640224,9445190150;9445190698;04426640224
+,189,72,contacts,Regional Deputy Commissioner Office (Central),Deputy Collector(Administration),,Deputy Collector(Administration) | 044-26640224 9445477660,04426640224;9445477660
+,189,72,contacts,Regional Deputy Commissioner Office (Central),Deputy Collector (Revenue),,Deputy Collector (Revenue) | 9443019915,9443019915
+,189,72,contacts,Regional Deputy Commissioner Office (Central),Addl. GCC. Health Officer,,Addl. GCC. Health Officer | 9445026002,9445026002
+,189,72,contacts,Regional Deputy Commissioner Office (Central),Head Accountant Officer,,Head Accountant Officer | 9445026037,9445026037
+,189,72,contacts,Regional Deputy Commissioner Office (Central),Superintending Engineer,,Superintending Engineer | 9445190100,9445190100
+,189,73,contacts,Regional Deputy Commissioner Office (South),RDC (South),,RDC (South) | 9445190100 9445190830 044-24425982,9445190100;9445190830;04424425982
+,189,73,contacts,Regional Deputy Commissioner Office (South),Deputy Collector (Administration),,Deputy Collector (Administration) | 9445191439 044-24425982,9445191439;04424425982
+,189,73,contacts,Regional Deputy Commissioner Office (South),Deputy Collector(Revenue),,Deputy Collector(Revenue) | 9445477653,9445477653
+,189,73,contacts,Regional Deputy Commissioner Office (South),Addl. GCC. Health Officer,,Addl. GCC. Health Officer | 9445026003,9445026003
+,189,73,contacts,Regional Deputy Commissioner Office (South),Head Accountant Officer,,Head Accountant Officer | 9445026036,9445026036
+,189,73,contacts,Regional Deputy Commissioner Office (South),Superintending Engineer,,Superintending Engineer | 9445190737,9445190737
+,190,74,contacts,Emergency Contact Numbers,,,Red cross | 044-28554548,04428554548
+,190,74,contacts,Emergency Contact Numbers,,,Blue cross | 044-22354959 / 22300666 / 22300655,04422354959
+,191,75,contacts,Contact details of the Officials at the Zonal level,9445190001,Zone 1,"Zone 1 | 04425993494, 9445190201 | 9445190001 | 9445190021, 9445190102 | 9445190061 | Officers 9445190081, 9445467332",04425993494;9445190201;9445190001;9445190021;9445190102;9445190061;9445190081;9445467332
+,191,75,contacts,Contact details of the Officials at the Zonal level,9445190002,Zone 2,"Zone 2 | 04425941079, 9445190202 | 9445190002 | 9445190022, 7200129107 | 9445190062 | 9445190082",04425941079;9445190202;9445190002;9445190022;7200129107;9445190062;9445190082
+,191,75,contacts,Contact details of the Officials at the Zonal level,9445190003,Zone 3,"Zone 3 | 04425530427, 9445190203 | 9445190003 | 9445190023 9445190482 | 9445190063 | 9445190083",04425530427;9445190203;9445190003;9445190023;9445190482;9445190063;9445190083
+,191,75,contacts,Contact details of the Officials at the Zonal level,9445190004,Zone 4,"Zone 4 | 04425951083/199 9445190204 | 9445190004 | 9445190024, 9445190940 | 9445190064 | 9445190084, 9790797999",04425951083;9445190204;9445190004;9445190024;9445190940;9445190064;9445190084;9790797999
+,191,75,contacts,Contact details of the Officials at the Zonal level,9445190005,Zone 5,"Zone 5 | 04425206655, 9445190205 | 9445190005 | 9445190025, 9445190461 | 9445190065 | 9445190085, 9445071039",04425206655;9445190205;9445190005;9445190025;9445190461;9445190065;9445190085;9445071039
+,191,75,contacts,Contact details of the Officials at the Zonal level,9445190006,Zone 6,"Zone 6 | 044-26741802 044- 26749990 9445190206 | 9445190006 | 9445190026, 9445190038 | 9445190066 | 9445190086,",04426741802;04426749990;9445190206;9445190006;9445190026;9445190038;9445190066;9445190086
+,191,75,contacts,Contact details of the Officials at the Zonal level,9445190007,Zone 7,"Zone 7 | 9445190206 04426253331, 9445190207 | 9445190007 | 9445190027, 9445194759 | 9445190067 | 9445190087, 9444576365",9445190206;04426253331;9445190207;9445190007;9445190027;9445194759;9445190067;9445190087;9444576365
+,191,75,contacts,Contact details of the Officials at the Zonal level,9445190008,Zone 8,"Zone 8 | 044-26640078, 9445190208 | 9445190008 | 9445190028, 9445467320 | 9445190068 | 9445190088,",04426640078;9445190208;9445190008;9445190028;9445467320;9445190068;9445190088
+,191,75,contacts,Contact details of the Officials at the Zonal level,9445190009,Zone 9,"Zone 9 | 04428170738, 044-28174775 9445190209 | 9445190009 | 9445190029, 9445190864 | 9445190069 | 9445190709",04428170738;04428174775;9445190209;9445190009;9445190029;9445190864;9445190069;9445190709
+,191,75,contacts,Contact details of the Officials at the Zonal level,9445190010,Zone 10,"Zone 10 | 904444521498032809968 , 044-24801959 9445190210 | 9445190010 | 9445190030, 9445191466 | 9445190070 | 9445190090, 9841534974",04424801959;9445190210;9445190010;9445190030;9445191466;9445190070;9445190090;9841534974
+,191,75,contacts,Contact details of the Officials at the Zonal level,9445190011,Zone 11,"Zone 11 | 904444521498062717025, 044-24867054 9445190211 | 9445190011 | 9445190031, 9445477702 | 9445190071 | 9445190091",04424867054;9445190211;9445190011;9445190031;9445477702;9445190071;9445190091
+,191,75,contacts,Contact details of the Officials at the Zonal level,9445190012,Zone 12,"Zone 12 | 9445190211 04422342355, 9445190212 | 9445190012 | 9445190032, 9445194727 | 9445190072 | 9445190092",9445190211;04422342355;9445190212;9445190012;9445190032;9445194727;9445190072;9445190092
+,191,75,contacts,Contact details of the Officials at the Zonal level,9445190013,Zone 13,"Zone 13 | 04424425961, 04424425963 9445190213 | 9445190013 | 9445190033, 9841278118 | 9445190073 | 9445190093",04424425961;04424425963;9445190213;9445190013;9445190033;9841278118;9445190073;9445190093
+,191,75,contacts,Contact details of the Officials at the Zonal level,9445190014,Zone 14,"Zone 14 | 904444521294022016300, 9445190861 9445190214 | 9445190014 | 9445190034, 9445026083 | 9445190074 | 9445190094",9445190861;9445190214;9445190014;9445190034;9445026083;9445190074;9445190094
+,191,75,contacts,Contact details of the Officials at the Zonal level,9445190015,Zone 15,"Zone 15 | 9445190214 04424500923, 9445190215 | 9445190015 | 9445190035, 9555191480 | 9445190075 | 9445190095",9445190214;04424500923;9445190215;9445190015;9445190035;9555191480;9445190075;9445190095
+,191,76,contacts,Other Contact Numbers,,,Highways Directorate | 044 - 22351066,04422351066
+,191,76,contacts,Other Contact Numbers,,,TANGEDCO | 1912 / 044 - 28514955 Whatsaap - 9445850829,04428514955;9445850829
+,191,76,contacts,Other Contact Numbers,,,CMWSSB | Whatsaap - 9445850829 044 - 45674567,9445850829;04445674567
+,191,76,contacts,Other Contact Numbers,,,Chennai Metro Rail | 044 - 23792000 1860 - 425 - 1515,04423792000
+1,195,81,contacts,Zone Administration,Chairman,1 to 14,1. | Chairman | 1 to 14 | 9445467010,9445467010
+1,195,81,contacts,Zone Administration,Zonal officer,1 to14,2 | Zonal officer | 1 to14 | 9445190001,9445190001
+1,195,82,lighting,Engineering Wing,,U-1 & U-2,U-1 & U-2 | 9445194727,9445194727
+1,195,82,lighting,Engineering Wing,,U-2 A & U-3,U-2 A & U-3 | 9445190021,9445190021
+1,195,82,lighting,Engineering Wing,,U-1 (1 to 4),U-1 (1 to 4) | 9445190101,9445190101
+1,195,82,lighting,Engineering Wing,,U-2 (5 to 7),U-2 (5 to 7) | 9445190102,9445190102
+1,195,82,lighting,Engineering Wing,,U-2A (8 to 10),U-2A (8 to 10) | 9176177232,9176177232
+1,195,82,lighting,Engineering Wing,,U-3 (11 to 14),U-3 (11 to 14) | 9445190103,9445190103
+1,195,82,lighting,Engineering Wing,,1 to 14,1 to 14 | 9445190041,9445190041
+1,195,82,lighting,Engineering Wing,,1 to 14,1 to 14 | 9445190493,9445190493
+1,196,83,contacts,Solid Waste Management,Assistant Executive Engineer (SWM),No. 1 to 14,1. | Assistant Executive Engineer (SWM) | No. 1 to 14 | 9445467361,9445467361
+1,196,83,contacts,Solid Waste Management,Conservany supervisor,1 to 4,2. | Conservany supervisor | 1 to 4 | 9445191401,9445191401
+1,196,83,contacts,Solid Waste Management,Conservany supervisor,5 to 9,3. | Conservany supervisor | 5 to 9 | 9445191402,9445191402
+1,196,83,contacts,Solid Waste Management,Conservany supervisor,1 to 14,4. | Conservany supervisor | 1 to 14 | 9445191403,9445191403
+1,196,84,contacts,Public Health & Disease Control,Zonal Health Officer,Zone I,1 | Zonal Health Officer | Zone I | 9445190061,9445190061
+1,196,84,contacts,Public Health & Disease Control,Veterinary Surgeon,Zone I,2 | Veterinary Surgeon | Zone I | 9787032116,9787032116
+1,196,84,contacts,Public Health & Disease Control,Entomologist,Zone I,3 | Entomologist | Zone I | 9941627096,9941627096
+1,196,84,contacts,Public Health & Disease Control,Sanitary Officer,5to 9,5 | Sanitary Officer | 5to 9 | 9940244179,9940244179
+1,196,84,contacts,Public Health & Disease Control,Sanitary Officer,10to14,6 | Sanitary Officer | 10to14 | 9445190681,9445190681
+1,196,84,contacts,Public Health & Disease Control,Zonal Medical Officer,Zone 1,7 | Zonal Medical Officer | Zone 1 | 9444803458,9444803458
+1,196,84,contacts,Public Health & Disease Control,Medical Officer,2/KathivakkamUPHC,8 | Medical Officer | 2/KathivakkamUPHC | 9884883403,9884883403
+1,196,84,contacts,Public Health & Disease Control,Medical Officer,3/ErnavoorUPHC,9 | Medical Officer | 3/ErnavoorUPHC | 9840180603,9840180603
+1,196,84,contacts,Public Health & Disease Control,Medical Officer,11/ThiruvottiyurUCHC,11 | Medical Officer | 11/ThiruvottiyurUCHC | 9444818168,9444818168
+1,196,84,contacts,Public Health & Disease Control,Medical Officer,12/SathangaduUPHC,13 | Medical Officer | 12/SathangaduUPHC | 6379498040,6379498040
+1,196,84,contacts,Public Health & Disease Control,Medical Officer,14/ThnagalUPHC,14 | Medical Officer | 14/ThnagalUPHC | 8122442254,8122442254
+1,197,85,health_facilities,Public Health & Disease Control,DR.R.M.Geetha,No. 2,1 | No. 2 | of Hospital Kattivakkam UPHC | DR.R.M.Geetha | 9884883403,9884883403
+1,197,85,health_facilities,Public Health & Disease Control,Dr. M Vengatesh,3,2 | 3 | Ernavoor UPHC | Dr. M Vengatesh | 9840180603,9840180603
+1,197,85,health_facilities,Public Health & Disease Control,Dr.J.Princy,11,5 | 11 | Thiruvottiyur UCHC | Dr.J.Princy | 9444818168,9444818168
+1,197,85,health_facilities,Public Health & Disease Control,Dr.Madhavan,12,6 | 12 | Sathangadu UPHC | Dr.Madhavan | 6379498040,6379498040
+1,197,85,health_facilities,Public Health & Disease Control,Dr.A Bhargavi,14,7 | 14 | Thangal UPHC | Dr.A Bhargavi | 8122442254,8122442254
+1,197,86,contacts,Parks,,Ward (1 to 14),"1 | 9445071070 | cruner-3, Chain saw tree cutting machine-8 | Ward (1 to 14)",9445071070
+1,199,90,contacts,Contact details,Conservancy Supervisor,Thalankuppam,Conservancy/ GCC | Conservancy Supervisor | Thalankuppam | 9445191401,9445191401
+1,199,90,contacts,Contact details,Conservancy Supervisor,Tsunami quarters,Conservancy/ GCC | Conservancy Supervisor | Tsunami quarters | 9445191401,9445191401
+1,199,90,contacts,Contact details,Conservancy Supervisor,Village street,Conservancy/ GCC | Conservancy Supervisor | Village street | 9445191402,9445191402
+1,199,90,contacts,Contact details,Conservancy Supervisor,Ellaiamman koil street,Conservancy/ GCC | Conservancy Supervisor | Ellaiamman koil street | 9445191403,9445191403
+1,199,90,contacts,Contact details,Conservancy Supervisor,Thiruchinakuppam,Conservancy/ GCC | Conservancy Supervisor | Thiruchinakuppam | 9445191403,9445191403
+1,199,90,contacts,Contact details,Area Engineer,"Thalankuppam, Tsunami Quarters, Village street","Water Supply& Sewage / CMWSSB | Area Engineer | Thalankuppam, Tsunami Quarters, Village street | 8144930001",8144930001
+1,199,90,contacts,Contact details,Executive Engineer,"Thalankuppam, Tsunami Quarters, Village street","TNSCB | Executive Engineer | Thalankuppam, Tsunami Quarters, Village street | 9445074846",9445074846
+1,209,107,relief_centres,Relief Centres,Sanitary Inspector,1,"1 | 1 | 300 | Govt. Higher Sec. School, Kathivakkam | Thalankuppam, Nettukuppam | Yes | Yes | No | Sanitation, Medicine | Sanitary Inspector | 9445025802",9445025802
+1,209,107,relief_centres,Relief Centres,Assistant Engineer,,Evacuation & Relief Materials | Assistant Engineer | 9445190301,9445190301
+1,209,107,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9445190081,9445190081
+1,209,107,relief_centres,Relief Centres,Sanitary Inspector,2,"2 | 2 | 200 | CMS, Nehru nagar, Ennore | Sweepers colony, Valluvar nagar, south lock road | Yes | Yes | No | Sanitation, Medicine | Sanitary Inspector | 9445025802",9445025802
+1,209,107,relief_centres,Relief Centres,Assistant Engineer,,Evacuation & Relief Materials | Assistant Engineer | 9445190302,9445190302
+1,209,107,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9445190081,9445190081
+1,209,107,relief_centres,Relief Centres,Sanitary Inspector,3,"3 | 3 | 200 | CPS, AS Nagar | Annai Sivagami nagar | Yes | Yes | No | Sanitation, Medicine | Sanitary Inspector | 9445025802",9445025802
+1,209,107,relief_centres,Relief Centres,Assistant Engineer,,Evacuation & Relief Materials | Assistant Engineer | 9445190303,9445190303
+1,209,107,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9445190081,9445190081
+1,209,107,relief_centres,Relief Centres,Sanitary Inspector,4,"4 | 4 | 300 | CPS Mahaliaman koil school st, Ernavoor | A.D Colony | Yes | Yes | No | Sanitation, Medicine | Sanitary Inspector | 9445025805",9445025805
+1,209,107,relief_centres,Relief Centres,Assistant Engineer,,Evacuation & Relief Materials | Assistant Engineer | 9445190304,9445190304
+1,209,107,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9445190081,9445190081
+1,210,107,relief_centres,Relief Centres,Sanitary Inspector,5,"5 | 5 | 200 | Jayagopal Garodiya Govt. Hr. Sec. School, T.H.Road. | Palagai thotti kuppam | Yes | Yes | No | Sanitation, Medicine | Sanitary Inspector | 9445025805",9445025805
+1,210,107,relief_centres,Relief Centres,Assistant Engineer,,Evacuation & Relief Materials | Assistant Engineer | 9445190305,9445190305
+1,210,107,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9445190081,9445190081
+1,210,107,relief_centres,Relief Centres,Sanitary Inspector,6,"6 | 6 | 600 | Ready Made School, Raja Shanmugam Nagar. | Raja shanmugam nagar. | Yes | Yes | No | Sanitation, Medicine | Sanitary Inspector | 9445025806",9445025806
+1,210,107,relief_centres,Relief Centres,Assistant Engineer,,Evacuation & Relief Materials | Assistant Engineer | 9445190306,9445190306
+1,210,107,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9445190081,9445190081
+1,210,107,relief_centres,Relief Centres,Sanitary Inspector,7,"7 | 7 | 300 | Kalaimagal School, Saravana Nagar. | Saravana Nagar | Yes | Yes | No | Sanitation, Medicine | Sanitary Inspector | 9445025807",9445025807
+1,210,107,relief_centres,Relief Centres,Assistant Engineer,,Evacuation & Relief Materials | Assistant Engineer | 9445190307,9445190307
+1,210,107,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 7904146342,7904146342
+1,210,107,relief_centres,Relief Centres,Sanitary Inspector,8,"8 | 8 | 100 | Mahaveer jain School, T.H.Road. | Rettai malai srinivasan nagar | Yes | Yes | No | Sanitation, Medicine | Sanitary Inspector | 9445025809",9445025809
+1,210,107,relief_centres,Relief Centres,Assistant Engineer,,Evacuation & Relief Materials | Assistant Engineer | 9445190308,9445190308
+1,210,107,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 7904146342,7904146342
+1,211,107,relief_centres,Relief Centres,Sanitary Inspector,9,"9 | 9 | 200 | Gowri Ashramam, T.H Road | Kargil Nagar & Rajaji Nagar | Yes | Yes | No | Sanitation, Medicine | Sanitary Inspector | 9445025809",9445025809
+1,211,107,relief_centres,Relief Centres,Assistant Engineer,,Evacuation & Relief Materials | Assistant Engineer | 9445190309,9445190309
+1,211,107,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 7010123899 7904146342,7010123899;7904146342
+1,211,107,relief_centres,Relief Centres,Sanitary Inspector,10,"10 | 10 | 150 | Poonthottam School, T.H Road | Nandhi odai & Sadayan kuppam vattai | Yes | Yes | No | Sanitation, Medicine | Sanitary Inspector | 9445025810",9445025810
+1,211,107,relief_centres,Relief Centres,Assistant Engineer,,Evacuation & Relief Materials | Assistant Engineer | 9445190310,9445190310
+1,211,107,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 7010123899 7904146342,7010123899;7904146342
+1,211,107,relief_centres,Relief Centres,Sanitary Inspector,11,"11 | 11 | 150 | CMS School, Market Lane. | Srinivasapuram, B.K.N Colony | Yes | Yes | No | Sanitation, Medicine | Sanitary Inspector | 9499934325",9499934325
+1,211,107,relief_centres,Relief Centres,Assistant Engineer,,Evacuation & Relief Materials | Assistant Engineer | 9445190311,9445190311
+1,211,107,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 7010123899 7904146342,7010123899;7904146342
+1,211,107,relief_centres,Relief Centres,Sanitary Inspector,12,"12 | 12 | 180 | St.Pauls school, Sathankad High Road | Gandhi Nagar 1-5 street | Yes | Yes | No | Sanitation, Medicine | Sanitary Inspector | 9445025812",9445025812
+1,211,107,relief_centres,Relief Centres,Assistant Engineer,,Evacuation & Relief Materials | Assistant Engineer | 9445190312,9445190312
+1,211,107,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 7010123899 7904146342,7010123899;7904146342
+1,215,116,lighting,Lighting Facilities,Assistant Engineer,1 to 3,1 | 1 to 3 | Assistant Engineer | 9445190901,9445190901
+1,215,116,lighting,Lighting Facilities,Junior Engineer,"4, 5 & 8","2 | 4, 5 & 8 | Junior Engineer | 9445190904",9445190904
+1,215,116,lighting,Lighting Facilities,Junior Engineer,6 & 7,3 | 6 & 7 | Junior Engineer | 9445190902,9445190902
+1,215,116,lighting,Lighting Facilities,Junior Engineer,9 to 14,4 | 9 to 14 | Junior Engineer | 9445190903,9445190903
+1,215,116,lighting,Lighting Facilities,Additional Divisional Engineer (Zone),1 to 14,5 | 1 to 14 | Additional Divisional Engineer (Zone) | 9445190041,9445190041
+1,215,116,lighting,Lighting Facilities,Divisional Engineer (HQ),1 to 14,6 | 1 to 14 | Divisional Engineer (HQ) | 9445190753,9445190753
+1,216,119,boats,Rescue Boats,,4,1 | 4 | 2 nos.ofboatsat AD colony to evacuate people using Boats during flood of 2023. | Vp nagar | AE -9445190302,9445190302
+1,216,119,boats,Rescue Boats,,6,"2 | 6 | 2 nos. of boats at Manali express road ,Manali express road, Bathra nagar main road | Sathiyamoorthynagar | AE -9445190306",9445190306
+1,216,119,boats,Rescue Boats,,7,3 | 7 | 4 nos.of boatsatKargil nagar and Rajaji nagar | Kargilnagar | AE -9445190307,9445190307
+1,218,124,vehicles,Transport Equipment/Lorries,,,9445467353 | 1 | 2 | 4-HMV | 1,9445467353
+2,229,143,contacts,Zone Administration,Chairman,15 to 22,1. | Chairman | 15 to 22 | 9444332834,9444332834
+2,229,143,contacts,Zone Administration,Zonal Officer,15 to 22,2. | Zonal Officer | 15 to 22 | 9445190002,9445190002
+2,229,144,lighting,Engineering Wing,,U-4 & U-5,1 | Executive Engineer | U-4 & U-5 | 9445190022,9445190022
+2,229,144,lighting,Engineering Wing,,"U-4 (15,16,17)","2 | Assistant Executive Engineer | U-4 (15,16,17) | 9445190104",9445190104
+2,229,144,lighting,Engineering Wing,,"U-5 (18, 20, 21 & 22 )","3 | Assistant Executive Engineer | U-5 (18, 20, 21 & 22 ) | 9445190105",9445190105
+2,229,144,lighting,Engineering Wing,,15 - 22,4 | Additional Divisional Engineer | 15 - 22 | 9445190042,9445190042
+2,229,144,lighting,Engineering Wing,,SWD U-4 & U-5,5 | SWM Assistant Executive Engineer | SWD U-4 & U-5 | 72996 08181,7299608181
+2,229,145,contacts,Solid Waste Management,Conservany supervisor,Unit-4,1. | Conservany supervisor | Unit-4 | 9445191404,9445191404
+2,229,145,contacts,Solid Waste Management,Conservany supervisor,Unit-5,2. | Conservany supervisor | Unit-5 | 9445191405,9445191405
+2,230,146,contacts,Public Health & Disease Control,ZonalHealthOfficer,Zone II,1 | ZonalHealthOfficer | Zone II | 9445190062,9445190062
+2,230,146,contacts,Public Health & Disease Control,ZonalMedicalOfficer,Zone II,2 | ZonalMedicalOfficer | Zone II | 8248397644,8248397644
+2,230,146,contacts,Public Health & Disease Control,VeterinarySurgeon,Zone II,3 | VeterinarySurgeon | Zone II | 9445026042,9445026042
+2,230,146,contacts,Public Health & Disease Control,Junior Entomologist,Zone II,4 | Junior Entomologist | Zone II | 6380072987,6380072987
+2,230,146,contacts,Public Health & Disease Control,SanitaryOfficer,Unit-4,5 | SanitaryOfficer | Unit-4 | 8072339289,8072339289
+2,230,146,contacts,Public Health & Disease Control,SanitaryOfficer,Unit-5,6 | SanitaryOfficer | Unit-5 | 9445190682,9445190682
+2,230,147,contacts,Parks,,Manali,1 | Park Overseer 9445071064& 8608914685 | 8 - Petrol operator tree cutting Saw 8 - Telescopic Tree Pruner | Manali,9445071064;8608914685
+2,247,165,relief_centres,Relief Centres,Sanitary Inspector,,"1 | 15 | 230 | Jai Gopal Gardia Higher Secondary School | Manali New Town 9th street | Yes | Yes | No | Sanitation, Medicine & Drinking water | Sanitary Inspector | 9445025817 7338917782",9445025817;7338917782
+2,247,165,relief_centres,Relief Centres,Junior Engineer,,Evacuation | Junior Engineer | 9445190315,9445190315
+2,247,165,relief_centres,Relief Centres,Assistant Revenue Officer,,Food | Assistant Revenue Officer | 9445190082,9445190082
+2,247,165,relief_centres,Relief Centres,Asst. Exe. Engineer,,Relief Materials | Asst. Exe. Engineer | 9445190104,9445190104
+2,248,165,relief_centres,Relief Centres,Sanitary Inspector,,"2 | 16 | 500 | CMDA Steel Yard , Sathankadu | Manali New Town 29, 28, 30 and 31 st Street, Manali New Town 80 Feet Road Milk Booth and Sadayankuppam , Irular Colony and Burma Nagar | Yes | Yes | No | Sanitation, Medicine & Drinking water | Sanitary Inspector | 9445025817 7338917782",9445025817;7338917782
+2,248,165,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190316,9445190316
+2,248,165,relief_centres,Relief Centres,Assistant Revenue Officer,,Food | Assistant Revenue Officer | 9445190082,9445190082
+2,248,165,relief_centres,Relief Centres,Asst. Exe. Engineer,,Relief Materials | Asst. Exe. Engineer | 9445190104,9445190104
+2,248,165,relief_centres,Relief Centres,Sanitary Inspector,,"3 | 16 | 300 | Andarkuppam School | Kanniammanpet, Kamarajapuram, Andarkuppam, Elandhanoor, Gandhi Nagar and Jenifer Nagar | Yes | Yes | No | Sanitation, Medicine & Drinking water | Sanitary Inspector | 9445025817 7338917782",9445025817;7338917782
+2,248,165,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190316,9445190316
+2,248,165,relief_centres,Relief Centres,Assistant Revenue Officer,,Food | Assistant Revenue Officer | 9445190082,9445190082
+2,248,165,relief_centres,Relief Centres,Asst. Exe. Engineer,,Relief Materials | Asst. Exe. Engineer | 9445190104,9445190104
+2,248,165,relief_centres,Relief Centres,Sanitary Inspector,,"4 | 16 | 150 | CPS-Kanniammanpet | Elandhanoor, Gandhi Nagar and Jenifer Nagar and Kanniammanpet , Kamarajapuram, | Yes | Yes | No | Sanitation, Medicine & Drinking water | Sanitary Inspector | 9445025817 7338917782",9445025817;7338917782
+2,248,165,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190316,9445190316
+2,248,165,relief_centres,Relief Centres,Assistant Revenue Officer,,Food | Assistant Revenue Officer | 9445190082,9445190082
+2,248,165,relief_centres,Relief Centres,Asst. Exe. Engineer,,Relief Materials | Asst. Exe. Engineer | 9445190104,9445190104
+2,248,165,relief_centres,Relief Centres,Sanitary Inspector,,"5 | 16 | 350 | CPS-Kulakarai | Sadayankuppam, Burma Nagar, Irular Colony, Kulakkarai, Kamarajapuram and Andarkuppam | Yes | Yes | No | Sanitation, Medicine & Drinking water | Sanitary Inspector | 9445025817 7338917782",9445025817;7338917782
+2,248,165,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190316,9445190316
+2,248,165,relief_centres,Relief Centres,Assistant Revenue Officer,,Food | Assistant Revenue Officer | 9445190082,9445190082
+2,248,165,relief_centres,Relief Centres,Asst. Exe. Engineer,,Relief Materials | Asst. Exe. Engineer | 9445190104,9445190104
+2,249,165,relief_centres,Relief Centres,Sanitary Inspector,,"6 | 17 | 100 | Community Centre, Vadaperumbakkam | Vadaperumbakkam, Theeyambakkam, Kosappur, Thirupathi Devasthana Nagar and Thiyagi Viswanathadoss Nagar, Chinna Thoppu. | Yes | Yes | No | Sanitation, Medicine & Drinking water | Sanitary Inspector | 9445025817 7338917782",9445025817;7338917782
+2,249,165,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190317,9445190317
+2,249,165,relief_centres,Relief Centres,Assistant Revenue Officer,,Food | Assistant Revenue Officer | 9445190082,9445190082
+2,249,165,relief_centres,Relief Centres,Asst. Exe. Engineer,,Relief Materials | Asst. Exe. Engineer | 9445190104,9445190104
+2,249,165,relief_centres,Relief Centres,Sanitary Inspector,,"7 | 17 | 340 | CoC Middle School, Kosapur | Kosappur | Yes | Yes | No | Sanitation, Medicine & Drinking water | Sanitary Inspector | 9445025817 7338917782",9445025817;7338917782
+2,249,165,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190317,9445190317
+2,249,165,relief_centres,Relief Centres,Assistant Revenue Officer,,Food | Assistant Revenue Officer | 9445190082,9445190082
+2,249,165,relief_centres,Relief Centres,Asst. Exe. Engineer,,Relief Materials | Asst. Exe. Engineer | 9445190104,9445190104
+2,249,165,relief_centres,Relief Centres,Sanitary Inspector,,"8 | 19 | 200 | Govt. High School , Mathur, | Balasubramanian Nagar and Chinna Mathur Road , CPCL Layout | Yes | Yes | No | Sanitation, Medicine & Drinking water | Sanitary Inspector | 9445025818 7338917782",9445025818;7338917782
+2,249,165,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190319,9445190319
+2,249,165,relief_centres,Relief Centres,Assistant Revenue Officer,,Food | Assistant Revenue Officer | 9445190082,9445190082
+2,249,165,relief_centres,Relief Centres,Asst. Exe. Engineer,,Relief Materials | Asst. Exe. Engineer | 9445190105,9445190105
+2,250,165,relief_centres,Relief Centres,Sanitary Inspector,,"9 | 19 | 120 | Manjambakkam School | Manjambakkam | Yes | Yes | No | Sanitation, Medicine & Drinking water | Sanitary Inspector | 9445025818 7338917782",9445025818;7338917782
+2,250,165,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190319,9445190319
+2,250,165,relief_centres,Relief Centres,Assistant Revenue Officer,,Food | Assistant Revenue Officer | 9445190082,9445190082
+2,250,165,relief_centres,Relief Centres,Asst. Exe. Engineer,,Relief Materials | Asst. Exe. Engineer | 9445190105,9445190105
+2,250,165,relief_centres,Relief Centres,Sanitary Inspector,,"10 | 19 | 100 | CPS at MMDA 46th Street | Ponniamman Nagar, Appolo Armstrong Nagar. | Yes | Yes | No | Sanitation, Medicine & Drinking water | Sanitary Inspector | 9445025818 7708931877",9445025818;7708931877
+2,250,165,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190319,9445190319
+2,250,165,relief_centres,Relief Centres,Assistant Revenue Officer,,Food | Assistant Revenue Officer | 9445190082,9445190082
+2,250,165,relief_centres,Relief Centres,Asst. Exe. Engineer,,Relief Materials | Asst. Exe. Engineer | 9445190105,9445190105
+2,250,165,relief_centres,Relief Centres,Sanitary Inspector,,"11 | 20 | 200 | Dr. Sivanthi adithinar School | Chinna Mathur Salai, Kalthottam MGR Nagar, New MGR Nagar, JJ Nagar, Balaraman Street, Raghavan Nagar and Ottraivadai Street. | Yes | Yes | No | Sanitation, Medicine & Drinking water | Sanitary Inspector | 9445025818 7708931877",9445025818;7708931877
+2,250,165,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190321,9445190321
+2,250,165,relief_centres,Relief Centres,Assistant Revenue Officer,,Food | Assistant Revenue Officer | 9445190082,9445190082
+2,250,165,relief_centres,Relief Centres,Asst. Exe. Engineer,,Relief Materials | Asst. Exe. Engineer | 9445190105,9445190105
+2,251,165,relief_centres,Relief Centres,Sanitary Inspector,,"12 | 21 | 450 | Govt Higher Sec School.Manali & CPS at padasalai street | Nedunchezhiyan Salai, Ettiyappan Street, Jalaganda Mariamman Koil Street 1to 3 Streets., Police Quarteres. And Thamaraikulam Street. | Yes | Yes | No | Sanitation, Medicine & Drinking water | Sanitary Inspector | 9445025820 7708931877",9445025820;7708931877
+2,251,165,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190321,9445190321
+2,251,165,relief_centres,Relief Centres,Assistant Revenue Officer,,Food | Assistant Revenue Officer | 9445190082,9445190082
+2,251,165,relief_centres,Relief Centres,Asst. Exe. Engineer,,Relief Materials | Asst. Exe. Engineer | 9445190105,9445190105
+2,251,165,relief_centres,Relief Centres,Sanitary Inspector,,"13 | 22 | 200 | CPS at padasalai street | Nedunchezhiyan Salai, Ettiyappan Street, Jalaganda Mariamman Koil Street 1 to 3 Streets., Police Quarteres. And Thamaraikulam Street. | No | Yes | Yes | Sanitation, Medicine & Drinking water | Sanitary Inspector | 9445025818, 7708931877",9445025818;7708931877
+2,251,165,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190321,9445190321
+2,251,165,relief_centres,Relief Centres,Assistant Revenue Officer,,Food | Assistant Revenue Officer | 9445190082,9445190082
+2,251,165,relief_centres,Relief Centres,Asst. Exe. Engineer,,Relief Materials | Asst. Exe. Engineer | 9445190105,9445190105
+2,251,165,relief_centres,Relief Centres,Sanitary Inspector,,"14 | 22 | 200 | High school at devarajan street | Chinnsekkadu | No | Yes | Yes | Sanitation, Medicine & Drinking water | Sanitary Inspector | 9445025818, 7708931877",9445025818;7708931877
+2,251,165,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190322,9445190322
+2,251,165,relief_centres,Relief Centres,Assistant Revenue Officer,,Food | Assistant Revenue Officer | 9445190105,9445190105
+2,251,165,relief_centres,Relief Centres,Asst. Exe. Engineer,,Relief Materials | Asst. Exe. Engineer | 9445190082,9445190082
+2,255,173,lighting,Lighting Facilities,Assistant Engineer,15 to 17,1 | 15 to 17 | Assistant Engineer | 9445190907,9445190907
+2,255,173,lighting,Lighting Facilities,Assistant Engineer,"18,20,21","2 | 18,20,21 | Assistant Engineer | 9445190905",9445190905
+2,255,173,lighting,Lighting Facilities,Assistant Engineer,19,3 | 19 | Assistant Engineer | 9445190906,9445190906
+2,255,173,lighting,Lighting Facilities,Additional divisional Engineer (Zone),15 to 21,4 | 15 to 21 | Additional divisional Engineer (Zone) | 9445190042,9445190042
+2,255,173,lighting,Lighting Facilities,Divisional Engineer (HQ),15 to 21,5 | 15 to 21 | Divisional Engineer (HQ) | 9445190752,9445190752
+2,256,175,boats,Rescue Boats,,15,"1 | 15 | Manali New Town 80 Ft Road , 4 Nos. | Manali New Town near Milk booth | 9445190315",9445190315
+2,256,175,boats,Rescue Boats,,16,"2 | 16 | Andarkuppam , Sadayankuppam, Burma Nagar, 4 Nos. | Opposite to CMDA Steel yard | 9445190316",9445190316
+2,256,175,boats,Rescue Boats,,17,"3 | 17 | Near Division Office, 2 Nos. | Division Office Vadaperumbakkam | 9445190317",9445190317
+2,256,175,boats,Rescue Boats,,18,"4 | 18 | Division Office, Nedunchezhiyan Street, 1 No. | Division Office , Nedunchezhiyan Street | 9445190318",9445190318
+2,256,175,boats,Rescue Boats,,19,"5 | 19 | Balasubramaniam Nagar , 1 No. | Chinna mathur Road | 9445190319",9445190319
+2,256,175,boats,Rescue Boats,,20,"6 | 20 | 1 No. New MGR Nagar Ist street | Division - 20 Office , New MGR Nagar Ist street | 9445190320",9445190320
+2,256,177,vehicles,Transport Equipment & Lorries,,,neer contact No. 9445190476 | - | 2 | lorry HWV - 2 | -,9445190476
+3,267,193,contacts,Zone Administration,Zonal Officer,23 to 33,1. | Zonal Officer | 23 to 33 | 9445190003,9445190003
+3,267,194,lighting,Engineering Wing,,"23,24,31,32 & 33","1 | Executive Engineer-1 | 23,24,31,32 & 33 | 9445190023",9445190023
+3,267,194,lighting,Engineering Wing,,"U-,7,8 / Ward 25,26,27,28,29 & 30","2 | Executive Engineer-2 | U-,7,8 / Ward 25,26,27,28,29 & 30 | 9445190482",9445190482
+3,267,194,lighting,Engineering Wing,,"U-6 (23,24,32)","3 | Assistant Executive Engineer | U-6 (23,24,32) | 9445190106",9445190106
+3,267,194,lighting,Engineering Wing,,"U-7 (25,26,27)","4 | Assistant Executive Engineer | U-7 (25,26,27) | 9445190107",9445190107
+3,267,194,lighting,Engineering Wing,,"U-8 (30,31,33)","5 | Assistant Executive Engineer | U-8 (30,31,33) | 9445190108",9445190108
+3,267,194,lighting,Engineering Wing,,"Dn.(28,29)","6 | Additional Asst. Exe. Engineer | Dn.(28,29) | 9710915272",9710915272
+3,267,195,contacts,Solid Waste Management,,"Unit 6, 7 & 8","1. | Asst. Executive Engineer (SWM) | Unit 6, 7 & 8 | 9445477207",9445477207
+3,267,195,contacts,Solid Waste Management,,"23, 24, 30,31,32,33","2. | Conservany supervisor | 23, 24, 30,31,32,33 | 9445191406",9445191406
+3,267,195,contacts,Solid Waste Management,,"26, 27, 28, 29,25","3. | Conservany supervisor | 26, 27, 28, 29,25 | 9445191407",9445191407
+3,267,195,contacts,Solid Waste Management,,"29, 30, 31, 33,","4 | Conservany supervisor | 29, 30, 31, 33, | 9445191408",9445191408
+3,268,196,contacts,Public Health & Disease Control,Zonal Health Officer,Zone III,1 | Zonal Health Officer | Zone III | 9445190063,9445190063
+3,268,196,contacts,Public Health & Disease Control,Veterinary Surgeon,Zone III,2 | Veterinary Surgeon | Zone III | 9445026042,9445026042
+3,268,196,contacts,Public Health & Disease Control,Senior Entomologist,Zone III,3 | Senior Entomologist | Zone III | 9445025818,9445025818
+3,268,196,contacts,Public Health & Disease Control,Assistant Health Officer,Zone III,4 | Assistant Health Officer | Zone III | 9445190683,9445190683
+3,268,196,contacts,Public Health & Disease Control,Sanitary Officer,"23, 24, 32, 31","5 | Sanitary Officer | 23, 24, 32, 31 | 9499933621",9499933621
+3,268,196,contacts,Public Health & Disease Control,Sanitary Officer,"26, 27, 30","6 | Sanitary Officer | 26, 27, 30 | 9499933625",9499933625
+3,268,196,contacts,Public Health & Disease Control,Sanitary Officer,"25, 28, 29, 33","7 | Sanitary Officer | 25, 28, 29, 33 | 9445025830",9445025830
+3,268,197,contacts,Parks,,,"No. | 9444249657, 8248723480 | Telescopic tree",9444249657;8248723480
+3,282,209,relief_centres,Relief Centres,Sanitary Inspector,,"1 | 22 | 150 | able Gandhi Main Road Middle School | Gandhi Main Road | Yes | Yes | Yes | Sanitation, Medicine | Sanitary Inspector | 94451 90683",9445190683
+3,282,209,relief_centres,Relief Centres,Assistant Engineer,,Evacuation & Relief Materials | Assistant Engineer | 94451 90323,9445190323
+3,282,209,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 94451 90083,9445190083
+3,283,209,relief_centres,Relief Centres,Sanitary Inspector,,"2 | 24 | 200 | able Poppili Raja Higher Sec. School, Ambattur Redhills Road, Near Camp, | Ambattur Redhills Road | Yes | Yes | Yes | Sanitation, Medicine | Sanitary Inspector | 94451 90683",9445190683
+3,283,209,relief_centres,Relief Centres,Assistant Engineer,,Evacuation & Relief Materials | Assistant Engineer | 94451 90324,9445190324
+3,283,209,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drink ing water | Assistant Revenue Officer | 94451 90083,9445190083
+3,283,209,relief_centres,Relief Centres,Sanitary Inspector,,"3 | 27 | 175 | Madhavaram Milk colony Middle School | Madhavaram Milk colony | Yes | Yes | Yes | Sani tation, Medi cine | Sanitary Inspector | 94999 33621",9499933621
+3,283,209,relief_centres,Relief Centres,Assistant Engineer,,Evacuation & Relief Materials | Assistant Engineer | 94451 90326,9445190326
+3,283,209,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 94451 90083,9445190083
+3,284,209,relief_centres,Relief Centres,Sanitary Inspector,,"4 | 31 | 100 | able Sembiam Road Middle School | Kathirvedu | Yes | Yes | Yes | Sanitation, Medicine | Sanitary Inspector | 94999 33625",9499933625
+3,284,209,relief_centres,Relief Centres,Assistant Engineer,,Evacuation & Relief Materials | Assistant Engineer | 94451 90331,9445190331
+3,284,209,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 94451 90083,9445190083
+3,284,209,relief_centres,Relief Centres,Sanitary Inspector,,"5 | 30 | 150 | Rajaji Street Middle School | Madhavaram | Yes | Yes | Yes | Sanitation, Medicine | Sanitary Inspector | 94999 33621",9499933621
+3,284,209,relief_centres,Relief Centres,Assistant Engineer,,Evacuation & Relief Materials | Assistant Engineer | 94451 90325,9445190325
+3,284,209,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 94451 90083,9445190083
+3,292,215,lighting,Lighting Facilities,Assistant Engineer,"23,24,31,32","1 | 23,24,31,32 | Assistant Engineer | 9445190910",9445190910
+3,292,215,lighting,Lighting Facilities,Assistant Engineer,"26, 27, 28,29, 30, 31,32,33","2 | 26, 27, 28,29, 30, 31,32,33 | Assistant Engineer | 9445190909",9445190909
+3,292,215,lighting,Lighting Facilities,Additional divisional Engineer (Zone),23 to 33,3 | 23 to 33 | Additional divisional Engineer (Zone) | 9445190043,9445190043
+3,293,217,boats,Rescue Boats,,23,1 | 23 | Macro Marval | Division 32 Division Office | 9445190322,9445190322
+3,293,217,boats,Rescue Boats,,23,2 | 23 | Vegetarian Village | 9445190322,9445190322
+3,293,217,boats,Rescue Boats,,32,3 | 32 | Iyyan Thiruvalluvar Salai | 9445190324,9445190324
+3,293,217,boats,Rescue Boats,,21,"4 | 21 | Arignar Anna Nagar, | 9445190325",9445190325
+3,293,217,boats,Rescue Boats,,21,5 | 21 | Rajiv Gandhi Nagar | 9445190325,9445190325
+3,293,217,boats,Rescue Boats,,30,6 | 30 | Ganapathy Siva Nagar & Devi Nagar | Division 25 Omakulam Madu | 9445190326,9445190326
+3,293,217,boats,Rescue Boats,,29,7 | 29 | Annapoorna nagar | 9445190333,9445190333
+3,294,219,vehicles,Transport Equipment/Lorries,,,7010107828 | 1 | 3 | 4 | 1,7010107828
+4,311,238,contacts,Zone Administration,DRO / Zonal Officer,34 to 48,2. | DRO / Zonal Officer | 34 to 48 | 9445190004,9445190004
+4,311,239,lighting,Engineering Wing,,& 44 to 46,1 | Executive Engineer-1 | & 44 to 46 | 94451 90940,9445190940
+4,311,239,lighting,Engineering Wing,,"U-09,10 & 11, Dn-38- 43,47 & 48","2 | Executive Engineer-2 | U-09,10 & 11, Dn-38- 43,47 & 48 | 9445190024",9445190024
+4,311,239,lighting,Engineering Wing,,U-09,3 | Assistant Executive Engineer | U-09 | 9445190109,9445190109
+4,311,239,lighting,Engineering Wing,,U-10,4 | Assistant Executive Engineer | U-10 | 9445190110,9445190110
+4,311,239,lighting,Engineering Wing,,U-11,5 | Assistant Executive Engineer | U-11 | 9445190111,9445190111
+4,311,239,lighting,Engineering Wing,,34 to 48,"6 | Additional Divisional Engineer, Electrical | 34 to 48 | 9445190044",9445190044
+4,311,239,lighting,Engineering Wing,,34 to 48,"7 | Assistant Executive Engineer, Mechanical | 34 to 48 | 9445190480",9445190480
+4,311,240,contacts,Solid Waste Management,,34 to 48,1 | Assistant Executive Engineer | 34 to 48 | 9445467310,9445467310
+4,311,240,contacts,Solid Waste Management,,Unit-09,2. | Conservancy supervisor | Unit-09 | 94451 91409,9445191409
+4,311,240,contacts,Solid Waste Management,,Unit-10,3. | Conservancy supervisor | Unit-10 | 94451 91410,9445191410
+4,311,240,contacts,Solid Waste Management,,Unit-11,4. | Conservancy supervisor | Unit-11 | 94451 91411,9445191411
+4,312,241,contacts,The contact details of the officials/staff to report on complaints on any such issues is given below.,,Zone 04,1 | Zonal Health Officer | Zone 04 | 9445190064,9445190064
+4,312,241,contacts,The contact details of the officials/staff to report on complaints on any such issues is given below.,,Zone 04,2 | Veterinary Surgeon | Zone 04 | 9445194749,9445194749
+4,312,241,contacts,The contact details of the officials/staff to report on complaints on any such issues is given below.,,Zone 04,3 | Junior Entomologist | Zone 04 | 9445036569,9445036569
+4,312,241,contacts,The contact details of the officials/staff to report on complaints on any such issues is given below.,,Unit-09,4 | Sanitary Officer | Unit-09 | 9445025837,9445025837
+4,312,241,contacts,The contact details of the officials/staff to report on complaints on any such issues is given below.,,Unit-10,5 | Sanitary Officer | Unit-10 | 9445025842,9445025842
+4,312,241,contacts,The contact details of the officials/staff to report on complaints on any such issues is given below.,,Unit-11,6 | Sanitary Officer | Unit-11 | 9445025837,9445025837
+4,312,242,contacts,Parks,,Tondiarpet (Ward 34 to 48),1 | Park Overseer 9445071070 | Saws-15 nos | Tondiarpet (Ward 34 to 48),9445071070
+4,316,246,contacts,Contact details,Executive Engineer,Area IV,TNSCB | Executive Engineer | Area IV | 9445074846,9445074846
+4,316,246,contacts,Contact details,Conservancy Supervisor,34 TO 38 (Unit 9),Conservancy/GCC | Conservancy Supervisor | 34 TO 38 (Unit 9) | 9445191409,9445191409
+4,316,246,contacts,Contact details,Conservancy Supervisor,39 TO 43 (Unit 10),Conservancy/GCC | Conservancy Supervisor | 39 TO 43 (Unit 10) | 9445191410,9445191410
+4,316,246,contacts,Contact details,Conservancy Supervisor,44 TO 48 (Unit 11),Conservancy/GCC | Conservancy Supervisor | 44 TO 48 (Unit 11) | 9445191411,9445191411
+4,316,246,contacts,Contact details,Area Engineer,Area Engineer/04,Water Supply& Sewage /CMWSSB | Area Engineer | Area Engineer/04 | 8144930904,8144930904
+4,330,257,relief_centres,Relief Centres,Sanitary Inspector,38,"1 | 38 | 100 | Murugan Koil Kalyanamandapam Nethaji Nagar 2nd Street ,Tondiarpet, Chennai – 600 021. | Nethaji NagarA Street, Nethaji Nagar 1st Street Nethaji Nagar 2nd Street | Yes | Yes | NO | Sanitation, Medicine | Sanitary Inspector | U-9 9445025837",9445025837
+4,330,257,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190338,9445190338
+4,330,257,relief_centres,Relief Centres,Assistant Revenue Officer,,"Food& drinking water | Assistant Revenue Officer | 9445190084, 9444170907",9445190084;9444170907
+4,330,257,relief_centres,Relief Centres,Assistant Revenue,,"Relief Materials | Assistant Revenue | 9445071068, 9283128836",9445071068;9283128836
+4,330,257,relief_centres,Relief Centres,Sanitary Inspector,46,"2 | 46 | 200 | Andal Kalyanamandapam, Erukkancherry High Road, Chennai | Aerikarai | Yes | Yes | NO | Sanitation, Medicine | Sanitary Inspector | U-11 9445190684",9445190684
+4,330,257,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190346,9445190346
+4,330,257,relief_centres,Relief Centres,Assistant Revenue Officer,,"Food&Drinking water | Assistant Revenue Officer | 9445071068, 9283128836",9445071068;9283128836
+4,330,257,relief_centres,Relief Centres,Assistant Revenue Officer,,"Relief Materials | Assistant Revenue Officer | 9445071068, 9283128836",9445071068;9283128836
+4,330,257,relief_centres,Relief Centres,Sanitary Inspector,47,"3 | 47 | 250 | Nadar Uravin Murai Kalyanamandapam, No.4/46, Bharathi Nagar 2nd Street, Korrukkupet, Chennai – 600 021. | Bharathi Nagar Housing BoardT enemantst | Yes | Yes | NO | Sanitation, Medicine | Sanitary Inspector | U-11 9445190684",9445190684
+4,330,257,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190347,9445190347
+4,330,257,relief_centres,Relief Centres,Assistant Revenue Officer,,"Food & Drinking water | Assistant Revenue Officer | 9445190084, 9444170907",9445190084;9444170907
+4,330,257,relief_centres,Relief Centres,Assistant Revenue Officer,,"Relief Materials | Assistant Revenue Officer | 9445190084, 9444170907",9445190084;9444170907
+4,330,257,relief_centres,Relief Centres,Sanitary Inspector,48,"4 | 48 | 150 | Corporation Community Center, Parthasarathy Nagar, Chennai – 600 021 | Nil | Yes | Yes | NO | Sanitation, Medicine | Sanitary Inspector | U-11 9445190684",9445190684
+4,330,257,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190348,9445190348
+4,330,257,relief_centres,Relief Centres,Assistant Revenue Officer,,"Food & Drinkingwater | Assistant Revenue Officer | 9445190084, 9444170907 & 9445071068, 9790797999",9445190084;9444170907;9445071068;9790797999
+4,330,257,relief_centres,Relief Centres,Assistant Revenue Officer,,"Relief Materials | Assistant Revenue Officer | 9445190084, 9444170907 & 9445071068, 9283128836",9445190084;9444170907;9445071068;9283128836
+4,331,258,relief_centres,Relief Centres,Sanitary Inspector,35,"5 | 35 | 450 | Chennai Middle School, Tondiarpet High Road | Solaiappan Koil Street | Yes | Yes | NO | Sanitation, Medicine | Sanitary Inspector | U-9 9445025837",9445025837
+4,331,258,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190335,9445190335
+4,331,258,relief_centres,Relief Centres,Assistant Revenue Officer,,"Food & Drinking water | Assistant Revenue Officer | 9445071068, 9283128836",9445071068;9283128836
+4,331,258,relief_centres,Relief Centres,Assistant Revenue Officer,,"Relief Materials | Assistant Revenue Officer | 9445071068, 9283128836",9445071068;9283128836
+4,331,258,relief_centres,Relief Centres,Sanitary Inspector,36,"6 | 36 | 200 | Chennai High School, No.105, Kamaraj High Road, Kodungaiyur, Chennai – 600 118 | Muthamizh Nagar Canal Side | Yes | Yes | NO | Sanitation, Medicine | Sanitary Inspector | U-9 9445025837",9445025837
+4,331,258,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190336,9445190336
+4,331,258,relief_centres,Relief Centres,Assistant Revenue Officer,,"Food & Drinking | Assistant Revenue Officer | 9445071068, 9283128836",9445071068;9283128836
+4,331,258,relief_centres,Relief Centres,Assistant Revenue Officer,,"Relief Materials | Assistant Revenue Officer | 9445071068, 9283128836",9445071068;9283128836
+4,331,258,relief_centres,Relief Centres,Sanitary Inspector,36,"7 | 36 | 550 | Chennai High School, Sharma Nagar | Suzhpunal Karai, Indra Gandhi Nagar | Yes | Yes | NO | Sanitation, Medicine | Sanitary Inspector | U-9 9445025837",9445025837
+4,331,258,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190336,9445190336
+4,331,258,relief_centres,Relief Centres,Assistant Revenue Officer,,"Food & Drinking water | Assistant Revenue Officer | 9445071068, 9283128836",9445071068;9283128836
+4,331,258,relief_centres,Relief Centres,Assistant Revenue Officer,,"Relief Materials | Assistant Revenue Officer | 9445071068, 9283128836",9445071068;9283128836
+4,331,258,relief_centres,Relief Centres,Sanitary Inspector,38,"8 | 38 | 1600 | CHSS, Patel Nagar 4th Street | Patel Nagar, Vibobha Nagar, Tamizhar , Annai Sandhiya Nagar, Nedunchezhian Nagar | Yes | Yes | NO | Sanitation, Medicine | Sanitary Inspector | U-9 9445025837",9445025837
+4,331,258,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190338,9445190338
+4,331,258,relief_centres,Relief Centres,Assistant Revenue Officer,,"Food & Drinking water | Assistant Revenue Officer | 9445190084, 9444170907",9445190084;9444170907
+4,331,258,relief_centres,Relief Centres,Assistant Revenue Officer,,"Relief Materials | Assistant Revenue Officer | 9445190084, 9444170907",9445190084;9444170907
+4,331,258,relief_centres,Relief Centres,Sanitary Inspector,39,"9 | 39 | Chennai High School, MPT Colony, AA Scheme Road. | VOC Nagar | Yes | Yes | NO | Sanitation, Medicine | Sanitary Inspector | U-10 9445025836",9445025836
+4,331,258,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190339,9445190339
+4,331,258,relief_centres,Relief Centres,Assistant Revenue Officer,,"Food & Drinking water | Assistant Revenue Officer | 9445190084, 9444170907",9445190084;9444170907
+4,331,258,relief_centres,Relief Centres,Assistant Revenue Officer,,"Relief Materials | Assistant Revenue Officer | 9445190084, 9444170907",9445190084;9444170907
+4,332,258,relief_centres,Relief Centres,Sanitary Inspector,39,"10 | 39 | Chennai High School, AA Scheme Road. | VOC Nagar | Yes | Yes | NO | Sanitation, Medicine | Sanitary Inspector | U-10 9445025836",9445025836
+4,332,258,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190339,9445190339
+4,332,258,relief_centres,Relief Centres,Assistant Revenue Officer,,"Food& Drinking water | Assistant Revenue Officer | 9445190084, 9444170907",9445190084;9444170907
+4,332,258,relief_centres,Relief Centres,Assistant Revenue Officer,,"Relief Materials | Assistant Revenue Officer | 9445190084, 9444170907",9445190084;9444170907
+4,332,258,relief_centres,Relief Centres,Sanitary Inspector,40,"11 | 40 | 250 | Chennai High School, Kamaraj Salai, Govt Press Colony. | VOC Nagar | Yes | Yes | NO | Sanitation, Medicine | Sanitary Inspector | U-10 9445025836",9445025836
+4,332,258,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190340,9445190340
+4,332,258,relief_centres,Relief Centres,Assistant Revenue Officer,,"Food& Drinking water | Assistant Revenue Officer | 9445190084, 9444170907",9445190084;9444170907
+4,332,258,relief_centres,Relief Centres,Assistant Revenue Officer,,"Relief Materials | Assistant Revenue Officer | 9445190084, 9444170907",9445190084;9444170907
+4,341,265,lighting,Lighting Facilities,Assistant Engineer,"34,35","1 | 34,35 | Assistant Engineer | number 9445477689",9445477689
+4,341,265,lighting,Lighting Facilities,Assistant Engineer,"36,44","36,44 | Assistant Engineer | 9445190230",9445190230
+4,341,265,lighting,Lighting Facilities,Assistant Engineer,"38,39,40,43","2 | 38,39,40,43 | Assistant Engineer | 9445190914",9445190914
+4,341,265,lighting,Lighting Facilities,Assistant Engineer,"41,42,47,48","3 | 41,42,47,48 | Assistant Engineer | 9445190915",9445190915
+4,341,265,lighting,Lighting Facilities,Assistant Engineer,"37,45,46","37,45,46 | Assistant Engineer | 9445190918",9445190918
+4,341,265,lighting,Lighting Facilities,Additional Divisional Engineer (Zone),34 to 48,4 | 34 to 48 | Additional Divisional Engineer (Zone) | 9445190044,9445190044
+4,341,265,lighting,Lighting Facilities,Divisional Engineer North(HQ),34 to 48,5 | 34 to 48 | Divisional Engineer North(HQ) | 9445190753,9445190753
+4,342,267,boats,Rescue Boats,,34,1 | 34 | Durgai Avenue-1 | Durgai Avenue-1 | 9445190334 AE,9445190334
+4,342,267,boats,Rescue Boats,,34,2 | 34 | Thendral Nagar-1 | Thendral Nagar-1 | 9445190334 AE,9445190334
+4,342,267,boats,Rescue Boats,,34,3 | 34 | IshwaryaNagar-1 | IshwaryaNagar-1 | 9445190334 AE,9445190334
+4,342,267,boats,Rescue Boats,,38,4 | 38 | Nehru Nagar 18th Street - 1 | Nehru Nagar 18th Street - 1 | 9445190338 AE,9445190338
+4,342,267,boats,Rescue Boats,,38,5 | 38 | Nehru Nagar 14th Street - 1 | Nehru Nagar 14th Street - 1 | 9445190338 AE,9445190338
+4,342,267,boats,Rescue Boats,,38,6 | 38 | Tamizhar Nagar -1 | Tamizhar Nagar -1 | 9445190338 AE,9445190338
+4,342,267,boats,Rescue Boats,,38,7 | 38 | Patel Nagar 3rd Street - 1 | Patel Nagar 3rd Street - 1 | 9445190338 AE,9445190338
+4,342,267,boats,Rescue Boats,,38,8 | 38 | New Vinobha Nagar 1st Street -1 | New Vinobha Nagar 1st Street -1 | 9445190338 AE,9445190338
+4,342,267,boats,Rescue Boats,,38,9 | 38 | Sanjay Gandhi Nagar -1 | Sanjay Gandhi Nagar -1 | 9445190338 AE,9445190338
+4,342,267,boats,Rescue Boats,,38,10 | 38 | Nedunchezhian Nagar - 2 | Nedunchezhian Nagar - 2 | 9445190338 AE,9445190338
+4,342,267,boats,Rescue Boats,,41,11 | 41 | MGR Nagar - 2 | MGR Nagar - 2 | 9445190341 JE,9445190341
+4,342,267,boats,Rescue Boats,,41,12 | 41 | Annai Sathya Nagar - 2 | Annai Sathya Nagar - 2 | 9445190341 JE,9445190341
+4,342,267,boats,Rescue Boats,,41,13 | 41 | Karumariyamman Koil Street - 2 | Karumariyamman Koil Street - 2 | 9445190341 JE,9445190341
+4,342,267,boats,Rescue Boats,,41,14 | 41 | Ezhil Nagar - 2 | Ezhil Nagar - 2 | 9445190341 JE,9445190341
+4,342,267,boats,Rescue Boats,,44,15 | 44 | Periyar Nagar-1 | Periyar Nagar-1 | 9445190344 AE,9445190344
+4,342,267,boats,Rescue Boats,,46,16 | 46 | SM Nagar-1 | SM Nagar-1 | 9445190346 AE,9445190346
+4,342,267,boats,Rescue Boats,,46,17 | 46 | Nehru Nagar -1 | Nehru Nagar -1 | 9445190346 AE,9445190346
+4,342,267,boats,Rescue Boats,,46,18 | 46 | Kennady Nagar-1 | Kennady Nagar-1 | 9445190346 AE,9445190346
+4,342,267,boats,Rescue Boats,,46,19 | 46 | Malligaipoo Colony -1 | Malligaipoo Colony -1 | 9445190346 AE,9445190346
+4,342,267,boats,Rescue Boats,,46,20 | 46 | Magazinepuram-1 | Magazinepuram-1 | 9445190346 AE,9445190346
+4,342,267,boats,Rescue Boats,,46,20 21 | 46 | Mosque Street-1 | Mosque Street-1 | 9445190346 AE,9445190346
+4,342,267,boats,Rescue Boats,,47,21 22 | 47 | Bharathi Nagar – Housing Tenemants -1 | Bharathi Nagar – Housing Tenemants -1 | 9445190347 JE,9445190347
+4,342,267,boats,Rescue Boats,,47,23 | 47 | CB Road -1 | CB Road -1 | 9445190347 JE,9445190347
+4,344,272,vehicles,Transport Equipments & Lorries,,,contact No. 9445190491 | 2 | 3 | 6 | Lorry 3,9445190491
+5,363,292,contacts,Zone Administration,Chairman,49 to 63,1. | Chairman | 49 to 63 | 9445467054,9445467054
+5,363,292,contacts,Zone Administration,Zonal Officer,49 to 63,2. | Zonal Officer | 49 to 63 | 9445190005,9445190005
+5,363,293,lighting,Engineering Wing,,49 to 57 & 60,1 | Executive Engineer-1 | 49 to 57 & 60 | 9445190025,9445190025
+5,363,293,lighting,Engineering Wing,,"58,59,61 to 63","2 | Executive Engineer-2 | 58,59,61 to 63 | 9445190461",9445190461
+5,363,293,lighting,Engineering Wing,,Unit-12,3 | Assistant Executive Engineer | Unit-12 | 9445190112,9445190112
+5,363,293,lighting,Engineering Wing,,Unit-13,4 | Assistant Executive Engineer | Unit-13 | 9445190113,9445190113
+5,363,293,lighting,Engineering Wing,,Unit -14,6 | Assistant Executive Engineer | Unit -14 | 9445190114,9445190114
+5,363,293,lighting,Engineering Wing,,SWM / Z - 5,7 | Assistant Executive Engineer | SWM / Z - 5 | 9445190465,9445190465
+5,363,294,contacts,Solid Waste Management,Conservany supervisor,49 to 53,1 | Conservany supervisor | 49 to 53 | 9445191412,9445191412
+5,363,294,contacts,Solid Waste Management,Conservany supervisor,54 to 57 &60,2 | Conservany supervisor | 54 to 57 &60 | 9445191413,9445191413
+5,363,294,contacts,Solid Waste Management,Conservany supervisor,"58,59 to 62 & 63","3 | Conservany supervisor | 58,59 to 62 & 63 | 9445191414",9445191414
+5,363,294,contacts,Solid Waste Management,Conservany supervisor,Zone-5 / Night,4 | Conservany supervisor | Zone-5 / Night | 8438487470,8438487470
+5,363,294,contacts,Solid Waste Management,Conservany supervisor,Zone-5/Dn-57 i/c,5 | Conservany supervisor | Zone-5/Dn-57 i/c | 9710714193,9710714193
+5,364,295,contacts,Public Health & Disease Control,Zonal Health Officer,49 to 63,1 | Zonal Health Officer | 49 to 63 | 9445190065,9445190065
+5,364,295,contacts,Public Health & Disease Control,Veterinary Surgeon,49 to 63,2 | Veterinary Surgeon | 49 to 63 | 8778139385,8778139385
+5,364,295,contacts,Public Health & Disease Control,Senior Entomologist,49 to 63,3 | Senior Entomologist | 49 to 63 | 9444509293,9444509293
+5,364,295,contacts,Public Health & Disease Control,Sanitary Officer,54 to 57 & 60,5 | Sanitary Officer | 54 to 57 & 60 | 9444138148,9444138148
+5,364,295,contacts,Public Health & Disease Control,Sanitary Officer,"58,59 & 61 to 63","6 | Sanitary Officer | 58,59 & 61 to 63 | 9790978174",9790978174
+5,364,296,contacts,Parks,,,No. | 7299519348 | Motor saw -4 Nos Manu-,7299519348
+5,367,300,contacts,Contact details,Conservancy Supervisor,49 to 53 (Royapuram),Conservancy/ GCC | Conservancy Supervisor | 49 to 53 (Royapuram) | 9445191412,9445191412
+5,367,300,contacts,Contact details,Conservancy Supervisor,"54,55,56,57 & 60 Harbour","Conservancy/ GCC | Conservancy Supervisor | 54,55,56,57 & 60 Harbour | 9445191413",9445191413
+5,367,300,contacts,Contact details,Conservancy Supervisor,"58,59,61,62& 63 Egmore","Conservancy/ GCC | Conservancy Supervisor | 58,59,61,62& 63 Egmore | 9445191414",9445191414
+5,367,300,contacts,Contact details,Assistant Engineer,49 to 63,Water Supply& Sewage / CMWSSB | Assistant Engineer | 49 to 63 | Area Engineer-5 8144930905 Asst. Engineer-49 to 63 8144930049 to 8144930063,8144930905;8144930049;8144930063
+5,367,300,contacts,Contact details,Executive Engineer,49 to 63,TNSCB | Executive Engineer | 49 to 63 | 9445074776,9445074776
+5,379,309,relief_centres,Relief Centres,SI,53,"1 | 53 | 150 | Chennai Middle School Padavattamman Koil Street | BB Road Slum | Yes | Yes | NO | Sanitation, Medicine | SI | 7904861562",7904861562
+5,379,309,relief_centres,Relief Centres,AE,,Evacuation & Relief Materials | AE | 9445190353,9445190353
+5,379,309,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9677211155,9677211155
+5,380,309,relief_centres,Relief Centres,SI,53,"2 | 53 | 50 | Boojaraja Nagar Multipurpose Hall | Corpo- ration Colony | Yes | Yes | NO | Sanitation, Medicine | SI | 7904861562",7904861562
+5,380,309,relief_centres,Relief Centres,AE,,Evacuation & Relief Materials | AE | 9445190353,9445190353
+5,380,309,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9677211155,9677211155
+5,380,309,relief_centres,Relief Centres,SI,54,"3 | 54 | 70 | Chennai Middel School Padavattamman Koil Street Boojaraja Nagar - Multipurpose Hall CMS Amman koil Street Kondithoppu Chennai-79 | Chidam- baram Nagar | Yes | Yes | NO | Sanitation, Medicine | SI | 9941812368",9941812368
+5,380,309,relief_centres,Relief Centres,AE,,Evacuation & Relief Materials | AE | 9445190354,9445190354
+5,380,309,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 7010123899,7010123899
+5,380,309,relief_centres,Relief Centres,SI,55,"4 | 55 | 100 | Boojaraja Nagar - Multipurpose Hall CMS Amman koil Street Kondithoppu Chennai-79 Corporation Community Centre St.Xavier Street Sevenwells St Ch-79 | Thideer Nagar and Natesan Nagar | Yes | Yes | NO | Sanitation, Medicine | SI | 9976935501",9976935501
+5,380,309,relief_centres,Relief Centres,AE,,Evacuation & Relief Materials | AE | 9445190355,9445190355
+5,380,309,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9789033020,9789033020
+5,380,309,relief_centres,Relief Centres,SI,57,"5 | 57 | 150 | Corporation Community Centre Anna Pillai Street Chennai Middel School Padavattamman Koil Street Boojaraja Nagar - Multipurpose Hall | Gandhi Nagar | Yes | Yes | NO | Sanitation, Medicine | SI | 9941812368",9941812368
+5,380,309,relief_centres,Relief Centres,AE,,Evacuation & Relief Materials | AE | 9445190357,9445190357
+5,380,309,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9789033020,9789033020
+5,380,309,relief_centres,Relief Centres,SI,58,"6 | 58 | 200 | Corporation Community Centre Sydenhams Road Kannapar Thidal Moormarket Ch-3 Chennai Middel School Mint Street Chennai Middle School Varadharaja Puram Egmore | Yes | Yes | NO | Sanitation, Medicine | SI | 9629987460",9629987460
+5,380,309,relief_centres,Relief Centres,AE,,Evacuation & Relief Materials | AE | 9445190358,9445190358
+5,380,309,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9677211155,9677211155
+5,380,309,relief_centres,Relief Centres,SI,59,"7 | 59 | 40 | CHS- West Coovam Road Corporation Community Centre Sydenhams Road Kannapar Thidal Moormarket Ch-3 Chennai Middel School Mint Street | Yes | Yes | NO | Sanitation, Medicine | SI | 9840094340",9840094340
+5,380,309,relief_centres,Relief Centres,AE,,Evacuation & Relief Materials | AE | 9445190359,9445190359
+5,380,309,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 7010123899,7010123899
+5,381,309,relief_centres,Relief Centres,SI,61,"8 | 61 | 100 | Chennai Middle School Varadharaja Puram Egmore Corporation Community Centre Sydenhams Road Kannapar Thidal Moormarket Ch-3 | Yes | Yes | NO | Sanitation, Medicine | SI | 8072680350",8072680350
+5,381,309,relief_centres,Relief Centres,AE,,Evacuation & Relief Materials | AE | 9445190361,9445190361
+5,381,309,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9677211155,9677211155
+5,381,309,relief_centres,Relief Centres,SI,62,"9 | 62 | 200 | Chennai Middle School Mint Street | West Coo- vum road | Yes | Yes | NO | Sanitation, Medicine | SI | 9629987460",9629987460
+5,381,309,relief_centres,Relief Centres,AE,,Evacuation & Relief Materials | AE | 9445190362,9445190362
+5,381,309,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 7010123899,7010123899
+5,381,309,relief_centres,Relief Centres,SI,63,"10 | 63 | 100 | Corporation Community Centr Veerpathiran Street Pudupet CH-2 | South Coovum road | Yes | Yes | NO | Sanitation, Medicine | SI | 8072680350",8072680350
+5,381,309,relief_centres,Relief Centres,AE,,Evacuation & Relief Materials | AE | 9445190363,9445190363
+5,381,309,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 7010123899,7010123899
+5,386,317,lighting,Lighting Facilities,Assistant Engineer,58&61,1 | 58&61 | Assistant Engineer | 9445190922,9445190922
+5,386,317,lighting,Lighting Facilities,Junior Engineer,"59 P,58P,57","1 2 | 59 P,58P,57 | Junior Engineer | 9445190923",9445190923
+5,386,317,lighting,Lighting Facilities,Junior Engineer,"62,63 & 59 P","2 3 | 62,63 & 59 P | Junior Engineer | 9445190924",9445190924
+5,386,317,lighting,Lighting Facilities,Junior Engineer,56 &60,3 4 | 56 &60 | Junior Engineer | 9445190920,9445190920
+5,386,317,lighting,Lighting Facilities,Assistant Engineer,"53,54, 55","4 5 | 53,54, 55 | Assistant Engineer | 9445190921",9445190921
+5,386,317,lighting,Lighting Facilities,Junior Engineer,"49,50,51,52","5 6 | 49,50,51,52 | Junior Engineer | 9445190919",9445190919
+5,386,317,lighting,Lighting Facilities,Additional divisional Engineer (Zone),49 to 63,6 7 | 49 to 63 | Additional divisional Engineer (Zone) | 9445190045,9445190045
+5,386,317,lighting,Lighting Facilities,neer (Zone) Divisional Engineer (HQ),49 to 63,8 | 49 to 63 | neer (Zone) Divisional Engineer (HQ) | 9445190751 & 753,9445190751
+5,387,320,vehicles,Transport Equipments & Lorries,,,"9445026097 | 1 | 6 | 6 -HMV, 2-LMV | 2",9445026097
+6,399,339,contacts,Zone Administration,Chairman,64 - 78,1. | Chairman | 64 - 78 | 9445467069,9445467069
+6,399,339,contacts,Zone Administration,Zonal Officer,64 - 78,2 | Zonal Officer | 64 - 78 | 9445190006,9445190006
+6,399,340,contacts,Engineering Wing,Executive Engineer – I,64 to 69,1 | Executive Engineer – I | 64 to 69 | 9445190038,9445190038
+6,399,340,contacts,Engineering Wing,Executive Engineer – II,70 to 78,2 | Executive Engineer – II | 70 to 78 | 9445190026,9445190026
+6,399,340,contacts,Engineering Wing,Assistant Executive Engineer,Unit-15 Addl-15,3 | Assistant Executive Engineer | Unit-15 Addl-15 | 9445190115 9445026105,9445190115;9445026105
+6,399,340,contacts,Engineering Wing,Assistant Executive Engineer,Unit-16 Addl-16,4 | Assistant Executive Engineer | Unit-16 Addl-16 | 9445190116 8072873216,9445190116;8072873216
+6,399,340,contacts,Engineering Wing,Assistant Executive Engineer,Unit-17 Addl-17,5 | Assistant Executive Engineer | Unit-17 Addl-17 | 9445190117 9710195079,9445190117;9710195079
+6,399,340,contacts,Engineering Wing,Assistant Executive Engineer - Electrical,64 to 78,6 | Assistant Executive Engineer - Electrical | 64 to 78 | 9445190046,9445190046
+6,399,340,contacts,Engineering Wing,Assistant Executive Engineer - Mechanical,64 to 78,7 | Assistant Executive Engineer - Mechanical | 64 to 78 | 9445190489,9445190489
+6,399,341,contacts,Solid Waste Management,"Assistant Executive Engineer, Solid Waste Management",64 to 78,"1 | Assistant Executive Engineer, Solid Waste Management | 64 to 78 | 9962922513 6381320990",9962922513;6381320990
+6,399,341,contacts,Solid Waste Management,Conservancy supervisor,Unit-15,2 | Conservancy supervisor | Unit-15 | 9445191416,9445191416
+6,399,341,contacts,Solid Waste Management,Conservancy supervisor,Unit-16,3 | Conservancy supervisor | Unit-16 | 9445191415,9445191415
+6,399,341,contacts,Solid Waste Management,Conservancy supervisor,Unit-17 Addl-17,4 | Conservancy supervisor | Unit-17 Addl-17 | 9445191417 9884313409,9445191417;9884313409
+6,400,342,contacts,Public Health & Disease Control,Zonal Health Officer,Zone VI,1 | Zonal Health Officer | Zone VI | 9445190066,9445190066
+6,400,342,contacts,Public Health & Disease Control,Senior Entomologist,Zone VI,2 | Senior Entomologist | Zone VI | 9444422035,9444422035
+6,400,342,contacts,Public Health & Disease Control,Sanitary Officer,Unit-16,4 | Sanitary Officer | Unit-16 | 9176333049,9176333049
+6,400,342,contacts,Public Health & Disease Control,Sanitary Officer,Unit-17,5 | Sanitary Officer | Unit-17 | 9444090150,9444090150
+6,400,342,contacts,Public Health & Disease Control,Veterinary Assistant Surgeon,Zone - VI,6 | Veterinary Assistant Surgeon | Zone - VI | 9445194748,9445194748
+6,400,342,contacts,Public Health & Disease Control,Veterinary Assistant Surgeon Slaughter House,Zone - VI,7 | Veterinary Assistant Surgeon Slaughter House | Zone - VI | 9445026041,9445026041
+6,400,343,contacts,Parks,,Thiru – Vi –Ka -Kagar,1 | 9444249657 8248723480 Park Overseer | Power saw – 9 | Thiru – Vi –Ka -Kagar,9444249657;8248723480
+6,403,347,contacts,Contact details,Executive Engineer,Vysarpadi,TNSCB | Executive Engineer | Vysarpadi | 9445074751,9445074751
+6,403,347,contacts,Contact details,Area Engineer,Area - 6,Water Supply& Sewage / CMWSSB | Area Engineer | Area - 6 | 8144930906,8144930906
+6,416,358,relief_centres,Relief Centres:,Sanitary Inspector,64,"1 | 64 | 500 | School Road CHS | MN Nagar, Sivasakthi Nagar, Mahathama Ganthi Nagar, MGR Nagar | Yes | Yes | Yes | Sanitation, Medicine | Sanitary Inspector | 9445025867",9445025867
+6,416,358,relief_centres,Relief Centres:,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190365,9445190365
+6,416,358,relief_centres,Relief Centres:,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9444665777,9444665777
+6,416,358,relief_centres,Relief Centres:,Assistant Engineer,,Relief Materials | Assistant Engineer | 9445190365,9445190365
+6,416,358,relief_centres,Relief Centres:,Sanitary Inspector,65,"2 | 65 | 150 | Srinivasan Nagar, Corporation School | Bharath Rajiv Gandhi Nagar, Jayanthi Nagar, Hussain Colony, Senthil Nagar | Yes | Yes | Yes | Sanitation, Medicine | Sanitary Inspector | 9445025864",9445025864
+6,416,358,relief_centres,Relief Centres:,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190364,9445190364
+6,416,358,relief_centres,Relief Centres:,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9444665777,9444665777
+6,416,358,relief_centres,Relief Centres:,Assistant Engineer,,Relief Materials | Assistant Engineer | 9445190364,9445190364
+6,416,358,relief_centres,Relief Centres:,Sanitary Inspector,66,"3 | 66 | 150 | KCGarden CMS | Jawahar Nagar | Yes | Yes | Yes | Sanitation, Medicine | Sanitary Inspector | 9445025864",9445025864
+6,416,358,relief_centres,Relief Centres:,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190366,9445190366
+6,416,358,relief_centres,Relief Centres:,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9444665777,9444665777
+6,416,358,relief_centres,Relief Centres:,Assistant Engineer,,Relief Materials | Assistant Engineer | 9445190366,9445190366
+6,417,358,relief_centres,Relief Centres:,Sanitary Inspector,69,"4 | 69 | 100 | Pappammal St School | GKM Colony | Yes | Yes | Yes | Sanitation, Medicine | Sanitary Inspector | 9445025867",9445025867
+6,417,358,relief_centres,Relief Centres:,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190369,9445190369
+6,417,358,relief_centres,Relief Centres:,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9444665777,9444665777
+6,417,358,relief_centres,Relief Centres:,Assistant Engineer,,Relief Materials | Assistant Engineer | 9445190369,9445190369
+6,417,358,relief_centres,Relief Centres:,Sanitary Inspector,67,"5 | 67 | 120 | Madurai Samy Madam Urdu School, Gopala puram School | Dr.Ambedkar Nagar, Jai Beem Nagar, Kamaraj Nagar | Yes | Yes | Yes | Sanitation, Medicine | Sanitary Inspector | 9445190367",9445190367
+6,417,358,relief_centres,Relief Centres:,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190368,9445190368
+6,417,358,relief_centres,Relief Centres:,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9444665777,9444665777
+6,417,358,relief_centres,Relief Centres:,Assistant Engineer,,Relief Materials | Assistant Engineer | 9445190367,9445190367
+6,417,358,relief_centres,Relief Centres:,Sanitary Inspector,70,"6 | 70 | 300 | Bunder Garden School, Community Centre Raja street | Kollanthottam, St Marys Road | Yes | Yes | Yes | Sanitation, Medicine | Sanitary Inspector | 9445190370",9445190370
+6,417,358,relief_centres,Relief Centres:,Assistant Engineer,,Evacuation | Assistant Engineer | 9444665777,9444665777
+6,417,358,relief_centres,Relief Centres:,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9444665777,9444665777
+6,417,358,relief_centres,Relief Centres:,Assistant Engineer,,Relief Materials | Assistant Engineer | 9445190370,9445190370
+6,417,358,relief_centres,Relief Centres:,Sanitary Inspector,71,"7 | 71 | 800 | School Road, Perambur, Chennai - 11 | Mettupalayam , Arunthathi Nagar | Yes | Yes | Yes | Sanitation, Medicine | Sanitary Inspector | 9445190371",9445190371
+6,417,358,relief_centres,Relief Centres:,Assistant Engineer,,Evacuation | Assistant Engineer | 9444576365,9444576365
+6,417,358,relief_centres,Relief Centres:,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9789033020,9789033020
+6,417,358,relief_centres,Relief Centres:,Assistant Engineer,,Relief Materials | Assistant Engineer | 9445190371,9445190371
+6,418,358,relief_centres,Relief Centres:,Sanitary Inspector,74,"8 | 74 | 300 | Chandrayogi Samathi Community Hall, CPS, Mangalapuram, CMS, Ekangipuram | Egankipuram, KH Road, Sasthri Nagar | Yes | Yes | Yes | Sanitation, Medicine | Sanitary Inspector | 9445025867",9445025867
+6,418,358,relief_centres,Relief Centres:,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190374,9445190374
+6,418,358,relief_centres,Relief Centres:,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9444576365,9444576365
+6,418,358,relief_centres,Relief Centres:,Assistant Engineer,,Relief Materials | Assistant Engineer | 6445190374,6445190374
+6,418,358,relief_centres,Relief Centres:,Sanitary Inspector,72,"9 | 72 | 600 | CMS, Adithravida Boys Hr.Sec School, Adithravida Girls Hr.Sec School, TVK, Corporation Primary School | Doss Nagar, Kannigapuram | Yes | Yes | Yes | Sanitation, Medicine | Sanitary Inspector | 9787071736",9787071736
+6,418,358,relief_centres,Relief Centres:,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190372,9445190372
+6,418,358,relief_centres,Relief Centres:,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9444576365,9444576365
+6,418,358,relief_centres,Relief Centres:,Assistant Engineer,,Relief Materials | Assistant Engineer | 9445190372,9445190372
+6,418,358,relief_centres,Relief Centres:,Sanitary Inspector,73,"10 | 73 | 150 | CPS, New Ferrance Road, CHS, New Ferrance Road | Gandhi Nagar, Grey nagar | Yes | Yes | Yes | Sanitation, Medicine | Sanitary Inspector | 9787071736",9787071736
+6,418,358,relief_centres,Relief Centres:,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190373,9445190373
+6,418,358,relief_centres,Relief Centres:,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9444576365,9444576365
+6,418,358,relief_centres,Relief Centres:,Assistant Engineer,,Relief Materials | Assistant Engineer | 9445190373,9445190373
+6,418,358,relief_centres,Relief Centres:,Sanitary Inspector,75,"11 | 75 | 1000 | CMS, CPS | SVM Nagar | Yes | Yes | Yes | Sanitation, Medicine | Sanitary Inspector | 9445190375",9445190375
+6,418,358,relief_centres,Relief Centres:,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190374,9445190374
+6,418,358,relief_centres,Relief Centres:,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9444576365,9444576365
+6,418,358,relief_centres,Relief Centres:,Assistant Engineer,,Relief Materials | Assistant Engineer | 9445190375,9445190375
+6,419,358,relief_centres,Relief Centres:,Sanitary Inspector,76,"12 | 76 | 1000 | Community Centre, Venkadathri Street | Valluvan Street, | Yes | Yes | Yes | Sanitation, Medicine | Sanitary Inspector | 9994761402",9994761402
+6,419,358,relief_centres,Relief Centres:,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190376,9445190376
+6,419,358,relief_centres,Relief Centres:,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9444576365,9444576365
+6,419,358,relief_centres,Relief Centres:,Assistant Engineer,,Relief Materials | Assistant Engineer | 9445190376,9445190376
+6,419,358,relief_centres,Relief Centres:,Sanitary Inspector,76,"13 | 76 | 400 | Community Centre, Angallamman Koil Street | KM Garden, CS Nagar | No | Yes | Yes | Sanitation, Medicine | Sanitary Inspector | 9994781402",9994781402
+6,419,358,relief_centres,Relief Centres:,Assis tant Engineer,,Evacuation | Assis tant Engineer | 9445190376,9445190376
+6,419,358,relief_centres,Relief Centres:,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9444576365,9444576365
+6,419,358,relief_centres,Relief Centres:,Assistant Engineer,,Relief Materials | Assistant Engineer | 9445190376,9445190376
+6,419,358,relief_centres,Relief Centres:,Sanitary Inspector,77,"14 | 77 | 1000 | Adidravidar School, Puliyanthope High Road | Kattur Nalla Muthu Street, Tattan Kullam | Yes | Yes | Yes | Sanitation, Medicine | Sanitary Inspector | 9092217574",9092217574
+6,419,358,relief_centres,Relief Centres:,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190377,9445190377
+6,419,358,relief_centres,Relief Centres:,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9444576365,9444576365
+6,419,358,relief_centres,Relief Centres:,Assistant Engineer,,Relief Materials | Assistant Engineer | 9445190377,9445190377
+6,419,358,relief_centres,Relief Centres:,Sanitary Inspector,78,"15 | 78 | 1000 | CMS at Tana Street | Erran Street | Yes | Yes | Yes | Sanitation, Medicine | Sanitary Inspector | 9092217574",9092217574
+6,419,358,relief_centres,Relief Centres:,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190378,9445190378
+6,419,358,relief_centres,Relief Centres:,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9444576365,9444576365
+6,424,365,lighting,Lighting Facilities,Assistant Executive Engineer (Electrical),64 to 78,1 | 64 to 78 | Assistant Executive Engineer (Electrical) | 9445190046,9445190046
+6,425,367,boats,Rescue Boats,,"72,73, 77","1 | 72,73, 77 | areas / location 2-Doss Nagar, Venkatesapuram Kannikapuram, Ammaiyammall Street, Puliyanthope, Lalsingh Street | tion G3 Police Station | Notchikuppam Ravi 9087539140",9087539140
+6,427,372,vehicles,Transport Equipment & Lorries,,,9788075068 | 2 | 3 | 6-LMV | 2,9788075068
+7,439,395,lighting,Engineering Wing,Engineer- I,"U-18,U-19 & U-20","1 | Engineer- I | U-18,U-19 & U-20 | 9445194759",9445194759
+7,439,395,lighting,Engineering Wing,Mr.Sathish Kumar.M Executive Engineer- II,"U-18,U-19","2 | Mr.Sathish Kumar.M Executive Engineer- II | U-18,U-19 | 9445190027",9445190027
+7,439,395,lighting,Engineering Wing,Mr. D. Shankaran,U-18,3 | Mr. D. Shankaran | U-18 | 9445036501,9445036501
+7,439,395,lighting,Engineering Wing,Mr. Sathish Kumar Assistant Executive Engineer,"(79,80,81)","4 | Mr. Sathish Kumar Assistant Executive Engineer | (79,80,81) | 9445036501",9445036501
+7,439,395,lighting,Engineering Wing,Mr. Raj Mohan Assistant Executive Engineer (Additional),U-19,5 | Mr. Raj Mohan Assistant Executive Engineer (Additional) | U-19 | 9445190118,9445190118
+7,439,395,lighting,Engineering Wing,Mrs.Gomathi Assistant Executive Engineer,"U-19 (85,86,87,88)","6 | Mrs.Gomathi Assistant Executive Engineer | U-19 (85,86,87,88) | 9445190859",9445190859
+7,439,395,lighting,Engineering Wing,Mr.Dilip Kumar Assistant Executive Engineer,"U-18 ( 89, 90, 91, 92, 93)","7 | Mr.Dilip Kumar Assistant Executive Engineer | U-18 ( 89, 90, 91, 92, 93) | 9445190120",9445190120
+7,439,395,lighting,Engineering Wing,"Mr.Suresh Assistant Executive Engineer, Electrical",79 to 93,"8 | Mr.Suresh Assistant Executive Engineer, Electrical | 79 to 93 | 9445190047",9445190047
+7,439,395,lighting,Engineering Wing,"Mr.Sekar Assistant Engineer, Mechanical",79 to 93,"9 | Mr.Sekar Assistant Engineer, Mechanical | 79 to 93 | 9445190496",9445190496
+7,439,396,contacts,Solid Waste Management,,"(79,80,81,82,83)","1. | Conservancy supervisor | (79,80,81,82,83) | 9445191418",9445191418
+7,439,396,contacts,Solid Waste Management,,"Unit-19 (84,85,86,87,88)","2. | Conservancy supervisor | Unit-19 (84,85,86,87,88) | 9445191419",9445191419
+7,439,396,contacts,Solid Waste Management,,"Unit 19A ( 84, 87, 88)","3 | Conservancy supervisor Mr. Swaminathan | Unit 19A ( 84, 87, 88) | 8778045094",8778045094
+7,440,396,contacts,Solid Waste Management,,"Unit-20 (89,90,91,92,93)","4 | Conservancy supervisor | Unit-20 (89,90,91,92,93) | 9445191420",9445191420
+7,440,396,contacts,Solid Waste Management,,"Unit (18,19,20)) (79 - 93","5 | Conservancy supervisor Mr. Wilson (Night CS) | Unit (18,19,20)) (79 - 93 | 9176368360",9176368360
+7,440,397,contacts,Public Health & Disease Control,Zonal Health Officer,Zone VII,1 | Zonal Health Officer | Zone VII | 9445190067,9445190067
+7,440,397,contacts,Public Health & Disease Control,Veterinary Surgeon,Zone VII,2 | Veterinary Surgeon | Zone VII | 9841117821,9841117821
+7,440,397,contacts,Public Health & Disease Control,Entomologist Assistant,Zone VII,3 | Entomologist Assistant | Zone VII | 9940403337,9940403337
+7,440,397,contacts,Public Health & Disease Control,Sanitary Officer,Unit-18,4 | Sanitary Officer | Unit-18 | 9445190687,9445190687
+7,440,397,contacts,Public Health & Disease Control,Sanitary Officer,Unit-19,5 | Sanitary Officer | Unit-19 | 9445025885,9445025885
+7,440,397,contacts,Public Health & Disease Control,Sanitary Officer,Unit-20,6 | Sanitary Officer | Unit-20 | 9445025892,9445025892
+7,441,398,contacts,Parks,,Ambattur,1 | 9445194573 Park Overseer | Power saw – 17 Telescopic saw - 12 | Ambattur,9445194573
+7,446,403,contacts,Contact details,Executive Engineer,Area - 7,TNSCB | Executive Engineer | Area - 7 | 044- 28444973,04428444973
+7,446,403,contacts,Contact details,Conservancy Supervisor,Unit-18 (79 to 83),Conservancy/GCC | Conservancy Supervisor | Unit-18 (79 to 83) | 9445191418,9445191418
+7,446,403,contacts,Contact details,Conservancy Supervisor,Unit-19 (84 to 88),Conservancy/GCC | Conservancy Supervisor | Unit-19 (84 to 88) | 9445191419,9445191419
+7,446,403,contacts,Contact details,Conservancy Supervisor,Unit-20 (89 to 93),Conservancy/GCC | Conservancy Supervisor | Unit-20 (89 to 93) | 9445191420,9445191420
+7,456,417,relief_centres,Relief Centres,Assistant Engineer,79,"1 | 79 | 1000 | Chennai Middle School, Gandhi Main Road | G.K. Street | Y e s | Y e s | No | Evacuation & Relief Material | Assistant Engineer | 9445190379",9445190379
+7,456,417,relief_centres,Relief Centres,Sanitary Inspector,,Material Sanitation | Sanitary Inspector | 9445025879,9445025879
+7,456,417,relief_centres,Relief Centres,Assistant Revenue Officer,,Food& Drinking Water | Assistant Revenue Officer | 9952936676,9952936676
+7,456,417,relief_centres,Relief Centres,Assistant Engineer,80,"2 | 80 | 500 | Chennai Middle School, Chitoragadam | Bathava chalam Street | Y e s | Y e s | Y e s | Evacuation & Relief Material | Assistant Engineer | 9445190380",9445190380
+7,456,417,relief_centres,Relief Centres,Sanitary Inspector,,Material Sanitation | Sanitary Inspector | 9445025880,9445025880
+7,456,417,relief_centres,Relief Centres,Assistant Revenue Officer,,Food& Drinking Water | Assistant Revenue Officer | 9952936676,9952936676
+7,456,417,relief_centres,Relief Centres,Assistant Engineer,81,"3 | 81 | 250 | Chennai Middle School, Saraswathi Nagar | Panduranga Nagar | Y e s | Y e s | No | Evacuation & Relief Material | Assistant Engineer | 9445190381",9445190381
+7,456,417,relief_centres,Relief Centres,Sanitary Inspector,,Material Sanitation | Sanitary Inspector | 9445025881,9445025881
+7,456,417,relief_centres,Relief Centres,Inspector Assistant Revenue Officer,,Food& Drinking Water | Inspector Assistant Revenue Officer | 9952936676,9952936676
+7,456,417,relief_centres,Relief Centres,Officer Assistant Engineer,82,"4 | 82 | 200 | Redhills Main Road, Prabavathi mahal Kallikuppam | D.T.P. Colony | Y e s | Y e s | No | EvWacautaetrion & Relief Material | Officer Assistant Engineer | 9445190382",9445190382
+7,456,417,relief_centres,Relief Centres,Sanitary Inspector,,Material Sanitation | Sanitary Inspector | 9445025881,9445025881
+7,456,417,relief_centres,Relief Centres,Assistant Revenue Officer,,Food& Drinking Water | Assistant Revenue Officer | 9952936676,9952936676
+7,456,417,relief_centres,Relief Centres,Officer Assistant Engineer,83,"5 | 83 | 100 | CPS & CHS School,NRS road, Agraharam, korattur | NRS cross street | Y e s | Y e s | No | EvWacautaetrion & Relief Material | Officer Assistant Engineer | 9445190383",9445190383
+7,456,417,relief_centres,Relief Centres,Sanitary Inspector,,Material Sanitation | Sanitary Inspector | 9445025883,9445025883
+7,456,417,relief_centres,Relief Centres,Assistant Revenue Officer,,Food& Drinking Water | Assistant Revenue Officer | 9952936676,9952936676
+7,457,418,relief_centres,Relief Centres,Assistant Engineer,84,"6 | 84 | 100 | Chennai Primary and High School, Chavadi st, korattur | Korattur | Y e s | Y e s | No | Evacuation & Relief Material | Assistant Engineer | 9445190384",9445190384
+7,457,418,relief_centres,Relief Centres,Sanitary Inspector,,Sanitation | Sanitary Inspector | 9445025887,9445025887
+7,457,418,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking Water | Assistant Revenue Officer | 9445190087,9445190087
+7,457,418,relief_centres,Relief Centres,Assistant Engineer,85,"7 | 85 | 200 | Chennai Primary School, Ramapuram | MKB Nagar | Y e s | Y e s | No | Evacuation & Relief Material | Assistant Engineer | 9445190385",9445190385
+7,457,418,relief_centres,Relief Centres,Sanitary Inspector,,Sanitation | Sanitary Inspector | 9445025886,9445025886
+7,457,418,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking Water | Assistant Revenue Officer | 9445190087,9445190087
+7,457,418,relief_centres,Relief Centres,Assistant Engineer,86,"8 | 86 | 500 | Chennai Primary School, Vanagaram Main Road | Annai Sathya Nagar, Ram Poornam Nagar | Y e s | Y e s | No | Evacuation & Relief Material | Assistant Engineer | 9445190386",9445190386
+7,457,418,relief_centres,Relief Centres,Sanitary Inspector,,Sanitation | Sanitary Inspector | 9445025886,9445025886
+7,457,418,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking Water | Assistant Revenue Officer | 9444576365,9444576365
+7,457,418,relief_centres,Relief Centres,Assistant Engineer,87,"9 | 87 | 600 | Chennai Middle school, Dr.Moorthi Nagar, | Moorthy Nagar, | Y e s | Y e s | No | Evacuation & Relief Material | Assistant Engineer | 9445190387",9445190387
+7,457,418,relief_centres,Relief Centres,Sanitary Inspector,,Sanitation | Sanitary Inspector | 9445025887,9445025887
+7,457,418,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking Water | Assistant Revenue Officer | 9444576365,9444576365
+7,458,419,relief_centres,Relief Centres,Assistant Engineer,,"10 | 88 | 100 | Chennai Primary School, Kalaivanar Nagar | Kalaivanar Nagar | Y e s | Y e s | No | Evacuation & Relief Material | Assistant Engineer | 9445190388",9445190388
+7,458,419,relief_centres,Relief Centres,Sanitary Inspector,,Sanitation | Sanitary Inspector | 9445025887,9445025887
+7,458,419,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking Water | Assistant Revenue Officer | 9444576365,9444576365
+7,458,419,relief_centres,Relief Centres,Assistant Engineer,,"11 | 89 | 850 | Meenakshi School, TVS Colony | Round Building | Y e s | Y e s | No | Evacuation & Relief Material | Assistant Engineer | 9445190389",9445190389
+7,458,419,relief_centres,Relief Centres,Sanitary Inspector,,Sanitation | Sanitary Inspector | 9445025887,9445025887
+7,458,419,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking Water | Assistant Revenue Officer | 9444576365,9444576365
+7,458,419,relief_centres,Relief Centres,Assistant Engineer,,"12 | 93 | 850 | Chennai High School, Padikuppam Main Road, Anna Nagar West Extn. Ch -101. | Pillaiyar Koil street padikuppam | Y e s | Y e s | No | Evacuation & Relief Material | Assistant Engineer | 9445190393",9445190393
+7,458,419,relief_centres,Relief Centres,Sanitary Inspector,,Sanitation | Sanitary Inspector | 9445910929,9445910929
+7,458,419,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking Water | Assistant Revenue Officer | 9444576365,9444576365
+7,458,419,relief_centres,Relief Centres,Assistant Engineer,,13 | 92 | 200 | Velammal mat.Hr.Sec. School | Dr.Ambedkar Nagar | Y e s | Y e s | No | Evacuation & Relief Material | Assistant Engineer | 9445190391,9445190391
+7,458,419,relief_centres,Relief Centres,Sanitary Inspector,,Sanitation | Sanitary Inspector | 9445025893,9445025893
+7,458,419,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking Water | Assistant Revenue Officer | 9444576365,9444576365
+7,459,421,relief_centres,Relief Centres,Assistant Engineer,93,"14 | 93 | 850 | Chennai Higher School, padikuppam | Padikuppam Pillaiyar Koil Street | Y e s | Y e s | No | Evacuation & Relief Material | Assistant Engineer | 9445190393",9445190393
+7,459,421,relief_centres,Relief Centres,Sanitary Inspector,,Sanitation | Sanitary Inspector | 9445025893,9445025893
+7,459,421,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking Water | Assistant Revenue Officer | 9444576365,9444576365
+7,463,425,lighting,"contact numbers. Issues like non burning of street lights, electrocution shall be addressed to the following officials/s",Assistant Executive Engineer,79 to 93,1 | 79 to 93 | Assistant Executive Engineer | 9445190047,9445190047
+7,463,425,lighting,"contact numbers. Issues like non burning of street lights, electrocution shall be addressed to the following officials/s",Assistant Engineer,"79,82","2 | 79,82 | Assistant Engineer | 9445477677",9445477677
+7,463,425,lighting,"contact numbers. Issues like non burning of street lights, electrocution shall be addressed to the following officials/s",Assistant Engineer,"83,84,85","3 | 83,84,85 | Assistant Engineer | 9445190934",9445190934
+7,463,425,lighting,"contact numbers. Issues like non burning of street lights, electrocution shall be addressed to the following officials/s",Assistant Engineer,"81,86,87,88","4 | 81,86,87,88 | Assistant Engineer | 9445191473",9445191473
+7,463,425,lighting,"contact numbers. Issues like non burning of street lights, electrocution shall be addressed to the following officials/s",Assistant Engineer,"89,90,92,93","5 | 89,90,92,93 | Assistant Engineer | 9445477678",9445477678
+7,463,425,lighting,"contact numbers. Issues like non burning of street lights, electrocution shall be addressed to the following officials/s",Junior Engineer,"80,91","6 | 80,91 | Junior Engineer | 9445036570",9445036570
+7,463,426,ndrf,"National Disaster Response Force In Ambattur zone, there are no NDRF stationed locations",,79 to 93,1 | 79 to 93 | ployed Nil | Zonal Office | Boat -8056250348,8056250348
+8,478,451,contacts,Zone Administration,Chairman,94 to 108,1 | Chairman | 94 to 108 | 9445467094 9283184848,9445467094;9283184848
+8,478,451,contacts,Zone Administration,Zonal Officer,94 to 108,2 | Zonal Officer | 94 to 108 | 9445190008,9445190008
+8,479,452,lighting,Engineering Wing,Executive Engineer-1,94 to 100,1 | Executive Engineer-1 | 94 to 100 | 9445467320,9445467320
+8,479,452,lighting,Engineering Wing,Executive Engineer-2,101 to 108,2 | Executive Engineer-2 | 101 to 108 | 9445190028,9445190028
+8,479,452,lighting,Engineering Wing,Assistant Executive Engineer,Unit -21,3 | Assistant Executive Engineer | Unit -21 | 9445190121,9445190121
+8,479,452,lighting,Engineering Wing,Assistant Executive Engineer,Unit -22,4 | Assistant Executive Engineer | Unit -22 | 9445190122,9445190122
+8,479,452,lighting,Engineering Wing,Assistant Executive Engineer,Unit -23,5 | Assistant Executive Engineer | Unit -23 | 9445190123,9445190123
+8,479,452,lighting,Engineering Wing,"Additional Divisional Engineer, Electrical",94 to 108,"6 | Additional Divisional Engineer, Electrical | 94 to 108 | 9445190048",9445190048
+8,479,452,lighting,Engineering Wing,"Assistant Executive Engineer, Mechanical",94 to 108,"7 | Assistant Executive Engineer, Mechanical | 94 to 108 | 9445190489",9445190489
+8,479,453,contacts,Solid Waste Management,Conservany supervisor,Unit -21,1. | Conservany supervisor | Unit -21 | 9445191421,9445191421
+8,479,453,contacts,Solid Waste Management,Conservany supervisor,Unit -22,2. | Conservany supervisor | Unit -22 | 9445190422,9445190422
+8,479,453,contacts,Solid Waste Management,Conservany supervisor,Unit -23,3. | Conservany supervisor | Unit -23 | 9445191423,9445191423
+8,480,454,contacts,Public Health & Disease Control,Zonal Health Officer,Zone VIII,1 | Zonal Health Officer | Zone VIII | 9445190068,9445190068
+8,480,454,contacts,Public Health & Disease Control,Veterinary Surgeon,Zone VIII,2 | Veterinary Surgeon | Zone VIII | 9445200612,9445200612
+8,480,454,contacts,Public Health & Disease Control,Junior Entomologist,Zone VIII,3 | Junior Entomologist | Zone VIII | 9841320440,9841320440
+8,480,454,contacts,Public Health & Disease Control,Sanitary Officer,Unit 21,4 | Sanitary Officer | Unit 21 | 9444231076,9444231076
+8,480,454,contacts,Public Health & Disease Control,Sanitary Officer,Unit 22,5 | Sanitary Officer | Unit 22 | 9962526363,9962526363
+8,480,454,contacts,Public Health & Disease Control,Sanitary Officer,Unit 23,6 | Sanitary Officer | Unit 23 | 9445190708,9445190708
+8,480,455,contacts,Parks,,"Chetpet, Aminjikarai, Metha Nagar, Arumbakkam, MMDA Colony and Thirumangalam.","1 | 9445467388 | Tree Pruner - 4 Petrol Saw– 25 | Chetpet, Aminjikarai, Metha Nagar, Arumbakkam, MMDA Colony and Thirumangalam.",9445467388
+8,484,459,contacts,Contact details,Conservancy Supervisor,U- 21,Conservancy/GCC | Conservancy Supervisor | U- 21 | 9445191421,9445191421
+8,484,459,contacts,Contact details,Conservancy Supervisor,U-22,Conservancy/GCC | Conservancy Supervisor | U-22 | 9445190606,9445190606
+8,484,459,contacts,Contact details,Conservancy Supervisor,U-23,Conservancy/GCC | Conservancy Supervisor | U-23 | 9445191423,9445191423
+8,484,459,contacts,Contact details,Assistant Engineer,Area Engineer,Water Supply& Sewage / CMWSSB | Assistant Engineer | Area Engineer | 8144930908,8144930908
+8,484,459,contacts,Contact details,Executive Engineer,Zone VIII,TNSCB | Executive Engineer | Zone VIII | 9445074764,9445074764
+8,495,472,relief_centres,Relief Centres,SI,94,"1 | 94 | 850 | Singaram Pillai school, CMS, West Mada Street, Villivakkam | Annai Sathya Nagar, Amman Kuttai and BharathiNagar | Yes | Yes | No | Sanitation, Medicine | SI | 9445025897",9445025897
+8,495,472,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190394,9445190394
+8,495,472,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9445190088,9445190088
+8,495,472,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190394,9445190394
+8,495,472,relief_centres,Relief Centres,SI,95,"2 | 95 | 500 | Kangadurga School | Vijayalakshmipuram, Welcome Colony, Bajanai koil street, Thanthoniamman koil street | Yes | Yes | No | Sanitation, Medicine | SI | 9791023580",9791023580
+8,495,472,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190395,9445190395
+8,495,472,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9445190088,9445190088
+8,495,472,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190395,9445190395
+8,496,473,relief_centres,Relief Centres,SI,97,"3 | 97 | 200 | CPS,Vellala Street | Pachaikal Veeraswamy Housing Board,Periyar Salai Housing Board | Yes | Yes | No | Sanitation, Medicine | SI | 9786340231",9786340231
+8,496,473,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190397,9445190397
+8,496,473,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 8825892640,8825892640
+8,496,473,relief_centres,Relief Centres,AE,,AE | 9445190397,9445190397
+8,496,473,relief_centres,Relief Centres,SI,98,"4 | 98 | 200 | CPS,Palavayal Street | Tagore Nagar | Yes | Yes | No | Sanitation, Medicine | SI | 9791023580",9791023580
+8,496,473,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190398,9445190398
+8,496,473,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9884474269,9884474269
+8,496,473,relief_centres,Relief Centres,AE,,AE | 9445190398,9445190398
+8,496,473,relief_centres,Relief Centres,SI,99,"5 | 99 | 150 | Aspiran Garden, | NSK Nagar | Yes | Yes | No | Sanitation, Medicine | SI | 9791023580",9791023580
+8,496,473,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190398,9445190398
+8,496,473,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9884474269,9884474269
+8,496,473,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190398,9445190398
+8,496,473,relief_centres,Relief Centres,SI,98,"6 | 98 | 200 | Community Hall,Lockma Nagar | Lockma Nagar, Pumping Station | Yes | Yes | No | Sanitation, Medicine | SI | 9791023580",9791023580
+8,496,473,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190398,9445190398
+8,496,473,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9884474269,9884474269
+8,496,473,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190398,9445190398
+8,496,473,relief_centres,Relief Centres,SI,99,"7 | 99 | 200 | CHSS, Gangadeeshwara Koil Street | Sundram Street,Shasthri Nagar | Yes | Yes | No | Sanitation, Medicine | SI | 9600482735",9600482735
+8,496,473,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190399,9445190399
+8,496,473,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 8825892640,8825892640
+8,496,473,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190399,9445190399
+8,496,473,relief_centres,Relief Centres,SI,100,"8 | 100 | 100 | CHS, Thiyagappa Street | T P Chatiram | Yes | Yes | No | Sanitation, Medicine | SI | 9841114261",9841114261
+8,496,473,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190400,9445190400
+8,496,473,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 8825892640,8825892640
+8,496,473,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190400,9445190400
+8,496,473,relief_centres,Relief Centres,SI,101,"9 | 101 | 600 | Girls Hr Sec School, Pulla Avenue, Manjakollai Kathiravan Colony, Gujji Corporation Middle School | Manjakollai Kathiravan Colony, Gajalakshmi Colony | Yes | Yes | No | Sanitation, Medicine | SI | 9445025896",9445025896
+8,496,473,relief_centres,Relief Centres,AE,,Evacuation | AE | 9600482735,9600482735
+8,496,473,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9445190088,9445190088
+8,496,473,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190401,9445190401
+8,497,474,relief_centres,Relief Centres,SI,102,"10 | 102 | 100 | CPS,Brewery Salai | Bharathipuram, | Yes | Yes | No | Sanitation, Medicine | SI | 8072970991",8072970991
+8,497,474,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190402,9445190402
+8,497,474,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9445190088,9445190088
+8,497,474,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190402,9445190402
+8,497,474,relief_centres,Relief Centres,SI,103,"11 | 103 | 100 | CPS,Natthamuni Street, Naduvankarai | Moovendar Nagar, MGR Nagar | Yes | Yes | No | Sanitation, Medicine | SI | 8072464098",8072464098
+8,497,474,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190403,9445190403
+8,497,474,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9445190088,9445190088
+8,497,474,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190403,9445190403
+8,497,474,relief_centres,Relief Centres,SI,103,"12 | 103 | 100 | CPS,NSK Nagar | Nsk Nagar | Yes | Yes | No | Sanitation, Medicine | SI | 8072464098",8072464098
+8,497,474,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190403,9445190403
+8,497,474,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9445190088,9445190088
+8,497,474,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190403,9445190403
+8,497,474,relief_centres,Relief Centres,SI,104,"13 | 104 | 300 | Evangulate Church,V R Mahal | Sathya Sai Nagar | Yes | Yes | No | Sanitation, Medicine | SI | 8072464098",8072464098
+8,497,474,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190404,9445190404
+8,497,474,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9884474269,9884474269
+8,497,474,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190404,9445190404
+8,497,474,relief_centres,Relief Centres,SI,105,"14 | 105 | 150 | C Block, MMDA Middle School | Ashoka Street | Yes | Yes | No | Sanitation, Medicine | SI | 9543173714",9543173714
+8,497,474,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190405,9445190405
+8,497,474,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9445190088,9445190088
+8,497,474,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190405,9445190405
+8,497,474,relief_centres,Relief Centres,SI,105,"15 | 105 | 500 | Community Hall,MMDA Colony | MMDA Colony | Yes | Yes | No | Sanitation, Medicine | SI | 9543173714",9543173714
+8,497,474,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190405,9445190405
+8,497,474,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9445190088,9445190088
+8,497,474,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190405,9445190405
+8,497,474,relief_centres,Relief Centres,SI,108,"16 | 108 | 200 | CHS, Subburayan Street | Avvai puram,Mayor Sathyamoorthy Salai,Appa rao Garden | Yes | Yes | No | Sanitation, Medicine | SI | 9841114261",9841114261
+8,497,474,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190408,9445190408
+8,497,474,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9884474269,9884474269
+8,497,474,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190408,9445190408
+8,504,481,lighting,Lighting Facilities,Assistant Engineer,"94, 95,104","1 | 94, 95,104 | Assistant Engineer | 9445190935",9445190935
+8,504,481,lighting,Lighting Facilities,Assistant Engineer,"96,97,98","2 | 96,97,98 | Assistant Engineer | 9444577697",9444577697
+8,504,481,lighting,Lighting Facilities,Assistant Engineer,"99,100","3 | 99,100 | Assistant Engineer | 9445191462",9445191462
+8,504,481,lighting,Lighting Facilities,Junior Engineer,"101,108","4 | 101,108 | Junior Engineer | 9445190938",9445190938
+8,504,481,lighting,Lighting Facilities,Assistant Engineer,"102,103","5 | 102,103 | Assistant Engineer | 9445190937",9445190937
+8,504,481,lighting,Lighting Facilities,Assistant Engineer,"105,106,107","6 | 105,106,107 | Assistant Engineer | 9445190936",9445190936
+8,504,481,lighting,Lighting Facilities,Additional divisional Engineer (Zone),94 to 108,7 | 94 to 108 | Additional divisional Engineer (Zone) | 9445190048,9445190048
+8,504,481,lighting,Lighting Facilities,Divisional Engineer (HQ),94 to 108,8 | 94 to 108 | Divisional Engineer (HQ) | 9445190754,9445190754
+8,505,483,boats,Rescue Boats,,94,1 | 94 | Sidco Nagar – 5 Nos. | Location MTH Road | Assistant Engineer 9445190394,9445190394
+8,505,483,boats,Rescue Boats,,102,"2 | 102 | Bharathipuram, PP Thottam, - 5 Nos. | 3rd Avenue | Assistant Engineer 9445190402",9445190402
+8,505,483,boats,Rescue Boats,,101,"3 | 101 | Kathiravan Colony, Gajalakshmi Colony, Manjakollai, VOC Colony, - 5 Nos. | Kilpauk Garden | Assistant Engineer 9445190401",9445190401
+8,507,489,vehicles,Transport Equipments & Lorries,,,9444150966 | 1 | 3 | 6 | 1 | -,9444150966
+9,519,509,contacts,Zone Administration,Zonal Officer,109 to 126,2. | Zonal Officer | 109 to 126 | 9445190009,9445190009
+9,519,510,lighting,Engineering Wing,,"Z-9(Unit-25,26)","1 | Mr.Pugazhendhi | Executive Engineer 1 | Z-9(Unit-25,26) | 9445190029",9445190029
+9,519,510,lighting,Engineering Wing,,"Z-9(Unit-24,27)","2 | Mr.Muthiah | Executive Engineer 2 | Z-9(Unit-24,27) | 9445190864",9445190864
+9,519,510,lighting,Engineering Wing,,Unit - 24,3 | Mrs.Geedha | Assistant Executive Engineer | Unit - 24 | 9445190124,9445190124
+9,519,510,lighting,Engineering Wing,,Unit - 25,4 | Mr.Jayakumar | Assistant Executive Engineer | Unit - 25 | 9445190125,9445190125
+9,519,510,lighting,Engineering Wing,,Unit - 26,5 | Mrs.Vidya | Assistant Executive Engineer | Unit - 26 | 9445190126,9445190126
+9,519,510,lighting,Engineering Wing,,Unit - 27,6 | Mr.Venkatesh Sivanathan | Assistant Executive Engineer | Unit - 27 | 9445190127,9445190127
+9,519,510,lighting,Engineering Wing,,109 to 126,"7 | Mr.Naveen Kumar | Additional Divisional Engineer, Electrical | 109 to 126 | 9445190049",9445190049
+9,520,511,contacts,Solid Waste Management,Conservancy Supervisor,No. Unit - 24,1 | Mr.Raghu | Conservancy Supervisor | No. Unit - 24 | 9445190618,9445190618
+9,520,511,contacts,Solid Waste Management,Conservancy Supervisor,Unit - 25,2 | Mr.Sarangan | Conservancy Supervisor | Unit - 25 | 9445190625,9445190625
+9,520,511,contacts,Solid Waste Management,Conservancy Supervisor,Unit - 26,3 | Mr.Pencillaiah i/c | Conservancy Supervisor | Unit - 26 | 9445190616,9445190616
+9,520,511,contacts,Solid Waste Management,Conservancy Supervisor,Unit - 27,4 | Mr.Parthipan | Conservancy Supervisor | Unit - 27 | 9445190615,9445190615
+9,520,511,contacts,Solid Waste Management,Conservancy Inspectors,Div 109126,5 | Conservancy Inspectors | Div 109126 | 9445190609 to 626,9445190609
+9,520,512,contacts,Public Health & Disease Control,,Zone 9,1 | Dr. Ashalatha | Zonal Health Officer | Zone 9 | 9445190069,9445190069
+9,520,512,contacts,Public Health & Disease Control,,Zone 9,2 | Dr.Azhagar samy Vijayakumar | Veterinary Surgeon | Zone 9 | 9445194746,9445194746
+9,520,512,contacts,Public Health & Disease Control,,Zone 9,3 | Mr.Venkata Sivaramakumar | Senior Entomologist | Zone 9 | 98413 20440,9841320440
+9,520,512,contacts,Public Health & Disease Control,,Unit - 24,4 | Mr.Rajendra kumar | Sanitary Officer | Unit - 24 | 9840555598,9840555598
+9,520,512,contacts,Public Health & Disease Control,,Unit - 25,5 | Mr.Lakshnakumar | Sanitary Officer | Unit - 25 | 9445190689,9445190689
+9,520,512,contacts,Public Health & Disease Control,,Unit - 26,6 | Mr.Sivaganam | Sanitary Officer | Unit - 26 | 9445025913,9445025913
+9,520,512,contacts,Public Health & Disease Control,,Unit - 27,"7 | Mr,Sathish | Sanitary Officer | Unit - 27 | 9445025916",9445025916
+9,525,517,contacts,Contact details,Conservancy Supervisor,Unit 24,Conservancy/GCC | Conservancy Supervisor | Unit 24 | 9445191424,9445191424
+9,525,517,contacts,Contact details,Conservancy Supervisor,Unit 25,Conservancy/GCC | Conservancy Supervisor | Unit 25 | 9445191425,9445191425
+9,525,517,contacts,Contact details,Conservancy Supervisor,Unit 26,Conservancy/GCC | Conservancy Supervisor | Unit 26 | 9445191426,9445191426
+9,525,517,contacts,Contact details,Conservancy Supervisor,Unit 27,Conservancy/GCC | Conservancy Supervisor | Unit 27 | 9445191427,9445191427
+9,525,517,contacts,Contact details,Area Engineer,109 to 126,Water Supply& Sewage /CMWSSB | Area Engineer | 109 to 126 | 8144930109 to 126,8144930109
+9,525,517,contacts,Contact details,Executive Engineer,"Slum ward4,5&6","TNSCB | Executive Engineer | Slum ward4,5&6 | 9445074774, 9445074776, 9842179008",9445074774;9445074776;9842179008
+9,525,517,contacts,Contact details,Executive Engineer,"Chennai Spcial Ward-3, Marina Reconstruction","TNSCB | Executive Engineer | Chennai Spcial Ward-3, Marina Reconstruction | 9444112678, 9445074838",9444112678;9445074838
+9,525,517,contacts,Contact details,Tahsildhar,Guindy,Revenue | Tahsildhar | Guindy | 9444942823,9444942823
+9,525,517,contacts,Contact details,Tahsildhar,Mylapore,Revenue | Tahsildhar | Mylapore | 9445000487,9445000487
+9,525,517,contacts,Contact details,,109 to 126,Fishery Department | 109 to 126 | 9442179819,9442179819
+9,538,530,relief_centres,Relief Centres,Sanitary Inspector,118,"1 | 118 | 3000 | Cooking Centre, Gopalapuram | Thousand lights, East & West Namachiya puram, Appasamy street | YES | YES | YES | Sanitation, Medicine | Sanitary Inspector | 9445025918",9445025918
+9,538,530,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190418,9445190418
+9,538,530,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9445190709 9445190089,9445190709;9445190089
+9,538,530,relief_centres,Relief Centres,Assistant Engineer,,Relief Materials | Assistant Engineer | 9445190418,9445190418
+9,538,530,relief_centres,Relief Centres,Sanitary Inspector,109,"2 | 109 | 250 | Chennai High chool, East machivayapuram | East & West Namachiyapuram | YES | YES | NO | Sanitation, Medicine | Sanitary Inspector | 9445025909",9445025909
+9,538,530,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190409,9445190409
+9,538,530,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9445190709 9445190089,9445190709;9445190089
+9,538,530,relief_centres,Relief Centres,Assistant Engineer,,Relief Materials & Drinking water | Assistant Engineer | 9445190418,9445190418
+9,538,530,relief_centres,Relief Centres,Sanitary Inspector,110,"3 | 110 | 100 | Chennai High School, Appawamy Street | Harrington 5th avenue | YES | YES | NO | Sanitation, Medicine | Sanitary Inspector | 9445025910",9445025910
+9,538,530,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190410,9445190410
+9,538,530,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9445190709 9445190089,9445190709;9445190089
+9,538,530,relief_centres,Relief Centres,Assistant Engineer,,Relief Materials & Drinking water | Assistant Engineer | 9445190410,9445190410
+9,539,530,relief_centres,Relief Centres,Sanitary Inspector,111,"4 | 111 | 850 | ICDS Centre , Greams road, Thideer nagar, Chennai High School at Model School Road, Chennai Middle School at Model School Road, Community Hall at Model School Road, Jain Kalyana Mandapam, Kammalar street,Greams road CSI Primary School, Ramasamy street, Greams Road local Library Building, Annasalai | Thideer Nagar, Makese garden, Rangoon street, river side | YES | YES | NO | Sanitation, Medicine | Sanitary Inspector | 9445025911",9445025911
+9,539,530,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190411,9445190411
+9,539,530,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9445190709 9445190089,9445190709;9445190089
+9,539,530,relief_centres,Relief Centres,Assistant Engineer,,Relief Materials & Drinking water | Assistant Engineer | 9445190411,9445190411
+9,539,530,relief_centres,Relief Centres,Sanitary Inspector,121,"5 | 121 | 250 | Queen Mary's College | Ganesapuram | YES | YES | NO | Sanitation, Medicine | Sanitary Inspector | 9445025921",9445025921
+9,539,530,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190421,9445190421
+9,539,530,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9445190089,9445190089
+9,539,530,relief_centres,Relief Centres,Assistant Engineer,,Relief Materials & Drinking water | Assistant Engineer | 9445190421,9445190421
+9,544,539,lighting,Lighting Facilities,Additional divisional Engineer (Zone),109 to 126,1 | 109 to 126 | Additional divisional Engineer (Zone) | 9445190049,9445190049
+9,544,539,lighting,Lighting Facilities,Engineer (Zone) Divisional Engineer (HQ),109 to 126,2 | 109 to 126 | Engineer (Zone) Divisional Engineer (HQ) | 9445190754,9445190754
+9,544,539,lighting,Lighting Facilities,(HQ) Junior Engineer,"118,123","3 | 118,123 | (HQ) Junior Engineer | 9445190943",9445190943
+9,545,539,lighting,Lighting Facilities,Junior Engineer,"124,125,126","4 | 124,125,126 | Junior Engineer | 9445190941",9445190941
+9,545,539,lighting,Lighting Facilities,Junior Engineer,"111,119,121","5 | 111,119,121 | Junior Engineer | 9445190916",9445190916
+9,545,539,lighting,Lighting Facilities,Junior Engineer,"110,113","6 | 110,113 | Junior Engineer | 9445190942",9445190942
+9,545,539,lighting,Lighting Facilities,Junior Engineer,"109,112","7 | 109,112 | Junior Engineer | 9445477694",9445477694
+9,545,539,lighting,Lighting Facilities,Junior Engineer,"114,115,116,120","8 | 114,115,116,120 | Junior Engineer | 9445191452",9445191452
+9,546,541,boats,Rescue Boats,,109,1. | 109 | Dhobikanna | Dhobikanna | Engineer 9445190409,9445190409
+9,546,541,boats,Rescue Boats,,109,2. | 109 | 1-no.-Thiruvenkatapuam main road | Dhobikanna | Engineer 9445190409,9445190409
+9,546,541,boats,Rescue Boats,,122,"3 | 122 | Tank Bund Road-1, Old Tower Block-2 | Pasumpon Muthu Ramalinga Devar Street | Assistant Engineer 9445190422",9445190422
+9,546,541,boats,Rescue Boats,,117,4 | 117 | G.N.Chetty Road-1 | Habibullah Road jn | Assistant Engineer 9445190417,9445190417
+9,546,541,boats,Rescue Boats,,111,"5 | 111 | Theeder nagar, Greams Road | Greams Road | Assistant Engineer 9445190411",9445190411
+9,546,541,boats,Rescue Boats,,111,6 | 111 | Anderson Road | Greams Road | Assistant Engineer 9445190411,9445190411
+9,546,541,boats,Rescue Boats,,111,7 | 111 | Kadhar namaskhan Road | Greams Road | Assistant Engineer 9445190411,9445190411
+9,546,541,boats,Rescue Boats,,111,8 | 111 | Makkies garden | Greams Road | Assistant Engineer 9445190411,9445190411
+9,546,541,boats,Rescue Boats,,119,9 | 119 | Avvai shanmugam salai 1st lane | Avvai shanmugam salai | Assistant Engineer 9445190419,9445190419
+9,548,546,vehicles,Transport Equipments & Lorries,,,9445190495 | 1 | 5 | 7 | 4,9445190495
+10,561,569,contacts,Zone Administration,Zonal Officer,127 to 142,1. | Zonal Officer | 127 to 142 | 9445190010,9445190010
+10,561,570,lighting,Engineering Wing,,135,1 | Executive Engineer-1 | 135 | 9445190030,9445190030
+10,561,570,lighting,Engineering Wing,,"133, 136 to 142","2 | Executive Engineer-2 | 133, 136 to 142 | 9445191466",9445191466
+10,561,570,lighting,Engineering Wing,,"137, 138,139 & 142","3 | Assistant Executive Engineer | 137, 138,139 & 142 | 9445190128",9445190128
+10,561,570,lighting,Engineering Wing,,"127, 129, 130","4 | Assistant Executive Engineer | 127, 129, 130 | 9445190129",9445190129
+10,561,570,lighting,Engineering Wing,,"133, 140 & 141","5 | Assistant Executive Engineer | 133, 140 & 141 | 9445190130",9445190130
+10,561,570,lighting,Engineering Wing,,"131, 132, 134 & 135","6 | Assistant Executive Engineer | 131, 132, 134 & 135 | 9445190131",9445190131
+10,561,570,lighting,Engineering Wing,,"128, 136","7 | Assistant Executive Engineer | 128, 136 | 9840224810",9840224810
+10,561,570,lighting,Engineering Wing,,"127 TO 132, 134,135","8 | Assistant Executive Engineer | 127 TO 132, 134,135 | 9894333506",9894333506
+10,561,570,lighting,Engineering Wing,,"133, 136 TO 142","9 | Assistant Executive Engineer | 133, 136 TO 142 | 9600156959",9600156959
+10,561,570,lighting,Engineering Wing,,127 to 142,"10 | Additional Divisional Engineer, Electrical | 127 to 142 | 9445190050",9445190050
+10,561,570,lighting,Engineering Wing,,127 to 142,"11 | Assistant Executive Engineer, Mechanical | 127 to 142 | 9445190489",9445190489
+10,561,571,contacts,Solid Waste Management,,"127 TO 132, 134,135","1. | Conservany supervisor | 127 TO 132, 134,135 | 9445191429",9445191429
+10,561,571,contacts,Solid Waste Management,,"133, 136 TO 142","2. | Conservany supervisor | 133, 136 TO 142 | 9445191430",9445191430
+10,562,572,contacts,The contact details of the officials/staffs to report on complaints on any such issues is given below.,Zonal Health Officer,Ward.No. Zone X,1 | Zonal Health Officer | Ward.No. Zone X | Number 9445190070,9445190070
+10,562,572,contacts,The contact details of the officials/staffs to report on complaints on any such issues is given below.,Veterinary Surgeon,Zone X,2 | Veterinary Surgeon | Zone X | 9445026045,9445026045
+10,562,572,contacts,The contact details of the officials/staffs to report on complaints on any such issues is given below.,Junior Entomologist,Zone X,3 | Junior Entomologist | Zone X | 9962371157,9962371157
+10,562,572,contacts,The contact details of the officials/staffs to report on complaints on any such issues is given below.,Sanitary Officer,U-28,4 | Sanitary Officer | U-28 | 9445190468,9445190468
+10,562,572,contacts,The contact details of the officials/staffs to report on complaints on any such issues is given below.,Sanitary Officer,U-29,5 | Sanitary Officer | U-29 | 9445190469,9445190469
+10,562,572,contacts,The contact details of the officials/staffs to report on complaints on any such issues is given below.,Sanitary Officer,U-30,6 | Sanitary Officer | U-30 | 9445190470,9445190470
+10,562,572,contacts,The contact details of the officials/staffs to report on complaints on any such issues is given below.,Sanitary Officer,U-31,7 | Sanitary Officer | U-31 | 9445025471,9445025471
+10,562,573,contacts,Parks,,"Koyambedu, T.Nagar & K.K.Nagar","1 | OVERSEER 9445036588 | engine Motorised), 2-Stick saw (Manual) | Koyambedu, T.Nagar & K.K.Nagar",9445036588
+10,565,577,contacts,Contact details,Conservancy Supervisor,U- 28 & 30,Conservancy/GCC | Conservancy Supervisor | U- 28 & 30 | 9445191430,9445191430
+10,565,577,contacts,Contact details,Conservancy Supervisor,U-29 & 31,Conservancy/GCC | Conservancy Supervisor | U-29 & 31 | 9445191429,9445191429
+10,565,577,contacts,Contact details,Assistant Engineer,Area Engineer,Water Supply& Sewage /CMWSSB | Assistant Engineer | Area Engineer | 8144930910,8144930910
+10,565,577,contacts,Contact details,Executive Engineer,Zone 10,TNSCB | Executive Engineer | Zone 10 | 9445074776,9445074776
+10,579,590,relief_centres,Relief Centres,Sanitary Inspector Assistant Engineer Assistant Revenue Officer,127/ Koyambedu,"1 | 127/ Koyambedu | 500 | Chennai Higher Secondary School, Koyambedu and Chennai Primary School, Koyambedu, school street | New Colony, Mettukulam | YES | YES | NO | Sanitation, Medicine Evacuation Food & Drinking water | Sanitary Inspector Assistant Engineer Assistant Revenue Officer | 9445025927 9445190427 9445190090",9445025927;9445190427;9445190090
+10,579,590,relief_centres,Relief Centres,Assistant Engineer,,Relief Materials | Assistant Engineer | 9445190427,9445190427
+10,579,590,relief_centres,Relief Centres,Sanitary Inspector,128/ Virugambakkam 137/ K.K. Nagar,"2 3 | 128/ Virugambakkam 137/ K.K. Nagar | 500 500 | Chennai Higher Secondary School , School street, Virugambakkam Chennai Middle School at Kamarajar st. | Lambert Nagar | YES YES | YES YES | NO NO | Sanitation, Medicine | Sanitary Inspector | 9445025928",9445025928
+10,579,590,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190428,9445190428
+10,579,590,relief_centres,Relief Centres,Assistant Revenue Officer,,"Food & Drinking water Relief Materials Sanitation, Medicine Evacuation Food & Drinking water | Assistant Revenue Officer | 9445190090",9445190090
+10,579,590,relief_centres,Relief Centres,Assistant Engineer,,Assistant Engineer | 9445190428,9445190428
+10,579,590,relief_centres,Relief Centres,Sanitary Inspector,,"Choolai pallam, Dr.Khanu Nagar | Sanitary Inspector | 9445025940",9445025940
+10,579,590,relief_centres,Relief Centres,Assistant Engineer,,Assistant Engineer | 9445190437,9445190437
+10,579,590,relief_centres,Relief Centres,Assistant Revenue Officer,,Assistant Revenue Officer | 9445190090,9445190090
+10,579,590,relief_centres,Relief Centres,Assistant Engineer,,Relief Materials | Assistant Engineer | 9445190437,9445190437
+10,579,590,relief_centres,Relief Centres,Sanitary Inspector,138/ Jafferkhanpet,"4 | 138/ Jafferkhanpet | 300 | Chennai Higher Secondary School govindasamy street& Chennai Primary School govindasamy street | Jaffer khanpet, Pari Nagar, Thiru Nagar , SM Block, | YES | YES | NO | Sanitation, Medicine | Sanitary Inspector | 9791772493",9791772493
+10,579,590,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190438,9445190438
+10,579,590,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9445190090,9445190090
+10,579,590,relief_centres,Relief Centres,Assistant Engineer,,Relief Materials | Assistant Engineer | 9445190438,9445190438
+10,580,590,relief_centres,Relief Centres,Sanitary Inspector,139/ R.R.Colony,"5 | 139/ R.R.Colony | 400 | Chennai High School, Jafferkhanpet main road | Jothirama lingam Nagar, Muthurangam block & Sarathinagar | YES | YES | NO | Sanitation, Medicine | Sanitary Inspector | 9445025939",9445025939
+10,580,590,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190439,9445190439
+10,580,590,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9445190090,9445190090
+10,580,590,relief_centres,Relief Centres,Assistant Engineer,,Relief Materials | Assistant Engineer | 9445190439,9445190439
+10,580,590,relief_centres,Relief Centres,Sanitary Inspector,141/ V.O.C. Nagar,"6 | 141/ V.O.C. Nagar | 50 | Chennai High School , CIT Nagar 4 th main road | Canal Bank Road | YES | YES | NO | Sanitation, Medicine | Sanitary Inspector | 9445025941",9445025941
+10,580,590,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190441,9445190441
+10,580,590,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9445190090,9445190090
+10,580,590,relief_centres,Relief Centres,Assistant Engineer,,Relief Materials | Assistant Engineer | 9445190441,9445190441
+10,580,590,relief_centres,Relief Centres,Sanitary Inspector,142/ Saidapet,"7 | 142/ Saidapet | 1000 | Chennai Primary School, BazaarRoad, Chennai Middle School& Chennai Girls Higher Secondary School | Thideer Nagar & Godhamedu | YES | YES | NO | Sanitation, Medicine | Sanitary Inspector | 9445025940",9445025940
+10,580,590,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445190442,9445190442
+10,580,590,relief_centres,Relief Centres,Assistant Revenue Officer,,Food & Drinking water | Assistant Revenue Officer | 9445190090,9445190090
+10,580,590,relief_centres,Relief Centres,Assistant Engineer,,Relief Materials | Assistant Engineer | 9445190442,9445190442
+10,586,598,lighting,Lighting Facilities,Assistant Engineer,"131, 138, 139","1 | 131, 138, 139 | Assistant Engineer | 94451 91453",9445191453
+10,586,598,lighting,Lighting Facilities,Junior Engineer,"130, 134","2 | 130, 134 | Junior Engineer | 94454 77683",9445477683
+10,586,598,lighting,Lighting Facilities,Junior Engineer,"133,135","3 | 133,135 | Junior Engineer | 9445091456",9445091456
+10,586,598,lighting,Lighting Facilities,Junior Engineer,"129, 132, 137","4 | 129, 132, 137 | Junior Engineer | 9941222906",9941222906
+10,586,598,lighting,Lighting Facilities,Junior Engineer,"127, 128","5 | 127, 128 | Junior Engineer | 94451 91458",9445191458
+10,586,598,lighting,Lighting Facilities,Electrical Junior Engineer,"140, 142","6 | 140, 142 | Electrical Junior Engineer | 94451 91457",9445191457
+10,586,598,lighting,Lighting Facilities,Lighting Inspector,"136, 141","7 | 136, 141 | Lighting Inspector | 9445191454",9445191454
+10,586,598,lighting,Lighting Facilities,Additional Divisional Engineer (Zone),127 to 142,8 | 127 to 142 | Additional Divisional Engineer (Zone) | 9445190050,9445190050
+10,586,598,lighting,Lighting Facilities,Divisional Engineer (HQ),127 to 142,9 | 127 to 142 | Divisional Engineer (HQ) | 9445190754,9445190754
+10,587,600,boats,Rescue Boats,,127,1 | 127 | areas / location New Colony & Kulasekarapuram -1 No | Location Ragavendra Colony main Road | Assistant Engineer 9445190427,9445190427
+10,587,600,boats,Rescue Boats,,138,"2 | 138 | Annaisathya Nagar, Pari Nagar- 2 No | VM Balakrishnana Street | Assistant Engineer 9445190438",9445190438
+10,587,600,boats,Rescue Boats,,139,"3 | 139 | Jothiramalingam Nagar , Sarathinagar & Muthurangan Block -6 Nos | Ragavareddi colony | Assistant Engineer 9445190439",9445190439
+10,587,600,boats,Rescue Boats,,141,4 | 141 | C.I.T.Nagar 1st Main Road -1 No | C.I.T.Nagar 4th Main Road | Assistant Engineer 9445190441,9445190441
+10,587,600,boats,Rescue Boats,,142,5 | 142 | Godhamedu -3 Nos | Godhamedu | Assistant Engineer 9445190442,9445190442
+10,589,611,vehicles,Transport Equipments & Lorries,,,9445190690 | 1 | 2 | 3 | Lorry 0 | 3,9445190690
+11,603,633,contacts,Zone Administration,Chairman,143 to 155,1 | Chairman | 143 to 155 | 9444015565,9444015565
+11,603,633,contacts,Zone Administration,Zonal Officer,143 to 155,2 | Zonal Officer | 143 to 155 | 9445190011,9445190011
+11,603,634,lighting,Engineering Wing,Executive Engineer-1,U-32 & U-33,1 | Executive Engineer-1 | U-32 & U-33 | Number 9445477702,9445477702
+11,603,634,lighting,Engineering Wing,Executive Engineer-2,U-33 A & U-34,2 | Executive Engineer-2 | U-33 A & U-34 | 94451 90031,9445190031
+11,603,634,lighting,Engineering Wing,Assistant Executive Engineer,"U-32 (143,144,146,147)","3 | Assistant Executive Engineer | U-32 (143,144,146,147) | 9445190132",9445190132
+11,603,634,lighting,Engineering Wing,Assistant Executive Engineer,"U-33 (145,148,149,152)","4 | Assistant Executive Engineer | U-33 (145,148,149,152) | 9445190133",9445190133
+11,603,634,lighting,Engineering Wing,Assistant Executive Engineer,"U-34 (150,151,153,154, 155)","5 | Assistant Executive Engineer | U-34 (150,151,153,154, 155) | 9445190134",9445190134
+11,603,634,lighting,Engineering Wing,"Additional Divisional Engineer, Electrical",143 to 155,"6 | Additional Divisional Engineer, Electrical | 143 to 155 | 9445190051",9445190051
+11,603,634,lighting,Engineering Wing,"Assistant Executive Engineer, Mechanical",143 to 155,"7 | Assistant Executive Engineer, Mechanical | 143 to 155 | 9840230256",9840230256
+11,603,635,contacts,Solid Waste Management,Conservany supervisor,Unit-32,1 | Conservany supervisor | Unit-32 | Number 9445191433,9445191433
+11,604,636,contacts,Public Health & Disease Control,Zonal Health Officer,Zone XI,1 | Zonal Health Officer | Zone XI | Number 9445190071,9445190071
+11,604,636,contacts,Public Health & Disease Control,Veterinary Surgeon,Zone XI,2 | Veterinary Surgeon | Zone XI | 9445026043,9445026043
+11,604,636,contacts,Public Health & Disease Control,Junior Entomologist,Zone XI,3 | Junior Entomologist | Zone XI | 7449195461,7449195461
+11,604,636,contacts,Public Health & Disease Control,Sanitary Officer,Unit-32,4 | Sanitary Officer | Unit-32 | 9445467335,9445467335
+11,604,636,contacts,Public Health & Disease Control,Sanitary Officer,Unit-33,5 | Sanitary Officer | Unit-33 | 9444362700,9444362700
+11,604,636,contacts,Public Health & Disease Control,Sanitary Officer,Unit-34,6 | Sanitary Officer | Unit-34 | 9444174135,9444174135
+11,604,637,contacts,Parks,,Valasarvakkam,1 | 9578987071 Park Overseer | Power saw – 10 | Valasarvakkam,9578987071
+11,609,641,contacts,Contact details,Executive Engineer,14,TNSCB | Executive Engineer | 14 | 044- 28444973,04428444973
+11,609,641,contacts,Contact details,Conservancy Supervisor,Unit-32,Conservancy/ GCC | Conservancy Supervisor | Unit-32 | 9445191432,9445191432
+11,609,641,contacts,Contact details,Conservancy Supervisor,Unit-33,Conservancy/ GCC | Conservancy Supervisor | Unit-33 | 9445191433,9445191433
+11,609,641,contacts,Contact details,Conservancy Supervisor,Unit-34,Conservancy/ GCC | Conservancy Supervisor | Unit-34 | 9445191434,9445191434
+11,609,641,contacts,Contact details,Area Engineer,Area - 11,Water Supply& Sewage / CMWSSB | Area Engineer | Area - 11 | 044-24867244,04424867244
+11,626,660,relief_centres,Relief Centres,SI,144,"1 | 144 | 711 | Govt. Hr. Sec. School, Sannathi Street, Maduravoyal, Chennai-95 | Mannar Sera Perumal Nagar, Om Sakthi Nagar (Ward 144) | Yes | Yes | No | Sanitation, Medicine | SI | 9445025945",9445025945
+11,626,660,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190444,9445190444
+11,626,660,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9445190091,9445190091
+11,626,660,relief_centres,Relief Centres,AE,,water Relief Materials | AE | 9445190444,9445190444
+11,626,660,relief_centres,Relief Centres,SI,144,"2 | 144 | 301 | Villivakkam Panchayat Union School, Sannathi Street, Maduravoyal, Chennai-95 | North Mada Street, 1st to 17th Cross Street (Ward 146), | Yes | Yes | No | Materials Sanitation, Medicine | SI | 9445025945",9445025945
+11,626,660,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190444,9445190444
+11,626,660,relief_centres,Relief Centres,AE ARO,,Food & Drinking water | AE ARO | 9445190444 9445190091,9445190444;9445190091
+11,626,660,relief_centres,Relief Centres,AE,,water Relief Materials | AE | 9445190444,9445190444
+11,626,660,relief_centres,Relief Centres,SI,146,"3 | 146 | 289 | Dr.Ambedkar Nagar Church (infront of PH Road), Maduravoyal, Chennai-95. (Now temporarily shifted to their places) | Ambedkar Nagar Residents | Yes | Yes | No | Sanitation, Medicine | SI | 9445025946",9445025946
+11,626,660,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190446,9445190446
+11,626,660,relief_centres,Relief Centres,AE ARO,,Food& Drinking water | AE ARO | 9445190446 9445190091,9445190446;9445190091
+11,626,660,relief_centres,Relief Centres,AE,,water Relief Materials | AE | 9445190446,9445190446
+11,627,660,relief_centres,Relief Centres,SI,146,"4 | 146 | 266 | Sri Seethalakshmi Thirumana Mandapam, Maduravoyal, Chennai-95. (Now temporarily shifted to their places) | Ambedkar Nagar Residents | Yes | Yes | Yes | Sanitation, Medicine | SI | 9445025946",9445025946
+11,627,660,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190446,9445190446
+11,627,660,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9445190091,9445190091
+11,627,660,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190446,9445190446
+11,627,660,relief_centres,Relief Centres,SI,148,"5 | 148 | 184 | Rani Mahal, Nerkundram, Chennai-107 | Periyar Nagar Extn., Mettukuppam high Road. | Yes | Yes | Yes | Sanitation, Medicine | SI | 9445025948",9445025948
+11,627,660,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190448,9445190448
+11,627,660,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9445190091,9445190091
+11,627,660,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190448,9445190448
+11,627,660,relief_centres,Relief Centres,SI,151,"6 | 151 | 69 | Holy Angel School, Porur, Chennai-116 | Poothabedu School street | Yes | Yes | No | Materials Sanitation, Medicine | SI | 9445025951",9445025951
+11,627,660,relief_centres,Relief Centres,AE,,Evacution | AE | 9445190451,9445190451
+11,627,660,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9445190091,9445190091
+11,627,660,relief_centres,Relief Centres,AE,,water Relief Materials | AE | 9445190451,9445190451
+11,628,660,relief_centres,Relief Centres,SI,143,"7 | 143 | 51 | VPU School, School Road, Nolambur | Vembuli amman koil street Sakthi nagar | Yes | Yes | No | Sanitation, Medicine | SI | 9445025944",9445025944
+11,628,660,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190445,9445190445
+11,628,660,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9445190091,9445190091
+11,628,660,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190445,9445190445
+11,628,660,relief_centres,Relief Centres,SI,155,"8 | 155 | 49 | Govt. High School, Eswaran Koil Street, Ramapuram, Chennai-89. | Eswaran Koil Street. | Yes | Yes | No | Sanitation, Medicine | SI | 9445025953",9445025953
+11,628,660,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190455,9445190455
+11,628,660,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9445190091,9445190091
+11,628,660,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190455,9445190455
+11,632,665,lighting,Lighting Facilities,Junior Engineer,"143,144 & 146","1 | 143,144 & 146 | Junior Engineer | 9445477687",9445477687
+11,632,665,lighting,Lighting Facilities,Junior Engineer,"149,152&147","2 | 149,152&147 | Junior Engineer | 9445191459",9445191459
+11,632,665,lighting,Lighting Facilities,Junior Engineer,"150,151&153","3 | 150,151&153 | Junior Engineer | 9445477684",9445477684
+11,632,665,lighting,Lighting Facilities,Assistant Engineer,145 &148,4 | 145 &148 | Assistant Engineer | 9445477685,9445477685
+11,632,665,lighting,Lighting Facilities,Assistant Engineer,154&155,5 | 154&155 | Assistant Engineer | 9445477686,9445477686
+11,632,665,lighting,Lighting Facilities,Additional divisional Engineer (Zone),143 to 155,6 | 143 to 155 | Additional divisional Engineer (Zone) | 9445190051,9445190051
+11,632,665,lighting,Lighting Facilities,(Zone) Divisional Engineer (HQ),143 to 155,7 | 143 to 155 | (Zone) Divisional Engineer (HQ) | 9445190752,9445190752
+11,633,667,boats,Rescue Boats,,151,1 | 151 | SVS Nagar | SVS Nagar 1st Main Road | Assistant Engineer 9445190451,9445190451
+11,633,667,boats,Rescue Boats,,155,2 | 155 | Amman Nagar | Amman Nagar vimala convent matriculation school | Assistant Engineer 9445190455,9445190455
+11,635,672,vehicles,Transport Equipments & Lorries,,,9445190491,9445190491
+12,647,692,contacts,Zone Administration,Chairman,156 - 167,1 | Chairman | 156 - 167 | 9445467166,9445467166
+12,647,692,contacts,Zone Administration,Zonal Officer,156 to 167,2 | Zonal Officer | 156 to 167 | 9445190012,9445190012
+12,647,693,lighting,Engineering Wing,Executive Engineer-1,156to161,1 | Executive Engineer-1 | 156to161 | 9445190032,9445190032
+12,647,693,lighting,Engineering Wing,Executive Engineer-2,162to167,2 | Executive Engineer-2 | 162to167 | 9445190037,9445190037
+12,647,693,lighting,Engineering Wing,Assistant Executive Engineer,Unit-35,3 | Assistant Executive Engineer | Unit-35 | 9445190135,9445190135
+12,647,693,lighting,Engineering Wing,Assistant Executive Engineer,Unit-36,4 | Assistant Executive Engineer | Unit-36 | 9445190136,9445190136
+12,647,693,lighting,Engineering Wing,Assistant Executive Engineer,Unit-37,5 | Assistant Executive Engineer | Unit-37 | 9445190137,9445190137
+12,647,693,lighting,Engineering Wing,"Additional DivisionalEngineer,Electrical",156to167,"6 | Additional DivisionalEngineer,Electrical | 156to167 | 9445190052",9445190052
+12,647,693,lighting,Engineering Wing,Conservancy Inspector(Lorry Station),Zone XII,7 | Conservancy Inspector(Lorry Station) | Zone XII | 9094063412,9094063412
+12,647,694,contacts,Solid Waste Management,Assistant Executive Engineer,,1 | Assistant Executive Engineer | 9445477201,9445477201
+12,647,694,contacts,Solid Waste Management,Conservancysupervisor (156-161),,2 | Conservancysupervisor (156-161) | 9445191435,9445191435
+12,647,694,contacts,Solid Waste Management,Conservancysupervisor (162-167),,3 | Conservancysupervisor (162-167) | 9445190812,9445190812
+12,648,695,contacts,Public Health & Disease Control,Zonal Health Officer,Zone XII,1 | Zonal Health Officer | Zone XII | 9445190072,9445190072
+12,648,695,contacts,Public Health & Disease Control,Zonal Medical Officer,Zone XII,2 | Zonal Medical Officer | Zone XII | 9445402934,9445402934
+12,648,695,contacts,Public Health & Disease Control,Veterinary Doctor,Zone XII,3 | Veterinary Doctor | Zone XII | 9445026049,9445026049
+12,648,695,contacts,Public Health & Disease Control,Junior Entomologist,Zone XII,4 | Junior Entomologist | Zone XII | 9445025793,9445025793
+12,648,695,contacts,Public Health & Disease Control,Sanitary Officer,Unit -35,5 | Sanitary Officer | Unit -35 | 9962604721,9962604721
+12,648,695,contacts,Public Health & Disease Control,Sanitary Officer,Unit -36,6 | Sanitary Officer | Unit -36 | 9940026757,9940026757
+12,648,695,contacts,Public Health & Disease Control,Sanitary Officer,Unit -37,7 | Sanitary Officer | Unit -37 | 9994845747,9994845747
+12,649,696,contacts,Parks,,Alandur (Division 156 – 167),1 | 21 NosofPowersaw | 7639523299 Park Overseer | Alandur (Division 156 – 167),7639523299
+12,658,711,relief_centres,Relief Centres,SI,156,"1 | 156 | 500 | 1. Govt. High School, Padasalai Street | MCS nagar, Pajanai kovil steer, Thuluka thamman koil street, padasalai street | Sanitation, Medicine | SI | 94450 25956",9445025956
+12,658,711,relief_centres,Relief Centres,AE,,"2. Corporation Primary School, Padasalai Street | Evacuation | AE | 94451 90756",9445190756
+12,658,711,relief_centres,Relief Centres,ARO,,"3. Corporation Middle School, Madanana dhapuram Main Road Ch- 600125 | Kumari nagar, OM sakthi nagar, Bungalow thope. | Food & Drinking water | ARO | 94451 90092",9445190092
+12,658,711,relief_centres,Relief Centres,AE,,Relief Materials | AE | 94451 90756,9445190756
+12,659,711,relief_centres,Relief Centres,SI,157,"2 | 157 | 550 | 2.Community Hall | Sathiya nagar, Bell nagar | Sanitation, Medicine | SI | 97863 01769",9786301769
+12,659,711,relief_centres,Relief Centres,AE,,Evacuation | AE | 94451 90757,9445190757
+12,659,711,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 94451 90092,9445190092
+12,659,711,relief_centres,Relief Centres,AE,,Relief Materials | AE | 94451 90757,9445190757
+12,659,711,relief_centres,Relief Centres,SI,158,"3 | 158 | 400 | 1.Corporation Primary School, Mount Poonamallee 2.IDPL Primary School 3. Kuthallamman Temple Kalyana Mandabam 4. Cantonment School, Mount Poonamallee | MGR Nagar Burma colony | Sanitation, Medicine | SI | 94450 25956",9445025956
+12,659,711,relief_centres,Relief Centres,AE,,Evacuation | AE | 94451 90758,9445190758
+12,659,711,relief_centres,Relief Centres,ARO,,Food& Drinking water | ARO | 94451 90092,9445190092
+12,659,711,relief_centres,Relief Centres,AE,,Relief Materials | AE | 94451 90758,9445190758
+12,659,711,relief_centres,Relief Centres,SI,159,"4 | 159 | 100 | Adi Dravidar School, Kamarajar street, Meenam bakkam, Chennai - 600 027 | Kamarajar street | Sanitation, Medicine | SI | 94450 25956",9445025956
+12,659,711,relief_centres,Relief Centres,AE,,Evacuation | AE | 96773 40896/ 94451 90759,9677340896;9445190759
+12,659,711,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 94451 90092,9445190092
+12,659,711,relief_centres,Relief Centres,AE,,Relief Materials | AE | 96773 40896/ 94451 90759,9677340896;9445190759
+12,660,711,relief_centres,Relief Centres,SI,161,"5 | 161 | 200 | Nidhi School - ponniamman kovil street | VOC street | Sanitation, Medicine | SI | 94450 25962",9445025962
+12,660,711,relief_centres,Relief Centres,AE,,Evacuation | AE | 94451 90761,9445190761
+12,660,711,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 94451 90092,9445190092
+12,660,711,relief_centres,Relief Centres,AE,,Relief Materials | AE | 94451 90761,9445190761
+12,660,711,relief_centres,Relief Centres,SI,161,"6 | 161 | 200 | CPS school ,MKN road | VOC street, Raja street | Sanitation, Medicine | SI | 94450 25962",9445025962
+12,660,711,relief_centres,Relief Centres,AE,,Evacution | AE | 94451 90761,9445190761
+12,660,711,relief_centres,Relief Centres,AE,,Relief Materials | AE | 94451 90761,9445190761
+12,660,711,relief_centres,Relief Centres,SI,162,"7 | 162 | 150 | Community Hall & Gym Building | Kannan Colony | Yes | Yes | No | Sanitation, Medicine | SI | 94450 25962",9445025962
+12,660,711,relief_centres,Relief Centres,AE,,Evacuation | AE | 94451 90762,9445190762
+12,660,711,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 94451 90092,9445190092
+12,660,711,relief_centres,Relief Centres,AE,,Relief Materials | AE | 94451 90762,9445190762
+12,661,711,relief_centres,Relief Centres,SI,165,"8 | 165 | 250 | Corporation School Nanganallur 8th street - | Indira Nagar | Sanitation, Medicine | SI | 94450 25965",9445025965
+12,661,711,relief_centres,Relief Centres,AE,,Evacuation | AE | 94451 90765,9445190765
+12,661,711,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 94451 90092,9445190092
+12,661,711,relief_centres,Relief Centres,AE,,Relief Materials | AE | 94451 90765,9445190765
+12,661,711,relief_centres,Relief Centres,SI,166,"9 | 166 | 100 | Corporation Primary school | Sanitation, Medicine | SI | 82205 60026",8220560026
+12,661,711,relief_centres,Relief Centres,AE,,Evacuation | AE | 94451 90767,9445190767
+12,661,711,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 94451 90092,9445190092
+12,661,711,relief_centres,Relief Centres,AE,,Relief Materials | AE | 94451 90766,9445190766
+12,667,718,lighting,Lighting Facilities,Assistant Engineer,156,1 | 156 | Assistant Engineer | 9445191463,9445191463
+12,667,718,lighting,Lighting Facilities,Junior Engineer,157 & 158,2 | 157 & 158 | Junior Engineer | 9445026090,9445026090
+12,667,718,lighting,Lighting Facilities,Junior Engineer,"159,161,162","3 | 159,161,162 | Junior Engineer | 9445910960",9445910960
+12,667,718,lighting,Lighting Facilities,Assistant Engineer,"160,163,165","4 | 160,163,165 | Assistant Engineer | 9445477682",9445477682
+12,667,718,lighting,Lighting Facilities,Assistant Engineer,"164,166,167","5 | 164,166,167 | Assistant Engineer | 9445191464",9445191464
+12,668,720,boats,Rescue Boats,,156,1 | 156 | 2nosof boats required withThiruvalluvar Nagar & Madha Nagar | Thiruvalluvar Nagar | 9445190756,9445190756
+12,668,720,boats,Rescue Boats,,157,2 | 157 | 2nosof boats required withriverview colony | RiverViewColony | 9445190757,9445190757
+12,668,720,boats,Rescue Boats,,158,3 | 158 | 2nos of boats required withDefence Officer Colony | Defence Officer Colony | 9445190758,9445190758
+12,670,726,vehicles,Transport Equipments & Lorries,,,1 | 9445026094 | 1 | 3 | 2 | 1 | 1 | 3 | 1,9445026094
+13,681,743,contacts,Zone Administration,Chairman,170 to 182,1. | Chairman | 170 to 182 | 9445467172,9445467172
+13,681,743,contacts,Zone Administration,Zonal Officer,170 to 182,2 | Zonal Officer | 170 to 182 | 9445190013,9445190013
+13,681,744,lighting,Engineering Wing,,& 180,1 | Executive Engineer - I | & 180 | 9445190033,9445190033
+13,681,744,lighting,Engineering Wing,,"168, 172, 175, 176, 177,178","2 | Executive Engineer - II | 168, 172, 175, 176, 177,178 | 9445910926",9445910926
+13,681,744,lighting,Engineering Wing,,U-38,3 | Assistant Executive Engineer | U-38 | 9445190138,9445190138
+13,681,744,lighting,Engineering Wing,,U-39,4 | Assistant Executive Engineer | U-39 | 9445190139,9445190139
+13,681,744,lighting,Engineering Wing,,U-40,5 | Assistant Executive Engineer | U-40 | 9445190140,9445190140
+13,681,744,lighting,Engineering Wing,,U-40A,6 | Assistant Executive Engineer | U-40A | 9445026116,9445026116
+13,681,744,lighting,Engineering Wing,,168 to 180,"7 | Additional Divisional Engineer, Electrical | 168 to 180 | 9445190053",9445190053
+13,681,744,lighting,Engineering Wing,,168 to 180,"8 | Assistant Executive Engineer, Mechanical | 168 to 180 | 9840230256",9840230256
+13,682,745,contacts,Solid Waste Management,ConservancySupervisor,Unit38& 39,1 | ConservancySupervisor | Unit38& 39 | 8825563637,8825563637
+13,682,745,contacts,Solid Waste Management,ConservancySupervisor,Unit40&40A,2 | ConservancySupervisor | Unit40&40A | 8838398964,8838398964
+13,682,746,contacts,Public Health & Disease Control,Assistant Health Officer,Ward.No. 168 – 180,1 | Assistant Health Officer | Ward.No. 168 – 180 | 9445190073,9445190073
+13,682,746,contacts,Public Health & Disease Control,Senior Entomologist,168 - 180,2 | Senior Entomologist | 168 - 180 | 9445036578,9445036578
+13,682,746,contacts,Public Health & Disease Control,Sanitary Officer,U 38,3 | Sanitary Officer | U 38 | 9445025878,9445025878
+13,682,746,contacts,Public Health & Disease Control,Sanitary Officer,U 39,4 | Sanitary Officer | U 39 | 9445025961,9445025961
+13,682,746,contacts,Public Health & Disease Control,Sanitary Officer,U 40,5 | Sanitary Officer | U 40 | 9445025895,9445025895
+13,682,746,contacts,Public Health & Disease Control,Sanitary Officer,U 40A,6 | Sanitary Officer | U 40A | 9445025964,9445025964
+13,686,748,contacts,Parks,,"Zone-13 (Div 168 to 180) Guindy, Saidapet, Kotturpuram, Raja Annamalaipuram, Maduvinkarai, Adyar, Besant nagar, Adambakkam, Velachery East & West, Taramani, Thiruvanmiyur","1 | Park overseer 9445194728 Park Superintendent 7418787998 | Electrical saw-1 Petrol saw - 16 Telescopic Pruner – 5 Telescopic stick-1 Manual – 2 | Zone-13 (Div 168 to 180) Guindy, Saidapet, Kotturpuram, Raja Annamalaipuram, Maduvinkarai, Adyar, Besant nagar, Adambakkam, Velachery East & West, Taramani, Thiruvanmiyur",9445194728;7418787998
+13,689,751,contacts,Contact details:,Executive Engineer,Division - 7,TNUHDB | Executive Engineer | Division - 7 | 9444724812,9444724812
+13,689,751,contacts,Contact details:,Conservancy Supervisor,Unit-38 &39,Conservancy/GCC | Conservancy Supervisor | Unit-38 &39 | 8825563637,8825563637
+13,689,751,contacts,Contact details:,Conservancy Supervisor,Unit-40&40A,Conservancy/GCC | Conservancy Supervisor | Unit-40&40A | 8838398964,8838398964
+13,689,751,contacts,Contact details:,Area Engineer,Area - 13,Water Supply& Sewage /CMWSSB | Area Engineer | Area - 13 | 8144930913,8144930913
+13,699,762,relief_centres,Relief Centres,Assistant Engineer,168 Guindy,"1 | 168 Guindy | 500 | Annai Velankanni school, Hospital road | Vinayaga puram, Chetti thottam, Neruppumedu, Alachiamman | Yes | Yes | No | Evacuation | Assistant Engineer | 9445190768",9445190768
+13,699,762,relief_centres,Relief Centres,Assessor,,"2 | 700 | Infant Jesus school, Labour colony | Nagi reddi thottam, Arulayammanpet | Yes | Yes | No | Food | Assessor | 9941155489",9941155489
+13,699,762,relief_centres,Relief Centres,Sanitary Officer,,"3 | 750 | Chennai Higher Secondary School Little Mount Annai Velankanni school, Hospital road Govt ITI | Arulayammanpet | Yes | Yes | No | Relief Materials | Sanitary Officer | 9445025961",9445025961
+13,699,762,relief_centres,Relief Centres,Sanitary Inspector,,"Sanitation, Medicine & Drinking water | Sanitary Inspector | 9445025970",9445025970
+13,699,762,relief_centres,Relief Centres,Assistant Engineer,169 Saidapet,"4 | 169 Saidapet | 400 | Model Higher secondary school | Arasupannai, Jothiammal Nagar | Yes | Yes | No | Evacuation | Assistant Engineer | 9445190769",9445190769
+13,699,762,relief_centres,Relief Centres,Assessor,,Food | Assessor | 9445025971,9445025971
+13,699,762,relief_centres,Relief Centres,Sanitary Officer,,Relief Materials | Sanitary Officer | 9566270882,9566270882
+13,699,762,relief_centres,Relief Centres,Sanitary Inspector,,"Sanitation, Medicine & Drinking water | Sanitary Inspector | 9840555598",9840555598
+13,699,762,relief_centres,Relief Centres,Assistant Engineer,170 – Kottur puram,"5 | 170 – Kottur puram | 250 | Anna Gem | T.N.H.B, T.N.U.H.D.B, Kotturpuram and Kottur | Yes | Yes | No | Sanitation, Medicine & Drinking water | Assistant Engineer | 9445025971",9445025971
+13,699,762,relief_centres,Relief Centres,Assessor,,Assessor | 9445190770,9445190770
+13,699,762,relief_centres,Relief Centres,Sanitary Officer,,"6 | CPS, New street | T.N.H.B, T.N.U.H.D.B, Kotturpuram and Kottur | Yes | Yes | No | Sanitary Inspector | Sanitary Officer | 9789930967",9789930967
+13,699,762,relief_centres,Relief Centres,Sanitary Inspector,,Sanitary Inspector | 9445025895,9445025895
+13,700,762,relief_centres,Relief Centres,Assistant Engineer,172 Velachery,7 | 172 Velachery | 1000 | Chennai Hr. Sec. School | Maduvinkarai | Yes | Yes | No | Evacuation | Assistant Engineer | 9445190772,9445190772
+13,700,762,relief_centres,Relief Centres,Assessor,,Food | Assessor | 8754441465,8754441465
+13,700,762,relief_centres,Relief Centres,Sanitary Officer,,Relief Materials | Sanitary Officer | 8939771046,8939771046
+13,700,762,relief_centres,Relief Centres,Sanitary Inspector,,"Sanitation, Medicine & Drinking water | Sanitary Inspector | 9445025977",9445025977
+13,700,762,relief_centres,Relief Centres,Assistant Engineer,170 - Kottur puram,8 | 170 - Kottur puram | 300 | Chennai School Kamaraj Avenue | Adyar | Yes | Yes | No | Evacuation | Assistant Engineer | 9445190773,9445190773
+13,700,762,relief_centres,Relief Centres,Assessor,,Food | Assessor | 9840925087,9840925087
+13,700,762,relief_centres,Relief Centres,Sanitary Officer,,9 | 100 | Chennai School Indhira nagar | Relief Materials | Sanitary Officer | 9445025895,9445025895
+13,700,762,relief_centres,Relief Centres,Sanitary Inspector,,"Sanitation, Medicine & Drinking water | Sanitary Inspector | 7395948700",7395948700
+13,700,762,relief_centres,Relief Centres,Assistant Engineer,174 - Besant nagar,10 | 174 - Besant nagar | 250 | Anna School - Besant Nagar | Arunachalapuram | Yes | Yes | No | Evacuation | Assistant Engineer | 9445190774,9445190774
+13,700,762,relief_centres,Relief Centres,Assessor,,Food | Assessor | 9840925087,9840925087
+13,700,762,relief_centres,Relief Centres,Sanitary Officer,,Relief Materials | Sanitary Officer | 9445025982,9445025982
+13,700,762,relief_centres,Relief Centres,Sanitary Inspector,,"Sanitation, Medicine & Drinking water | Sanitary Inspector | 9445025878",9445025878
+13,700,762,relief_centres,Relief Centres,Sanitary Inspector,175 Adambakkam,"11 | 175 Adambakkam | 200 | Britto school, Nethaji salai, Nehru nagar | Ambedkar nagar, | Yes | Yes | No | Sanitation, Medicine & Drinking water | Sanitary Inspector | 9445190775",9445190775
+13,700,762,relief_centres,Relief Centres,Assistant Engineer,,12 | 100 | CPS- Housing Board | Periyar Nagar | Evacuation | Assistant Engineer | 9444101255,9444101255
+13,700,762,relief_centres,Relief Centres,Assistant Revenue Officer,,Food | Assistant Revenue Officer | 9445025964,9445025964
+13,700,762,relief_centres,Relief Centres,Sanitary Officer,,Relief Materials | Sanitary Officer | 9445025975,9445025975
+13,701,762,relief_centres,Relief Centres,Sanitary Inspector,176176 Velachery West,"13 | 176176 Velachery West | 1000 | Murugan kalyanamandapam | Erikkarai Salai | Yes | Yes | Yes | Sanitation, Medicine & Drinking water | Sanitary Inspector | 9445190777",9445190777
+13,701,762,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 8838786685,8838786685
+13,701,762,relief_centres,Relief Centres,Assistant Revenue Officer,,Food | Assistant Revenue Officer | 6380254301,6380254301
+13,701,762,relief_centres,Relief Centres,Sanitary Officer,,Relief Materials | Sanitary Officer | 9445025961,9445025961
+13,701,762,relief_centres,Relief Centres,Sanitary Inspector,177 Velachery East,"14 | 177 Velachery East | 300 | Govt Higher Secondary School, | Throwpathyamman koil Street | Yes | Yes | No | Sanitation, Medicine & Drinking water | Sanitary Inspector | 9445190778",9445190778
+13,701,762,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9095723274,9095723274
+13,701,762,relief_centres,Relief Centres,Assistant Revenue Officer,,Food | Assistant Revenue Officer | 8610129943,8610129943
+13,701,762,relief_centres,Relief Centres,Sanitary Officer,,Relief Materials | Sanitary Officer | 9445025961,9445025961
+13,701,762,relief_centres,Relief Centres,Sanitary Inspector,178 - Taramani,"16 | 178 - Taramani | 200 | Chennai School | Udhayam Nagar | Yes | Yes | No | Sanitation, Medicine & Drinking water | Sanitary Inspector | 9445190780",9445190780
+13,701,762,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 6383193613,6383193613
+13,701,762,relief_centres,Relief Centres,Assistant Revenue Officer,,"17 | 350 | CPS, CHS - Peeliamman Koil Street, Taramani | Thanthai periyar nagar | Food | Assistant Revenue Officer | 9840925087",9840925087
+13,701,762,relief_centres,Relief Centres,Sanitary Officer,,Relief Materials | Sanitary Officer | 9176764146,9176764146
+13,701,762,relief_centres,Relief Centres,Sanitary Inspector,180-- Thiruvanmiyur,"18 | 180-- Thiruvanmiyur | 200 | Thiruvanmiyur - Shakthi nilayam | Ranganathapuram | Yes | Yes | No | Sanitation, Medicine & Drinking water | Sanitary Inspector | 9445190780",9445190780
+13,701,762,relief_centres,Relief Centres,Assistant Engineer,,Evacuation | Assistant Engineer | 9445025982,9445025982
+13,701,762,relief_centres,Relief Centres,Assistant Revenue Officer,,Food | Assistant Revenue Officer | 9566270882,9566270882
+13,701,762,relief_centres,Relief Centres,Sanitary Officer,,Relief Materials | Sanitary Officer | 9445025878,9445025878
+13,705,770,lighting,Lighting Facilities,Assistant Engineer,168,1 | 168 | Assistant Engineer | 9445191494,9445191494
+13,705,770,lighting,Lighting Facilities,Assistant Engineer,"169,170","2 | 169,170 | Assistant Engineer | 9445026101",9445026101
+13,705,770,lighting,Lighting Facilities,Assistant Engineer,171,3 | 171 | Assistant Engineer | 9445191469,9445191469
+13,705,770,lighting,Lighting Facilities,Assistant Engineer,172,4 | 172 | Assistant Engineer | 9445190147,9445190147
+13,705,770,lighting,Lighting Facilities,Assistant Engineer,"173,174","5 | 173,174 | Assistant Engineer | 9445191469",9445191469
+13,705,770,lighting,Lighting Facilities,Assistant Engineer,175,6 | 175 | Assistant Engineer | 9445191494,9445191494
+13,705,770,lighting,Lighting Facilities,Assistant Engineer,"176,177","7 | 176,177 | Assistant Engineer | 9445191467",9445191467
+13,705,770,lighting,Lighting Facilities,Assistant Engineer,178,9 | 178 | Assistant Engineer | 9445191470,9445191470
+13,705,770,lighting,Lighting Facilities,,"179,180","179,180 | 9445191468",9445191468
+13,707,772,boats,"No boats were used in the previous monsoon – NEM 2017 For 2018, in the following locations were identified for precautio",,169,1 | 169 | location 2 Nos / Srinagar Colony | Rangarajapuram | Dn.183 – Private Boat Owner : Kuppam / Kottivakkam 9383677999 9941156796 & Muttukadu boat club - 9176995860,9383677999;9941156796;9176995860
+13,708,772,boats,"No boats were used in the previous monsoon – NEM 2017 For 2018, in the following locations were identified for precautio",,176,"6 | 176 | location 2 Nos / Vijayanagar 13th Main road | Vijayanagar,Devi Karumariyamman nagar,M.G.Rnaga r,Golden avenue | Dn.183 – Private Boat Owner : Kuppam / Kottivakkam 9383677999 9941156796 & Muttukadu boat club - 9176995860",9383677999;9941156796;9176995860
+13,710,777,vehicles,Transport Equipments & Lorries,,,AE-9445026115 AEE-9840230256 | 2 | 3 | 1,9445026115;9840230256
+14,721,797,contacts,Zone Administration,Zonal Officer,"41,42,43/181-191","1. | Zonal Officer | 41,42,43/181-191 | 9445190014",9445190014
+14,721,798,lighting,Engineering Wing,Zonal Officer,Ward 14,1. | Ward 14 | Zonal Officer | 9445190014,9445190014
+14,721,798,lighting,Engineering Wing,ExecutiveEngineer–I,14,2. | 14 | ExecutiveEngineer–I | 9445190034,9445190034
+14,721,798,lighting,Engineering Wing,ExecutiveEngineer–II,14,3. | 14 | ExecutiveEngineer–II | 9445026083,9445026083
+14,721,798,lighting,Engineering Wing,Assistant Executive Engineer,41,4. | 41 | Assistant Executive Engineer | 9445190141,9445190141
+14,721,798,lighting,Engineering Wing,Assistant Executive Engineer,42,5. | 42 | Assistant Executive Engineer | 9445190142,9445190142
+14,721,798,lighting,Engineering Wing,Assistant Executive Engineer,43,6. | 43 | Assistant Executive Engineer | 9445190143,9445190143
+14,721,798,lighting,Engineering Wing,Assistant Executive Engineer,SWM,7. | SWM | Assistant Executive Engineer | 9445910971,9445910971
+14,721,798,lighting,Engineering Wing,Assistant Executive Engineer,Special Projects,8 | Special Projects | Assistant Executive Engineer | 9445026079,9445026079
+14,721,798,lighting,Engineering Wing,"AdditionalDivisionalEngineer,Ele ctrical",14,"9 | 14 | AdditionalDivisionalEngineer,Ele ctrical | 9445190054",9445190054
+14,721,798,lighting,Engineering Wing,"AssistantExecutiveEngineer,Mecha nical",14,"10 | 14 | AssistantExecutiveEngineer,Mecha nical | 9445190484,9445190490, 9094046132,9094046132",9445190484;9445190490;9094046132
+14,721,799,contacts,Solid Waste Management,Conservancy Supervisor,U-41,1. | Conservancy Supervisor | U-41 | 9445191441,9445191441
+14,721,799,contacts,Solid Waste Management,Conservancy Supervisor,U-42,2 | Conservancy Supervisor | U-42 | 9445191442,9445191442
+14,721,799,contacts,Solid Waste Management,Conservancy Supervisor,U-43,3 | Conservancy Supervisor | U-43 | 9445191443,9445191443
+14,722,800,contacts,Public Health & Disease Control,Zonal Health Officer,14,1. | Zonal Health Officer | 14 | 9445190074,9445190074
+14,722,800,contacts,Public Health & Disease Control,Sanitary Officer,"U-41,","2. | Sanitary Officer | U-41, | 9445025985",9445025985
+14,722,800,contacts,Public Health & Disease Control,Sanitary Officer,U-42,3 | Sanitary Officer | U-42 | 9445191400,9445191400
+14,722,800,contacts,Public Health & Disease Control,Sanitary Officer,U-43,4 | Sanitary Officer | U-43 | 9445190841,9445190841
+14,722,800,contacts,Public Health & Disease Control,Vetinary surgeon,Z-14,5 | Vetinary surgeon | Z-14 | 9445026043,9445026043
+14,722,800,contacts,Public Health & Disease Control,Junior Entomologist,Z-14,6 | Junior Entomologist | Z-14 | 9445190475,9445190475
+14,722,801,contacts,Parks,,Entire Perungudi Zone,1. | contact No. Park Overseer 9445071062 | Tree cutting saw Manual – 8 Power saw-12 | Entire Perungudi Zone,9445071062
+14,737,813,relief_centres,Saravana Nagar,SI,186,"2 | 186 | 300 | ST Thomas Primary School | Pillayar Koil street, Easwaran koil street, Mandaveli street, Gangai amman koil street | YES | YES | NO | Sanitation, Medicine | SI | 9445025983 9445190781 9445190094 9445190781 9445025986 9445190782 9445190094 9445190782",9445025983;9445190781;9445190094;9445025986;9445190782
+14,737,813,relief_centres,Saravana Nagar,SI,181,"4 | 181 | 1500 | Nellai Nadar School | Kottivakkam kuppam, New colony, | YES | YES | NO | Sanitation, Medicine | SI | 9445025983",9445025983
+14,737,813,relief_centres,Saravana Nagar,AE,,AE | 9445190783 9499937314 9445190783,9445190783;9499937314
+14,738,815,relief_centres,Saravana Nagar,SI,182,"6 | 182 | 300 | Kuppam Primary School | Kottivakkam Kuppam | YES | YES | NO | Sanitation, Medicine | SI | 9445025990 9445190785 9445190094 9445190785 9445025990 9445190786 9445190094 9445190786",9445025990;9445190785;9445190094;9445190786
+14,738,816,contacts,Saravana Nagar,,,"Sanitation, Medicine | SI | 9445025988",9445025988
+14,738,816,contacts,Saravana Nagar,,,AE | 9445190787,9445190787
+14,738,816,contacts,Saravana Nagar,,,Food & Drinking water | ARO | 9499937314,9499937314
+14,738,816,contacts,Saravana Nagar,,,"Relief Materials Sanitation, Medicine | AE SI | 9445190788 9445025987",9445190788;9445025987
+14,738,816,contacts,Saravana Nagar,,,AE | 9445190788,9445190788
+14,738,816,contacts,Saravana Nagar,,,Food & Drinking water | ARO | 9499937314,9499937314
+14,739,817,relief_centres,Saravana Nagar,SI,188,"10 | 188 | 500 | Panchayat Union Primary School | Selvaganapathu avenue | YES | YES | NO | Sanitation, Medicine | SI | 9445025989",9445025989
+14,739,817,relief_centres,Saravana Nagar,AE,,AE | 9445190789,9445190789
+14,739,817,relief_centres,Saravana Nagar,ARO,,Food & Drinking water | ARO | 9499937314,9499937314
+14,739,817,relief_centres,Saravana Nagar,AE,,Relief Materials | AE | 9445190789,9445190789
+14,739,818,relief_centres,Saravana Nagar,SI,188,"11 | 188 | 1800 | Jay Jay Sankara Kalayana Mandapam | Interior of Madipakkam | YES | YES | NO | Sanitation, Medicine | SI | 9445025989",9445025989
+14,739,818,relief_centres,Saravana Nagar,AE,,AE | 9445190790,9445190790
+14,739,818,relief_centres,Saravana Nagar,ARO,,Food & Drinking water | ARO | 9499937314,9499937314
+14,739,818,relief_centres,Saravana Nagar,AE,,Relief Materials | AE | 9445190790,9445190790
+14,739,818,relief_centres,Saravana Nagar,SI,,"Sanitation, Medicine | SI | 9445025991",9445025991
+14,739,818,relief_centres,Saravana Nagar,AE,,Evacuation | AE | 9445190789,9445190789
+14,739,818,relief_centres,Saravana Nagar,ARO,,Food & Drinking water | ARO | 9499937314,9499937314
+14,747,826,boats,Rescue Boats,,186,1 | 186 | evacuation areas Ram Nagar | Ram Nagar | AE- 9445190786,9445190786
+14,747,826,boats,Rescue Boats,,190,2 | 190 | Sai Balaji Nagar | Sai Balaji Nagar | AE- 9445190790,9445190790
+14,747,826,boats,Rescue Boats,,181,3 | 181 | Venkatesapuram | Venkatesapuram | JE-9445190781,9445190781
+14,747,826,boats,Rescue Boats,,181,4 | 181 | Swaminathan Nagar | Swaminathan Nagar | JE-9445190781,9445190781
+14,747,826,boats,Rescue Boats,,181,5 | 181 | Elango Nagar | Elango Nagar | JE-9445190781,9445190781
+14,747,826,boats,Rescue Boats,,188,6 | 188 | Narayanapuram Lake | Narayanapuram Lake | AE-9445190788,9445190788
+14,747,826,boats,Rescue Boats,,189,7 | 189 | Sai Baba Nagar | Sai Baaba Nagar | AE-9445190789,9445190789
+14,749,830,boats,Rescue Boats,,190,8 | 190 | evacuation areas Sai Balaji Nagar | Sai Balaji Nagar | AE-9445190790,9445190790
+14,749,830,boats,Rescue Boats,,190,9 | 190 | Kamatchiamman Nagar | Kamatchiamman Nagar | AE-9445190790,9445190790
+14,749,830,boats,Rescue Boats,,191,10 | 191 | Sai Ganesh Nagar | Sai Ganesh Nagar | AE-9445190791,9445190791
+14,749,830,boats,Rescue Boats,,191,11 | 191 | Nesavalar Nagar | Nesavalar Nagar | AE-9445190791,9445190791
+14,749,832,vehicles,Transport Equipments & Lorries,,,9445026115 | 3 | 3 | 3 | 1,9445026115
+15,760,850,contacts,Zone Administration,Chairman,192 to 200,1. | Chairman | 192 to 200 | 9445467192,9445467192
+15,760,850,contacts,Zone Administration,Zonal Officer,192 to 200,2. | Zonal Officer | 192 to 200 | 9445190015,9445190015
+15,761,851,lighting,Engineering Wing,Executive Engineer-1,Zone 15-U 44,1 | Executive Engineer-1 | Zone 15-U 44 | Number 9445190035,9445190035
+15,761,851,lighting,Engineering Wing,Executive Engineer-2,U-45,Executive Engineer-2 | U-45 | 9445191480,9445191480
+15,761,851,lighting,Engineering Wing,Assistant Executive Engineer,Unit 44,2 | Assistant Executive Engineer | Unit 44 | 9445190144,9445190144
+15,761,851,lighting,Engineering Wing,Assistant Executive Engineer,Unit 45,3 | Assistant Executive Engineer | Unit 45 | 9445190145,9445190145
+15,761,851,lighting,Engineering Wing,"Assistant Divisional Engineer, Electrical",Zone 15,"4 | Assistant Divisional Engineer, Electrical | Zone 15 | 9445190055",9445190055
+15,761,851,lighting,Engineering Wing,"Assistant Executive Engineer, Mechanical",Zone 15,"5 | Assistant Executive Engineer, Mechanical | Zone 15 | 9445190484/ 9445190490",9445190484;9445190490
+15,761,852,contacts,Solid Waste Management,Conservany supervisor,Zone 15,1. | Conservany supervisor | Zone 15 | 9445191444,9445191444
+15,761,853,contacts,Public Health & Disease Control,Zonal Health Officer,Zone XV,1 | Zonal Health Officer | Zone XV | 9445190035,9445190035
+15,761,853,contacts,Public Health & Disease Control,Veterinary Surgeon,Zone XV,2 | Veterinary Surgeon | Zone XV | 9445190144,9445190144
+15,761,853,contacts,Public Health & Disease Control,Junior Entomologist,Zone XV,3 | Junior Entomologist | Zone XV | 9445190145,9445190145
+15,761,853,contacts,Public Health & Disease Control,Sanitary Officer,Unit 44,4 | Sanitary Officer | Unit 44 | 9445190055,9445190055
+15,761,853,contacts,Public Health & Disease Control,Sanitary Officer,Unit 45,5 | Sanitary Officer | Unit 45 | 9445190484/ 9445190490,9445190484;9445190490
+15,762,854,contacts,Parks,,Sozhanganallur,1 | 9445194730 Park Overseer | Power saw – 10 Manual saw - 6 | Sozhanganallur,9445194730
+15,763,857,contacts,Contact details,Executive Engineer,Zone 15,TNSCB | Executive Engineer | Zone 15 | 9444167521,9444167521
+15,763,857,contacts,Contact details,Conservancy Supervisor,Zone 15,Conservancy/GCC | Conservancy Supervisor | Zone 15 | 9445191444,9445191444
+15,763,857,contacts,Contact details,Area Engineer,Area 15,Water Supply& Sewage / CMWSSB | Area Engineer | Area 15 | 8144930915,8144930915
+15,774,870,relief_centres,Relief Centres,SI,192,"1 | 192 | 250 | PDN Kalyana mandapam, Neelankarai | Aringar Anna street | Yes | Yes | Yes | Sanitation, Medicine | SI | 9445025992",9445025992
+15,774,870,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190792,9445190792
+15,774,870,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9445190095,9445190095
+15,774,870,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190792,9445190792
+15,774,870,relief_centres,Relief Centres,SI,192,"2 | 192 | 250 | Panchayat middle school, Neelangarai | Chinna Neelangarai, Periya Neelangarai | Yes | Yes | Yes | Sanitation, Medicine | SI | 9445025992",9445025992
+15,774,870,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190792,9445190792
+15,774,870,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9445190095,9445190095
+15,774,870,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190792,9445190792
+15,774,870,relief_centres,Relief Centres,SI,193,"3 | 193 | 300 | Govt. Hr School, Thoraipakkam | Pandian nagar, Aringar Anna nagar, VPG Avenue | Yes | Yes | Yes | Sanitation, Medicine | SI | 9445025993",9445025993
+15,774,870,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190793,9445190793
+15,774,870,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9445190095,9445190095
+15,774,870,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190793,9445190793
+15,774,870,relief_centres,Relief Centres,SI,194,"4 | 194 | 300 | St.Joseph School - Vettuvankeni | Karpagavinayagar nagar, Mahathma Gandhi nagar, Ganesh nagar | Yes | Yes | Yes | Sanitation, Medicine | SI | 9445025994",9445025994
+15,774,870,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190794,9445190794
+15,774,870,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9445190095,9445190095
+15,774,870,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190794,9445190794
+15,774,870,relief_centres,Relief Centres,SI,194,"5 | 194 | 100 | Tsunami Centre, Injampakkam | Chinnandi Kuppam, Bethel Nagar | Yes | Yes | Yes | Sanitation, Medicine | SI | 9445025994",9445025994
+15,774,870,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190794,9445190794
+15,774,870,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9445190095,9445190095
+15,774,870,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190794,9445190794
+15,774,870,relief_centres,Relief Centres,SI,194,"6 | 194 | 100 | Amaithi Koil Injamabakkam (VGP) | Bethel Nagar | Yes | Yes | Yes | Sanitation, Medicine | SI | 9445025994",9445025994
+15,774,870,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190794,9445190794
+15,774,870,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9445190095,9445190095
+15,774,870,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190794,9445190794
+15,775,870,relief_centres,Relief Centres,SI,197,"7 | 197 | 250 | GPJ Mandapam, Akkarai, Sozhanganallur | MGR Nagar | Yes | Yes | Yes | Sanitation, Medicine | SI | 9445025997",9445025997
+15,775,870,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190797,9445190797
+15,775,870,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9445190095,9445190095
+15,775,870,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190797,9445190797
+15,775,870,relief_centres,Relief Centres,SI,197,"8 | 197 | 250 | Tsunami Centre, Kudumiyan dithoppu | Kudumiyan dithoppu | Yes | Yes | Yes | Sanitation, Medicine | SI | 9445025997",9445025997
+15,775,870,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190797,9445190797
+15,775,870,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9445190095,9445190095
+15,775,870,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190797,9445190797
+15,775,870,relief_centres,Relief Centres,SI,197,"9 | 197 | 100 | Tsunami Centre, Kudumiyan dithoppu | Uthandi | Yes | Yes | Yes | Sanitation, Medicine | SI | 9445025997",9445025997
+15,775,870,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190797,9445190797
+15,775,870,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9445190095,9445190095
+15,775,870,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190797,9445190797
+15,775,870,relief_centres,Relief Centres,SI,199,"10 | 199 | 300 | Govt. Hr School, Sozhanganallur | Gandhi nagar | Yes | Yes | Yes | Sanitation, Medicine | SI | 9445025999",9445025999
+15,775,870,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190799,9445190799
+15,775,870,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9445190095,9445190095
+15,775,870,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190799,9445190799
+15,775,870,relief_centres,Relief Centres,SI,200,"11 | 200 | 200 | Panchayat Union Primary School - Chemmen chery | Jawahar nagar, Ezhilmuga nagar, Rajiv Gandi nagar | Yes | Yes | Yes | Sanitation, Medicine | SI | 7871399131",7871399131
+15,775,870,relief_centres,Relief Centres,AE,,Evacuation | AE | 9445190800,9445190800
+15,775,870,relief_centres,Relief Centres,ARO,,Food & Drinking water | ARO | 9445190095,9445190095
+15,775,870,relief_centres,Relief Centres,AE,,Relief Materials | AE | 9445190800,9445190800
+15,778,875,lighting,Lighting Facilities,Assistant Engineer,197,1 | 197 | Assistant Engineer | 9445191481,9445191481
+15,779,877,boats,Rescue Boats,,193,1 | 193 | 2 Nos. of boats at Karpaga Vinayaga nagar | Karpaga Vinayaga nagar | 9445190792,9445190792
+15,779,877,boats,Rescue Boats,,193,2 | 193 | 2 Nos. of boats of Anandha nagar | Anandha nagar | 9445190793,9445190793
+15,779,877,boats,Rescue Boats,,195,3 | 195 | 2 Nos. of boats at Secretariet colony | Secretariet colony | 9445190795,9445190795
+15,779,877,boats,Rescue Boats,,195,4 | 195 | 1 No. of boats at VPG Avenue | VPG Avenue | 9445190795,9445190795
+15,779,877,boats,Rescue Boats,,194,"5 | 194 | 2 Nos. of boats at Bethel Nagar, | Bethel Nagar | 9445190794",9445190794
+15,779,877,boats,Rescue Boats,,198,6 | 198 | 1 No. of boats at Reiverview residency | Reiverview residency | 9445190798,9445190798
+15,779,877,boats,Rescue Boats,,198,7 | 198 | 1 No. of boats at Wipro Salai | Wipro Salai | 9445190798,9445190798
+15,779,877,boats,Rescue Boats,,200,8 | 200 | 1 No. of boats at Chemmencherry | Chemmencherry | 9445190800,9445190800
+15,781,883,vehicles,Transport Equipments & Lorries,,,9445026115 | 2 | 2 | 2 | 2 | 1,9445026115

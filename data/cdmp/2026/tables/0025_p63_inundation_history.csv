@@ -1,0 +1,307 @@
+pdf_page,S.No,Zone,Ward,Location,VeryHigh Vulnerability Above5Feet,High Vulnerability 3to5Feet,Medium Vulnerability 2to3Feet,Low Vulnerability lessthan2 feet
+63,1,1,5,TH Road jn.of MRF Road,,,,Yes
+63,2,1,6,Kalaignar nagar,Yes,,,
+63,3,1,1,SVM Nagar I main road,,,,Yes
+63,4,1,1,SVM Nagar II main road,,,,Yes
+63,5,1,1,Kamaraj salai,,Yes,,
+63,6,1,4,"AD Colony, Ernaavoor",,Yes,,
+63,7,1,7,"Kargil nagar, Rajaji nagar",,Yes,,
+63,8,1,1,"SVM Nagar, Ulaganathapuram",,Yes,,
+63,9,1,10,"Nandhi odai , Sadayankuppam battai",,Yes,,
+63,10,1,12,"Srinivasapuram, B.K.N Colony",,,,Yes
+63,11,1,4,Kathivakkam high road,,,,Yes
+63,12,1,5,T.H. Road (MRF road junction),,Yes,,
+63,13,1,5,T.H. Road near Liftgate,,,,Yes
+63,14,1,6,"Manali Express road, (Mullai nagar, Jothi nagar, TKS Nagar)",,Yes,,
+63,15,2,15,Manali New Town 60 Feet Road,,,,Yes ( Only during flood)
+63,16,2,16,Rajiv Gandhi Nagar from TPP Salai to Andarkuppam Main Road,,,,Yes ( Only during flood)
+63,17,2,16,From Kanniammanpet pond to Kadappakkam Lake,,,,Yes ( Only during flood)
+63,18,3,22,Mahalakshmi Nagar,,Yes,,
+63,19,3,23,Punitha Anthoniyar Street,,Yes,,
+63,20,3,23,Othai vadai Street,,Yes,,
+63,21,3,31,Ambedhkar Nagar,,Yes,,
+63,22,3,32,Sarathy Nagar,,,,Yes
+63,23,3,22,KS Nagar (Thirumalai Nagar),,,Yes,
+63,24,3,25,Collector Nagar,Yes,,,
+63,25,3,25,"Aringhar Anna Nagar,",Yes,,,
+63,26,3,24,Ambattur Redhills road (Highway),,Yes,,
+63,27,3,25,GNT Road (Near Roundana),,Yes,,
+64,28,4,41,Carnesh Nagar,,,,Yes
+64,29,4,45,Sundram Power Lane,,,,Yes
+64,30,4,45,B.V Colony 19 and 20th Street,,,,Yes
+64,31,4,45,Annai Sathya Nagar,,,,Yes
+64,32,4,45,Ganesapuram Main Road,,,,Yes
+64,33,4,47,KH Road,,Yes,,
+64,34,4,34,Construction of RCC Open Box type Retaining Wall and Bed including chain link fencing to Kodungaiyur canal North wing from Ch.0.0 to Ch.850m,,Yes,,
+64,35,4,34,Construction of RCC Open Box type Retaining Wall and Bed including chain link fencing to Kodungaiyur canal North wing from Ch.850 to Ch.1150m,,Yes,,
+64,36,4,34,Construction of RCC Open Box type Retaining Wall and Bed including chain link fencing to Kodungaiyur canal North wing from Ch.1675 to Ch.2191m,,Yes,,
+64,37,4,40,Dismantling and Reconstruction of RCC Box type storm water drain of size 1200x1200mm along Kamarajar salai from Elaya street to AE koil st,,Yes,,
+64,38,4,39,Dismantling and Reconstruction of RCC Box type storm water drain of size 1200x1200mm along T.H Road from North Terminal road to AE koil st,,,,Yes
+64,39,4,41,Providing Re-sectioning concrete lining and laying service road in link canal from Ch.2500 to 2940 in Captain Cotton Canal,,Yes,,
+65,40,4,41,Providing Re-sectioning concrete lining and laying service road in link canal from Ch.2940 to 3360 in Captain Cotton Canal,,Yes,,
+65,41,4,46,Sathya Moorthy Nagar 24th Block,,,,Yes
+65,42,5,54,Walltax Road,,,,Yes
+65,43,5,61,Ghandhi Irwan Bridge Road,,,,Yes
+65,44,5,58,"EVK Sampath Salai,",,,,Yes
+65,45,5,61,"Egmore High Road,",,,,Yes
+65,46,5,62,"Arunachalam Road,",,,,Yes
+65,47,5,63,"Chella pillayar Koil Street,",,,,Yes
+65,48,5,63,"G.P. Road,",,,,Yes
+65,49,5,53,"Vijayaragavalu Roundana,",,Yes,,
+65,50,5,58,"Sydnams Road,",,,,Yes
+65,51,5,53,Walltax Road,,,,Yes
+65,52,5,62,"Singanna Chetty Street,",,,,Yes
+65,53,5,54,Walltax Road,,,,Yes
+65,54,5,59,"VOC Salai,",,,,Yes
+65,55,6,64,Poombugar Nagar 1st Main Road,,,,Yes
+65,56,6,64,Poombugar Nagar 2nd Main Road,,,,Yes
+65,57,6,64,Dhanammal Nagar,,,,Yes
+65,58,6,64,Samuthirya Colony 1st Street,,,,Yes
+65,59,6,64,Anjugam Nagar 4th Street,,,,Yes
+65,60,6,64,Poombugar Nagar 11th Cross Street,,,,Yes
+65,61,6,64,Gandhi Street,,,,Yes
+65,62,6,64,MN Nagar,,,,Yes
+65,63,6,65,Hussain Colony 4th Street,,,,Yes
+65,64,6,65,Teachers Colonly,,,,Yes
+65,65,6,66,Gandhimathi Street,,,,Yes
+65,66,6,66,Jawahar Nagar,,,,Yes
+65,67,6,67,Rangasiyee Street,,,,Yes
+65,68,6,68,Andiyappan Street,,,,Yes
+65,69,6,66,Kamaraj Street,,,,Yes
+65,70,6,68,Pallavan Street,,,,Yes
+66,71,6,71,Konnur High Road,,,,Yes
+66,72,6,72,Decaster Road,,,,Yes
+66,73,6,72,Doss Nagar Pallam,,,,Yes
+66,74,6,73,Ammaiyammal Street,,,,Yes
+66,75,6,74,Sec Colony 1st to 9th Street,,,,Yes
+66,76,6,75,Vallavan Street,,,,Yes
+66,77,6,77,Demellous Road (Near Haj Committee),,,,Yes
+66,78,6,78,V.V.Koil Street,,,,Yes
+66,79,6,68,Maduraiswamy Madam,,,,Yes
+66,80,6,70,Bharathi Main Road,,,,Yes
+66,81,6,76,Straganas Road,,,,Yes
+66,82,6,76,Angalamman Koil Street,,,,Yes
+66,83,6,72,Dr. Ambedkar College Road,,,,Yes
+66,84,6,66,Shanthi Street,,,,Yes
+66,85,6,66,Ragavan Street,,,,Yes
+66,86,6,68,Mohamadin Salai,,,,Yes
+66,87,6,73,Lal Singh Street,,,,Yes
+66,88,6,73,Mannarswamy Street,,,,Yes
+66,89,6,67,Gopal Reddy Colony,,,,Yes
+66,90,6,73,New Ferrance Road,,,,Yes
+66,91,7,82,Gnanamoorthy Nagar & EB Colony,,,,Yes
+66,92,7,83,NAS Garden & TVS Nagar,,,,Yes
+66,93,7,86,Cth Road near Petrol Bunk,,,,Yes
+66,94,7,86,Annai Sathya Nagar,,,,Yes
+66,95,7,90,Thirumagalam road,,,,Yes
+66,96,7,93,Vandiamman Koil st,,,,Yes
+66,97,8,94,Annai Sathya Nagar from Wheels India Culvert to Padi Bridge Culvert,Yes,,,
+66,98,8,94,Villivakkam Sidco Nagar 2nd main road I main road to Burial Ground Compound Wall,,Yes,,
+67,99,8,95,Anna Nagar 18th main road (South) Ch.500m (Reach I) from 100 feet road to Ch.500m,,,,Yes
+67,100,8,95,Anna Nagar 18th main road (South) from Ch.500m (Reach 2) to Otteri Nullah canal,,,,Yes
+67,101,8,95,Anna Nagar 18th main road (North) Ch.425m from Vasantham Colony to 2nd street (Reach II),,,,Yes
+67,102,8,95,Anna Nagar 18th main road (North) from 100' road to Ch.425m (Reach I),,,,Yes
+67,103,8,95,"Kumarasamy Nagar ,Agathiyar canal",,,,Yes
+67,104,8,101,"2nd Avenue, Anna Nagar (Roundana)",,,,Yes
+67,105,8,103,Kellys Road,,,,Yes
+67,106,9,109,Vanniyar 2nd Street,,,,Yes
+67,107,9,109,Gill Nagar 1nd street,,,,Yes
+67,108,9,110,School Road,,,,Yes
+67,109,9,110,Kamarajapuram Main Road,,,,Yes
+67,110,9,111,Maakkis Garden,Yes,,,
+67,111,9,111,Thideer Nagar,Yes,,,
+67,112,9,111,Conron Smith Road,,,,Yes
+67,113,9,113,Habibullah Road,,,,Yes
+67,114,9,113,G.N.Chetty Road,,,,Yes
+67,115,9,113,North usman street,,,,Yes
+67,116,9,113,Kodambakkam High road,,,,Yes
+67,117,9,114,C.N.K. Road,,,,Yes
+67,118,9,114,Sydoji Street,,,,Yes
+67,119,9,114,John Mohammad Street,,,,Yes
+67,120,9,114,Lock Nagar,,,,Yes
+67,121,9,115,Dr. Besant Road,,,,Yes
+67,122,9,116,Dr. Besant Road,,,,Yes
+67,123,9,117,North Usman Road,,Yes,,
+67,124,9,117,G.N.C.Road,Yes,,,
+67,125,9,117,South boug road,,Yes,,
+67,126,9,117,Thirumalai pillai Street,,,,Yes
+68,127,9,113,Sarathapuram Street,,Yes,,
+68,128,9,118,Kasthuri Estate 1st street,,,,Yes
+68,129,9,118,Kasthuri Estate 2nd street,,,,Yes
+68,130,9,119,Avvai Shanmugam Salai,,Yes,,
+68,131,9,119,Lakshmipuram 2nd Street,,,,Yes
+68,132,9,119,Avvai Shanmugam Salai 1st Lane,Yes,,,
+68,133,9,119,Royapettah High Road,,,,Yes
+68,134,9,119,P.S.Siva Swamy Street,,Yes,,
+68,135,9,120,Dr. Natesan Road,,,,Yes
+68,136,9,121,Dr. Radha Krishnan Salai(jn of Thiru.Vi.Ka.High Road),,,,Yes
+68,137,9,121,Dr. Radha Krishnan Salai (jn of Dr.Natesan Road),,,,Yes
+68,138,9,121,Dr. Radha Krishnan Salai (infornt of Reliance Building),,,,Yes
+68,139,9,122,K.B.Dasan Road,,Yes,,
+68,140,9,122,Cresent Road,,Yes,,
+68,141,9,122,"Seethammal colony 3rd Street,",,Yes,,
+68,142,9,122,"Seethammal colony 4th street,",,Yes,,
+68,143,9,122,Tankbund Road,Yes,,,
+68,144,9,122,Nandhanam extension 1st Street,,Yes,,
+68,145,9,122,Nandhanam extension 2nd Street,,Yes,,
+68,146,9,122,Nandhanam extension 3rd Street,,Yes,,
+68,147,9,122,Nandhanam extension 4th Street,,Yes,,
+68,148,9,122,Nandhanam extension 5th street,,Yes,,
+68,149,9,122,Nandhanam extension 6th Street,,Yes,,
+68,150,9,122,Nandhanam extension 7th Street,,Yes,,
+68,151,9,122,Nandhanam extension 8th Street,,Yes,,
+68,152,9,122,Nandhanam extension 9th Street,,Yes,,
+69,153,9,122,Nandhanam extension 10th Street,,Yes,,
+69,154,9,122,Seethammal 1st Main Road,,Yes,,
+69,155,9,123,R.A.Puram 1st main road,,,,Yes
+69,156,9,123,Eldams Road,,,,Yes
+69,157,9,123,R.A.Puram 3rd cross street,,,,Yes
+69,158,9,124,Kutcherry Road,,,,Yes
+69,159,9,125,Karaneswarar Pagoda Street,,,,Yes
+69,160,9,126,Santhome Hign Road,,,,Yes
+69,161,9,111,Whites Road,,,,Yes
+69,162,9,112,Railway border road,,,,Yes
+69,163,9,112,Sowrastra nagar 5th street,,,,Yes
+69,164,9,112,Trustpuram 1st cross street,,,,Yes
+69,165,9,112,Bharathishwarer colony 3rd street,,,,Yes
+69,166,9,112,Sivan koil street,,,,Yes
+69,167,9,118,Mayor Sundra (rao) road,,,,Yes
+69,168,9,121,Thiru-Vi-Ka 3rd street,,,,Yes
+69,169,9,113,Improvements of storm water drain at North Usman Road,,,,Yes
+69,170,9,113,Improvements of storm water drain and construction of 3 road crossing culverts Habibullah Road,,,,Yes
+69,171,10,127,Kaliamman Koil Street(from CMWSSB STP to Sai nagar annex ),,Yes,,
+69,172,10,131,Rajamannar Salai,,Yes,,
+69,173,10,134,Rangarajapuram,,Yes,,
+69,174,10,128,Vembuliamman Koil street,,Yes,,
+69,175,10,130,100 feet Road (junction of periyar pathai),,Yes,,
+69,176,10,136,North Usman Road,,Yes,,
+69,177,10,127,100 feet road (junction of Kaliamman Koil Street),,Yes,,
+69,178,10,127,Kaliamman Koil Street (infront of police station),,Yes,,
+70,179,10,111 & 127,Construction of Storm water drain of size 900x900mm RCC Box type drain along Kaliamman koil street at Koyambedu from Metro Water Office in Dn.111 to 100 ft road in Dn.127,,Yes,,
+70,180,11,144,"MMDA Colony 4th , 5th & 6th block",,,,Yes
+70,181,11,145,Pallavan Nagar,,,,Yes
+70,182,11,143,Gajalakshmi nagar,Yes,,,
+70,183,11,143,VGN nagar phase III,,Yes,,
+70,184,11,143,Sakthi nagar,,,,yes
+70,185,11,143,Vembuli amman koil street,,,,Yes
+70,186,11,146,Metro nagar,,,,Yes
+70,187,11,147,Krishna nagar,,Yes,,
+70,188,11,147,Alapakkam main road,,Yes,,
+70,189,11,147,Pallavan nagar,,,,Yes
+70,190,11,148,Anbu nagar,,Yes,,
+70,191,11,148,Balavinayagar street,,Yes,,
+70,192,11,148,CDN nagar,,,,Yes
+70,193,11,149,Radha avenue,,Yes,,
+70,194,11,149,Sri Lakshmi nagar,,Yes,,
+70,195,11,150,Mullai street,,,,Yes
+70,196,11,150,Arcot road,,Yes,,
+70,197,11,151,Officers colony,,Yes,,
+70,198,11,151,Annai sathya nagar,,Yes,,
+70,199,11,153,Ganesh avenue 1st to 10th street,,Yes,,
+70,200,11,155,Amman nagar,Yes,,,
+70,201,11,155,Royala nagar,Yes,,,
+70,202,11,155,Bakthi vedhandha avenue,Yes,,,
+70,203,11,154,Bharathi salai,,Yes,,
+71,204,11,148,Construction of storm water drain of size 1200x1200mm along IAS Qtrs road and Pachaiamman koil street from Dead End to Virugambakkam Canal,,,,Yes
+71,205,11,152,Sairam avenue,,Yes,,
+71,206,12,156,Bhell Nagar,,,,Yes
+71,207,12,157,"Kaviya Garden, CRR Puram Phase III, Purachi Thalivi Nagar, Bhell Nagar, Dharmarajapuram, Sathiya Nagar, Astalakshmi Avenue and Sedhu Lakshmi Avenue, River view colony",,,,Yes
+71,208,12,165,"Bharathidasan Nagar,",,,,Yes
+71,209,12,167,Nanganallur 44th street,,,,Yes
+71,210,12,158,Construction of storm water drain along Ganapathi Colony from Thulasingapuram to Adayar river of size 1200x1200mm,,,,Yes
+71,211,12,165,"Bhuvaneswari Nagar,",,,,Yes
+71,212,12,165,Income Tax colony Area Back flow of sewage water,,,,Yes
+71,213,12,162,"Thillai Ganga Nagar 25 th Street, 27th Street, 28th Street, Thillai Ganga Nagar 2nd MainRoad, and 4th Main Road",,,,Yes
+71,214,13,173,Mayflower garden,,Yes,,
+71,215,13,173,R.A Puram IV cross street,,Yes,,
+71,216,13,173,Valleswaranthottam,,Yes,,
+71,217,13,173,Srinivasa avenue,,Yes,,
+71,218,13,174,Mosque street,,,,Yes
+71,219,13,179,Gandhi road,Yes,,,
+71,220,13,179,Vallalar street - Annai Indra nagar,Yes,,,
+71,221,13,179,Sivasakthi street - Annai Indra nagar,Yes,,,
+71,222,13,179,Kamatchiamman street - Annai Indra nagar,Yes,,,
+72,223,13,179,Sastri street (Part),Yes,,,
+72,224,13,179,Udayam nagar & extn,Yes,,,
+72,225,13,177,"Astalakshmi nagar II, III, IV & V streets",,,,Yes
+72,226,13,173,MRC Nagar,,Yes,,
+72,227,13,173,Vasantha avenue,,Yes,,
+72,228,13,173,Kasthuri avenue,,Yes,,
+72,229,13,175,L.B road,,,,Yes
+72,230,13,175,Kasthuribai nagar,,,,Yes
+72,231,13,175,Indra nagar,,,,Yes
+72,232,13,175,Anna avenue,,,,Yes
+72,233,13,176,"Sastri nagar II, IX & XV cross street",,Yes,,
+72,234,13,178,A.G.S Colony,Yes,,,
+72,235,13,179,V.G.P Selva nagar Extn I to V streets,Yes,,,
+72,236,13,179,V.G.P Selva nagar I cross street & I main road,Yes,,,
+72,237,13,179,Bhuvaneshwari nagar I & III cross street & III main road,Yes,,,
+72,238,13,179,Veenus colony II street,Yes,,,
+72,239,13,181,Dr.Radhakrishnan nagar,,,,Yes
+72,240,13,181,Valmigi street,,,,Yes
+72,241,13,180,C.S.I.R road,,,,Yes
+72,242,13,174,Nehru nagar - Veerapandiya Kattabomman street,,Yes,,
+72,243,13,174,Nehru nagar - Periyar street,,Yes,,
+72,244,13,174,Nehru nagar - Anbil Dharmalingam street,,Yes,,
+72,245,13,174,Velachery main road,,Yes,,
+72,246,13,182,Journalist colony,,Yes,,
+72,247,13,171,Construction of SWD of size 1500x1500mm along and across Sardar Patel road (Opp to Rajbhavan),,Yes,,
+73,248,13,177,Construction of RCC Box type storm water drain along EB colony 2nd street from EB colony main road to Radha Nagar extension main road,,Yes,,
+73,249,13,177,Construction of storm water drain along Lakshmi nagar 2nd street from Lakshmi Nagar main road to Rajiv Gandhi nagar main road,,Yes,,
+73,250,13,182,Avvai nagar,,,,Yes
+73,251,13,182,Kannappa nagar,,,,Yes
+73,252,13,182,Ganapathy colony,,,,Yes
+73,253,13,172,"Chitra nagar, Kotturpuram",Yes,,,
+73,254,13,177,Ambedkar nagar II main road,,,,Yes
+73,255,13,177,Kamarajar street - Nehru nagar,,,,Yes
+73,256,13,177,TNHB Colony III main road,,,,Yes
+73,257,13,177,A.G.S Colony VI street,,,,Yes
+73,258,13,177,ASK Nagar,,,,Yes
+73,259,13,177,Ex Service man colony,,,,Yes
+73,260,13,177,Ambedkar nagar I cross street,,,,Yes
+73,261,13,177,TNHB Colony - EWS lanes,,,,Yes
+73,262,13,177,Nethaji colony I to IV cross streets,,,,Yes
+73,263,13,177,Andal nagar extn I to III streets,,,,Yes
+73,264,13,177,Venkateswara nagar III main road,,,,Yes
+73,265,13,177,A.G.S Colony III main road,,,,Yes
+73,266,13,177,Mahalakshmi nagar III cross street,,,,Yes
+73,267,13,177,Brindavan nagar II street,,Yes,,
+73,268,13,179,Seshadripuram I main road,Yes,,,
+73,269,13,170,Nagi (R ) Thottam,Yes,,,
+73,270,13,170,Chetti thottam,Yes,,,
+73,271,13,170,Neruppumedu,Yes,,,
+74,272,13,170,Vinayagapuram,Yes,,,
+74,273,13,170,Anusuyamandapam,Yes,,,
+74,274,13,178,Vijayanagar area,Yes,,,
+74,275,13,178,Ram Nagar area,Yes,,,
+74,276,13,179,"Tansi nagar II, III, V, VII & X streets",Yes,,,
+74,277,13,179,Dhandeeswaram nagar,Yes,,,
+74,278,13,179,Seetharam nagar,Yes,,,
+74,279,13,179,Sarathy nagar,Yes,,,
+74,280,13,180,Velachery Taramani road (100' road),,,,Yes
+74,281,14,184,"MGR Salai, MRTS (Near ICDS)",,,,Yes
+74,282,14,187,Karthikeyapuram,,,,Yes
+74,283,14,187,New Kubera Nagar 5th & 7th Street,,,,Yes
+74,284,14,169,Ram Nagar (North),,,,Yes
+74,285,14,169,Annai Therasa nagar,,,,Yes
+74,286,14,169,Puzhuthivakkam Bust Stand,,,,Yes
+74,287,14,186,"OMR, Jn. of Thirumalai Nagar",,,,Yes
+74,288,14,185,"ECR, Palgalai Nagar",,,,Yes
+74,289,14,183,"ECR, Near BATA Showroom",,,,Yes
+74,290,14,183,ECR Opp. Fish market,,,,Yes
+74,291,14,184,"OMR, MGR Salai Jn.",,,,Yes
+74,292,14,185,"ECR, Govindan Nagar",,,,Yes
+74,293,14,188,Rajesh Nagar,,,,Yes
+74,294,14,188,Rajaji Nagar,,,,Yes
+74,295,14,188,LIC Nagar,,,,Yes
+74,296,14,188,Madipakkam Bus Stand,,,,Yes
+75,297,15,192,Ellaiamman koil street,,,,Yes
+75,298,15,193,MCN Nagar,,,,Yes
+75,299,15,194,OMR - Mettukuppam (VPG Avenue Junction),,Yes,,
+75,300,15,197,Wipro Salai,,Yes,,
+75,301,15,192,"Construction of SWD of size 600x750mm along Kumaraguru Avenue , Neelankarai",,,,Yes
+75,302,15,192,"Construction of SWD of size 1200x1200mm along Pandian Salai, Neelankarai",,,,Yes
+75,303,15,192,"Construction of SWD of size 600x750m along Saraswathi Nagar South, Neelankarai",,Yes,,
+75,304,15,193,"Construction of SWD of size 900x900mm along Karpaga Vinayagar Koil Street, Vettuvankeni",,,,Yes
+75,305,15,196,"Construction of storm water drain along Ist Avenue Main Road, Vettuvankeni",,,,Yes
+75,306,15,197,Lalbahadhur Sasthiri Street,,,,Yes

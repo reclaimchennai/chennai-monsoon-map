@@ -1,0 +1,7 @@
+# pipeline (Python 3.11+)
+pdfplumber==0.11.10
+shapely>=2.0
+rapidfuzz>=3.0
+# pump-list OCR only (pipeline/ocr_tables.py, ocr_phone_check.py); also needs the tesseract binary
+opencv-python-headless>=4.8
+numpy>=1.26

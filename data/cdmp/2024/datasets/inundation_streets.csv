@@ -1,0 +1,357 @@
+zone,pdf_page,table_id,ward,street,max_depth,time_to_drain,pump,pump_location,disposal_point,reason,rain
+1,203,99,1,SVM Nagar,,,Diesel,17th street,drain,,
+1,203,99,1,Ulaganadhapuram,,,6.5 H.P Diesel,Ulaganathapuram 8th street,K.H road drain,,
+1,203,99,1,Thazhankuppam,,,6.5 H.P Diesel,K.H road,K.H road drain,,
+1,203,99,2,K.H . Road (Shopping Complex),,,6.5 H.P Diesel,K.H road,K.H road drain,,
+1,203,99,2,K.H . Road Bus stand,,,5 H.P Petrol,K.H road,K.H road drain,,
+1,203,99,2,Railway station Road,,,5 H.P Petrol,Railway.Stn. Road,Valluvar nagar drain,,
+1,203,99,3,Annai sivagami nagar,,,6.5 H.P Diesel,J.J Nagar,To sea,,
+1,203,99,4,Manali Express Road,,,5 H.P,Manali Express Road,'B' canal,,
+1,203,99,5,T.H Road,,,6.5 H.P Diesel,Wimco nagar,MRF Drain,,
+1,203,99,6,Kalainar Nagar,,,5 H.P Diesel,Kalaignar nagar 12th street,Kalaignar 9th street,,
+1,203,99,6,Manali Road,,,-,-,Drain by gravity,,
+1,203,99,6,Kalaignar Street,,,5H.P and 25H.p,Kalaignar nagar 9th street,Kalaignar Main road,,
+1,203,99,7,Kargil Nagar,,,35 H.P Diesel,B canal Service road,'B' canal,,
+1,203,99,7,Vetri Vinayagar Nagar,,,35 H.P,Anna nagar 1st street,Rajiv Gandhi nagar main road drain,,
+1,203,99,7,Anna Nagar,,,6.5 H.P Diesel,Anna nagar 1st street,Rajiv Gandhi nagar main road drain,,
+1,203,99,7,Rajaji Nagar,,,6.5 H.P Diesel,Sasthri street,'B' canal,,
+1,204,99,7,Radhakrishna Nagar,,,Diesel,nan nagar 4th street,Kargil nagar drain,,
+1,204,99,9,Thiruvottiyur kuppam,,,-,street -,Drain by gravity,,
+1,204,99,10,Nandhi odai Kuppam,,,6.5 H.P Diesel,Railway track,Railway track,,
+1,204,99,12,B.K.N Colony (police quarters),,,5.0 H.P Petrol,Police quarters,1st street drain,,
+1,204,99,12,Thilagar Nagar,,,5.0 H.P Petrol,Railway track,Main road,,
+1,204,99,14,T.H Road,,,-,-,Drain by gravity,,
+1,204,99,14,N.T.O Kuppam,,,-,-,Drain by gravity,,
+2,239,157,15,Manali new town,2 Feet,2 days,,,CMDA CANAL TO KOSASTHALAIYAR RIVER,,
+2,239,157,15,Ponniamman nagar manali new town,2 .5 Feet,2 days,,,,,
+2,239,157,15,Kanni koil medu,2 Feet,2 days,,,SWD TO KOSASTHALAIYAR RIVER,,
+2,239,157,15,Periya echanguzhi,2 Feet,2 days,,,CMDA CANAL TO KOSASTHALAIYAR RIVER,,
+2,239,157,15,Chinna echanguzhi,4 Feet,3 days,,,,,
+2,239,157,15,New napalayam,3 Feet,2 days,,,THULASI NAGAR CANAL TO KOSASTHALAIYAR RIVER,,
+2,239,157,15,Edayanchawadi,2 Feet,2 days,,,KOSASTHALAIYAR RIVER,,
+2,239,157,15,Vadugarpalayam,3 Feet,2 days,,,OLD NAPPALAYAM CANAL TO KOSASTHALAIYAR RIVER,,
+2,239,157,15,Old colony old napalayam,3 Feet,2 days,,,,,
+2,239,157,15,Ooru theru,3 Feet,2 days,,,,,
+2,239,157,15,New colony new napalayam,2 Feet,2 days,,,THULASI NAGAR CANAL TO KOSASTHALAIYAR RIVER,,
+2,239,157,16,Kamarajarpuram,4 Feet,2 days,,,Toshiba Canal,,
+2,239,157,16,Kanniammanpet 1,4 Feet,2 days,,,,,
+2,239,157,16,Kanniammanpet 2,4 Feet,2 days,,,,,
+2,239,157,16,Kadapakkam,4 Feet,2 days,,,,,
+2,239,157,16,Kullakarai,4 Feet,2 days,,,TNHB PHASE II ELANTHANOOR,,
+2,239,157,16,Andarkuppam,4 Feet,2 days,,,Toshiba Canal,,
+2,239,157,16,Manali new town phase I,2 Feet,2 days,,,TNHB PHASE II ELANTHANOOR,,
+2,239,157,16,Manali new town phase II,2 Feet,2 days,,,,,
+2,239,157,16,Rajiv gandhi nagar,4 Feet,2 days,,,Toshiba Canal,,
+2,239,157,16,Vadiudaiamman nagar,2 Feet,2 days,,,Vadiudaiamman Nagar,,
+2,239,157,16,Jenifer nagar,2 Feet,2 days,,,,,
+2,239,157,16,R L nagar,2 Feet,2 days,,,,,
+3,275,204,23,Mahaveer Garden Main Road,,,Kutcha Drain Formed,,Thiruneelagandar Main Road - Puzhal Surplus,,heavy
+3,275,204,23,Sakthivel Nagar Main Road,,,Kutcha Drain Formed,,Mahaveer Garden Main Road - Puzhal Surplus,,heavy
+3,275,204,23,Thirumalai Nagar 9th Street,,,Hume Pipe laid. Brick work barrier constructed,,KS Nagar Main Street - Puzhal Surplus,,heavy
+3,275,204,23,Sakthivel Nagar 22nd Street,,,2' Hume Pipe laid,,Sakthivel Nagar Main Road - Puzhal Surplus,,heavy
+3,275,204,24,"UCHC, GNT Road, Puzhal",,,Pumping 22 HP,,Ottravadai st - Pura kulam,,heavy
+3,275,204,25,200 Feet East & West Service Road,,,Pump Western Side 165 HP,,200 Feet Road - Puzhal Surplus,,heavy
+3,275,204,25,Gilburn Nagar,,,Pump 35 HP,,200 Feet Road SWD - MRH Road - Puzhal Surplus,,heavy
+3,275,204,25,Arignar Anna Nagar,,,Pump deployed 125 HP,,Retteri Surplus Canal,,heavy
+3,275,204,25,"Seethapathy Nagar 10, 17 and 20th Streets",,,3 Nos. of Pumps deployed 45 HP,,Seethapathy Nagar Main Road - Thattankulam Road - MRH Road - Kodungayur Canal,,heavy
+3,275,204,26,Alex Nagar D Colony,,,2 Nos. Pumps deployed 30 HP,,Bharathidasan St - MMC Road - Manali Lake,,heavy
+3,275,204,27,Papathi Ammal Street,,,1 No. Pump 25 HP,,Kumaran Street - Seeyalan St - Kumaran St Extn - Parthasarathy Road - Velu Street,,heavy
+3,275,204,27,Ayyavu Garden,,,1 No. Pump 25 HP,,Kumaran Street - Seeyalan St - Kumaran St Extn - Parthasarathy Road - Velu Street,,heavy
+3,276,204,27,"Padavattamman Koil 2nd Street, Kesthamman Koil Street",,,1 No. Pump 25 HP,,Parthasarathy Street - Velu Street,,heavy
+3,276,204,27,"Govindaraj Street, Sundaramurthy Street",,,2 Nos. Pumps 50 HP,,Kumaran Street Extention,,heavy
+3,276,204,27,Sakunthala Street,,,Kutcha drain to Peruyasekkadu Perumal Koil Street,,Periyasekkadu Perumal Koil Street,,heavy
+3,276,204,28,Ambedkar Nagar Main Road,,,1 No. Pump 15 HP,,GNT Road - Kodungayur Canal,,heavy
+3,276,204,28,Kannabiran Koil Street and Cross Streets,,,2 Nos. Pumps 15 HP,,Muthumariamman St - MRH Road - Kodungayur Canal,,heavy
+3,276,204,28,Dhansingh Maistry Street,,,1No. 15 HP & 1No. 25 HP,,MRH Road - Kodungayur Canal,,heavy
+3,276,204,29,Anna Street,,,1 No. Pump 35 HP,,Rangasamy street - 80 Feet Road canal,,heavy
+3,276,204,29,Nethaji Street,,,1 No. Pump 35 HP,,Big Street - GNT Road - 80 Feet Road Canal,,heavy
+3,276,204,29,Annapoorna Nagar Main Road,,,1 No. Pump 35 HP,,Balakrishna nagar Main road - 80 Feet Road canal,,heavy
+3,276,204,29,Govindasamy Street,,,1 No. Pump 25 HP,,Thanikachalam Nagar 'E' blk Anna Street - 80 Feet Road Canal,,heavy
+3,276,204,29,Thanikachalam Nagar 5th Main Road,,,1 No. Pump 25 HP,,Thanikachalam Nagar 80 Feet road Canal,,heavy
+3,276,204,29,Ma. Po. Vedhachalam Street,,,1 No. Pump 25 HP,,GNT Road Drain,,heavy
+3,276,204,30,Thirumalai Nagar 2nd Street,,,1 No. Pump 35 HP,,Thirumalai nagar extn 1st main road - Thanikachalam Canal,,heavy
+3,276,204,30,Swamy Nagar,,,1 No. Pump 35 HP,,Samy Nagar Pond,,heavy
+3,276,204,30,Thangavel Nagar,,,1 No. Pump 35 HP,,Thirumalai nagar extn 1st main road - Thanikachalam Canal,,heavy
+3,276,204,30,Kanchi Nagar,,,1 No. Pump 35 HP,,Rettai Eri,,heavy
+3,276,204,30,Subramani Nagar,,,1 No. Pump 35 HP,,Rettai Eri,,heavy
+3,276,204,30,Ganesh Nagar,,,1 No. Pump 35 HP,,Rettai Eri,,heavy
+3,276,204,30,Thirumal Nagar,,,1 No. Pump 35 HP,,Thirumalai nagar extn 3rd street - Thanikachalam Canal,,heavy
+3,277,204,30,"Elizabeth Nagar Main Road & adjoining areas (Devaki Nagar, Mohan Nagar, Chellaiah Nagar, Annapoorna Nagar and Ragavendra Nagar)",,,1 No. 100 HP; 2 Nos. 25 HP; 2 Nos. 10 HP and 1 No. 25 HP (Total 195 HP Pumps ),,200 Feet Road - GNT Road - Moolakadai - B Canal,,heavy
+3,277,204,31,David Jayavelu Street,,,1 No. Pump 25 HP,,GNT Service Road - Korattur Canal,,heavy
+3,277,204,31,Srinivasa Nagar Extension,,,1 No. Pump 25 HP,,GNT Service Road - Korattur Canal,,heavy
+3,277,204,32,Surapet Underpass,,,Natural Flow,,Natural Flow,,heavy
+4,320,251,34,inundation seen Durgai Avenue,,,pumps 5HP -2 10HP -1,Vedhandhamurugappan St Jn of Durgai Avenue 1st Main Road,point KDG Canal,,heavy
+4,320,251,34,Ponnuswamy Nagar,,,,,,,heavy
+4,320,251,34,Govindaswamy Nagar,,,,,,,heavy
+4,320,251,35,Muthamil Nagar 7th Block,,,"5 HP, 10 HP and 15 HP",Muthamil Nagar 7th Block,Rain Water discharged to Storm Water Drain,,heavy
+4,320,251,35,Muthamil Nagar 8th Block,,,,Muthamil Nagar 8th Block,,,heavy
+4,320,251,36,TVK 1st Link Road,,,Canal Overflow into this area so not feasible of pump usage-natural Disposal to SWD,,,,heavy
+4,320,251,36,Dr. Radhakrishnan Street,,,Canal Overflow into this area so not feasible of pump usage-natural Disposal to SWD,,,,heavy
+4,320,251,36,Ambedkar Street,,,Canal Overflow into this area so not feasible of pump usage-natural Disposal to SWD,,,,heavy
+4,320,251,36,Sharma nagar 3rd Main Road,,,Canal Overflow into this area so not feasible of pump usage-natural Disposal to SWD,,,,heavy
+4,320,251,36,Indra Nagar 2nd Cross Street,,,Canal Overflow into this area so not feasible of pump usage-natural Disposal to SWD,,,,heavy
+4,320,251,36,"19th West Cross Street, MKB Nagar",,,Canal Overflow into this area so not feasible of pump usage-natural Disposal to SWD,,,,heavy
+4,320,251,36,Thiruvalluvar Nagar 8th Main Road,,,Canal Overflow into this area so not feasible of pump usage-natural Disposal to SWD,,,,heavy
+4,321,251,37,inundation seen MKB Nagar 16th to 19th Central and East,,,"pumps 5 HP, 10 HP and 15 HP",MKB Nagar 16th to 19th Central and East,point Rain Water discharged to Storm Water Drain,,heavy
+4,321,251,37,RR Nagar 3rd &4th Main Road,,,,RR Nagar 3rd &4th Main Road,,,heavy
+4,321,251,37,"RR Nagar 5th,6th and 2nd Main Road",,,,"RR Nagar 5th,6th and 2nd Main Road",,,heavy
+4,321,251,37,"RR Nagar 2nd,3rd,5th & 6th Cross Road",,,,"RR Nagar 2nd,3rd,5th & 6th Cross Road",,,heavy
+4,321,251,37,KKD Nagar,,,,KKD Nagar,,,heavy
+4,321,251,37,Santhiya Nagar,,,,Santhiya Nagar,,,heavy
+4,321,251,37,Subramani Street,,,,Subramani Street,,,heavy
+4,321,251,37,Lord Madha Street,,,,Lord Madha Street,,,heavy
+4,321,251,37,Srinivasan Street,,,,Srinivasan Street,,,heavy
+4,321,251,38,Patel Nagar 3rd Street,,,"10HP-1, 5HP-1",Patel Nagar 3rd Street,B-Canal,,heavy
+4,321,251,38,"Ilaya Street, Kamaraj Street in Div - 40",,,25HP – 2 Nos Electrical Motor,AE Koil Street Pump Room,SWD at QQ Scheme Roads,,heavy
+4,321,251,40,Thiruvalluvar Quarters,,,"10HP-3, 7HP – 1 2HP- 1, Super Sucker",Thiruvalluvar Quarters back side Entrance,Ellaya Street,,heavy
+4,321,251,40,VOC Nagar,,,,28th Link Street TP Scheme Road,Ellaya Street,,heavy
+4,321,251,40,Chelliamman kovil Street,,,Canal Overflow this area so not feasible of pump usage,,,,heavy
+4,322,251,42,inundation seen Kailasam Street,,,pumps 5HP-2,Junction Ilaya Street,point Ilaya Street SWD,,heavy
+4,322,251,42,Rettaikuzhi Street,,,5HP-1,Police Station,TH Road SWD,,heavy
+4,322,251,43,New Amaranjipuram,,,5HP-1,SN Chetty Street Jn,SN Chetty Street SWD,,heavy
+4,322,251,46,SM Nagar 24th Block,,,"4HP-1 Nos,2HP-1",Jn of SM Nagar Main Road,Vyasarpadi Canal,,heavy
+4,322,251,47,CB Road & KH Road,,,"10HP-1,5HP1,3HP-1",Sigirinthapalayam 4th St,"Kamarajar 10th,12th Street upto B Canal",,heavy
+5,372,305,53,Walltax Road,,,5 HP,Kondithoppe),Canal,,heavy
+5,372,305,53,"Vijayaragavalu Roundana,",,,10 HP,(Zone-5 Office),Canal,,heavy
+5,372,305,54,Walltax Road,,,5 HP,Thirupalli Street junction,Pumped out to B Canal,,heavy
+5,372,305,54,Walltax Road and,,,2-HP,Amman Koil Street Junction,Pumped out to B Canal,,heavy
+5,372,305,58,"EVK Sampath Salai,",,,5 HP,Vepery Road,B Canal drain pipe provided to connect SWD,,heavy
+5,372,305,58,"Sydnams Road,",,,5 HP,Near Taluk office,Coovam River drain pipe provided and connected to SWD for Quick draing,,heavy
+5,372,305,59,"VOC Salai,",,,5 HP,Near Railway Office,,,heavy
+5,372,305,61,Ghandhi Irwan Bridge Road,,,5 HP,Opp.to Ramada Hotel,Pumped out to near by SWD,,heavy
+5,372,305,61,"Egmore High Road,",,,5 HP,Near Veeraswamy Street,"Centre Median opened for draining ,New drain provided",,heavy
+5,372,305,62,"Singanna Chetty Street,",,,5 HP,Jn.of East Coovam Road,,,heavy
+5,372,305,62,"Arunachalam Road,",,,5 HP,Near Zion Church,Pumped out to near by SWD,,heavy
+5,372,305,63,"Chella pillayar Koil Street,",,,5 HP,Jn of Bharathi Salai.,Pumped out to near by SWD,,heavy
+5,372,305,63,"G.P. Road,",,,5 HP,Opp.to Sarmany Hotel,Pumped out to near by SWD,,heavy
+6,407,353,65,"Samuthriya Colony, Gandhi Nagar",,,"Pumped out Water With 5HP,7HP",Samuthriya Nagar,Velavan Nagar,,
+6,407,353,64,"Senthil Nagar, Mahaveer Nagar, Srinivasa Nagar, Selvi Nagar",,,Pumped out Water With 5HP,Thillai Nagar,SWD,,
+6,407,353,68,Papermills Road,,,Natural Flow,-,-,,
+6,407,353,69,"GKM Colony, Munusamy Street,Sivagami Street",,,Pumped out Water With 5HP,Near Storm Water Drain,1.Vannan Kuttai Kulam 2. Foxen Street. 3. Foxen Street,,
+6,407,353,67,Papermills Road,,,Pumped out Water With 5HP,Near S2 Theatre,SWD,,
+6,407,353,70,"MH Road, Anderson Road",,,Natural Flow,-,-,,
+6,407,353,71,PH Road South Jamaliya,,,Due to increasing level in otteri nallah natural flow,-,Otteri Nallah,,
+6,407,353,74,Chandra Yogi Samathi Street,,,Pumped out Water With 6HP,Near be Police booth,SWD,,
+6,407,353,72,Kannigapuram,,,Pumped out Water With 2-5HP,Doss Nagar,Railway Canal,,
+6,407,353,73,"Ammaiyammall Road, New Ferrance Road, Strahans Road",,,Pumped out Water With 10 HP,"Jn of Puliayanthope High Road, Jn of Ambedkar College Road, Starhans Road",Otteri Nallah,,
+6,407,353,75,Subburayan Street,,,Pumped out Water With 5HP,Subburayan 5th Street,SWD,,
+6,408,353,76,Chellappa Street,,,Pumped out Water With 5HP,Jn of Strahans Road,Otteri Nallah,,
+6,408,353,76,"Strahans Road, Barracka Gate Road",,,Due to increasing level in otteri nallah natural flow,-,-,,
+6,408,353,77,"Demellows Road, Elephant Gate Bridge Road",,,Pumped out Water With 5HP,Near HajjCommitty,MothilalNehru Street,,
+6,408,353,78,"Angallamman Koil street, Choolai High Road",,,Pumped out Water With 5HP,Jn of Angallamman Koil Street,SWD,,
+7,449,409,82,Indian bank colony,,,25 Hp,Indian bank colony,Indian bank colony,,heavy
+7,449,409,82,TNEB Colony,,,25 HP,TNEB Colony,TNEB Colony,,heavy
+7,449,409,82,East Balaji nagar,,,10 HP,East Balaji nagar,East Balaji nagar,,heavy
+8,488,466,95,Thanthoniamman Koil Street,,,7.5 HP,Thanthoniamman Koil Street,SWD,,
+8,488,466,95,Welcome Colony,,,7.5 HP,Welcome Colony,SWD,,
+8,488,466,95,"Vijayalakshmipuram 1 to 3 Streets & Thanthoniamman Extn., lane",,,7.5 HP,"Vijayalakshmipuram 1 to 3 Streets & Thanthoniamman Extn., lane",SWD,,
+8,488,466,95,Bajanai Koil Street,,,7.5 HP,Bajanai Koil Street,SWD,,
+8,488,466,96,Konnur High Road,,,,Konnur High Road,SWD,,
+8,488,466,96,Kakkanji Nagar & Gandhi Nagar,,,10 HP,Kakkanji Nagar & Gandhi Nagar,SWD,,
+8,488,466,97,Veerasamy Main Street,,,7.5 HP,Veerasamy Main Street,SWD,,
+8,488,466,97,P.E.Koil West Mada Street,,,3 HP,P.E.Koil West Mada Street,SWD,,
+8,488,466,103,AD Block,,,,AD Block,SWD,,
+8,488,466,102,C Block,,,7.5 HP,C Block,SWD,,
+8,488,466,102,W Block,,,,W Block,SWD,,
+8,488,466,102,Bharathipuram Main Street,,,7.5 HP - 2,Bharathipuram Main Street,SWD,,
+8,488,466,102,Bharathipuram 4th Street,,,7.5 HP - 2,Bharathipuram 4th Street,SWD,,
+8,488,466,102,F Block 2nd & 4th Street,,,7.5 HP - 2,F Block 2nd & 4th Street,SWD,,
+8,488,466,102,Muthumariamman Colony,,,7.5 HP -2,Muthumariamman Colony,SWD,,
+8,488,466,100,Millers Road,,,"10 HP, 17.5 HP",Millers Road,SWD,,
+8,488,466,100,Purasaiwalkam High Road (near Law College),,,"7.5 HP, 7.5 HP - 3",Purasaiwalkam High Road (near Law College),SWD,,
+8,488,466,100,Rajarathinam Street,,,7.5 HP,Rajarathinam Street,SWD,,
+8,488,466,100,Kellys Road,,,"7.5 HP – 2, 5 HP",Kellys Road,SWD,,
+8,488,466,99,Sundaram Lane,,,7.5 HP,Sundaram Lane,SWD,,
+8,489,466,99,Osone Kulam Tenements,,,40 HP,Osone Kulam Tenements,SWD,,
+8,489,466,99,New Bhoopathy Nagar,,,7.5 HP,New Bhoopathy Nagar 7th street,SWD,,
+8,489,466,99,Sastri Nagar,,,7.5 HP,Sastri Nagar,SWD,,
+8,489,466,99,Lawders Gate Main Road,,,5 HP,Lawders Gate Main Road,SWD,,
+8,489,466,99,Shanmugarayan Street,,,5 HP,Shanmugarayan Street,SWD,,
+8,489,466,105,Water Tank Road,,,10 HP - 2,Water Tank Road,SWD,,
+8,489,466,108,MC Nichols 3rd Lane,,,5 HP,MC Nichols 3rd Lane,SWD,,
+8,489,466,106,Iyyappa Nagar,,,5 HP,Iyyappa Nagar,SWD,,
+8,489,466,106,Periyar Pathai,,,3 HP,Periyar Pathai,SWD,,
+9,529,523,113,Habibullah Road,,,5 HP& 40HP,Habibullah Road,Mamabalam Canal,,
+9,529,523,117,G.N.Chetty Road,,,5 HP& 40HP,G.N.Chetty Road,Mamabalam Canal,,
+9,529,523,122,PasumponMuthu Ramalinga (D) Salai,,,5HP,PasumponMuthu Ramalinga (D) Salai,Mamabalam Canal,,
+9,529,523,114,Lock Nagar,,,5HP,Lock Nagar,B Canal,,
+9,529,523,115,Dr.Besant Road,,,5HP,Dr.Besant Road,B Canal,,
+9,529,523,116,Dr.Besant Road,,,5HP,Dr.Besant Road,B Canal,,
+9,529,523,120,Dr.Natesan Road,,,5HP,Dr.Natesan Road,B Canal,,
+9,529,523,121,Ganeshapuram,,,5HP,Ganeshapuram,B Canal,,
+9,529,523,123,"T.T.K.Road, Seethammal Road",,,5HP,"T.T.K.Road, Seethammal Road",B Canal,,
+9,529,523,124,Ramakrishnapuram,,,5HP,Ramakrishnapuram,B Canal,,
+9,529,523,125,Karneeshwarer Pokoda Street,,,5HP,Karneeshwarer Pokoda Street,B Canal,,
+9,529,523,126,Santhome High Road,,,5HP,Santhome High Road,Loop Road,,
+9,530,523,110,"School Road, Lake Area",,,5HP,"School Road, Lake Area",Jn of Tank bund Road SWD,,
+9,530,523,111,"Whites Road, Pattulas Road",,,2 Nos 5HP,"Whites Road, Pattulas Road",Pattulas Road SWD,,
+9,530,523,118,"Mayor Sundrarao Road, Kasthuri Rangan Road",,,5HP,"Mayor Sundrarao Road, Kasthuri Rangan Road",Jn of G.N Chetty Road,,
+9,530,523,119,"AvvaiShanmugam Salai, Lakshmipuram, Sivaswamy Street",,,5HP,"Avvai Shanmugam Salai, Lakshmipuram, Sivaswamy Street",Royapettah High Road SWD,,
+10,570,583,127,100 feet road (junction of Kaliamman Koil Street),,,pumps 10H.P - 2,Kaliammn Koil street,Virugambakkam Canal,,
+10,570,583,127,Kaliamman Koil Street (infront of police station),,,10H.P,K10 Police Station,Highways SWD,,
+10,570,583,127,Kaliamman Koil Street (from CMWSSB STP to Sainagar annex ),,,10H.P,Kaliamman Koil Bus Stand,Virugambakkam Canal,,
+10,570,583,128,Vembuliamman Koil street,,,10H.P,Vembuliamman Koil street,Vembuliamman Koil Swd,,
+10,570,583,130,100 feet Road (junction of periyarpathai),,,10H.P,Periyar Pathai,100 Feet Road Highway Swd,,
+10,570,583,131,RajamannarSalai,,,2Nos of 10.H.p,Rajamannar Salai,Rajamannar Salai,,
+10,570,583,134,Rangarajapuram,,,10 H.P,Rangarajapuram,Rangarajapuram Swd,,
+10,570,583,136,North Usman Road,,,3 Nos of H.P,Near Viveks & Co,Bazulla Road Swd,,
+10,571,584,127,Kaliammankoil street,,,pumps 10 H.P,Kaliammankoil street,SWD,,heavy
+10,571,584,,100 Feet Road,,,10 H.P,100 Feet Road,SWD,,heavy
+10,571,584,128,Arcot Road,,,2- 10 H.P,Arcot Road,SWD,,heavy
+10,571,584,128,Lambet Nagar,,,10 H.P,Lambet Nagar,SWD,,heavy
+10,571,584,129,K.K.Salai,,,5 H.P,K.K.Salai,SWD,,heavy
+10,571,584,130,Nerkundrum pathai east,,,10 H.P,Nerkundrum pathai east,SWD,,heavy
+10,571,584,130,Alaghiri Nagar 1st cross street,,,5H.P,Alaghiri Nagar 1st cross street,SWD,,heavy
+10,571,584,130,Kanniappa street,,,5 H.P,Kanniappa street,SWD,,heavy
+10,571,584,130,Valliammal street,,,10 H.P,Valliammal street,SWD,,heavy
+10,571,584,132,4th Avenu,,,-,-,Natural drain through SWD,,heavy
+10,571,584,132,18th Avenu & 19th Avenu,,,2- 10 H.P,18th Avenu & 19th Avenu,SWD,,heavy
+10,571,584,132,Kamaraj Salai,,,-,-,Natural drain through SWD,,heavy
+10,571,584,133,Postal Colony 4th street,,,10 H.P,Postal Colony 4th street,SWD,,heavy
+10,572,584,133,Postal Colony 2nd street,,,pumps 10 H.P,Postal Colony 2nd street,SWD,,heavy
+10,572,584,133,4th Avenu,,,-,-,Natural drain through SWD,,heavy
+10,572,584,133,Duraisamy Road,,,-,-,Natural drain through SWD,,heavy
+10,572,584,133,21st Avenu,,,-,-,Natural drain through SWD,,heavy
+10,572,584,134,Rangarajapuram main road,,,10 H.P,Rangarajapuram main road,SWD,,heavy
+10,572,584,134,Parangusapuram,,,10 H.P,Parangusapuram,SWD,,heavy
+10,572,584,134,"Aziz nagar Main road, 1st , 2nd & 3rd street",,,10 H.P,"Aziz nagar Main road, 1st, 2nd & 3rd street",SWD,,heavy
+10,572,584,135,Station Road,,,10 H.P,Station Road,SWD,,heavy
+10,572,584,135,Sathyanarayanan Street,,,-,-,Natural drain through SWD,,heavy
+10,572,584,135,Lake View Road,,,10 H.P,Lake View Road,SWD,,heavy
+10,572,584,131,R.K. Shanmugamsalai,,,2 - 10 H.P,R.K. Shanmugamsalai,SWD,,heavy
+10,573,584,131,Sathyagarden,,,pumps 10 H.P,Sathyagarden,SWD,,heavy
+10,573,584,131,BharaniColony,,,10 H.P,BharaniColony,SWD,,heavy
+10,573,584,137,Rajamannar Salai,,,2- 10 H.P,Rajamannar Salai,SWD,,heavy
+10,573,584,137,8th Sector,,,-,-,Natural drain through SWD,,heavy
+10,573,584,137,7th Sector 37th street,,,-,-,Natural drain through SWD,,heavy
+10,573,584,136,Northusman Road,,,3- 10 H.P,Near Viveks & Co,SWD,,heavy
+10,573,584,136,"Thukaram Street, 1st, 2nd street",,,-,-,Natural drain through SWD,,heavy
+10,573,584,140,Kodambakkam Road,,,-,-,Natural drain through SWD,,heavy
+10,573,584,141,Southusman Road,,,10 H.P,Southusman Road,SWD,,heavy
+10,573,584,141,Gopal Street,,,-,-,Natural drain through SWD,,heavy
+10,573,584,138,Ambedkar Colony,,,2- 10 H.P,Ambedkar Colony,Bazulla Road Swd,,heavy
+11,613,648,143,Gajalakshmi nagar,,,5 HP,Gajalakshmi nagar 5th street,Disposed to Coovum river,,
+11,613,648,143,VG-N nagar(Phase-III),,,7.5 HP,street VG-N nagar(PhaseIII) 2nd cross street,river Disposed to service road,,
+11,613,648,143,Sakthi nagar,,,5 HP,street Sakthi nagar 2nd avenue,Disposed to sriram nagar,,
+11,613,648,,VGN nagar,,,5 HP,Pada salai cross street,Disposed to sriram nagar,,
+11,613,648,,Vembuli amman koil street,,,5 HP,Vembuli amman koil street,Disposed toPhase I 8th main road,,
+11,613,648,144,"MMDA Colony 4th , 5th & 6th block",,,5 HP,"street MMDA Colony 4th , 5th & 6th block",main road MMDA Colony SWD,,
+11,613,648,144,Varalakshmi nagar,,,10 HP,block Varalakshmi nagar,Varalakshmi nagar SWD,,
+11,613,648,,Nagathamman,,,,Nagathamman,Varalakshmi,,
+11,613,648,,koil street,,,5 HP,koil street,nagar SWD,,
+11,613,648,,VGP Amudha nagar,,,5 HP,VGP Amudha nagar,-,,
+11,613,648,,MSP nagar,,,5 HP,MSP nagar,-,,
+11,613,648,,Om sakthi nagar,,,5 HP,Om sakthi nagar,-,,
+11,613,648,,PH road,,,5 HP,PH road,-,,
+11,613,648,,Abirami nagar main road,,,5 HP & 10 HP,Abirami nagar main road,-,,
+11,613,648,,Pallavan Nagar,,,"5 HP, 7HP & 10 HP",Pallavan Nagar,-,,
+11,613,648,,Ambiga nagar,,,"100 HP, 80 HP & 10 HP",Ambiga nagar,-,,
+11,613,648,145,Sakthi nagar,,,HP 10 HP,Sakthi nagar,-,,
+11,614,648,145,Krishna nagar,,,"80 HP, 10 HP",Krishna nagar,-,,
+11,614,648,,Palvadi street,,,5 HP,Palvadi street,-,,
+11,614,648,,Alagammal nagar,,,5 HP,Alagammal nagar,-,,
+11,614,648,,Janakiram colony,,,5 HP,Janakiram colony,-,,
+11,614,648,,Ganapathi nagar,,,5 HP,Ganapathi nagar,-,,
+11,614,648,,Dhanalakshmi nagar,,,5 HP,Dhanalakshmi nagar,-,,
+11,614,648,,Krishna nagar,,,5 HP,Krishna nagar,-,,
+11,614,648,,Pallvan nagar,,,5 HP,Pallvan nagar,-,,
+11,614,648,,Alapakkam main road,,,10 HP,Alapakkam main road,-,,
+11,614,648,,Vetri vinayagar koil,,,5 HP,Vetri vinayagar koil,-,,
+11,614,648,,NSK street,,,5 HP,NSK salai,Disposed to Thiruvalluvar salai SWD,,
+11,614,648,148,VOC Street,,,5 HP,VOC Street,salai SWD Disposed to Thiruvalluvar salai SWD,,
+11,614,648,148,Gandhi street,,,5 HP,Gandhi street,salai SWD Disposed to Thiruvalluvar salai SWD,,
+11,614,648,148,Anbu nagar,,,"5 HP, 10 HP, 25 HP, & 15 HP","Anbu nagar 6th,7th street & Near 5th street vacant land",salai SWD Disposed to Pond,,
+11,614,648,148,Balaji nagar,,,5 HP,land Balaji nagar,Pillayar koil street SWD,,
+11,614,648,,Saraswathi nagar,,,5 HP,Saraswathi nagar,Thiruvalluvar salai SWD,,
+11,615,648,148,Balavinayagar street,,,"5 HP, 8 HP & 10 HP","Balavinayagar , Thankal karai",Jayaram nagar 1st main road SWD,,
+11,615,648,148,CDN nagar,,,5 HP & 10 HP,CDN nagar,"SWD NT patel road ,CDN SWD",,
+11,615,648,148,Periyar nagar thankal karai,,,8 HP & 10 HP,Periyar nagar thankal karai,SWD Mettukuppam salai SWD,,
+11,615,648,,Velan nagar,,,8 HP & 10 HP & 25 HP,"Radha avenue 4th , 5th, 3rd street",Indra gandhi salai SWD,,
+11,615,648,149,Radha avenue,,,HP 10 HP motor,"street Srilakshmi nagra 3rd , 5th,11th street",Anbu nagar 2nd street SWD,,
+11,615,648,149,Anbu nagar,,,10 HP & 8 HP motor,"5th,11th street Anbu nagar 2nd street",SWD Anbu nagar main road SWD,,
+11,615,648,149,Sri Lakshmi nagar,,,10 HP,"Srilakshmi nagra 3rd , 5th,11th street",SWD Radha avenue main roadSWD,,
+11,615,648,150,Doss main road,,,5 HP,"5th,11th street Near by TVK 2nd street",roadSWD Disposed to By pass service road,,
+11,615,648,150,Sannathi street,,,5 HP,Near by TVK 2nd street,service road Disposed to By pass service road,,
+11,615,648,,Bharathiyar street,,,5 HP,Near by TVK 2nd street,Disposed to By pass service road,,
+11,615,648,150,Natarajan street,,,5 HP,Near by TVK 2nd street,service road Disposed to By pass service road,,
+11,615,648,150,Thiruveethiamman koil st,,,7.5 HP,Moorthy nagar,service road Disposed to By pass service road,,
+11,615,648,150,Thundalam perumal koil street,,,7.5 HP,Moorthy nagar,service road Disposed to By pass service road,,
+11,615,648,150,street Sri Parasnath nagar main road,,,20 HP,Maruthi nagar 3rd street,service road Disposed to By pass service road,,
+11,616,648,150,Punniyakkotti nagar main road,,,-,Maruthi nagar 3rd street,Disposed to By pass service road,,
+11,616,648,150,Avvai street,,,5 HP,Samayapuram 5th street,service road Disposed to By pass service road,,
+11,616,648,150,Mullai street,,,7.5 HP,Samayapuram 5th street,service road Disposed to By pass service road,,
+11,616,648,150,Arcot road,,,7.5 HP and 10.5 HP,Kanna street,service road A1 Mutton stall,,
+11,616,648,150,Sai karna villa,,,10 HP,-,Disposed to By pass service road,,
+11,616,648,150,Moorthi nagar,,,10 HP and 7.5 HP,-,service road Disposed to By pass service road,,
+11,616,648,151,Arcot road (ETA Building),,,10 HP and 7 HP,In front of ETA Building,service road Disposed to Lakshmi nagar 40 feet road SWD,,
+11,616,648,152,Sairam avenue,,,10 HP,Sairam avenue 1st & 2nd st,road SWD Arcot road,,
+11,616,648,152,SVS nagar main road,,,30 HP,2nd st SVS nagar main road,Disposed to Kambar street dn 151,,
+11,616,648,152,SVS nagar annex,,,20 HP,SVS nagar annex,street dn 151 Disposed to Kambar street dn 151,,
+11,616,648,152,Janakiram 6th street,,,5 HP,Janakiram 6th street,street dn 151 SWD Prakasam street,,
+11,616,648,152,Veerappa nagar,,,20 HP,Veerappa nagar,street Arcot road,,
+11,616,648,152,"Om Sakthi nagar 3rd,4th street",,,10 HP,"Om Sakthi nagar 3rd,4th street",Omsakthi nagar main road SWD,,
+11,616,648,152,Majestic colony,,,100 HP,street Jn of Chowdry nagar & Alagiri street,road SWD Chowdry nagar 5th street SWD,,
+11,617,649,,Madurai meenatchi nagar,,,10 HP,Madurai meenatchi nagar main road,Majestic colony main road SWD,,
+11,617,649,,Subramaniya swamy nagar,,,30 HP,road Subramaniya swamy nagar,"Dr,Ambedkar road SWD",,
+11,617,649,,Ganesh avenue 1st to 10th street,,,10 HP,Ganesh avenue 9th street Corner,Ganesh avenue 8th street SWD,,
+11,617,649,,Ramakrishna nagar 6th avenue,,,5 HP,street Corner Ramakrishna nagar 6th avenue centre,street SWD Udaya nagar SWD,,
+11,617,649,,RE nagar 1 & III street (East),,,10 HP,avenue centre RE nagar 1 street (East),Eswaran koil street SWD,,
+11,617,649,,Ekambaram street,,,10 HP,Ekambaram street centre,Suresh nagar 4th street,,
+11,617,649,,R.K.Nagar 6th Avenue,,,5 HP,Ramakrishna nagar 6th avenue centre,street Udaya nagar SWD,,
+11,617,649,,Suresh nagar 4th street,,,5 HP,avenue centre Suresh nagar 4th street middle,Udaya nagar SWD,,
+11,617,649,,Ramasamy nagar main road,,,5 HP,middle Ramasamy nagar main road middle,Udaya nagar SWD,,
+11,617,649,,Kundrathur main road,,,10 HP,road middle RE nagar 1st street,RE nagar 1st street SWD,,
+11,617,649,,Kurinji nagar 2nd street,,,5 HP,Kurinji nagar 2nd street,Bharathi salai,,
+11,617,649,,Bharathi salai,,,10 HP,Bharathi salai,Disposed to Bharathi salai SWD,,
+11,617,649,,Balambigai nagar 5th street,,,10 HP,Balambigai nagar 5th street,salai SWD Disposed to Balambigai nagar 5th streetSWD,,
+11,617,649,,Kulakarai south street,,,10 HP,Kulakarai south street,streetSWD Disposed to Kambar salai Side drain,,
+11,618,649,,Amman nagar,,,When Adayar river level decreased automatically went to storm water drains.,-,-,,
+11,618,649,,Royala nagar,,,,-,-,,
+11,618,649,,Kalasathamman koil street,,,,-,-,,
+11,618,649,,Chellammal nagar,,,,-,-,,
+11,618,649,,Michel garden,,,,-,-,,
+11,618,649,,Thiruvalluvar salai (Part),,,,-,-,,
+11,618,649,,Bakthi vedhandha avenue,,,,-,-,,
+11,618,649,,avenue Kothari Nagar,,,10 HP,"Kothari nagar 1st 1st main road , 9th ,8th street","Disposed to Thiruvalluvar salai SWD, Senthamil nagar SWD",,
+11,618,649,,Thirumalai Nagar,,,10 HP,"9th ,8th street Angel street",Disposed to Balakrishna nagar main road,,
+11,618,649,,Gangaiya avenue,,,10 HP,Gangaiah avenue 1st street,road Kamarajar salai,,
+12,653,704,,Madha Nagar,,,,,,Overflow of Manapakkam Canal,heavy
+12,653,704,,Thiruvalluvar Nagar,,,,,,Overflow of Manapakkam Canal,heavy
+12,653,704,,Arumugam Nagar,,,,,,Overflow of Manapakkam Canal,heavy
+12,653,704,,VGN Lakshmi Nagar,,,,,,Overflow of Manapakkam Canal,heavy
+12,653,704,,VGN Blooming Grden,,,,,,Overflow of Manapakkam Canal,heavy
+12,653,704,,Mahalakshmi Nagar,,,,,,Overflow of Manapakkam Canal,heavy
+12,653,704,,EVP Rageshwari Avenue,,,,,,Overflow of Manapakkam Canal,heavy
+12,653,704,,CRR Puram,,,,,,Overflow of Manapakkam Canal,heavy
+12,653,704,,Bell Nagar,,,,,,Overflow of Manapakkam Canal,heavy
+12,653,704,,Kavya Garden,,,,,,Overflow of Manapakkam Canal,heavy
+12,654,704,,River View Colony,,,,,,Overflow of Manapakkam Canal,heavy
+12,654,704,,Burma Colony,,,,,,Adyar River water level increased so water cannot drain out,heavy
+12,654,704,,ThulasingaPuram,,,,,,Adyar River water level increased so water cannot drain out,heavy
+12,654,704,,Ganapathipuram Colony,,,,,,Adyar River water level increased so water cannot drain out,heavy
+12,654,704,,"Wood Creek County (Main road, 1st, 2nd & 15th Streets)",,,,,,Adyar River water level increased so water cannot drain out,heavy
+12,654,704,,Vasantham Colony,,,,,,Adyar River water level increased so water cannot drain out,heavy
+12,654,704,,Anna main road,,,,,,Adyar River water level increased so water cannot drain out,heavy
+12,654,704,,Laywer Jeganathan Street,,,,,,Low lying area,heavy
+12,654,704,,Sanjay Gandhi Street,,,,,,Low lying area,heavy
+12,654,704,,Murugan Street,,,,,,Low lying area,heavy
+12,654,704,,Thiruvalluvar Nagar,,,,,,Low lying area,heavy
+12,654,704,,Saraswathi nagar main road 5th to 8th,,,,,,Veerangal Odai Over flow and Run of water from AGS Colony (Z-13),heavy
+12,654,704,,Kanniga Colony,,,,,,Lack of Drain in that location,heavy
+12,654,704,,Nanganallur 44th Street,,,,,,Low lying area,heavy
+13,695,760,168,Nagi (R ) Thottam Chetti thottam Neruppumedu Vinayagapuram Anusuyamandapam,,,5HP-2 10HP-1,Nagi (R ) Garden & Neruppumedu,Adyar River,,
+13,695,760,170,Chitra nagar - Kotturpuram,,,5HP-2 10HP-1,Near bridge,Adyar River,,
+13,695,760,175,Lakshmi nagar,,,5HP-2 10HP-1,,Rajiv Nagar main road - SWD,,
+13,695,760,176,Kalki nagar,,,12HP – 1 6HP - 1,Vacant land,Veerangal Odai,,
+15,769,864,192,inundation seen ECR Near Bhukari,,,pumps 5 HP,pumps Near Bhukari,open land,,
+15,769,864,192,Ellaiamman koil street,,,5 HP,Jn. of Rubi complex,Near SWD,,
+15,769,864,192,Rubi complex,,,-,-,Ellaiamman koil,,
+15,769,864,193,Pandian Nagar,,,5 HP,1st street,Canal,,
+15,769,864,195,OMR Near VPG Avenue,,,5 HP (2 No),OMR,Near SWD,,
+15,769,864,194,Kudupi complex,,,5 HP,Kudupi complex,Side drain,,
+15,769,864,194,S.N.Gopinath nagar,,,-,Kutcha drain,Katcha drain to be formed,,
+15,769,864,198,Lalbhagadur Sasthiri Street,,,5 HP,Jn. of OMR,OMR SWD,,
+15,769,864,198,Wipro Salai,,,40HP (2 No),Inside Wipro,Canal,,
+15,769,864,199,OMR Near Gangaiamman koil,,,5 HP (2 No),Gangaiamman koil,OMR drain,,
+15,769,864,198,Devaraji Avenue,,,5 HP,MTL company,nearby drain,,
+15,769,864,197,ECR Near Panaiyur,,,5 HP,ECR,Canal,,

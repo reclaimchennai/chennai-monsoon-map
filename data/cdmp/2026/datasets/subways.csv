@@ -1,0 +1,55 @@
+zone,pdf_page,table_id,ward,name,length_m,disposal_point,pumps
+15,166,59,,Manickam Nagar Limited Use Subway,,,
+15,166,59,,RBI Subway,,,
+15,166,59,,Gengu Reddy Subway,,,
+15,166,59,,M.C. Road (Stanely) Subway,,,
+15,166,59,,C.B. Road Subway,,,
+15,166,59,,Bhojaraja Nagar Subway,,,
+15,166,59,,Ganeshapuram Subway,,,
+15,166,59,,Perambur Subway,,,
+15,166,59,,Korattur Subway,,,
+15,166,59,,Villivakkam Subway,,,
+15,166,59,,Harrington Subway,,,
+15,166,59,,Nungambakkam Subway,,,
+15,166,59,,Madley Subway,,,
+15,166,59,,Duraisamy Subway,,,
+15,166,59,,Rangarajapuram Two wheeler Subway,,,
+15,166,59,,Jones Road Subway,,,
+15,166,59,,Bazar Road Subway,,,
+15,166,59,,Pazhavanthangal subway,,,
+15,166,59,,Aranganathan Subway,,,
+15,166,59,,Katthivakkam High Road(ROB),,,
+15,166,59,,Vyasarpadi Subway(ROB),,,
+15,166,59,,Mount subway,,,
+15,166,59,,Thillaiganga Nagar Subway,,,
+15,166,59,,Meenambakkam Subway,,,
+1,245,118,5,Manickkam Nagar subway,60,Railway pond,Railway pond
+4,361,239,43,"Pedestrian Subway opposite to CDH , T.H Road",22.4,TH road SWD,TH road SWD
+4,361,239,46,Vyasarpadi Subway (Highways Department),30.0,The Dewatering Work is carried by HD,The Dewatering Work is carried by HD
+5,408,283,,R.B.I. Subway,600,Canal,Canal
+5,408,283,,Gengu Reddy Subway,400,Canal,Canal
+5,408,283,,M.C.Road Subway,382,Canal,Canal
+5,408,283,,C.B.R oad Subway,50,Canal,Canal
+5,408,283,,Rajaji Salai Subway near Beach railway station,60,B- Canal,B- Canal
+5,408,283,,Bhojaraja Nagar,53,-,-
+6,445,325,71,Ganesapuram Subway,40,Otteri Nullah,Otteri Nullah
+6,445,325,71,Perambur Subway,150,Ekangipuram,Ekangipuram
+6,445,325,71,Perambur Pedestrian Subway,146.3,Storm Water Drain,Storm Water Drain
+7,485,373,84,Korattur subway,,,
+8,522,422,94,Villivakkam Subway,"in ""m"" 650",SWD,SWD
+8,522,422,108,Harrington Subway,300,Coovum River,Coovum River
+9,562,469,109,Ward - 109 Nungambakkam Subway,320m,SWD,SWD
+9,562,469,114,Ward -114 Uzhaipalar Statue (Pedestrian Subway),20m,Service Road (Sand Area),Service Road (Sand Area)
+9,562,469,116,Kannagi Statue (Pedestrian Subway),20m,Service Road (Sand Area),Service Road (Sand Area)
+10,603,521,,Rangarajapuram,140,Railway Border Road Storm Water Drain,Railway Border Road Storm Water Drain
+10,603,521,,Madley,325,Water Drain Madley Service Road,Water Drain Madley Service Road
+10,603,521,,Duraisamy,289,Duraisamy Road Storm Water Drain,Duraisamy Road Storm Water Drain
+10,603,521,,Alandur road,290,Water Drain Alandur Road Storm Water Drain,Water Drain Alandur Road Storm Water Drain
+10,603,521,,Jones road,200,Jones Road Storm Water Drain,Jones Road Storm Water Drain
+12,680,613,160,Kathipara urban square,n 150m,Adyar river,Adyar river
+12,680,613,161,Mount Subway,300m,Velachery Lake,Velachery Lake
+12,680,613,162,Thillai Ganga Subway,455m,Adambakkam Lake,Adambakkam Lake
+12,680,613,164,Phazhavanthangal subway,300m,Adambakkam Lake,Adambakkam Lake
+12,680,613,166,Meenambakkam Subway,411m,Veerangal Oodai,Veerangal Oodai
+13,719,654,1,"Pedestrian subway, Guindy, ward-1 68",", 25m",Guindy industrial drain,Guindy industrial drain
+13,719,654,169,"Aranganathan subway, ward169",500m,Mambalam canal,Mambalam canal

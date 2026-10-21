@@ -1,0 +1,11 @@
+pdf_page,No.,Interface measure,Lead,Support,Timing
+203,1,"Outfall register: a single GIS register of every GCC, Highways and municipal outfall into a WRD river, canal or tank, with invert level, size and flap gate status",GCC,WRD,Updated before each monsoon
+203,2,"Design levels: for each river reach, WRD publishes the design flood level and the high-tide level at the outfall; GCC designs new drains so that outfall inverts sit above these levels, or provides flap gates and pumping where they cannot",WRD,"GCC, CMDA",At design stage of every new drain
+203,3,No-objection for new outfalls: no new outfall or enlarged drain into a WRD waterway without WRD's technical clearance on its effect on the river's flood profile,WRD,GCC,Before sanction
+203,4,"Joint pre-monsoon calendar: GCC desilts micro drains and its 44 canals; WRD desilts rivers, the Buckingham Canal, surplus courses and opens the mouths – both completed by 30 September, starting from the downstream end",WRD and GCC,"Highways, CMWSSB",June to September
+203,5,Flap gates and non-return valves: fitted and tested at low-lying outfalls where the river or tide can flow back into the city canal,GCC,WRD,Tested by 30 September
+203,6,"Forecast sharing: CRTFFS forecasts, reservoir release schedules and tide predictions shared with GCC's control room in real time; GCC shares inundation reports from its wards",WRD,"GCC, TNDRRA",Throughout the monsoon
+203,7,"Joint control room protocol: releases from Chembarambakkam, Puzhal and Poondi coordinated with GCC's pumping and with the tide at the mouths",WRD,"GCC, District Collectors",During flood events
+203,8,Solid waste interception: trash booms and screens at canal outfalls and at bridges; garbage removal from waterways by GCC,GCC,"WRD, CRRT",Year-round
+203,9,"Missing links by cut and cover: where roads have been laid over old waterways, links are restored as closed conduits, jointly designed so that they serve both the tank cascade and the city drains",WRD,"GCC, Highways",As per DPRs
+203,10,Land use control: flood-prone survey fields and Development Restricted Zones from WRD's study are adopted in the CMDA Third Master Plan and in building approvals,CMDA,"WRD, GCC, DTCP",Third Master Plan

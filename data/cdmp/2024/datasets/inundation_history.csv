@@ -1,0 +1,1205 @@
+zone,pdf_page,table_id,year,ward,location,depth_class,status
+1,62,21,2015,5,TH Road jn.of MRF Road,low,
+1,62,21,2015,6,Kalaignar nagar,very_high,
+1,62,21,2015,1,SVM Nagar I main road,low,
+1,62,21,2015,1,SVM Nagar II main road,low,
+1,62,21,2015,1,Kamaraj salai,high,
+1,62,21,2015,4,"AD Colony, Ernaavoor",high,
+1,62,21,2015,7,"Kargil nagar, Rajaji nagar",high,
+1,62,21,2015,1,"SVM Nagar, Ulaganathapuram",high,
+1,62,21,2015,10,"Nandhi odai , Sadayankuppam battai",high,
+1,62,21,2015,12,"Srinivasapuram, B.K.N Colony",low,
+1,62,21,2015,4,Kathivakkam high road,low,
+1,62,21,2015,5,T.H. Road (MRF road junction),high,
+1,62,21,2015,5,T.H. Road near Liftgate,low,
+1,62,21,2015,6,"Manali Express road, (Mullai nagar, Jothi nagar, TKS Nagar)",high,
+2,62,21,2015,15,Manali New Town 60 Feet Road,low,
+2,62,21,2015,16,Rajiv Gandhi Nagar from TPP Salai to Andarkuppam Main Road,low,
+2,62,21,2015,16,From Kanniammanpet pond to Kadappakkam Lake,low,
+3,62,21,2015,22,Mahalakshmi Nagar,high,
+3,62,21,2015,23,Punitha Anthoniyar Street,high,
+3,62,21,2015,23,Othai vadai Street,high,
+3,62,21,2015,31,Ambedhkar Nagar,high,
+3,62,21,2015,32,Sarathy Nagar,low,
+3,62,21,2015,22,KS Nagar (Thirumalai Nagar),medium,
+3,62,21,2015,25,Collector Nagar,very_high,
+3,62,21,2015,25,"Aringhar Anna Nagar,",very_high,
+3,62,21,2015,24,Ambattur Redhills road (Highway),high,
+3,62,21,2015,25,GNT Road (Near Roundana),high,
+4,63,22,2015,41,Carnesh Nagar,medium,
+4,63,22,2015,45,Sundram Power Lane,medium,
+4,63,22,2015,45,B.V Colony 19 and 20th Street,medium,
+4,63,22,2015,45,Annai Sathya Nagar,medium,
+4,63,22,2015,45,Ganesapuram Main Road,medium,
+4,63,22,2015,47,KH Road,high,
+4,63,22,2015,34,Construction of RCC Open Box type Retaining Wall and Bed including chain link fencing to Kodungaiyur canal North wing from Ch.0.0 to Ch.850m,high,
+4,63,22,2015,34,Construction of RCC Open Box type Retaining Wall and Bed including chain link fencing to Kodungaiyur canal North wing from Ch.850 to Ch.1150m,high,
+4,63,22,2015,34,Construction of RCC Open Box type Retaining Wall and Bed including chain link fencing to Kodungaiyur canal North wing from Ch.1675 to Ch.2191m,high,
+4,63,22,2015,40,Dismantling and Reconstruction of RCC Box type Stormwater drain of size 1200x1200mm along Kamarajar salai from Elaya street to AE koil st,high,
+4,63,22,2015,39,Dismantling and Reconstruction of RCC Box type Stormwater drain of size 1200x1200mm along T.H Road from North Terminal road to AE koil st,medium,
+4,63,22,2015,41,Providing Re-sectioning concrete lining and laying service road in link canal from Ch.2500 to 2940 in Captain Cotton Canal,high,
+4,64,22,2015,41,Providing Re-sectioning concrete lining and laying service road in link canal from Ch.2940 to 3360 in Captain Cotton Canal,high,
+4,64,22,2015,46,Sathya Moorthy Nagar 24th Block,medium,
+5,64,22,2015,54,Walltax Road,medium,
+5,64,22,2015,61,Ghandhi Irwan Bridge Road,medium,
+5,64,22,2015,58,"EVK Sampath Salai,",medium,
+5,64,22,2015,61,"Egmore High Road,",medium,
+5,64,22,2015,62,"Arunachalam Road,",medium,
+5,64,22,2015,63,"Chella pillayar Koil Street,",medium,
+5,64,22,2015,63,"G.P. Road,",medium,
+5,64,22,2015,53,"Vijayaragavalu Roundana,",high,
+5,64,22,2015,58,"Sydnams Road,",medium,
+5,64,22,2015,53,Walltax Road,medium,
+5,64,22,2015,62,"Singanna Chetty Street,",medium,
+5,64,22,2015,54,Walltax Road,medium,
+5,64,22,2015,59,"VOC Salai,",medium,
+6,64,22,2015,64,Poombugar Nagar 1st Main Road,medium,
+6,64,22,2015,64,Poombugar Nagar 2nd Main Road,medium,
+6,64,22,2015,64,Dhanammal Nagar,medium,
+6,64,22,2015,64,Samuthirya Colony 1st Street,medium,
+6,64,22,2015,64,Anjugam Nagar 4th Street,medium,
+6,64,22,2015,64,Poombugar Nagar 11th Cross Street,medium,
+6,64,22,2015,64,Gandhi Street,medium,
+6,64,22,2015,64,MN Nagar,medium,
+6,64,22,2015,65,Hussain Colony 4th Street,medium,
+6,64,22,2015,65,Teachers Colonly,medium,
+6,64,22,2015,66,Gandhimathi Street,medium,
+6,64,22,2015,66,Jawahar Nagar,medium,
+6,64,22,2015,67,Rangasiyee Street,medium,
+6,64,22,2015,68,Andiyappan Street,medium,
+6,64,22,2015,66,Kamaraj Street,medium,
+6,65,22,2015,68,Pallavan Street,medium,
+6,65,22,2015,71,Konnur High Road,medium,
+6,65,22,2015,72,Decaster Road,medium,
+6,65,22,2015,72,Doss Nagar Pallam,medium,
+6,65,22,2015,73,Ammaiyammal Street,medium,
+6,65,22,2015,74,Sec Colony 1st to 9th Street,medium,
+6,65,22,2015,75,Vallavan Street,medium,
+6,65,22,2015,77,Demellous Road (Near Haj Committee),medium,
+6,65,22,2015,78,V.V.Koil Street,medium,
+6,65,22,2015,68,Maduraiswamy Madam,medium,
+6,65,22,2015,70,Bharathi Main Road,medium,
+6,65,22,2015,76,Straganas Road,medium,
+6,65,22,2015,76,Angalamman Koil Street,medium,
+6,65,22,2015,72,Dr. Ambedkar College Road,medium,
+6,65,22,2015,66,Shanthi Street,medium,
+6,65,22,2015,66,Ragavan Street,medium,
+6,65,22,2015,68,Mohamadin Salai,medium,
+6,65,22,2015,73,Lal Singh Street,medium,
+6,65,22,2015,73,Mannarswamy Street,medium,
+6,65,22,2015,67,Gopal Reddy Colony,medium,
+6,65,22,2015,73,New Ferrance Road,medium,
+7,65,22,2015,82,Gnanamoorthy Nagar & EB Colony,medium,
+7,65,22,2015,83,NAS Garden & TVS Nagar,medium,
+7,65,22,2015,86,Cth Road near Petrol Bunk,medium,
+7,65,22,2015,86,Annai Sathya Nagar,medium,
+7,65,22,2015,90,Thirumagalam road,medium,
+7,65,22,2015,93,Vandiamman Koil st,medium,
+8,65,22,2015,94,Annai Sathya Nagar from Wheels India Culvert to Padi Bridge Culvert,very_high,
+8,65,22,2015,94,Villivakkam Sidco Nagar 2nd main road I main road to Burial Ground Compound Wall,high,
+8,66,22,2015,95,Anna Nagar 18th main road (South) Ch.500m (Reach I) from 100 feet road to Ch.500m,medium,
+8,66,22,2015,95,Anna Nagar 18th main road (South) from Ch.500m (Reach 2) to Otteri Nullah canal,medium,
+8,66,22,2015,95,Anna Nagar 18th main road (North) Ch.425m from Vasantham Colony to 2nd street (Reach II),medium,
+8,66,22,2015,95,Anna Nagar 18th main road (North) from 100' road to Ch.425m (Reach I),medium,
+8,66,22,2015,95,"Kumarasamy Nagar ,Agathiyar canal",medium,
+8,66,22,2015,101,"2nd Avenue, Anna Nagar (Roundana)",medium,
+8,66,22,2015,103,Kellys Road,medium,
+9,66,22,2015,109,Vanniyar 2nd Street,medium,
+9,66,22,2015,109,Gill Nagar 1nd street,medium,
+9,66,22,2015,110,School Road,medium,
+9,66,22,2015,110,Kamarajapuram Main Road,medium,
+9,66,22,2015,111,Maakkis Garden,very_high,
+9,66,22,2015,111,Thideer Nagar,very_high,
+9,66,22,2015,111,Conron Smith Road,medium,
+9,66,22,2015,113,Habibullah Road,medium,
+9,66,22,2015,113,G.N.Chetty Road,medium,
+9,66,22,2015,113,North usman street,medium,
+9,66,22,2015,113,Kodambakkam High road,medium,
+9,66,22,2015,114,C.N.K. Road,medium,
+9,66,22,2015,114,Sydoji Street,medium,
+9,66,22,2015,114,John Mohammad Street,medium,
+9,66,22,2015,114,Lock Nagar,medium,
+9,66,22,2015,115,Dr. Besant Road,medium,
+9,66,22,2015,116,Dr. Besant Road,medium,
+9,66,22,2015,117,North Usman Road,high,
+9,66,22,2015,117,G.N.C.Road,very_high,
+9,67,22,2015,117,South boug road,high,
+9,67,22,2015,117,Thirumalai pillai Street,medium,
+9,67,22,2015,113,Sarathapuram Street,high,
+9,67,22,2015,118,Kasthuri Estate 1st street,medium,
+9,67,22,2015,118,Kasthuri Estate 2nd street,medium,
+9,67,22,2015,119,Avvai Shanmugam Salai,high,
+9,67,22,2015,119,Lakshmipuram 2nd Street,medium,
+9,67,22,2015,119,Avvai Shanmugam Salai 1st Lane,very_high,
+9,67,22,2015,119,Royapettah High Road,medium,
+9,67,22,2015,119,P.S.Siva Swamy Street,high,
+9,67,22,2015,120,Dr. Natesan Road,medium,
+9,67,22,2015,121,Dr. Radha Krishnan Salai(jn of Thiru.Vi.Ka.High Road),medium,
+9,67,22,2015,121,Dr. Radha Krishnan Salai (jn of Dr.Natesan Road),medium,
+9,67,22,2015,121,Dr. Radha Krishnan Salai (infornt of Reliance Building),medium,
+9,67,22,2015,122,K.B.Dasan Road,high,
+9,67,22,2015,122,Cresent Road,high,
+9,67,22,2015,122,"Seethammal colony 3rd Street,",high,
+9,67,22,2015,122,"Seethammal colony 4th street,",high,
+9,67,22,2015,122,Tankbund Road,very_high,
+9,67,22,2015,122,Nandhanam extension 1st Street,high,
+9,67,22,2015,122,Nandhanam extension 2nd Street,high,
+9,67,22,2015,122,Nandhanam extension 3rd Street,high,
+9,67,22,2015,122,Nandhanam extension 4th Street,high,
+9,67,22,2015,122,Nandhanam extension 5th street,high,
+9,67,22,2015,122,Nandhanam extension 6th Street,high,
+9,67,22,2015,122,Nandhanam extension 7th Street,high,
+9,68,22,2015,122,Nandhanam extension 8th Street,high,
+9,68,22,2015,122,Nandhanam extension 9th Street,high,
+9,68,22,2015,122,Nandhanam extension 10th Street,high,
+9,68,22,2015,122,Seethammal 1st Main Road,high,
+9,68,22,2015,123,R.A.Puram 1st main road,medium,
+9,68,22,2015,123,Eldams Road,medium,
+9,68,22,2015,123,R.A.Puram 3rd cross street,medium,
+9,68,22,2015,124,Kutcherry Road,medium,
+9,68,22,2015,125,Karaneswarar Pagoda Street,medium,
+9,68,22,2015,126,Santhome Hign Road,medium,
+9,68,22,2015,111,Whites Road,medium,
+9,68,22,2015,112,Railway border road,medium,
+9,68,22,2015,112,Sowrastra nagar 5th street,medium,
+9,68,22,2015,112,Trustpuram 1st cross street,medium,
+9,68,22,2015,112,Bharathishwarer colony 3rd street,medium,
+9,68,22,2015,112,Sivan koil street,medium,
+9,68,22,2015,118,Mayor Sundra (rao) road,medium,
+9,68,22,2015,121,Thiru-Vi-Ka 3rd street,medium,
+9,68,22,2015,113,Improvements of Stormwater drain at North Usman Road,medium,
+9,68,22,2015,113,Improvements of Stormwater drain and construction of 3 road crossing culverts Habibullah Road,medium,
+10,68,22,2015,127,Kaliamman Koil Street(from CMWSSB STP to Sai nagar annex ),high,
+10,68,22,2015,131,Rajamannar Salai,high,
+10,68,22,2015,134,Rangarajapuram,high,
+10,68,22,2015,128,Vembuliamman Koil street,high,
+10,68,22,2015,130,100 feet Road (junction of periyar pathai),high,
+10,68,22,2015,136,North Usman Road,high,
+10,69,22,2015,127,100 feet road (junction of Kaliamman Koil Street),high,
+10,69,22,2015,127,Kaliamman Koil Street (infront of police station),high,
+10,69,22,2015,111,Construction of Stormwater drain of size 900x900mm RCC Box type drain along Kaliamman koil street at Koyambedu from Metro Water Office in Dn.111 to 100 ft road in Dn.127,high,
+11,69,22,2015,144,"MMDA Colony 4th , 5th & 6th block",medium,
+11,69,22,2015,145,Pallavan Nagar,medium,
+11,69,22,2015,143,Gajalakshmi nagar,very_high,
+11,69,22,2015,143,VGN nagar phase III,high,
+11,69,22,2015,143,Sakthi nagar,medium,
+11,69,22,2015,143,Vembuli amman koil street,medium,
+11,69,22,2015,146,Metro nagar,medium,
+11,69,22,2015,147,Krishna nagar,high,
+11,69,22,2015,147,Alapakkam main road,high,
+11,69,22,2015,147,Pallavan nagar,medium,
+11,69,22,2015,148,Anbu nagar,high,
+11,69,22,2015,148,Balavinayagar street,high,
+11,69,22,2015,148,CDN nagar,medium,
+11,69,22,2015,149,Radha avenue,high,
+11,69,22,2015,149,Sri Lakshmi nagar,high,
+11,69,22,2015,150,Mullai street,medium,
+11,69,22,2015,150,Arcot road,high,
+11,69,22,2015,151,Officers colony,high,
+11,69,22,2015,151,Annai sathya nagar,high,
+11,69,22,2015,153,Ganesh avenue 1st to 10th street,high,
+11,69,22,2015,155,Amman nagar,very_high,
+11,69,22,2015,155,Royala nagar,very_high,
+11,69,22,2015,155,Bakthi vedhandha avenue,very_high,
+11,69,22,2015,154,Bharathi salai,high,
+11,70,22,2015,148,Construction of Stormwater drain of size 1200x1200mm along IAS Qtrs road and Pachaiamman koil street from Dead End to Virugambakkam Canal,medium,
+11,70,22,2015,152,Sairam avenue,high,
+12,70,22,2015,156,Bhell Nagar,medium,
+12,70,22,2015,157,"Kaviya Garden, CRR Puram Phase III, Purachi Thalivi Nagar, Bhell Nagar, Dharmarajapuram, Sathiya Nagar, Astalakshmi Avenue and Sedhu Lakshmi Avenue, River view colony",medium,
+12,70,22,2015,165,"Bharathidasan Nagar,",medium,
+12,70,22,2015,167,Nanganallur 44th street,medium,
+12,70,22,2015,158,Construction of Stormwater drain along Ganapathi Colony from Thulasingapuram to Adayar river of size 1200x1200mm,medium,
+12,70,22,2015,165,"Bhuvaneswari Nagar,",medium,
+12,70,22,2015,165,Income Tax colony Area Back flow of sewage water,medium,
+12,70,22,2015,162,"Thillai Ganga Nagar 25 th Street, 27th Street, 28th Street, Thillai Ganga Nagar 2nd MainRoad, and 4th Main Road",medium,
+13,70,22,2015,173,Mayflower garden,high,
+13,70,22,2015,173,R.A Puram IV cross street,high,
+13,70,22,2015,173,Valleswaranthottam,high,
+13,70,22,2015,173,Srinivasa avenue,high,
+13,70,22,2015,174,Mosque street,medium,
+13,70,22,2015,179,Gandhi road,very_high,
+13,70,22,2015,179,Vallalar street - Annai Indra nagar,very_high,
+13,70,22,2015,179,Sivasakthi street - Annai Indra nagar,very_high,
+13,71,22,2015,179,Kamatchiamman street - Annai Indra nagar,very_high,
+13,71,22,2015,179,Sastri street (Part),very_high,
+13,71,22,2015,179,Udayam nagar & extn,very_high,
+13,71,22,2015,177,"Astalakshmi nagar II, III, IV & V streets",medium,
+13,71,22,2015,173,MRC Nagar,high,
+13,71,22,2015,173,Vasantha avenue,high,
+13,71,22,2015,173,Kasthuri avenue,high,
+13,71,22,2015,175,L.B road,medium,
+13,71,22,2015,175,Kasthuribai nagar,medium,
+13,71,22,2015,175,Indra nagar,medium,
+13,71,22,2015,175,Anna avenue,medium,
+13,71,22,2015,176,"Sastri nagar II, IX & XV cross street",high,
+13,71,22,2015,178,A.G.S Colony,very_high,
+13,71,22,2015,179,V.G.P Selva nagar Extn I to V streets,very_high,
+13,71,22,2015,179,V.G.P Selva nagar I cross street & I main road,very_high,
+13,71,22,2015,179,Bhuvaneshwari nagar I & III cross street & III main road,very_high,
+13,71,22,2015,179,Veenus colony II street,very_high,
+13,71,22,2015,181,Dr.Radhakrishnan nagar,medium,
+13,71,22,2015,181,Valmigi street,medium,
+13,71,22,2015,180,C.S.I.R road,medium,
+13,71,22,2015,174,Nehru nagar - Veerapandiya Kattabomman street,high,
+13,71,22,2015,174,Nehru nagar - Periyar street,high,
+13,71,22,2015,174,Nehru nagar - Anbil Dharmalingam street,high,
+13,71,22,2015,174,Velachery main road,high,
+13,71,22,2015,182,Journalist colony,high,
+13,71,22,2015,171,Construction of SWD of size 1500x1500mm along and across Sardar Patel road (Opp to Rajbhavan),high,
+13,72,22,2015,177,Construction of RCC Box type Stormwater drain along EB colony 2nd street from EB colony main road to Radha Nagar extension main road,high,
+13,72,22,2015,177,Construction of Stormwater drain along Lakshmi nagar 2nd street from Lakshmi Nagar main road to Rajiv Gandhi nagar main road,high,
+13,72,22,2015,182,Avvai nagar,medium,
+13,72,22,2015,182,Kannappa nagar,medium,
+13,72,22,2015,182,Ganapathy colony,medium,
+13,72,22,2015,172,"Chitra nagar, Kotturpuram",very_high,
+13,72,22,2015,177,Ambedkar nagar II main road,medium,
+13,72,22,2015,177,Kamarajar street - Nehru nagar,medium,
+13,72,22,2015,177,TNHB Colony III main road,medium,
+13,72,22,2015,177,A.G.S Colony VI street,medium,
+13,72,22,2015,177,ASK Nagar,medium,
+13,72,22,2015,177,Ex Service man colony,medium,
+13,72,22,2015,177,Ambedkar nagar I cross street,medium,
+13,72,22,2015,177,TNHB Colony - EWS lanes,medium,
+13,72,22,2015,177,Nethaji colony I to IV cross streets,medium,
+13,72,22,2015,177,Andal nagar extn I to III streets,medium,
+13,72,22,2015,177,Venkateswara nagar III main road,medium,
+13,72,22,2015,177,A.G.S Colony III main road,medium,
+13,72,22,2015,177,Mahalakshmi nagar III cross street,medium,
+13,72,22,2015,177,Brindavan nagar II street,high,
+13,72,22,2015,179,Seshadripuram I main road,very_high,
+13,72,22,2015,170,Nagi (R ) Thottam,very_high,
+13,73,22,2015,170,Chetti thottam,very_high,
+13,73,22,2015,170,Neruppumedu,very_high,
+13,73,22,2015,170,Vinayagapuram,very_high,
+13,73,22,2015,170,Anusuyamandapam,very_high,
+13,73,22,2015,178,Vijayanagar area,very_high,
+13,73,22,2015,178,Ram Nagar area,very_high,
+13,73,22,2015,179,"Tansi nagar II, III, V, VII & X streets",very_high,
+13,73,22,2015,179,Dhandeeswaram nagar,very_high,
+13,73,22,2015,179,Seetharam nagar,very_high,
+13,73,22,2015,179,Sarathy nagar,very_high,
+13,73,22,2015,180,Velachery Taramani road (100' road),medium,
+14,73,22,2015,184,"MGR Salai, MRTS (Near ICDS)",medium,
+14,73,22,2015,187,Karthikeyapuram,medium,
+14,73,22,2015,187,New Kubera Nagar 5th & 7th Street,medium,
+14,73,22,2015,169,Ram Nagar (North),medium,
+14,73,22,2015,169,Annai Therasa nagar,medium,
+14,73,22,2015,169,Puzhuthivakkam Bust Stand,medium,
+14,73,22,2015,186,"OMR, Jn. of Thirumalai Nagar",medium,
+14,73,22,2015,185,"ECR, Palgalai Nagar",medium,
+14,73,22,2015,183,"ECR, Near BATA Showroom",medium,
+14,73,22,2015,183,ECR Opp. Fish market,medium,
+14,73,22,2015,184,"OMR, MGR Salai Jn.",medium,
+14,73,22,2015,185,"ECR, Govindan Nagar",medium,
+14,73,22,2015,188,Rajesh Nagar,medium,
+14,73,22,2015,188,Rajaji Nagar,medium,
+14,74,22,2015,188,LIC Nagar,medium,
+14,74,22,2015,188,Madipakkam Bus Stand,medium,
+15,74,22,2015,192,Ellaiamman koil street,medium,
+15,74,22,2015,193,MCN Nagar,medium,
+15,74,22,2015,194,OMR - Mettukuppam (VPG Avenue Junction),high,
+15,74,22,2015,197,Wipro Salai,high,
+15,74,22,2015,192,"Construction of SWD of size 600x750mm along Kumaraguru Avenue , Neelankarai",medium,
+15,74,22,2015,192,"Construction of SWD of size 1200x1200mm along Pandian Salai, Neelankarai",medium,
+15,74,22,2015,192,"Construction of SWD of size 600x750m along Saraswathi Nagar South, Neelankarai",high,
+15,74,22,2015,193,"Construction of SWD of size 900x900mm along Karpaga Vinayagar Koil Street, Vettuvankeni",medium,
+15,74,22,2015,196,"Construction of Stormwater drain along Ist Avenue Main Road, Vettuvankeni",medium,
+15,74,22,2015,197,Lalbahadhur Sasthiri Street,medium,
+1,76,24,2015,3,Annai sivagami nagar 6th street,high,
+1,76,24,2015,4,Thiruveedhiamman koil 5th street,high,
+1,76,24,2015,4,Mettu street,high,
+1,76,24,2015,5,MRF road junction,high,
+1,76,24,2015,5,Jaigopal karodia school,low,
+1,76,24,2015,5,Gandhi nagar (Inside Market),high,
+1,76,24,2015,6,Kalaignar nagar 9th street,high,
+1,76,24,2015,6,Manali express road,high,
+1,76,24,2015,7,Rajaji nagar VOC street,high,
+1,76,24,2015,7,Rajaji nagar sathyamootthy street,high,
+1,76,24,2015,7,Rajaji nagar Kirubananadavariyar street,high,
+1,76,24,2015,7,Rajaji nagar Muthuramalingam street,high,
+1,76,24,2015,7,Kargil nagar pumping station,high,
+1,76,24,2015,10,Nandhiodai,high,
+1,76,24,2015,11,T.H road (Opp. To Zonal office),high,
+1,76,24,2015,12,BKN colony,high,
+1,76,24,2015,13,Varadarajan street (Govt. school),high,
+1,76,24,2015,13,Gandhi nagar (In railway land),high,
+1,76,24,2015,14,T.H road (Rajakadai),high,
+2,76,24,2015,15,Manali New Town 73rd Block,low,
+2,76,24,2015,15,Edayanchavadi,low,
+2,76,24,2015,15,Chinna Eachankuzhi,low,
+2,76,24,2015,16,"Manali New town 84th,89th,90th Block",low,
+2,76,24,2015,16,Manali New town 89th Block,low,
+2,76,24,2015,16,Manali New town 90th Block,low,
+2,76,24,2015,17,Kosappur School,low,
+2,76,24,2015,18,All Street,low,
+2,76,24,2015,19,MMDA 46TH Street,low,
+2,76,24,2015,20,Kamarajar Salai,low,
+2,76,24,2015,21,Jalakandamariamman Koil Street,low,
+3,76,24,2015,22,Vegetarian Village,low,
+3,77,25,2015,24,"Sriram Nagar,",low,
+3,77,25,2015,24,Venkateswara Nagar,low,
+3,77,25,2015,24,Venkatasai Nagar,low,
+3,77,25,2015,24,Vijayalakshmi Nagar,low,
+3,77,25,2015,24,Grace Ngr,low,
+3,77,25,2015,24,Elisabath Ngr,low,
+3,77,25,2015,24,Sathiyamoorthy Ngr,low,
+3,77,25,2015,24,Ganapathy Ngr,low,
+3,77,25,2015,24,Kamarajar Ngr,low,
+3,77,25,2015,24,Krishna Ngr,low,
+3,77,25,2015,24,Purushothaman Ngr,low,
+3,77,25,2015,24,Velumurugan Ngr,low,
+3,77,25,2015,25,"padmavathy nagar GNT ROAD ROUNDANA,",low,
+3,77,25,2015,25,Veeraragavan nagar,low,
+3,77,25,2015,25,Collector Nagar,low,
+3,77,25,2015,25,lakshmi Nagar,low,
+3,77,25,2015,25,INTUC Nagar,low,
+3,77,25,2015,25,Arignar Anna Ng,low,
+3,77,25,2015,26,"1.Ganapathy Siva Nagar, Thirupathy thangavel nagar",low,
+3,77,25,2015,29,thangavel nagar 1.Perumal koil St,low,
+3,77,25,2015,29,Perumal koil StExtension,low,
+3,77,25,2015,29,Kakkan puram cross St,low,
+3,77,25,2015,29,Velu St,low,
+3,77,25,2015,29,Apparaj St,low,
+3,77,25,2015,29,Devarajan 2nd Cross st,low,
+3,77,25,2015,29,Gandhi Cross st,low,
+3,77,25,2015,31,1.Kannapiran kovil st,low,
+3,77,25,2015,31,kalkattashop,low,
+3,77,25,2015,32,NANDHA NAGAR,low,
+3,77,25,2015,32,VENKATESWARA NAGAR,low,
+3,78,25,2015,32,TEACHERS COLONY 4TH MAIN ROAD,low,
+3,78,25,2015,33,ROAD Annapoorna Nagar entire Area(Vacant Land),low,
+3,78,25,2015,33,"Land) Ganapathy thottam,",low,
+3,78,25,2015,33,Prakash Nagar,low,
+3,78,25,2015,33,VIP Ngr,low,
+3,78,25,2015,33,Elisabath Ngr,low,
+4,78,25,2015,34,Thendral Nagar,low,
+4,78,25,2015,35,Muthamil Nagar 202nd Street,low,
+4,78,25,2015,35,Gandhi Nagar,low,
+4,78,25,2015,35,Krishna Salai,low,
+4,78,25,2015,37,Abirami Avenue 14th Street,low,
+4,78,25,2015,37,MKB Nagar 4th Cross Street,low,
+4,78,25,2015,38,Vaithiyanathan Street,low,
+4,78,25,2015,38,Patel Nagar 3rd Street,low,
+4,78,25,2015,38,Nehru Nagar 13th Street,low,
+4,78,25,2015,38,Nethaji Nagar 2nd Street,low,
+4,78,25,2015,40,Thiruvalluvar Nagar,low,
+4,78,25,2015,41,"MGR Nagar 5th, 6th, 7th & 8th Street",low,
+4,78,25,2015,41,Parthasarathy Street,low,
+4,78,25,2015,41,Marimuthu Street,low,
+4,78,25,2015,41,Kasthuribai Street,low,
+4,78,25,2015,44,Kamaraj Street,low,
+4,78,25,2015,44,Palani andavar Koil Street,low,
+4,78,25,2015,45,Annai Sathya Nagar,low,
+4,78,25,2015,45,B.V.Colony 18th Street,low,
+4,78,25,2015,46,Palla 2nd & 3rd Street,low,
+4,78,25,2015,46,E.H Road ( Moorthingar Opp Eswaran Koil ),low,
+4,78,25,2015,46,Koil ) S.M.Nagar Main Road,low,
+4,78,25,2015,47,Meenambal Nagar 5th Street,low,
+5,78,25,2015,53,C.B.Road,low,
+5,78,25,2015,57,Prakasam Salai,low,
+5,78,25,2015,58,Ritherdon road,low,
+6,79,25,2015,64,Siva Sakthi Nagar,low,
+6,79,25,2015,64,Appasamy Street,low,
+6,79,25,2015,65,Ambedkar Nagar 1st Cross Street,low,
+6,79,25,2015,65,Ashok Avenue,low,
+6,79,25,2015,69,Bunder Garden,low,
+6,79,25,2015,72,Decaster Road,low,
+6,79,25,2015,74,Secratriate Colony 4nd Street,low,
+6,79,25,2015,74,Secratriate Colony 6th Street,low,
+6,79,25,2015,77,Elephant gate Road,low,
+7,79,25,2015,79,Manolodai St,low,
+7,79,25,2015,80,"Sabari st, Chital st",low,
+7,79,25,2015,81,OT Bus stand,low,
+7,79,25,2015,,Singapore complex,low,
+7,79,25,2015,82,"Sakthi Nagar, Vital st",high,
+7,79,25,2015,82,"Vanasakthi Nagar,TVS Nagar,Sastha Nagar,",low,
+7,79,25,2015,83,"gar, Iyyappan st",low,
+7,79,25,2015,84,"Kanniamman Koil st,",high,
+7,79,25,2015,84,"Bajanai Koil st, Dass industrial estate",low,
+7,79,25,2015,86,TNHB Phase-III,high,
+7,79,25,2015,86,Rampoorna Nagar,high,
+7,79,25,2015,89,Akshyacolony,low,
+8,79,25,2015,99,H BLOCK 5TH STREET,low,
+8,79,25,2015,105,Razak Garden,low,
+8,79,25,2015,105,INDRA GANDHI STREET,low,
+8,79,25,2015,105,MMDA COLONY H BLOCK,low,
+8,79,25,2015,105,J BLOCK,low,
+9,79,25,2015,110,School Road,low,
+9,79,25,2015,110,Strelling Road,low,
+9,79,25,2015,111,Whites Road,low,
+9,79,25,2015,111,Gopalapuram 1st street,low,
+9,79,25,2015,113,Prakasam Salai,low,
+9,79,25,2015,113,Nungambakkm High Road (Near Park Hotel),low,
+9,80,25,2015,115,Dr.Besant road (Uruthu School),low,
+9,80,25,2015,118,Anna Salai,low,
+9,80,25,2015,119,Avvai Shanmugam Salai 1st lane,low,
+9,80,25,2015,119,Lakshmipuram 2nd Street,low,
+9,80,25,2015,121,Dr.R.K.Salai,low,
+9,80,25,2015,122,Chamiers Road,low,
+10,80,25,2015,127,Kaliamman Koil street Near Market,low,
+10,80,25,2015,136,Bazulla Road,low,
+10,80,25,2015,136,Burkit Road,low,
+10,80,25,2015,127,Kaliamman Koil street,low,
+10,80,25,2015,131,R.K.Shanmugam Salai,low,
+11,80,25,2015,148,"Thangal Karai, Periyar Nagar",low,
+12,80,25,2015,156,PANICHATHAMMAN KOIL,low,
+12,80,25,2015,161,IG OFFICE,low,
+12,80,25,2015,162,KANNAN COLONY,low,
+12,80,25,2015,165,BALAJI NAGAR EXTN.(VACANTLAND to SWD),low,
+13,80,25,2015,174,to SWD) CGHSS - Five furlong road,low,
+13,80,25,2015,174,Radhakrishnan street,low,
+13,80,25,2015,174,Pandiyan street,low,
+13,80,25,2015,174,Velachery main road,low,
+13,80,25,2015,177,Venkateswara nagar III street (Vacant land - 1 & Dhandeeswaram disposal - 1),low,
+13,80,25,2015,177,posal - 1) TNHB III avenue (Vacant land),low,
+13,80,25,2015,179,Park avenue III street,low,
+13,80,25,2015,179,V.G.P Selva nagar IV main road,low,
+13,80,25,2015,180,Kennady street,low,
+13,80,25,2015,180,Anna street,low,
+14,80,25,2015,168,Giri Street,low,
+14,80,25,2015,169,Ram Nager Ist st,low,
+14,80,25,2015,169,Sivasubramaniyam st,low,
+14,80,25,2015,169,Jaya Nagar,low,
+14,81,25,2015,169,Thanthai Periyar School,low,
+14,81,25,2015,169,Manikandan street,low,
+14,81,25,2015,187,New Kuberan Nagar 5th street,low,
+14,81,25,2015,187,New Kuberan Nagar 7th street,low,
+14,81,25,2015,187,Kathikeyapuram 12th street,low,
+14,81,25,2015,188,Arul murugan nagar 1st street,low,
+14,81,25,2015,188,Vishal Nager Main Road,low,
+14,81,25,2015,188,Krishnaveni Ammal Nagar,low,
+14,81,25,2015,188,mahalakshmi nagar,low,
+14,81,25,2015,188,madipakkam bus stand,low,
+14,81,25,2015,188,Govindaswamy Nagar,low,
+14,81,25,2015,188,Arul murugan nagar 4th street,low,
+14,81,25,2015,188,Veeramani Street,low,
+14,81,25,2015,188,Kuberan nagar 14th street,low,
+14,81,25,2015,188,Kuberan nagar 15th street,low,
+14,81,25,2015,189,perumal Nagar,low,
+14,81,25,2015,189,meru Nagar Main road,low,
+14,81,25,2015,189,kamaraj Street,low,
+14,81,25,2015,190,kannan thasan Nagar ( park),low,
+14,81,25,2015,190,nehru Street ( part),low,
+14,81,25,2015,190,Kovalan Nagar 6th street,low,
+14,81,25,2015,190,Rajiv Street ( part),low,
+14,81,25,2015,191,pallavan Street,low,
+14,81,25,2015,191,pallavan Nagar 1 Street ( part),low,
+14,81,25,2015,191,pallavan Nagar 2 Street ( part),low,
+14,81,25,2015,191,pallavan Nagar 3 Street ( part),low,
+14,81,25,2015,191,pallavan Nagar 4 Street ( part),low,
+14,81,25,2015,191,padamavathi nagar main road,low,
+14,81,25,2015,191,Nagathamman kovil st,high,
+14,81,25,2015,191,Indra gandhi street,low,
+14,81,25,2015,191,Rajiv gandhi street,low,
+14,81,25,2015,191,Mani megali Street,low,
+14,81,25,2015,191,Bagavathu Singh Street,low,
+14,81,25,2015,191,Manikkam Street,low,
+14,82,25,2015,191,Nethaji Street,low,
+14,82,25,2015,191,Kovalan Street,low,
+14,82,25,2015,191,Rajeshwari Street,low,
+14,82,25,2015,191,Kannagi Street,low,
+14,82,25,2015,191,Kambar Street,low,
+14,82,25,2015,191,Indhra Street,low,
+14,82,25,2015,191,Kumarakurubarar Street,low,
+14,82,25,2015,191,Rajiv Gandhi Cross Street,low,
+14,82,25,2015,191,Vaithiya Lingam Stret,low,
+14,82,25,2015,191,Pachayappan Koil Street,low,
+15,82,25,2015,192,Kabaleeswarar Nagar 5th cross street,low,
+15,82,25,2015,193,MCN Nagar Extn 3rd Street,low,
+15,82,25,2015,194,Raju Nagar 1st and 2nd Street,low,
+15,82,25,2015,196,Bethel Nagar,low,
+15,82,25,2015,196,ECR-Jn of Gandhi Street,low,
+15,82,25,2015,197,Bajanai Kovil Street TOTAL,low,
+1,84,27,,6,Jothi Nagar,low,
+1,84,27,,7,Rajaji Nagar,low,
+3,84,27,,22,Thirumalai nagar,low,
+3,84,27,,26,Sivaganapathi nagar,low,
+3,84,27,,26,Perimalum nagar,medium,
+7,84,27,,82,Karukku Main Road,low,
+7,84,27,,83,"TVS Nagar East, Balaji Nagar",low,
+7,84,27,,83,"Iyappan Nagar,",low,
+7,84,27,,83,Balaji Nagar,low,
+7,84,27,,91,Jeswanth Nagar,low,
+7,84,27,,92,Vellalar Street,low,
+7,84,27,,93,Padikuppam Main road,low,
+8,84,27,,94,MTH ROAD NEAR VILLIVAKKAM POLICE STATION,low,
+8,84,27,,104,DR ALAGAPPA ROAD,low,
+8,84,27,,104,SUNDARAM LANE,low,
+11,84,27,,147,Nagenthiran Street,low,
+11,84,27,,150,Chettiyaragaram Main Road,low,
+14,84,27,,169,Ram nagar 1st street,low,
+14,84,27,,169,Ram nagar2nd street,low,
+14,84,27,,169,Ram nagar3rd street,low,
+14,84,27,,169,Ram nagar 5th street,low,
+14,84,27,,169,Ram nagar 7th street,low,
+14,84,27,,169,Ram nagar 8th street,low,
+14,84,27,,169,Manikandan street,low,
+14,84,27,,169,Sivasubramaniyam street,low,
+14,84,27,,169,Sivaprakasham 1st street,low,
+14,84,27,,169,Balaji nagar 24th street,low,
+14,85,27,,169,Annai Therasa nagar 7th street,low,
+14,85,27,,169,Annai Therasa nagar 4st street,low,
+14,85,27,,169,Annai Therasa nagar 14th street,low,
+14,85,27,,169,Ramalingam nagar main road,low,
+14,85,27,,169,Jaya nagar,low,
+14,85,27,,183,Division office,low,
+14,85,27,,187,Saraswathi street,low,
+15,85,27,,192,Infront of Maharastra Bank at ECR Road Neelankarai,low,
+15,85,27,,192,"Ellaiyamman Koil 4th Street, Neelankarai",low,
+15,85,27,,193,Mahathma Gandhi 2nd Main Road,low,
+15,85,27,,193,Karpaga Vinayagar Nagar 3rd Street,low,
+15,85,27,,193,Karpaga Vinayagar Nagar4th Street,low,
+15,85,27,,193,Karpaga Vinayagar Nagar 5th Street,low,
+15,85,27,,193,Kasthuribai 10th cross street,low,
+15,85,27,,193,Karpaga Vinayagar Nagar 7th Street,low,
+15,85,27,,194,Balaji Nagar,low,
+15,85,27,,194,Bharathiyar Nagar,low,
+15,85,27,,195,Saraswathi Nagar 4th Cross Street,low,
+15,85,27,,196,ECR Road Pilominal School,low,
+15,85,27,,196,Ramalinga nagar,low,
+15,85,27,,197,Annai Fathima school,low,
+15,85,27,,197,Classic Farm Retreat 1st st,low,
+15,85,27,,198,Ponniyamman koil 5th cross street,low,
+15,85,27,,200,Thiruvalluvar Nagar,low,
+15,85,27,,200,Jawahar nagar 5th.6th cr st,low,
+15,85,27,,200,Nookampalayam link road,low,
+1,87,29,2019,7,"Kargil Nagar, Thiruvotriyur",medium,
+3,87,29,2019,24,Surapet Main Road,medium,
+5,87,29,2019,56,Prakasam Salai,medium,
+5,87,29,2019,58,EVK Sampath Salai,medium,
+6,87,29,2019,69,Paper Mills road,medium,
+7,87,29,2019,83,"North Avenue, TNHB 27th,28th,42th,49th,50th,61st",medium,
+8,87,29,2019,100,"P.H Road, Near Arumbakkam and Near Mosque",medium,
+9,87,29,2019,113,Nungambakkam High (Near Park Hotel),medium,
+9,87,29,2019,117,North Usman Road,medium,
+10,87,29,2019,127,"Jawahar lal nehru, 100 feet road, Koyambedu junction",medium,
+10,87,29,2019,130,"100 Feet road, CMRL , Vadapalani junction",medium,
+11,87,29,2019,152,Arcot road infront of lamech school,medium,
+13,87,29,2019,174,Vellachery Main Road Pheonix Mall Near vijaya nagar junction,medium,
+14,87,29,2019,188,"Ram Nagar 6th, 8th ,9th Street",medium,
+14,87,29,2019,191,Quidamillath Street,medium,
+14,87,29,2019,188,Kuberan Nagar,medium,
+14,87,29,2019,169,Sadasivam Nagar,medium,
+15,87,29,2019,200,Nookkambaalayam link road,medium,
+15,87,29,2019,200,Jawahar Nagar TOTAL,medium,
+1,89,31,2020,7,"Kargil Nagar, Thiruvotriyur",medium,
+4,89,31,2020,42,Kailasam Street.,medium,
+4,89,31,2020,47,"Meenambal Nagar, Kathivakkam High Road.",medium,
+5,89,31,2020,57,"Prakasam Salai,",medium,
+6,89,31,2020,65,"Senthil Nagar 1st Main Road & Selvi Nagar 1 to 5 Street. Periyar Nagar (Kathikeyan Salai), Jaganathan Salai.",medium,
+6,89,31,2020,77,Pulianthope High Road,medium,
+7,89,31,2020,83,"North Avenue, Korattur",medium,
+8,89,31,2020,94,"Baba Nagar, Villivakkam, South Jaganatha Nagar 3rd Main Road.",medium,
+8,89,31,2020,100,"3rd Avenue, Anna Nagar",medium,
+9,89,31,2020,113,Habibullah Road,medium,
+9,89,31,2020,123,R.A Puram 1st Main Road,medium,
+10,89,31,2020,131,Rajammannar Salai & R.K. Shanmugam Salai.,medium,
+10,89,31,2020,136,Bazullah Road,medium,
+11,90,31,2020,143,Gajalakshmi Nagar Main Road & Gajalakshmi Nagar 5th Street,medium,
+11,90,31,2020,150,Arcot Road Northern side ( from Porur Jun to Karambakkam Police Booth),medium,
+12,90,31,2020,162,"Kannan Colony, Vembuli Amman Koil Road, Alandur",medium,
+13,90,31,2020,174,"City Link Road, Five Furlong Road, Cart Track Road, Pillaiyar Koil Street, Nethaji Road.",medium,
+13,90,31,2020,177,Velachery AGS Colony 4th Street & 5th Street,medium,
+13,90,31,2020,180,"MGR Main Road. Periyar Nagar, Tharaman",medium,
+14,90,31,2020,169,Ram Nagar 10th & 11th Street.,medium,
+14,90,31,2020,188,"Mayilai Balaji Nagar (Kuberan Nagar, Ram Nagar South) Pallikaranai.",medium,
+15,90,31,2020,196,Selva Nagar,medium,
+15,90,31,2020,200,"Semmancheri Housing Board Colony, Semmancheri EzhilmugaNagar, Jawahar Nagar. TOTAL",medium,
+1,92,33,,1,K.H Road near Vinayakar Kovil,low,Yes
+1,92,33,,1,K.H.Road,medium,
+1,92,33,,1,S.V M Nagar Burial Ground,medium,
+1,92,33,,2,Valluvar nagar subway,low,Yes
+1,92,33,,2,Kamaraj Nagar 7th Street,low,Yes
+1,92,33,,2,Periyar Kupam Barial Ground,low,Yes
+1,92,33,,2,Nehru Nagar,low,Yes
+1,92,33,,3,Etps Colony,low,Yes
+1,92,33,,4,AD Colony,low,Yes
+1,92,33,,4,Jothi Nagar,low,Yes
+1,92,33,,4,Shanmugapuram 2nd Street,medium,
+1,92,33,,6,Shanmugapuram 12th Cross Street,low,Yes
+1,92,33,,6,Rajashanmugapuram 2nd Street,low,Yes
+1,92,33,,7,Annamalai Nagar,low,Yes
+1,92,33,,7,Ramasamy Nagar,low,Yes
+1,92,33,,11,Kanakar Street,low,Yes
+2,92,33,,15,Ediyan Chavadi,low,Yes
+2,92,33,,16,Jenifer Nagar,medium,
+2,92,33,,17,Saraswathi Nagar,low,Yes
+2,92,33,,19,Bala Subramaniyam Nagar,very_high,
+2,92,33,,20,New MGR Nagar,low,Yes
+2,92,33,,21,Neducheziyan Salai,low,Yes
+3,92,33,,22,Thiruneelakandar 4th St,low,Yes
+3,92,33,,22,Valluvar St,low,Yes
+3,92,33,,22,K.S. Nagar 27th St,low,Yes
+3,92,33,,22,K.S. Nagar 26th St,low,Yes
+3,92,33,,22,K.S. Nagar 2nd St,medium,
+3,92,33,,23,Division Office 23,very_high,
+3,92,33,,23,NSK Street,low,Yes
+3,92,33,,23,Warehouse,low,Yes
+3,92,33,,24,Kamarajar Street,very_high,
+3,92,33,,24,Sriram Nagar,medium,
+3,92,33,,24,Sarathy Nagar,low,Yes
+3,92,33,,24,Venkat Sai nagar 8th street,low,Yes
+3,92,33,,24,Venkat Sai nagar 11 th street,low,Yes
+3,92,33,,25,Mahalakshmi Nagar,low,Yes
+3,93,34,,25,David Jeyarel St,low,Yes
+3,93,34,,25,GNT Road,low,Yes
+3,93,34,,26,Sami Nagar,low,Yes
+3,93,34,,26,Thirumazhai nagar,medium,
+3,93,34,,26,Parimalam nagar,low,Yes
+3,93,34,,26,Thanikachalam 3rd main road,low,Yes
+3,93,34,,26,Ponniamman medu,low,Yes
+3,93,34,,27,Padma nagar,low,Yes
+3,93,34,,28,AVM Nagar,medium,
+3,93,34,,28,Susilammal St,low,Yes
+3,93,34,,28,Rajeshwari Ammal St,low,Yes
+3,93,34,,28,Sasthi nagar,low,Yes
+3,93,34,,28,Padavattamman Koil St,low,Yes
+3,93,34,,28,Ayyavu Garden,low,Yes
+3,93,34,,28,Kumaran street,low,Yes
+3,93,34,,28,Papathi street,low,Yes
+3,93,34,,29,Velu Street,low,Yes
+3,93,34,,29,"Vazhuthigaimedu St.,(near amma unavagam)",low,Yes
+3,93,34,,29,Kannabiran Koil Street,low,Yes
+3,93,34,,29,Devarajan Street,medium,
+3,93,34,,29,Vedagiri street,medium,
+3,93,34,,29,Mahatmagandhi street,low,Yes
+3,93,34,,29,Perumal Koil(gandhi nagar),medium,
+3,93,34,,29,Perumal koil Extn,low,Yes
+3,93,34,,29,Krishna Street,medium,
+3,93,34,,29,Adhiraj Street,medium,
+3,93,34,,30,Masilamani Nagar,low,Yes
+3,93,34,,30,Pandakulam,low,Yes
+3,93,34,,30,VRB nagar,low,Yes
+3,93,34,,30,Roja nagar,low,Yes
+3,93,34,,32,Teacher's Colony 4th street,low,Yes
+3,93,34,,32,Teacher's Colony 5th street,low,Yes
+3,93,34,,32,Teacher's Colony 7th street,low,Yes
+3,93,34,,32,Sarathy Nagar Extn.,low,Yes
+3,93,34,,32,Narmadha Nagar,low,Yes
+3,93,34,,32,Venkateshwara Nagar,low,Yes
+3,93,34,,32,Mookambikai Nagar,low,Yes
+3,93,34,,33,Dr.Abdul kalam Road,low,Yes
+3,93,34,,33,Elizabeth Nagar,low,Yes
+3,93,34,,33,Ganapathy jeeva Thootam,low,Yes
+3,94,34,,33,Cement godown factory,low,Yes
+3,94,34,,33,Kasiammal nagar,low,Yes
+3,94,34,,33,Bharathiyar nagar,low,Yes
+3,94,34,,33,Ramalinga Colony,low,Yes
+3,94,34,,33,Annapurana nagar,low,Yes
+3,94,34,,33,200 ft.road (opp Prasath Hospital),low,Yes
+4,94,34,,34,Durga Avenue 1st Main Road,low,Yes
+4,94,34,,34,Sastri Nagar,low,Yes
+4,94,34,,34,Thendral Nagar 8th Street,low,Yes
+4,94,34,,35,Muthamiz 8th Block 191,low,Yes
+4,94,34,,35,Muthamiz 8th Block 197,medium,
+4,94,34,,35,Muthamiz 8th Block 207,medium,
+4,94,34,,36,Sharma nagar 1st main road,low,Yes
+4,94,34,,38,Nehru 14th St,low,Yes
+4,94,34,,38,New Venba Nagar 3rd St,low,Yes
+4,94,34,,38,Ilaya Mudali Street,low,Yes
+4,94,34,,39,A.E Koil St ( Thiruvalluvar Nagar),low,Yes
+4,94,34,,39,Poondithabgammal Street,low,Yes
+4,94,34,,39,MPT Quarters,low,Yes
+4,94,34,,40,VOC Nagar,medium,
+4,94,34,,40,Thiuruvaluvar Nagar,very_high,
+4,94,34,,40,TP Scheme,medium,
+4,94,34,,40,Madha Koil Street,very_high,
+4,94,34,,40,Jeeva Nagar,very_high,
+4,94,34,,40,Vaidhiyanathan Road,medium,
+4,94,34,,41,"Ennore High Road, MGR Nagar",low,Yes
+4,94,34,,41,MGR Nagar 6th St,low,Yes
+4,94,34,,41,MGR Nagar 7th St,low,Yes
+4,94,34,,41,MGR Nagar 8th St,low,Yes
+4,94,34,,42,Kailasam St,low,Yes
+4,94,34,,42,Jeeva Street,low,Yes
+4,94,34,,42,Veera Kutty Street,low,Yes
+4,94,34,,44,Palaniandavar street,low,Yes
+4,95,34,,44,Manicka vinayagar koil street,low,Yes
+4,95,34,,44,Nattal garden,low,Yes
+4,95,34,,44,Raniammaie st,low,Yes
+4,95,34,,45,Ganesa puram Subway,medium,
+4,95,34,,45,Ganesan Main Road,low,Yes
+4,95,34,,45,Stephenson Road,low,Yes
+4,95,34,,45,Chinna Thambi Street,low,Yes
+4,95,34,,45,Gramiya Street,low,Yes
+4,95,34,,45,Stephenson Lane,low,Yes
+4,95,34,,46,Palla Street,low,Yes
+4,95,34,,46,Ponnappan St,low,Yes
+4,95,34,,46,Balakrishnan St,low,Yes
+4,95,34,,46,Moorthy St,low,Yes
+4,95,34,,47,Thiyagappa street,low,Yes
+4,95,34,,47,Kannan Road,low,Yes
+4,95,34,,47,Sigirintha Palayam,low,Yes
+4,95,34,,47,K.H Road,low,Yes
+4,95,34,,47,Egambaram Street,low,Yes
+4,95,34,,48,Muthaiya Mudali St,low,Yes
+4,95,34,,48,Nanayappan St,low,Yes
+4,95,34,,48,Subbammal St,low,Yes
+4,95,34,,48,Ramanujam St,low,Yes
+4,95,34,,48,Soolaiappan Street,low,Yes
+5,95,34,,49,Kappal polu street,low,Yes
+5,95,34,,49,Dhandavarajan St,medium,
+5,95,34,,49,Venkatachalam street,low,Yes
+5,95,34,,50,S.N.Chetty street,low,Yes
+5,95,34,,51,Ramanjagam St,low,Yes
+5,95,34,,53,Kathbada main road,low,Yes
+5,95,34,,53,Nagappa nagar,low,Yes
+5,95,34,,53,Kannan roundana,low,Yes
+5,95,34,,53,Srinivasapuram,low,Yes
+5,95,34,,53,Bojaraja nagar,low,Yes
+5,95,34,,53,Pensioners lane,low,Yes
+5,95,34,,53,P.P.Amman koil 1st street,low,Yes
+5,95,34,,53,P.P.Amman koil 2nd street,low,Yes
+5,95,34,,53,P.P.Amman koil 3rd street,low,Yes
+5,95,34,,53,P.P.Amman koil 4th street,low,Yes
+5,95,34,,53,P.P.Amman koil 5th street,low,Yes
+5,95,34,,53,P.P.Amman koil 6th street,low,Yes
+5,96,34,,53,P.P.Amman koil 7th street,low,Yes
+5,96,34,,53,P.P.Amman koil 8th street,low,Yes
+5,96,34,,53,Ramdoss nagar,low,Yes
+5,96,34,,53,Kathivakkam high road,low,Yes
+5,96,34,,53,N.N.Nagar 6th street,low,Yes
+5,96,34,,53,New Labour Lane,low,Yes
+5,96,34,,53,Kadpada St,low,Yes
+5,96,34,,53,Stanley 6th Street,low,Yes
+5,96,34,,55,Prakasam Salai,low,Yes
+5,96,34,,57,Raman road,low,Yes
+5,96,34,,57,Adhiyappa street,low,Yes
+5,96,34,,58,Veppery high road,low,Yes
+5,96,34,,58,Alagappa road,low,Yes
+5,96,34,,58,Jothi venkatachalam street,low,Yes
+5,96,34,,58,General colins road,low,Yes
+5,96,34,,58,Vetinary hospital,low,Yes
+5,96,34,,59,Wallaja road,low,Yes
+5,96,34,,59,Ellis road,low,Yes
+5,96,34,,60,Sembu Doss Street,low,Yes
+5,96,34,,60,Moor Street,low,Yes
+5,96,34,,60,Thacker Street,low,Yes
+5,96,34,,61,Egmore Musium,low,Yes
+5,96,34,,61,Ayya swamy street,low,Yes
+5,96,34,,61,Velyutham street,low,Yes
+5,96,34,,61,Thiruvenkadam street,low,Yes
+5,96,34,,61,Gengu reddy street,low,Yes
+5,96,34,,61,Arumuthu garden,low,Yes
+5,96,34,,61,Thambu reddy street,low,Yes
+5,96,34,,62,Pumping station road,low,Yes
+5,96,34,,63,Pillayar Kovil St,low,Yes
+5,96,34,,63,Velayutham street,low,Yes
+5,96,34,,63,Chella Pillaiyar Koil St,low,Yes
+5,96,34,,63,Goyathoppu,low,Yes
+5,96,34,,63,Adhithanar salai,low,Yes
+5,96,34,,63,Cattle depot,low,Yes
+5,96,34,,63,Narayana naicken street,low,Yes
+6,96,34,,64,Perumdeviammal,low,Yes
+6,96,34,,64,Ashoka Avenue,low,Yes
+6,96,34,,64,Sivasakthi Nagar,low,Yes
+6,96,34,,66,Jawahar nagar 1st main road,medium,
+6,97,34,,66,Kumaran Nagar 4th street,medium,
+6,97,34,,66,Jawahara Nagar 70 feet road,medium,
+6,97,34,,66,70 feet Road,medium,
+6,97,34,,66,SRP Colony 8th street,low,Yes
+6,97,34,,66,SRP Colony 7th street,low,Yes
+6,97,34,,66,SRP Colony 11th street,low,Yes
+6,97,34,,67,GKM way street 70 feet road,low,Yes
+6,97,34,,65,Kasturi Bai Chetty 5th street,medium,
+6,97,34,,76,Angalamman Koil,medium,
+6,97,34,,78,Astapujam Road,medium,
+7,97,34,,80,Backthavachalm Street,medium,
+7,97,34,,80,Prakasam Salai,medium,
+7,97,34,,82,VOC Street,low,Yes
+7,97,34,,82,Patravakkam service road,low,Yes
+7,97,34,,82,TNEB Colony 3rd Street,low,Yes
+7,97,34,,83,NRS Road,low,Yes
+7,97,34,,86,Manurpet,low,Yes
+7,97,34,,86,Indra Street,medium,
+7,97,34,,86,Ethiraj street,medium,
+7,97,34,,90,Golden Jubliee flats,medium,
+8,97,34,,94,North Mada Street,low,Yes
+8,97,34,,94,Sidco Nagar 4th Main Road,low,Yes
+8,97,34,,94,Baba Nagar,medium,
+8,97,34,,94,North Jaganathan Nagar,medium,
+8,97,34,,94,Valliammal Nagar,medium,
+8,97,34,,95,Moorthy Nagar,low,Yes
+8,97,34,,95,Thirumalai Nagar North,low,Yes
+8,97,34,,95,Thirumalai Nagar South,low,Yes
+8,97,34,,95,Thirumalai Nagar East,low,Yes
+8,97,34,,98,V.P Colony,low,Yes
+8,97,34,,98,Parthasarathy Street,low,Yes
+8,97,34,,96,Duraiswamy Street,low,Yes
+8,97,34,,96,Gandhi Nagar,low,Yes
+8,97,34,,97,Chakravathi nagar,low,Yes
+8,97,34,,97,Muthuamman nagar,low,Yes
+8,97,34,,97,Periyar Salai,low,Yes
+8,97,34,,97,P.E Koil North Mada street,low,Yes
+8,97,34,,100,Radha Krishnan Nagar,low,Yes
+8,97,34,,101,BoganVilla Park Inside,low,Yes
+8,97,34,,102,G Block 10th Street,low,Yes
+8,98,34,,102,RV Nagar 4th Street,low,Yes
+8,98,34,,102,D Block 8th Street,low,Yes
+8,98,34,,102,Shenoy Nagar 4th Cross street,low,Yes
+8,98,34,,104,Thideer Nagar,low,Yes
+8,98,34,,105,Indira Gandhi street,medium,
+8,98,34,,105,Water tank road,medium,
+8,98,34,,105,Ashoka Street,low,Yes
+8,98,34,,107,Gurusamy Bridge,low,Yes
+8,98,34,,107,MMC School,low,Yes
+8,98,34,,108,Periyar pathai,low,Yes
+8,98,34,,108,Annaswamy Street,low,Yes
+8,98,34,,108,NGO Colony,low,Yes
+8,98,34,,108,Vinobaji Street,low,Yes
+9,98,34,,110,School Road,low,Yes
+9,98,34,,110,Kamdar Nagar 1st Street,low,Yes
+9,98,34,,110,40 Feet Scheme Road,low,Yes
+9,98,34,,111,Gopalapuram Play Ground,low,Yes
+9,98,34,,112,Vellalar Street,low,Yes
+9,98,34,,112,Sivan Koil Cross Street,low,Yes
+9,98,34,,113,Habibullah Road,low,Yes
+9,98,34,,113,Sarathy Street,low,Yes
+9,98,34,,113,North Ushman Road,low,Yes
+9,98,34,,113,Sivasailam Street,low,Yes
+9,98,34,,114,Lock Nagar,low,Yes
+9,98,34,,116,Beach Service Road,low,Yes
+9,98,34,,116,Dr.Besant Road,low,Yes
+9,98,34,,117,Dr.Sadasivam Road,low,Yes
+9,98,34,,117,Arulambal Street,low,Yes
+9,98,34,,117,Thilak Street,low,Yes
+9,98,34,,117,Thilak Street Extn,low,Yes
+9,98,34,,117,Rajan Street,medium,
+9,98,34,,117,Sarangabani Street,low,Yes
+9,98,34,,117,Thirumoorthi Street,low,Yes
+9,98,34,,117,Lakshmi Colony,low,Yes
+9,98,34,,117,Giri Road,low,Yes
+9,98,34,,117,Giriappa Road,low,Yes
+9,98,34,,117,Dr.Thomas Road,low,Yes
+9,98,34,,117,G.N Chetty Road,very_high,
+9,98,34,,117,Sarathy Street,low,Yes
+9,98,34,,117,Sivasilam Street,low,Yes
+9,99,34,,117,Valmiki Street,low,Yes
+9,99,34,,118,Venkat Rathinam Salai,low,Yes
+9,99,34,,118,Kasthuri Estate 2nd Street,low,Yes
+9,99,34,,119,Saiva Muthai 6th Street,low,Yes
+9,99,34,,120,Dr.Natesan Road,low,Yes
+9,99,34,,121,Marina Service Road,low,Yes
+9,99,34,,121,Ganesapuram Rettai Kozhai,low,Yes
+9,99,34,,121,Avvai Shanmugam Salai,low,Yes
+9,99,34,,122,K.B Dasan Road,low,Yes
+9,99,34,,122,Seethammal Colony 4th Cross Street,medium,
+9,99,34,,122,Seethammal Colony 3rd Cross Street,medium,
+9,99,34,,122,Crescent Street,low,Yes
+9,99,34,,122,Ganesapuram,medium,
+9,99,34,,123,Seethammal Colony,medium,
+9,99,34,,123,CP Ramasamy Road,low,Yes
+9,99,34,,122,Chamiers Road,low,Yes
+9,99,34,,123,Thiruvalluvar Street,low,Yes
+9,99,34,,123,Ramalinga Eswarar Koil,low,Yes
+9,99,34,,123,Nageswarao Park,low,Yes
+9,99,34,,123,Rangan Lane,low,Yes
+9,99,34,,124,VC Garden 1st Street,low,Yes
+9,99,34,,124,VC Garden 2nd Street,medium,
+9,99,34,,124,Rakkiyappa Street,low,Yes
+9,99,34,,126,Devanathan Street,low,Yes
+9,99,34,,126,Srinivasan Street,low,Yes
+9,99,34,,126,Chockalingam Street,low,Yes
+9,99,34,,126,Thiruvengadam Street,low,Yes
+9,99,34,,126,Vinayagam Street,low,Yes
+9,99,34,,126,Chandrasekaran Street,low,Yes
+9,99,34,,126,Sivaraman Street,low,Yes
+9,99,34,,126,Pattammal Street,low,Yes
+10,99,34,,128,Krishna Nagar 3rd Street,medium,
+10,99,34,,128,Saratha Nagar,medium,
+10,99,34,,128,Lambert Nagar,low,Yes
+10,99,34,,128,Annai sathya Nagar,low,Yes
+10,99,34,,128,Vembuki amman koil st,very_high,
+10,99,34,,128,Pillayar koil st,low,Yes
+10,99,34,,128,East Vaniyar St.,low,Yes
+10,100,34,,128,Tharachand Nagar,low,Yes
+10,100,34,,131,Ramaswamy Salai,medium,
+10,100,34,,131,Raja Mannar Salai,medium,
+10,100,34,,134,Parankusampuram,low,Yes
+10,100,34,,133,Subramaniyam Street,low,Yes
+10,100,34,,132,18th Avenue,low,Yes
+10,100,34,,132,16th Avenue,low,Yes
+10,100,34,,132,19th Avenue,low,Yes
+10,100,34,,132,47th Avenue,low,Yes
+10,100,34,,132,48th Avenue,low,Yes
+10,100,34,,132,9th Avenue,low,Yes
+10,100,34,,132,Kamaraj Salai,low,Yes
+10,100,34,,132,Natesan Salai,low,Yes
+10,100,34,,132,Kannappar Salai,low,Yes
+10,100,34,,135,Postal Colony 4th Street,low,Yes
+10,100,34,,135,Mahadevan Street,low,Yes
+10,100,34,,135,Murthy Street,low,Yes
+10,100,34,,135,Brindavan Street,low,Yes
+10,100,34,,135,Rajaji Street,low,Yes
+10,100,34,,135,Lake view road,low,Yes
+10,100,34,,135,Thambaih Road,low,Yes
+10,100,34,,135,Ramakrishna Puram,low,Yes
+10,100,34,,135,Lakshmi Street,low,Yes
+10,100,34,,135,Babu Rajendra Prasath Road,low,Yes
+10,100,34,,135,Postal Colony 2nd Street,low,Yes
+10,100,34,,136,Bazullah Road,low,Yes
+10,100,34,,138,K.K.Nagar ESI Hospital,low,Yes
+10,100,34,,139,Ragava Reddy Colony 4th St & 1st Cross St Junction,low,Yes
+10,100,34,,141,Kamaraj Colony,low,Yes
+10,100,34,,141,South Dhadabai St,low,Yes
+11,100,34,,143,Goodwil Road Govt School,low,Yes
+11,100,34,,143,Pada Salai,low,Yes
+11,100,34,,143,Phase 1 Nagar 13th Cross street,low,Yes
+11,100,34,,143,Gajalakshmi nagar 3rd street,low,Yes
+11,100,34,,144,P.H. Road,low,Yes
+11,100,34,,144,Bharathiyar Street,low,Yes
+11,100,34,,144,T.N.H.B Sector II,low,Yes
+11,100,34,,147,Alapakkam Main Road Near Burial Ground,low,Yes
+11,101,34,,147,Ganesh Nagar,low,Yes
+11,101,34,,147,Valli street,low,Yes
+11,101,34,,147,Chokkanathan Nagar,low,Yes
+11,101,34,,148,Kamarajar High Road Thangalkarai,low,Yes
+11,101,34,,148,Anbu Nagar 10th street,low,Yes
+11,101,34,,149,Saravanabhavan Nagar,low,Yes
+11,101,34,,152,Thiruvalluvar Salai,medium,
+11,101,34,,152,S.V.S Annex,low,Yes
+11,101,34,,152,Kadambadi Amman Koil st,low,Yes
+11,101,34,,150,Arcot Road (Mahalakshmi Nagar),low,Yes
+11,101,34,,151,Arcot Road Near A1 Mutton Stall,low,Yes
+11,101,34,,151,Chenna Porur Bajanai kovil street,low,Yes
+11,101,34,,153,Ambal Nagar Mullai Street,low,Yes
+11,101,34,,154,Kurinji Nagr,low,Yes
+11,101,34,,155,Karpagambal 2nd Street,low,Yes
+11,101,34,,155,Thirumalai Nagar Angel Street,low,Yes
+11,101,34,,155,Royal Nagar I main Road,low,Yes
+11,101,34,,155,Royal Nagar II main Road,low,Yes
+11,101,34,,155,Tamil Nagar,low,Yes
+12,101,34,,156,MCS Nagar,low,Yes
+12,101,34,,156,Santhosh Nagar Extn.,low,Yes
+12,101,34,,156,Kaveri Street,low,Yes
+12,101,34,,156,Gowri street,low,Yes
+12,101,34,,156,VGN Lakshimi Nagar Main Road,low,Yes
+12,101,34,,156,AGR Garden,low,Yes
+12,101,34,,156,Thiruvalluvar Nagar,low,Yes
+12,101,34,,156,Arumugam Street,low,Yes
+12,101,34,,156,VGN Royal Court,medium,
+12,101,34,,157,Dharmarajapuram,low,Yes
+12,101,34,,160,Lawyer Jaganadhan street,low,Yes
+12,101,34,,160,"Madhvapuram(East,West,Sout h,North)",low,Yes
+12,101,34,,161,Sanjay Gandhi Nagar,low,Yes
+12,101,34,,161,Jeevan Nagar 2nd Street,low,Yes
+12,101,34,,162,Kannan Colony,low,Yes
+12,101,34,,163,shanthi nagar 5th street,low,Yes
+12,102,34,,163,shanthi nagar 7th street,low,Yes
+12,102,34,,164,Nanganallur 21st street,low,Yes
+12,102,34,,165,Bharathidasan Nagar,low,Yes
+12,102,34,,165,Vallalar Street,low,Yes
+12,102,34,,167,East main road,low,Yes
+13,102,34,,170,Samy nathan Street,low,Yes
+13,102,34,,170,Dhanakotti Street,low,Yes
+13,102,34,,171,Gandhi mandapam Road,low,Yes
+13,102,34,,171,Sardar Patel Road,low,Yes
+13,102,34,,173,Srinivasapuram,low,Yes
+13,102,34,,173,Dharmampal Park,low,Yes
+13,102,34,,174,Cart Track Road,low,Yes
+13,102,34,,174,Ranganathan Street,low,Yes
+13,102,34,,174,Five Furlong road,low,Yes
+13,102,34,,175,Dhanalakshmi Avenue,low,Yes
+13,102,34,,175,Nehru Nagar 1st main road,low,Yes
+13,102,34,,175,Anna Avenue,low,Yes
+13,102,34,,175,KB Nagar 3rd Cross street jn of 2nd main road,low,Yes
+13,102,34,,175,KB Nagar 3rd main Road,low,Yes
+13,102,34,,175,Dr Muthulakshmi Salai,low,Yes
+13,102,34,,176,Parameshwari nagar 2nd Street,low,Yes
+13,102,34,,176,Sastri Nagar 1st Avenue,low,Yes
+13,102,34,,176,Karpagam Garden 1st link road,low,Yes
+13,102,34,,176,Karpagam Garden 2nd link road,low,Yes
+13,102,34,,177,Lakshmi Nagar 3rd Cross St,very_high,
+13,102,34,,177,Srinagar Colony,low,Yes
+13,102,34,,177,Brindhavan nagar 3rd Extn,low,Yes
+13,102,34,,177,TNHB 3rd Avenue,low,Yes
+13,102,34,,177,Nethaji Road,low,Yes
+13,102,34,,177,Ambedkar nagar,low,Yes
+13,102,34,,177,AGS Colony,low,Yes
+13,102,34,,177,Bhashiyam Layout,low,Yes
+13,102,34,,177,Venkateshwara Nagar 2nd cross street,low,Yes
+13,102,34,,178,Kalki Nagar,very_high,
+13,102,34,,178,Srinivasapuram,medium,
+13,102,34,,178,ACS Colony,medium,
+13,102,34,,178,Orandiamman Avenue,very_high,
+13,103,34,,179,Dhandeeshwaram 7th main road,low,Yes
+13,103,34,,179,Udayam Nagar,low,Yes
+13,103,34,,180,Anjukammal street,very_high,
+13,103,34,,180,Ramasamy Street,very_high,
+13,103,34,,180,Kennedy Street,very_high,
+13,103,34,,180,Raniammal Street,very_high,
+13,103,34,,181,Arundal Beach,low,Yes
+13,103,34,,181,Kalachetra main road,low,Yes
+13,103,34,,181,Valmiki Street,low,Yes
+13,103,34,,181,East Kamarajar 2nd St,low,Yes
+13,103,34,,181,East Kamarajar 3rd St,low,Yes
+13,103,34,,181,Dr.Radhakrishinan road,low,Yes
+13,103,34,,182,Kannapper Nagar,low,Yes
+13,103,34,,182,Kamarajar Nagar,low,Yes
+13,103,34,,182,Journalist Colony,low,Yes
+13,103,34,,182,Ganesh Nagar,low,Yes
+14,103,34,,168,Epr Nagar,low,Yes
+14,103,34,,168,Thilagar street,low,Yes
+14,103,34,,168,Lakshmi Nagar 5th Street,low,Yes
+14,103,34,,168,Sai ram street,low,Yes
+14,103,34,,169,Ram nagar 1st to 8th Street,medium,
+14,103,34,,169,Ram nagar 11th street,low,Yes
+14,103,34,,169,Maheshwari Avenue,low,Yes
+14,103,34,,169,Jaya Nagar,low,Yes
+14,103,34,,169,Sundarrajan Salai,low,Yes
+14,103,34,,169,Arivoli street,low,Yes
+14,103,34,,169,Sivasubramaniyam Salai,low,Yes
+14,103,34,,169,Annaitheresa Nagar,low,Yes
+14,103,34,,169,Vallal Athiyaman Street,low,Yes
+14,103,34,,169,Vallal Kari Street,low,Yes
+14,103,34,,169,Vallal Pari Street,low,Yes
+14,103,34,,169,J K Salai,low,Yes
+14,103,34,,169,Brindhavan Salai,low,Yes
+14,103,34,,169,Sadhasivam Nagar,low,Yes
+14,103,34,,169,Thirunana Sambandhar Street,low,Yes
+14,103,34,,169,Sivaprakasam nagar,low,Yes
+14,103,34,,183,Lakshmana Perumal 4th street,very_high,
+14,103,34,,183,Lakshmana Perumal 5th street,very_high,
+14,103,34,,183,Judges colony,low,Yes
+14,103,34,,183,Baywatch road,medium,
+14,104,34,,183,"Nehru nagar 10th, 12th & 14th Street",low,Yes
+14,104,34,,183,Jaganathan Street,very_high,
+14,104,34,,183,Kaveri Nagar 5th Street,low,Yes
+14,104,34,,183,Kaveri Nagar 6th Street,low,Yes
+14,104,34,,183,Kaveri Nagar Main Road,low,Yes
+14,104,34,,184,Ramappa nagar,low,Yes
+14,104,34,,184,Telephone nagar 11th street,low,Yes
+14,104,34,,185,Jayshankar Nagar,low,Yes
+14,104,34,,185,Kandasamy Nagar 4th St,low,Yes
+14,104,34,,185,Govindhan Nagar,low,Yes
+14,104,34,,185,Palkalai Nagar,low,Yes
+14,104,34,,185,Mayana Salai,low,Yes
+14,104,34,,185,VGP 2nd cross street,low,Yes
+14,104,34,,185,Boss Avenue,low,Yes
+14,104,34,,185,Kandhasamy Nagar 7th street,low,Yes
+14,104,34,,185,Anna Salai 2nd cross street,low,Yes
+14,104,34,,186,Senthil Nagar,low,Yes
+14,104,34,,186,Rathna mani nagar,low,Yes
+14,104,34,,186,Kamaraj nagar,low,Yes
+14,104,34,,186,Kumaran Nagar,low,Yes
+14,104,34,,186,Maruthi Nagar Main Road,low,Yes
+14,104,34,,187,Karthikeyapuram 12th street,low,Yes
+14,104,34,,187,Karthikeyapuram 7th street,low,Yes
+14,104,34,,188,Anna Nagar west 7th street,low,Yes
+14,104,34,,188,Anna Nagar west 8th street,low,Yes
+14,104,34,,188,Thirumurugan street,low,Yes
+14,104,34,,188,Ram nagar 6th main road,low,Yes
+14,104,34,,188,Ram nagar 5th & 7th Street,low,Yes
+14,104,34,,188,Arumugam Nagar,low,Yes
+14,104,34,,188,Kuberan Nagar 8th & 9th Street,medium,
+14,104,34,,188,Kuberan Nagar 11th Street,medium,
+14,104,34,,188,Kamarajar Street,low,Yes
+14,104,34,,188,Krishnaveni Ammal Nagar,low,Yes
+14,104,34,,188,Sadhasivam Nagar 3rd Main Road,low,Yes
+14,104,34,,188,Sadhasivam Nagar 3rd Cross Street,low,Yes
+14,104,34,,188,Mahalakshmi nagar main road,low,Yes
+14,104,34,,188,Mylai kabaleeswarar nagar 2nd street,low,Yes
+14,105,34,,188,Veeramani street,low,Yes
+14,105,34,,188,Perumal Street,low,Yes
+14,105,34,,189,Sathyamurthy Colony,low,Yes
+14,105,34,,189,Meenachipuram 1st street,low,Yes
+14,105,34,,189,Vimala Nagar,low,Yes
+14,105,34,,189,Varadharajan Nagar,low,Yes
+14,105,34,,189,Sengazhani amman koil street,medium,
+14,105,34,,190,Chettinadu Enclave,medium,
+14,105,34,,190,Chittibabu 4th Cross Street,low,Yes
+14,105,34,,190,Chittibabu 8th Cross Street,low,Yes
+14,105,34,,190,Veerasamy Nagar,low,Yes
+14,105,34,,190,Sree Nagar,low,Yes
+14,105,34,,190,Pasumpon Nagar,low,Yes
+14,105,34,,190,Pandiyan Nagar,low,Yes
+14,105,34,,190,Sai Balaji Nagar,low,Yes
+14,105,34,,191,Jaladan Pettai 3rd main road,low,Yes
+14,105,34,,191,Jayachandran nagar 3rd main road,low,Yes
+14,105,34,,191,Jaganathapuram main road,low,Yes
+15,105,34,,192,CLRI 3rd Cross street,medium,
+15,105,34,,192,CLRI 2nd Main road,low,Yes
+15,105,34,,192,Ruby complex,low,Yes
+15,105,34,,192,Kabaleeshwarar Nagar 5th Cross street,low,Yes
+15,105,34,,192,Chinna Neelangarai Kuppam,low,Yes
+15,105,34,,192,Madha Kovil street,low,Yes
+15,105,34,,193,MCN Nagar,low,Yes
+15,105,34,,193,Sri Sai Nagar,low,Yes
+15,105,34,,193,Ellaimman Nagar,low,Yes
+15,105,34,,194,Raju Nagar 1st Street,low,Yes
+15,105,34,,194,Raju Nagar 2nd Street,low,Yes
+15,105,34,,194,Srividhya Avenue,low,Yes
+15,105,34,,194,Eswaran Street,low,Yes
+15,105,34,,195,Kannagi Nagar 19th Cross street,low,Yes
+15,105,34,,196,Barathi Avenue,low,Yes
+15,105,34,,196,Ashok Street Bharat Avenue,low,Yes
+15,105,34,,196,Royal Enclave,low,Yes
+15,105,34,,196,Anna Eclave,low,Yes
+15,105,34,,196,"Vettuvankeni 2nd Avenue, 2nd Main Road",low,Yes
+15,106,34,,196,ISCKON Temple,low,Yes
+15,106,34,,196,Hanuman Colony,low,Yes
+15,106,34,,196,Raja Nagar 1st Cross Street,low,Yes
+15,106,34,,196,Royal Enclave Extension,low,Yes
+15,106,34,,196,"Vettuvankeni 2nd Avenue, 7th street",low,Yes
+15,106,34,,197,Ganesh Nagar,low,Yes
+15,106,34,,197,Annai Fathima Child Welfare,low,Yes
+15,106,34,,197,Karapakkam Service Road,low,Yes
+15,106,34,,197,DevaraJ Nagar,low,Yes
+15,106,34,,198,Semmozhi Nagar,medium,
+15,106,34,,198,Copper Beach,low,Yes
+15,106,34,,198,Village High Road,low,Yes
+15,106,34,,198,Sea Cliff High Road,medium,
+15,106,34,,198,Seashell Avenue,medium,
+15,106,34,,199,MG Jeevarathinam Street,low,Yes
+15,106,34,,199,Mazhavarayar Street,low,Yes
+15,106,34,,199,Neelathirai Street,low,Yes
+15,106,34,,199,Rajaji Street,low,Yes
+15,106,34,,199,vallalar Street,low,Yes
+15,106,34,,199,Karlmark Street,low,Yes
+15,106,34,,199,Juhu Beach Road,low,Yes
+15,106,34,,199,Gangai Amman Colony,low,Yes
+15,106,34,,199,MGR St,low,Yes
+15,106,34,,199,"VGP 1st, 2nd, 3rd Main Road",low,Yes
+15,106,34,,199,D.P. Rajan Road,low,Yes
+15,106,34,,199,VGP Gandhi Street,low,Yes
+15,106,34,,199,Nainar Kuppam,low,Yes
+15,106,34,,200,Ezhil Mugha Nagar,low,Yes
+15,106,34,,200,Jawahar Nagar,low,Yes
+15,106,34,,200,"Nookamplalayam Link Road, TSUNAMI Nagar",low,Yes
+1,108,36,,4,Jothi nagar 10th Street,medium,Yes
+7,108,36,,80,Vairakulam street,medium,Yes
+7,108,36,,80,Thirumalai priya nagar 16th street,medium,Yes
+7,108,36,,83,street Highways nagar,medium,Yes
+7,108,36,,83,Ganesh Nagar,medium,Yes
+7,108,36,,84,North Avenue Road,medium,Yes
+7,108,36,,84,TNHB 61st Street,medium,Yes
+7,108,36,,84,Periyar Nagar,medium,Yes
+7,108,36,,84,Central Avenue Road,medium,Yes
+7,108,36,,84,TNHB 26st Street,medium,Yes
+7,108,36,,84,Bajanaikovil Street Pattaravakkam,medium,Yes
+7,108,36,,84,kam Duraisam street,medium,Yes
+7,108,36,,85,Pattravakkam Road,medium,Yes
+7,108,36,,88,Kurinji Street,medium,Yes
+7,108,36,,90,"Chennai Flats, Padikuppam Road",medium,Yes
+8,108,36,,94,Road North Jeganathan Nagar,medium,Yes
+8,108,36,,94,North Jeganathan Nagar Annex,medium,Yes
+8,108,36,,97,Bharathi Nagar,medium,Yes
+8,108,36,,98,V P Colony,medium,Yes
+8,108,36,,98,Police Manickkam Street,medium,Yes
+8,108,36,,98,Parthasarthy Street,medium,Yes
+15,108,36,,194,Royal Enclave,medium,Yes
+15,109,37,,194,Classic Enclave,low,Yes
+2,109,37,,19,"Kamarajar Nagar, Chinnasamy Nagar",low,Yes
+7,109,37,,82,KAILASAM STREET,low,Yes
+7,109,37,,82,BALAVINAYAGAR STREET,low,Yes
+8,109,37,,97,Periyar Salai,low,Yes
+8,109,37,,97,Battachari Street,low,Yes
+2,109,37,,15,Edayanchavadi 1st cross street,medium,
+2,109,37,,18,Kalaignar Nagar,medium,
+2,109,37,,18,Harikrishnapuram Amman Nagar,medium,
+2,109,37,,19,Kavithendral Kalyana Sundaram Nagar (Vacant Land),medium,
+6,109,37,,65,Sivasakthi nagar,medium,
+6,109,37,,73,Stephenson Road,medium,
+7,109,37,,82,PILLAIYAR KOIL 1ST STREET,medium,
+8,109,37,,97,Muthamman Nagar,medium,
+2,109,37,,19,Balasubramani Nagar,,
